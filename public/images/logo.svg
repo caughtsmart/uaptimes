@@ -1,0 +1,82 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 620 150" role="img" aria-label="UAP Times">
+  <title>UAP Times</title>
+  <defs>
+    <radialGradient id="uapGlow" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#4ade9c" stop-opacity="0.55"/>
+      <stop offset="60%" stop-color="#4ade9c" stop-opacity="0.12"/>
+      <stop offset="100%" stop-color="#4ade9c" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="uapSweep" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#4ade9c" stop-opacity="0.45"/>
+      <stop offset="100%" stop-color="#4ade9c" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="uapDisc" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#7ff0b8"/>
+      <stop offset="100%" stop-color="#2fa974"/>
+    </linearGradient>
+    <linearGradient id="uapDome" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#ffffff"/>
+      <stop offset="100%" stop-color="#c7cedb"/>
+    </linearGradient>
+  </defs>
+
+  <!-- ================= Emblem ================= -->
+  <g>
+    <!-- soft glow -->
+    <circle cx="82" cy="76" r="60" fill="url(#uapGlow)"/>
+
+    <!-- radar rings -->
+    <g fill="none" stroke="#4ade9c">
+      <circle cx="82" cy="76" r="64" stroke-opacity="0.20"/>
+      <circle cx="82" cy="76" r="46" stroke-opacity="0.28"/>
+      <circle cx="82" cy="76" r="28" stroke-opacity="0.34"/>
+    </g>
+
+    <!-- crosshair -->
+    <g stroke="#4ade9c" stroke-opacity="0.14" stroke-width="1">
+      <line x1="82" y1="10" x2="82" y2="142"/>
+      <line x1="16" y1="76" x2="148" y2="76"/>
+    </g>
+
+    <!-- radar sweep wedge -->
+    <path d="M82 76 L82 12 A64 64 0 0 1 138 44 Z" fill="url(#uapSweep)"/>
+
+    <!-- starfield -->
+    <g fill="#e6e9f0">
+      <circle cx="40" cy="32" r="1.5" opacity="0.9"/>
+      <circle cx="124" cy="30" r="1.1" opacity="0.7"/>
+      <circle cx="132" cy="104" r="1.4" opacity="0.8"/>
+      <circle cx="44" cy="118" r="1" opacity="0.6"/>
+      <circle cx="26" cy="88" r="1.2" opacity="0.7"/>
+    </g>
+    <g fill="#4ade9c">
+      <circle cx="118" cy="66" r="1.3" opacity="0.9"/>
+      <circle cx="54" cy="54" r="1" opacity="0.7"/>
+    </g>
+
+    <!-- craft beam -->
+    <path d="M66 84 L98 84 L112 120 L52 120 Z" fill="#4ade9c" opacity="0.10"/>
+
+    <!-- saucer -->
+    <ellipse cx="82" cy="88" rx="20" ry="3.4" fill="#4ade9c" opacity="0.5"/>
+    <ellipse cx="82" cy="82" rx="30" ry="8.4" fill="url(#uapDisc)"/>
+    <ellipse cx="82" cy="79" rx="30" ry="6" fill="#0a0d14" opacity="0.18"/>
+    <ellipse cx="82" cy="74" rx="15" ry="9.5" fill="url(#uapDome)"/>
+    <path d="M67 74 a15 9.5 0 0 1 30 0" fill="none" stroke="#4ade9c" stroke-opacity="0.55" stroke-width="1"/>
+    <!-- windows -->
+    <g fill="#0a0d14">
+      <circle cx="70" cy="82.5" r="1.7"/>
+      <circle cx="82" cy="83.4" r="1.7"/>
+      <circle cx="94" cy="82.5" r="1.7"/>
+    </g>
+  </g>
+
+  <!-- ================= Wordmark ================= -->
+  <g font-family="Georgia, 'Times New Roman', 'Times', serif" font-weight="700">
+    <text x="176" y="90" font-size="52" letter-spacing="1.5">
+      <tspan fill="#4ade9c">UAP</tspan><tspan fill="#e6e9f0" dx="14">TIMES</tspan>
+    </text>
+    <line x1="178" y1="106" x2="592" y2="106" stroke="#232c3d" stroke-width="1"/>
+    <text x="179" y="124" font-family="ui-sans-serif, system-ui, -apple-system, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-weight="600" font-size="12.5" letter-spacing="4.2" fill="#9aa4b8">FILED FROM THE EDGE OF THE KNOWN</text>
+  </g>
+</svg>

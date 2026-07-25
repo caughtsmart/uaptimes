@@ -1,11 +1,26 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32">
+  <defs>
+    <linearGradient id="fdisc" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#7ff0b8"/>
+      <stop offset="100%" stop-color="#2fa974"/>
+    </linearGradient>
+    <linearGradient id="fdome" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#ffffff"/>
+      <stop offset="100%" stop-color="#c7cedb"/>
+    </linearGradient>
+  </defs>
   <rect width="32" height="32" rx="7" fill="#0a0d14"/>
-  <ellipse cx="16" cy="19" rx="10" ry="3.4" fill="#4ade9c"/>
-  <ellipse cx="16" cy="16.5" rx="6" ry="4.2" fill="#e6e9f0"/>
-  <circle cx="16" cy="8" r="2.2" fill="#4ade9c">
+  <circle cx="16" cy="17" r="12.5" fill="none" stroke="#4ade9c" stroke-opacity="0.22"/>
+  <circle cx="16" cy="17" r="8" fill="none" stroke="#4ade9c" stroke-opacity="0.3"/>
+  <ellipse cx="16" cy="21.5" rx="9.5" ry="1.6" fill="#4ade9c" opacity="0.45"/>
+  <ellipse cx="16" cy="19" rx="10" ry="3.1" fill="url(#fdisc)"/>
+  <ellipse cx="16" cy="16" rx="5" ry="3.4" fill="url(#fdome)"/>
+  <circle cx="16" cy="6.5" r="2.1" fill="#4ade9c">
     <animate attributeName="opacity" values="0.4;1;0.4" dur="2.4s" repeatCount="indefinite"/>
   </circle>
-  <circle cx="11" cy="19.5" r="1" fill="#0a0d14"/>
-  <circle cx="16" cy="20" r="1" fill="#0a0d14"/>
-  <circle cx="21" cy="19.5" r="1" fill="#0a0d14"/>
+  <g fill="#0a0d14">
+    <circle cx="11.5" cy="19.3" r="0.9"/>
+    <circle cx="16" cy="19.8" r="0.9"/>
+    <circle cx="20.5" cy="19.3" r="0.9"/>
+  </g>
 </svg>

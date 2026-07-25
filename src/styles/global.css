@@ -74,23 +74,23 @@ img { max-width: 100%; height: auto; display: block; }
   gap: 1rem;
 }
 .brand {
-  display: flex;
+  display: inline-flex;
   align-items: center;
-  gap: 0.6rem;
-  font-family: var(--font-head);
-  font-size: 1.35rem;
-  font-weight: 700;
-  color: var(--text);
-  letter-spacing: -0.01em;
+  line-height: 0;
 }
 .brand:hover { text-decoration: none; }
-.brand .dot {
-  width: 12px; height: 12px; border-radius: 50%;
-  background: var(--accent);
-  box-shadow: 0 0 12px var(--accent);
-  animation: pulse 2.4s ease-in-out infinite;
+.brand-logo {
+  height: 34px;
+  width: auto;
+  display: block;
+  transition: filter 0.2s ease;
 }
-@keyframes pulse { 0%,100%{opacity:.5;} 50%{opacity:1;} }
+.brand:hover .brand-logo {
+  filter: drop-shadow(0 0 10px rgba(74, 222, 156, 0.45));
+}
+@media (max-width: 480px) {
+  .brand-logo { height: 28px; }
+}
 .nav { display: flex; gap: 1.1rem; flex-wrap: wrap; align-items: center; }
 .nav a { color: var(--text-dim); font-size: 0.92rem; }
 .nav a:hover { color: var(--text); text-decoration: none; }
