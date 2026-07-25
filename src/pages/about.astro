@@ -1,0 +1,40 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+import EmailSignup from '../components/EmailSignup.astro';
+---
+<BaseLayout title="About" description="What UAP Times is, and the editorial standard we hold ourselves to.">
+  <div class="container">
+    <div class="article-header prose">
+      <h1>About UAP Times</h1>
+      <p class="lede">Serious reporting on an unserious-sounding subject.</p>
+    </div>
+    <div class="article-body prose">
+      <p>
+        UAP Times covers unidentified anomalous phenomena — UFOs, if you're
+        feeling old-fashioned — the way any other news beat should be covered:
+        with sources, scepticism, and a clear line between what's known and
+        what's merely claimed.
+      </p>
+      <h5>Our editorial standard</h5>
+      <p>
+        We don't debunk for sport and we don't believe for sport either. Every
+        story carries a credibility rating so you always know how much weight the
+        evidence actually bears. A government sensor log and a blurry phone video
+        are not the same thing, and we won't pretend they are.
+      </p>
+      <h5>How we work</h5>
+      <p>
+        Stories are researched and drafted with AI assistance and reviewed by a
+        human before publication. We think that's the honest way to run a modern
+        newsroom, and we'd rather tell you than have you guess.
+      </p>
+      <h5>Got a tip?</h5>
+      <p>
+        Seen something? Sat on a document? Email
+        <a href="mailto:tips@uaptimes.com">tips@uaptimes.com</a>.
+        Anonymity respected.
+      </p>
+    </div>
+    <EmailSignup />
+  </div>
+</BaseLayout>

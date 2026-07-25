@@ -1,0 +1,67 @@
+---
+import type { CollectionEntry } from 'astro:content';
+import BaseLayout from './BaseLayout.astro';
+import EmailSignup from '../components/EmailSignup.astro';
+
+interface Props { article: CollectionEntry<'articles'>; }
+const { article } = Astro.props;
+const { data } = article;
+
+const dateStr = data.pubDate.toLocaleDateString('en-GB', {
+  day: 'numeric', month: 'long', year: 'numeric',
+});
+const credLabel = ['', 'Well-sourced', 'Credible', 'Unconfirmed', 'Thin', 'Take with salt'][data.credibility];
+---
+<BaseLayout
+  title={data.title}
+  description={data.description}
+  image={data.heroImage}
+  article={true}
+  publishedTime={data.pubDate}
+>
+  <article class="container">
+    <header class="article-header prose">
+      <span class="topic-tag">{data.topic}</span>
+      <h1>{data.title}</h1>
+      <p class="lede">{data.description}</p>
+      <div class="meta-row" style="justify-content:center; margin-top:1rem;">
+        <span>By {data.author}</span>
+        <span>·</span>
+        <span>{dateStr}</span>
+        <span>·</span>
+        <span class="cred" title="Editorial credibility rating">◈ {credLabel}</span>
+      </div>
+    </header>
+
+    {data.heroImage && (
+      <figure class="hero-figure">
+        <img src={data.heroImage} alt={data.title} />
+        {data.heroCredit && <figcaption>{data.heroCredit}</figcaption>}
+      </figure>
+    )}
+
+    <div class="article-body prose">
+      <slot />
+
+      {data.source && (
+        <p style="color:var(--text-dim); font-size:.9rem; border-top:1px solid var(--border); padding-top:1rem; margin-top:2rem;">
+          <strong>Source:</strong>{' '}
+          {data.sourceUrl
+            ? <a href={data.sourceUrl}>{data.source}</a>
+            : data.source}
+        </p>
+      )}
+
+      {data.tags.length > 0 && (
+        <div class="tag-list">
+          {data.tags.map((t) => (
+            <a href={`/topics/${data.topic.toLowerCase().replace(/[^a-z0-9]+/g, '-')}/`}>#{t}</a>
+          ))}
+        </div>
+      )}
+    </div>
+
+    <EmailSignup />
+    <div class="prose"><a class="back-link" href="/">← Back to the latest</a></div>
+  </article>
+</BaseLayout>

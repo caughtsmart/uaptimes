@@ -1,0 +1,21 @@
+---
+// Site header + primary nav. Edit the links here to add/remove sections.
+// Note: a topic page only exists once at least one article uses that topic.
+// Add links here as you publish into new topics (Sightings, Science, …).
+const nav = [
+  { href: '/', label: 'Latest' },
+  { href: '/topics/government-disclosure', label: 'Disclosure' },
+  { href: '/topics/analysis', label: 'Analysis' },
+  { href: '/topics/history', label: 'History' },
+  { href: '/about', label: 'About' },
+];
+---
+<header class="site-header">
+  <div class="bar">
+    <a href="/" class="brand"><span class="dot"></span>UAP Times</a>
+    <nav class="nav">
+      {nav.map((item) => <a href={item.href}>{item.label}</a>)}
+      <a href="/rss.xml" title="RSS feed" aria-label="RSS feed">RSS</a>
+    </nav>
+  </div>
+</header>

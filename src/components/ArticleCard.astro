@@ -1,0 +1,28 @@
+---
+import type { CollectionEntry } from 'astro:content';
+interface Props { article: CollectionEntry<'articles'>; }
+const { article } = Astro.props;
+const { data, id } = article;
+const dateStr = data.pubDate.toLocaleDateString('en-GB', {
+  day: 'numeric', month: 'short', year: 'numeric',
+});
+---
+<article class="card">
+  <a href={`/articles/${id}/`}>
+    {data.heroImage
+      ? <img class="card-img" src={data.heroImage} alt="" loading="lazy" />
+      : <div class="card-img"></div>}
+    <div class="card-body">
+      <span class="topic-tag">{data.topic}</span>
+      <h3>{data.title}</h3>
+      <p class="excerpt">{data.description}</p>
+      <div class="meta meta-row">
+        <span>{dateStr}</span>
+        <span>·</span>
+        <span class="cred" title="Credibility rating (1 = solid, 5 = take with salt)">
+          {'●'.repeat(6 - data.credibility)}{'○'.repeat(data.credibility - 1)}
+        </span>
+      </div>
+    </div>
+  </a>
+</article>

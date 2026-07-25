@@ -1,0 +1,37 @@
+---
+import { getCollection } from 'astro:content';
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import ArticleCard from '../../components/ArticleCard.astro';
+
+// One page per topic, listing that topic's articles.
+export async function getStaticPaths() {
+  // Defined inside getStaticPaths: Astro runs this function in an isolated
+  // scope at build time, so it can't see helpers from the outer frontmatter.
+  const slugify = (s) => s.toLowerCase().replace(/[^a-z0-9]+/g, '-').replace(/^-|-$/g, '');
+  const articles = await getCollection('articles', ({ data }) => !data.draft);
+  const topics = [...new Set(articles.map((a) => a.data.topic))];
+  return topics.map((topic) => ({
+    params: { topic: slugify(topic) },
+    props: {
+      topic,
+      articles: articles
+        .filter((a) => a.data.topic === topic)
+        .sort((a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf()),
+    },
+  }));
+}
+
+const { topic, articles } = Astro.props;
+---
+<BaseLayout title={topic} description={`The latest ${topic} coverage from UAP Times.`}>
+  <div class="container">
+    <div class="article-header prose">
+      <span class="topic-tag">{topic}</span>
+      <h1>{topic}</h1>
+    </div>
+    <div class="card-grid">
+      {articles.map((article) => <ArticleCard article={article} />)}
+    </div>
+    <div class="prose"><a class="back-link" href="/">← Back to the latest</a></div>
+  </div>
+</BaseLayout>

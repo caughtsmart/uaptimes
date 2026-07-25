@@ -1,0 +1,36 @@
+---
+import { getCollection } from 'astro:content';
+import BaseLayout from '../layouts/BaseLayout.astro';
+import ArticleCard from '../components/ArticleCard.astro';
+import EmailSignup from '../components/EmailSignup.astro';
+
+// Pull all non-draft articles, newest first.
+const articles = (await getCollection('articles', ({ data }) => !data.draft))
+  .sort((a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf());
+
+const [lead, ...rest] = articles;
+---
+<BaseLayout title="UAP Times">
+  <section class="masthead">
+    <h1>UAP Times</h1>
+    <p>UAP news, filed from the edge of the known.</p>
+  </section>
+
+  <div class="container">
+    {lead && (
+      <>
+        <h2 class="section-title">Lead story</h2>
+        <div class="card-grid" style="grid-template-columns:1fr;">
+          <ArticleCard article={lead} />
+        </div>
+      </>
+    )}
+
+    <h2 class="section-title">Latest dispatches</h2>
+    <div class="card-grid">
+      {rest.map((article) => <ArticleCard article={article} />)}
+    </div>
+
+    <EmailSignup />
+  </div>
+</BaseLayout>
