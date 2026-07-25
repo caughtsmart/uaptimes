@@ -114,9 +114,17 @@ img { max-width: 100%; height: auto; display: block; }
 
 /* ---- Hero / masthead ---- */
 .masthead {
+  position: relative;
   text-align: center;
   padding: 3.5rem 1rem 2.5rem;
   border-bottom: 1px solid var(--border);
+  /* Generated night-sky background with a 50% black wash layered on top. */
+  background-image:
+    linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),
+    url('/images/masthead-bg.svg');
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
 }
 .masthead h1 {
   font-family: var(--font-head);
