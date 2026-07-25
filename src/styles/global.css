@@ -80,7 +80,7 @@ img { max-width: 100%; height: auto; display: block; }
 }
 .brand:hover { text-decoration: none; }
 .brand-logo {
-  height: 34px;
+  height: 51px;
   width: auto;
   display: block;
   transition: filter 0.2s ease;
@@ -89,7 +89,7 @@ img { max-width: 100%; height: auto; display: block; }
   filter: drop-shadow(0 0 10px rgba(74, 222, 156, 0.45));
 }
 @media (max-width: 480px) {
-  .brand-logo { height: 28px; }
+  .brand-logo { height: 42px; }
 }
 .nav { display: flex; gap: 1.1rem; flex-wrap: wrap; align-items: center; }
 .nav a { color: var(--text-dim); font-size: 0.92rem; }
