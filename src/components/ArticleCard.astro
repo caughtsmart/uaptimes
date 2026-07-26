@@ -19,7 +19,7 @@ const dateStr = data.pubDate.toLocaleDateString('en-GB', {
       <div class="meta meta-row">
         <span>{dateStr}</span>
         <span>·</span>
-        <span class="cred" title="Credibility rating (1 = solid, 5 = take with salt)">
+        <span class="cred" title="Credibility — more ● = better-sourced (5 rock-solid … 1 take with salt)">
           {'●'.repeat(6 - data.credibility)}{'○'.repeat(data.credibility - 1)}
         </span>
       </div>

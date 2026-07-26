@@ -879,3 +879,33 @@ html.search-lock { overflow: hidden; }
   color: var(--text-dim);
 }
 .a-fig figcaption span { color: var(--accent); text-transform: uppercase; letter-spacing: .06em; font-size: .66rem; }
+
+/* ---- Credibility scale key (About) + rating cross-links ---- */
+.cred-key { margin: 1.1rem 0 1.4rem; border-top: 1px solid var(--border); }
+.cred-key-row {
+  display: grid; grid-template-columns: 6.4rem 8.6rem 1fr; gap: .1rem 1rem;
+  align-items: baseline; padding: .6rem 0; border-bottom: 1px solid var(--border);
+}
+.cred-key-dots { color: var(--warn); letter-spacing: 2px; font-size: 1rem; white-space: nowrap; }
+.cred-key-dots .off { color: var(--border-ink); }
+.cred-key-label {
+  font-family: var(--font-mono); text-transform: uppercase;
+  letter-spacing: .08em; font-size: .72rem; color: var(--text);
+}
+.cred-key-desc { color: var(--text-dim); font-size: .92rem; }
+@media (max-width: 560px) {
+  .cred-key-row { grid-template-columns: 6rem 1fr; }
+  .cred-key-desc { grid-column: 1 / -1; margin-top: .15rem; }
+}
+
+/* article credibility rating, now a link to the explainer */
+.cred-link { color: var(--warn); text-decoration: none; }
+.cred-link:hover { color: var(--warn); text-decoration: underline; text-underline-offset: 2px; }
+
+/* map credibility note (light page, under the console) */
+.map-cred-note {
+  max-width: var(--maxw-wide); margin: .7rem 0 0;
+  font-family: var(--font-mono); font-size: .68rem; letter-spacing: .03em;
+  color: var(--text-dim);
+}
+.map-cred-note a { color: var(--link); }

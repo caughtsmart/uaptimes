@@ -21,6 +21,40 @@ import BaseLayout from '../layouts/BaseLayout.astro';
         evidence actually bears. A government sensor log and a blurry phone video
         are not the same thing, and we won't pretend they are.
       </p>
+
+      <h5 id="how-we-rate">The credibility scale</h5>
+      <p>
+        There's really only one scale here, and it's a <strong>sourcing</strong>
+        scale. Every story carries a credibility rating shown as five dots — read
+        it like marks out of five, where <strong>more filled dots means
+        better-sourced</strong>. It measures the strength of the evidence, not
+        whether we think it's aliens: a well-sourced case can still turn out
+        mundane, and a "take with salt" one might still be real.
+      </p>
+      <div class="cred-key">
+        {[
+          { n: 5, label: 'Well-sourced', desc: "Primary documents or sensor data we've been able to examine ourselves." },
+          { n: 4, label: 'Credible', desc: 'Multiple reliable witnesses, or official acknowledgement of the event.' },
+          { n: 3, label: 'Unconfirmed', desc: 'A genuine report, but corroboration is thin or second-hand.' },
+          { n: 2, label: 'Thin', desc: 'Single-source, or with shaky provenance.' },
+          { n: 1, label: 'Take with salt', desc: 'An uncorroborated claim — interesting, but not evidence.' },
+        ].map((r) => (
+          <div class="cred-key-row">
+            <span class="cred-key-dots" aria-label={`${r.n} out of 5`}>
+              {'●'.repeat(r.n)}<span class="off">{'○'.repeat(5 - r.n)}</span>
+            </span>
+            <span class="cred-key-label">{r.label}</span>
+            <span class="cred-key-desc">{r.desc}</span>
+          </div>
+        ))}
+      </div>
+      <p>
+        You'll see the dots on every article card and a word (like "Credible") on
+        the article itself; on the <a href="/map">sightings map</a> the same rating
+        sets each contact's colour — red is best-sourced, fading to grey for the
+        doubtful — and drives the filters.
+      </p>
+
       <h5>How we work</h5>
       <p>
         Stories are researched and drafted with AI assistance and reviewed by a
