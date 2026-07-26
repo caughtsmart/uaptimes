@@ -5,7 +5,7 @@ pubDate: 2026-07-10
 author: "UAP Times Desk"
 topic: "History"
 tags: ["Aguadilla", "Puerto Rico", "Customs and Border Protection", "infrared", "SCU", "2013"]
-heroImage: "/images/placeholder-sky.svg"
+heroImage: "/images/aguadilla-2013-hero.png"
 heroCredit: "AI-generated illustration"
 heroImageRemote: "https://d8j0ntlcm91z4.cloudfront.net/user_3H0FDLhevoDIIm5NZhOBNfDEWRH/hf_20260726_193300_e4f3a245-6b96-4b69-b28d-8942d50803c8.png"
 credibility: 2

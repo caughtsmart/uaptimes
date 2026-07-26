@@ -5,7 +5,7 @@ pubDate: 2026-07-08
 author: "UAP Times Desk"
 topic: "History"
 tags: ["Malmstrom", "Montana", "US Air Force", "Minuteman", "Robert Salas", "1967"]
-heroImage: "/images/placeholder-sky.svg"
+heroImage: "/images/malmstrom-1967-hero.png"
 heroCredit: "AI-generated illustration"
 heroImageRemote: "https://d8j0ntlcm91z4.cloudfront.net/user_3H0FDLhevoDIIm5NZhOBNfDEWRH/hf_20260726_193321_5fb8f985-d12e-4b2e-b1e6-3a47f93dc9de.png"
 credibility: 2

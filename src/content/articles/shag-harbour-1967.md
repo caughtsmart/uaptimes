@@ -5,7 +5,7 @@ pubDate: 2026-07-09
 author: "UAP Times Desk"
 topic: "History"
 tags: ["Shag Harbour", "Nova Scotia", "Canada", "RCMP", "Royal Canadian Navy", "1967"]
-heroImage: "/images/placeholder-sky.svg"
+heroImage: "/images/shag-harbour-1967-hero.png"
 heroCredit: "AI-generated illustration"
 heroImageRemote: "https://d8j0ntlcm91z4.cloudfront.net/user_3H0FDLhevoDIIm5NZhOBNfDEWRH/hf_20260726_193312_fa6bdd08-53fc-4dd8-8e70-0dcc5ce74c60.png"
 credibility: 2
