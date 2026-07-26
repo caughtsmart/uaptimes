@@ -5,7 +5,7 @@ pubDate: 2026-07-24
 author: "UAP Times Desk"
 topic: "History"
 tags: ["Tehran", "Imperial Iranian Air Force", "F-4 Phantom", "DIA", "Parviz Jafari", "Iran", "1976"]
-heroImage: "/images/placeholder-sky.svg"
+heroImage: "/images/tehran-dogfight-1976-hero.png"
 heroCredit: "AI-generated illustration"
 heroImageRemote: "https://d8j0ntlcm91z4.cloudfront.net/user_3H0FDLhevoDIIm5NZhOBNfDEWRH/hf_20260726_184218_c29ac680-fa41-4cd6-a9c7-d7c55617d9ef.png"
 credibility: 2
