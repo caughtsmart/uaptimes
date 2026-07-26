@@ -5,7 +5,7 @@ pubDate: 2026-07-05
 author: "UAP Times Desk"
 topic: "History"
 tags: ["Cash-Landrum", "Texas", "radiation", "helicopters", "physical injury", "1980"]
-heroImage: "/images/placeholder-sky.svg"
+heroImage: "/images/cash-landrum-1980-hero.png"
 heroCredit: "AI-generated illustration"
 heroImageRemote: "https://d8j0ntlcm91z4.cloudfront.net/user_3H0FDLhevoDIIm5NZhOBNfDEWRH/hf_20260726_193846_64dfe97d-3d15-4f72-83ad-7cac9b59fe2e.png"
 credibility: 3

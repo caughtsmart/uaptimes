@@ -5,7 +5,7 @@ pubDate: 2026-07-07
 author: "UAP Times Desk"
 topic: "History"
 tags: ["Varginha", "Brazil", "creature", "military", "1996"]
-heroImage: "/images/placeholder-sky.svg"
+heroImage: "/images/varginha-1996-hero.png"
 heroCredit: "AI-generated illustration"
 heroImageRemote: "https://d8j0ntlcm91z4.cloudfront.net/user_3H0FDLhevoDIIm5NZhOBNfDEWRH/hf_20260726_193824_3e8f35d5-9704-4981-8783-cc13670f0c0f.png"
 credibility: 4
