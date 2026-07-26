@@ -5,6 +5,26 @@
       "remote": "https://d8j0ntlcm91z4.cloudfront.net/user_3H0FDLhevoDIIm5NZhOBNfDEWRH/hf_20260726_113846_9521035e-cc93-4aec-b52e-7cb28466e12d.png",
       "path": "public/images/masthead-ufo.png",
       "note": "Homepage masthead found-footage still / video poster — faint black-triangle craft with 3 lights in fog, AI-generated (Higgsfield nano_banana_pro, 16:9)."
+    },
+    {
+      "remote": "https://d8j0ntlcm91z4.cloudfront.net/user_3H0FDLhevoDIIm5NZhOBNfDEWRH/hf_20260726_182131_e69fb507-1557-4e7d-8b36-4bd0a57f64d8.png",
+      "path": "public/images/rendlesham-forest-1980-2.png",
+      "note": "Rendlesham article inline — airmen approaching lights (AI-generated)."
+    },
+    {
+      "remote": "https://d8j0ntlcm91z4.cloudfront.net/user_3H0FDLhevoDIIm5NZhOBNfDEWRH/hf_20260726_182133_5cd29133-0375-40cc-aa56-0adb4adefc78.png",
+      "path": "public/images/rendlesham-forest-1980-3.png",
+      "note": "Rendlesham article inline — the craft in the clearing (AI-generated)."
+    },
+    {
+      "remote": "https://d8j0ntlcm91z4.cloudfront.net/user_3H0FDLhevoDIIm5NZhOBNfDEWRH/hf_20260726_182136_52c667ca-e5ef-424a-b600-7abe88d69730.png",
+      "path": "public/images/rendlesham-forest-1980-4.png",
+      "note": "Rendlesham article inline — ground indentations, morning after (AI-generated)."
+    },
+    {
+      "remote": "https://d8j0ntlcm91z4.cloudfront.net/user_3H0FDLhevoDIIm5NZhOBNfDEWRH/hf_20260726_182135_82503208-045b-4cde-a064-fab254bbf4b0.png",
+      "path": "public/images/rendlesham-forest-1980-5.png",
+      "note": "Rendlesham article inline — the Orford Ness lighthouse beam (AI-generated)."
     }
   ],
   "_note_masthead_mp4": "public/images/masthead-ufo.mp4 is a hand-managed asset, not fetched by CI: the 1080p original (Higgsfield kling3_0_turbo, image-to-video from the still) was re-encoded to a ~0.6MB 720p H.264 clip for mobile-friendliness. Deliberately NOT listed above so CI never restores the 9MB original."

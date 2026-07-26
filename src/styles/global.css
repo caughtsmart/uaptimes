@@ -866,3 +866,16 @@ html.search-lock { overflow: hidden; }
   .nav-search span { display: none; }
   .nav-search { padding: .22rem .45rem; }
 }
+
+/* Inline article figures (multi-image articles) */
+.a-fig { margin: 1.9rem 0; }
+.a-fig img {
+  width: 100%; border-radius: 4px;
+  border: 1px solid var(--border-ink); box-shadow: var(--shadow);
+}
+.a-fig figcaption {
+  margin-top: .5rem; text-align: center;
+  font-family: var(--font-mono); font-size: .72rem; letter-spacing: .03em;
+  color: var(--text-dim);
+}
+.a-fig figcaption span { color: var(--accent); text-transform: uppercase; letter-spacing: .06em; font-size: .66rem; }
