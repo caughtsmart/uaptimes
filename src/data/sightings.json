@@ -84,7 +84,8 @@
     "lat": 40.184,
     "lng": -79.462,
     "credibility": 3,
-    "blurb": "A fireball, then reports of an acorn-shaped object recovered by the military. Officially a meteor; locally, something else."
+    "blurb": "A fireball, then reports of an acorn-shaped object recovered by the military. Officially a meteor; locally, something else.",
+    "article": "/articles/kecksburg-1965/"
   },
   {
     "id": "westall-1966",
@@ -115,7 +116,8 @@
     "lat": 66.5,
     "lng": -145.0,
     "credibility": 2,
-    "blurb": "A JAL cargo 747 crew tracked enormous craft over Alaska for nearly an hour. The FAA investigated and never fully explained it."
+    "blurb": "A JAL cargo 747 crew tracked enormous craft over Alaska for nearly an hour. The FAA investigated and never fully explained it.",
+    "article": "/articles/jal1628-alaska-1986/"
   },
   {
     "id": "trans-en-provence-1981",
@@ -135,7 +137,8 @@
     "lat": -20.51,
     "lng": -29.33,
     "credibility": 3,
-    "blurb": "A Brazilian Navy expedition photographed a Saturn-shaped object. The negatives were vouched for by the government of the day."
+    "blurb": "A Brazilian Navy expedition photographed a Saturn-shaped object. The negatives were vouched for by the government of the day.",
+    "article": "/articles/trindade-1958/"
   },
   {
     "id": "hudson-valley-1983",
