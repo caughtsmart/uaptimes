@@ -24,7 +24,7 @@ Over the last few years, that stigma has softened considerably, and formal chann
 
 ##### Separating signal from paperwork
 
-None of this means the increase is *entirely* an artefact. It's genuinely possible that more drones, more balloons, and more satellites in low orbit are producing more things to misidentify — the airspace really has got busier. The point is simply that a rising report count is a measurement of the *reporting system*, not a clean measurement of the *phenomenon*.
+None of this means the increase is *entirely* an artefact. It's genuinely possible that more drones, more balloons, and more satellites in low orbit are producing more things to misidentify — the airspace really has got busier. The point is simply that a rising report count is a measurement of the *reporting system*, not a clean measurement of the *phenomenon*. The inverse trap is just as real: when a channel returns almost nothing, that can mean the channel is broken rather than the sky is quiet — which is roughly the problem with [the solitary maritime case in AARO's latest annual report](/articles/navy-uap-swarm-virginia-coast/).
 
 ##### The UAP Times take
 
