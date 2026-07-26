@@ -65,7 +65,16 @@
       "remote": "https://d8j0ntlcm91z4.cloudfront.net/user_3H0FDLhevoDIIm5NZhOBNfDEWRH/hf_20260726_185445_5a4303e2-0482-482f-9d71-aea43b869155.png",
       "path": "public/images/belgian-wave-1990-5.png",
       "note": "Belgian Wave inline — the hoax reveal, a painted styrofoam model (AI-generated)."
-    }
+    },
+    { "remote": "https://d8j0ntlcm91z4.cloudfront.net/user_3H0FDLhevoDIIm5NZhOBNfDEWRH/hf_20260726_190805_9b9767cd-4c3a-418a-b215-ef326feefc33.png", "path": "public/images/roswell-1947-2.png", "note": "Roswell inline — rancher with debris (AI-generated)." },
+    { "remote": "https://d8j0ntlcm91z4.cloudfront.net/user_3H0FDLhevoDIIm5NZhOBNfDEWRH/hf_20260726_190808_58fec5f4-1419-4bdd-9437-ac8fcf7de702.png", "path": "public/images/roswell-1947-3.png", "note": "Roswell inline — the army airfield at night (AI-generated)." },
+    { "remote": "https://d8j0ntlcm91z4.cloudfront.net/user_3H0FDLhevoDIIm5NZhOBNfDEWRH/hf_20260726_190807_8c6340dd-bcfd-48dc-b7dc-b39bbfd9167a.png", "path": "public/images/roswell-1947-4.png", "note": "Roswell inline — balloon/radar reflector, the Mogul explanation (AI-generated)." },
+    { "remote": "https://d8j0ntlcm91z4.cloudfront.net/user_3H0FDLhevoDIIm5NZhOBNfDEWRH/hf_20260726_190811_63a023fa-dc75-4c22-a56f-06ba68673725.png", "path": "public/images/phoenix-lights-1997-2.png", "note": "Phoenix Lights inline — witnesses watching the V (AI-generated)." },
+    { "remote": "https://d8j0ntlcm91z4.cloudfront.net/user_3H0FDLhevoDIIm5NZhOBNfDEWRH/hf_20260726_190815_e7be2a54-0aaa-41d3-9502-506438b75d36.png", "path": "public/images/phoenix-lights-1997-3.png", "note": "Phoenix Lights inline — the boomerang craft (AI-generated)." },
+    { "remote": "https://d8j0ntlcm91z4.cloudfront.net/user_3H0FDLhevoDIIm5NZhOBNfDEWRH/hf_20260726_190813_26e678e0-fc48-4264-85c5-a0529666f16c.png", "path": "public/images/phoenix-lights-1997-4.png", "note": "Phoenix Lights inline — flares behind the ridge (AI-generated)." },
+    { "remote": "https://d8j0ntlcm91z4.cloudfront.net/user_3H0FDLhevoDIIm5NZhOBNfDEWRH/hf_20260726_190818_570d6657-466b-43cb-8747-9dd5e90c980a.png", "path": "public/images/washington-1952-2.png", "note": "Washington 1952 inline — radar control room (AI-generated)." },
+    { "remote": "https://d8j0ntlcm91z4.cloudfront.net/user_3H0FDLhevoDIIm5NZhOBNfDEWRH/hf_20260726_190820_f04432e9-b497-4e93-afea-45c2ab629419.png", "path": "public/images/washington-1952-3.png", "note": "Washington 1952 inline — F-94 interceptors (AI-generated)." },
+    { "remote": "https://d8j0ntlcm91z4.cloudfront.net/user_3H0FDLhevoDIIm5NZhOBNfDEWRH/hf_20260726_190820_62831b8e-fa7d-49a1-b769-a2764c092132.png", "path": "public/images/washington-1952-4.png", "note": "Washington 1952 inline — lights over the Monument (AI-generated)." }
   ],
   "_note_masthead_mp4": "public/images/masthead-ufo.mp4 is a hand-managed asset, not fetched by CI: the 1080p original (Higgsfield kling3_0_turbo, image-to-video from the still) was re-encoded to a ~0.6MB 720p H.264 clip for mobile-friendliness. Deliberately NOT listed above so CI never restores the 9MB original."
 }

@@ -29,7 +29,8 @@
     "lat": 33.394,
     "lng": -104.523,
     "credibility": 3,
-    "blurb": "Debris on a ranch, a press release that said “flying disc,” then a hasty walk-back to “weather balloon.” The founding myth of modern ufology."
+    "blurb": "Debris on a ranch, a press release that said “flying disc,” then a hasty walk-back to “weather balloon.” The founding myth of modern ufology.",
+    "article": "/articles/roswell-1947/"
   },
   {
     "id": "phoenix-lights-1997",
@@ -39,7 +40,8 @@
     "lat": 33.448,
     "lng": -112.074,
     "credibility": 2,
-    "blurb": "Thousands watched a silent V-formation of lights cross Arizona. Flares explain part of it; the earlier craft sightings less so."
+    "blurb": "Thousands watched a silent V-formation of lights cross Arizona. Flares explain part of it; the earlier craft sightings less so.",
+    "article": "/articles/phoenix-lights-1997/"
   },
   {
     "id": "rendlesham-1980",
@@ -71,7 +73,8 @@
     "lat": 38.851,
     "lng": -77.038,
     "credibility": 2,
-    "blurb": "Unknowns painted on radar over the capital two weekends running, prompting jet intercepts and a hurried Air Force press conference."
+    "blurb": "Unknowns painted on radar over the capital two weekends running, prompting jet intercepts and a hurried Air Force press conference.",
+    "article": "/articles/washington-1952/"
   },
   {
     "id": "kecksburg-1965",
