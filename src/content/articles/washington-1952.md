@@ -5,7 +5,7 @@ pubDate: 2026-07-20
 author: "UAP Times Desk"
 topic: "History"
 tags: ["Washington 1952", "radar", "Project Blue Book", "USAF", "temperature inversion", "1952"]
-heroImage: "/images/placeholder-sky.svg"
+heroImage: "/images/washington-1952-hero.png"
 heroCredit: "AI-generated illustration"
 heroImageRemote: "https://d8j0ntlcm91z4.cloudfront.net/user_3H0FDLhevoDIIm5NZhOBNfDEWRH/hf_20260726_190817_747a5458-8ccf-4cbe-8c70-cf28fadb345b.png"
 credibility: 2

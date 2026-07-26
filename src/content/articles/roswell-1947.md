@@ -5,7 +5,7 @@ pubDate: 2026-07-22
 author: "UAP Times Desk"
 topic: "History"
 tags: ["Roswell", "New Mexico", "Project Mogul", "Jesse Marcel", "USAF", "1947"]
-heroImage: "/images/placeholder-sky.svg"
+heroImage: "/images/roswell-1947-hero.png"
 heroCredit: "AI-generated illustration"
 heroImageRemote: "https://d8j0ntlcm91z4.cloudfront.net/user_3H0FDLhevoDIIm5NZhOBNfDEWRH/hf_20260726_190803_c358a764-1851-4d9d-9fb9-0af7861a4dd0.png"
 credibility: 3

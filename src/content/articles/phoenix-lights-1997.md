@@ -5,7 +5,7 @@ pubDate: 2026-07-21
 author: "UAP Times Desk"
 topic: "History"
 tags: ["Phoenix Lights", "Arizona", "Fife Symington", "flares", "chevron", "1997"]
-heroImage: "/images/placeholder-sky.svg"
+heroImage: "/images/phoenix-lights-1997-hero.png"
 heroCredit: "AI-generated illustration"
 heroImageRemote: "https://d8j0ntlcm91z4.cloudfront.net/user_3H0FDLhevoDIIm5NZhOBNfDEWRH/hf_20260726_190810_3312e016-c0b4-4d88-b522-46cf72fa5015.png"
 credibility: 2
