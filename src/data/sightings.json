@@ -172,7 +172,8 @@
     "lat": 18.5,
     "lng": -67.13,
     "credibility": 2,
-    "blurb": "A Customs and Border Protection aircraft filmed an object skimming the sea and apparently splitting in two on infrared."
+    "blurb": "A Customs and Border Protection aircraft filmed an object skimming the sea and apparently splitting in two on infrared.",
+    "article": "/articles/aguadilla-2013/"
   },
   {
     "id": "ohare-2006",
@@ -204,7 +205,8 @@
     "lat": 43.5,
     "lng": -65.7,
     "credibility": 2,
-    "blurb": "Something crashed into the harbour and sank; the RCMP and Navy searched. Canada’s files list it as an unsolved UFO case."
+    "blurb": "Something crashed into the harbour and sank; the RCMP and Navy searched. Canada’s files list it as an unsolved UFO case.",
+    "article": "/articles/shag-harbour-1967/"
   },
   {
     "id": "varginha-1996",
@@ -234,7 +236,8 @@
     "lat": 47.504,
     "lng": -111.183,
     "credibility": 2,
-    "blurb": "Officers reported a craft over the base as a flight of Minuteman ICBMs dropped offline. Corroborated by multiple missileers."
+    "blurb": "Officers reported a craft over the base as a flight of Minuteman ICBMs dropped offline. Corroborated by multiple missileers.",
+    "article": "/articles/malmstrom-1967/"
   },
   {
     "id": "cash-landrum-1980",
