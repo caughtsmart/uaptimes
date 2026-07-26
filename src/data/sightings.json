@@ -1,0 +1,234 @@
+[
+  {
+    "id": "nimitz-tictac-2004",
+    "name": "USS Nimitz “Tic Tac” Encounter",
+    "place": "Pacific Ocean, off San Diego",
+    "date": "November 2004",
+    "lat": 32.0,
+    "lng": -117.5,
+    "credibility": 2,
+    "blurb": "Navy F/A-18 pilots and the Nimitz strike group tracked a 40-foot wingless “Tic Tac” on radar and gun-camera. One of the best-sensored military cases on record.",
+    "article": "/articles/tic-tac-encounter-explained/"
+  },
+  {
+    "id": "area-51-lazar",
+    "name": "Area 51 / S-4",
+    "place": "Groom Lake, Nevada",
+    "date": "1989",
+    "lat": 37.235,
+    "lng": -115.811,
+    "credibility": 4,
+    "blurb": "Bob Lazar claimed he reverse-engineered alien craft at a site south of Groom Lake. The physics is intriguing; the corroboration is thin.",
+    "article": "/articles/bob-lazar-credibility/"
+  },
+  {
+    "id": "roswell-1947",
+    "name": "Roswell Incident",
+    "place": "Roswell, New Mexico",
+    "date": "July 1947",
+    "lat": 33.394,
+    "lng": -104.523,
+    "credibility": 3,
+    "blurb": "Debris on a ranch, a press release that said “flying disc,” then a hasty walk-back to “weather balloon.” The founding myth of modern ufology."
+  },
+  {
+    "id": "phoenix-lights-1997",
+    "name": "The Phoenix Lights",
+    "place": "Phoenix, Arizona",
+    "date": "March 1997",
+    "lat": 33.448,
+    "lng": -112.074,
+    "credibility": 2,
+    "blurb": "Thousands watched a silent V-formation of lights cross Arizona. Flares explain part of it; the earlier craft sightings less so."
+  },
+  {
+    "id": "rendlesham-1980",
+    "name": "Rendlesham Forest",
+    "place": "Suffolk, England",
+    "date": "December 1980",
+    "lat": 52.084,
+    "lng": 1.441,
+    "credibility": 2,
+    "blurb": "USAF personnel near RAF Woodbridge reported a landed craft and radiation traces. Britain’s most documented military case."
+  },
+  {
+    "id": "belgian-wave-1990",
+    "name": "The Belgian Wave",
+    "place": "Eupen, Belgium",
+    "date": "1989–1990",
+    "lat": 50.63,
+    "lng": 6.04,
+    "credibility": 2,
+    "blurb": "Months of triangular-craft reports, backed by police witnesses and an F-16 radar-lock chase the Belgian Air Force openly investigated."
+  },
+  {
+    "id": "washington-1952",
+    "name": "Washington D.C. Flap",
+    "place": "Washington, D.C.",
+    "date": "July 1952",
+    "lat": 38.851,
+    "lng": -77.038,
+    "credibility": 2,
+    "blurb": "Unknowns painted on radar over the capital two weekends running, prompting jet intercepts and a hurried Air Force press conference."
+  },
+  {
+    "id": "kecksburg-1965",
+    "name": "Kecksburg UFO",
+    "place": "Kecksburg, Pennsylvania",
+    "date": "December 1965",
+    "lat": 40.184,
+    "lng": -79.462,
+    "credibility": 3,
+    "blurb": "A fireball, then reports of an acorn-shaped object recovered by the military. Officially a meteor; locally, something else."
+  },
+  {
+    "id": "westall-1966",
+    "name": "Westall School Sighting",
+    "place": "Melbourne, Australia",
+    "date": "April 1966",
+    "lat": -37.96,
+    "lng": 145.132,
+    "credibility": 3,
+    "blurb": "Some 200 students and staff watched a craft descend near their school. One of the largest mass sightings on record."
+  },
+  {
+    "id": "tehran-1976",
+    "name": "Tehran Dogfight",
+    "place": "Tehran, Iran",
+    "date": "September 1976",
+    "lat": 35.689,
+    "lng": 51.389,
+    "credibility": 2,
+    "blurb": "Two Imperial Iranian Air Force F-4s scrambled on an object that reportedly knocked out their instruments and weapons. Documented in a US DIA memo."
+  },
+  {
+    "id": "jal1628-1986",
+    "name": "Japan Air Lines Flight 1628",
+    "place": "Over eastern Alaska",
+    "date": "November 1986",
+    "lat": 66.5,
+    "lng": -145.0,
+    "credibility": 2,
+    "blurb": "A JAL cargo 747 crew tracked enormous craft over Alaska for nearly an hour. The FAA investigated and never fully explained it."
+  },
+  {
+    "id": "trans-en-provence-1981",
+    "name": "Trans-en-Provence Case",
+    "place": "Var, France",
+    "date": "January 1981",
+    "lat": 43.497,
+    "lng": 6.484,
+    "credibility": 3,
+    "blurb": "A farmer reported a landed disc; France’s GEPAN found unusual soil and plant changes at the site. A rare physical-trace investigation."
+  },
+  {
+    "id": "trindade-1958",
+    "name": "Trindade Island Photos",
+    "place": "Trindade, Brazil",
+    "date": "January 1958",
+    "lat": -20.51,
+    "lng": -29.33,
+    "credibility": 3,
+    "blurb": "A Brazilian Navy expedition photographed a Saturn-shaped object. The negatives were vouched for by the government of the day."
+  },
+  {
+    "id": "hudson-valley-1983",
+    "name": "Hudson Valley Sightings",
+    "place": "Hudson Valley, New York",
+    "date": "1982–1986",
+    "lat": 41.51,
+    "lng": -73.92,
+    "credibility": 3,
+    "blurb": "Years of huge, silent boomerang-craft reports across the New York–Connecticut border. Some, but not all, tied to hoaxing pilots."
+  },
+  {
+    "id": "stephenville-2008",
+    "name": "Stephenville Lights",
+    "place": "Stephenville, Texas",
+    "date": "January 2008",
+    "lat": 32.221,
+    "lng": -98.202,
+    "credibility": 2,
+    "blurb": "Dozens of residents, including a pilot, reported a mile-wide craft. FAA radar data later showed unexplained tracks in the area."
+  },
+  {
+    "id": "aguadilla-2013",
+    "name": "Aguadilla Thermal Video",
+    "place": "Aguadilla, Puerto Rico",
+    "date": "April 2013",
+    "lat": 18.5,
+    "lng": -67.13,
+    "credibility": 2,
+    "blurb": "A Customs and Border Protection aircraft filmed an object skimming the sea and apparently splitting in two on infrared."
+  },
+  {
+    "id": "ohare-2006",
+    "name": "O’Hare Airport Sighting",
+    "place": "Chicago, Illinois",
+    "date": "November 2006",
+    "lat": 41.978,
+    "lng": -87.905,
+    "credibility": 3,
+    "blurb": "United Airlines staff reported a disc hovering over Gate C17 before it shot upward, punching a hole in the cloud deck."
+  },
+  {
+    "id": "levelland-1957",
+    "name": "Levelland Vehicle Interference",
+    "place": "Levelland, Texas",
+    "date": "November 1957",
+    "lat": 33.587,
+    "lng": -102.378,
+    "credibility": 3,
+    "blurb": "A dozen drivers independently reported an egg-shaped object that stalled their engines and headlights, then departed."
+  },
+  {
+    "id": "shag-harbour-1967",
+    "name": "Shag Harbour Incident",
+    "place": "Nova Scotia, Canada",
+    "date": "October 1967",
+    "lat": 43.5,
+    "lng": -65.7,
+    "credibility": 2,
+    "blurb": "Something crashed into the harbour and sank; the RCMP and Navy searched. Canada’s files list it as an unsolved UFO case."
+  },
+  {
+    "id": "varginha-1996",
+    "name": "Varginha Case",
+    "place": "Varginha, Brazil",
+    "date": "January 1996",
+    "lat": -21.551,
+    "lng": -45.43,
+    "credibility": 4,
+    "blurb": "Locals claimed the military captured a strange creature. Enormously popular in Brazil, thin on hard evidence."
+  },
+  {
+    "id": "ariel-school-1994",
+    "name": "Ariel School Encounter",
+    "place": "Ruwa, Zimbabwe",
+    "date": "September 1994",
+    "lat": -17.9,
+    "lng": 31.24,
+    "credibility": 3,
+    "blurb": "Around 60 schoolchildren described a landed craft and beings, telling remarkably consistent stories to investigators."
+  },
+  {
+    "id": "malmstrom-1967",
+    "name": "Malmstrom Missile Shutdown",
+    "place": "Montana",
+    "date": "March 1967",
+    "lat": 47.504,
+    "lng": -111.183,
+    "credibility": 2,
+    "blurb": "Officers reported a craft over the base as a flight of Minuteman ICBMs dropped offline. Corroborated by multiple missileers."
+  },
+  {
+    "id": "cash-landrum-1980",
+    "name": "Cash–Landrum Incident",
+    "place": "Near Huffman, Texas",
+    "date": "December 1980",
+    "lat": 30.07,
+    "lng": -95.1,
+    "credibility": 3,
+    "blurb": "Two women reported a diamond-shaped craft escorted by helicopters, then suffered burns and radiation-like illness."
+  }
+]

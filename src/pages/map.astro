@@ -1,0 +1,160 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+import sightings from '../data/sightings.json';
+
+// Newest-first for the fallback list; the map plots them all.
+const byDate = [...sightings].sort((a, b) => b.date.localeCompare(a.date));
+const total = sightings.length;
+const credLabel = ['', 'Well-sourced', 'Credible', 'Unconfirmed', 'Thin', 'Take with salt'];
+---
+<BaseLayout
+  title="Sightings Map"
+  description="An interactive map of notable UAP sightings — famous military encounters, mass sightings and physical-trace cases, each with a credibility rating."
+>
+  <div class="container">
+    <div class="article-header prose">
+      <span class="topic-tag">Tracking Map</span>
+      <h1>Sightings Map</h1>
+      <p class="lede">
+        {total} of the most notable cases on record — plotted, dated and rated.
+        Zoom in, click a contact, read the file.
+      </p>
+    </div>
+
+    <section class="map-shell" aria-label="Interactive map of UAP sightings">
+      <div class="map-bar">
+        <span class="map-bar-title">◈ UAP TRACKING MAP // CONTACTS: {total}</span>
+        <span class="map-bar-right">SRC: OPEN-SOURCE · EYES ONLY</span>
+      </div>
+
+      <div class="map-filter" role="group" aria-label="Filter sightings by credibility">
+        <span class="map-filter-label">Filter</span>
+        <button type="button" class="map-chip is-on" data-cred="1"><i class="dot hot"></i>Well-sourced</button>
+        <button type="button" class="map-chip is-on" data-cred="2"><i class="dot hot"></i>Credible</button>
+        <button type="button" class="map-chip is-on" data-cred="3"><i class="dot warm"></i>Unconfirmed</button>
+        <button type="button" class="map-chip is-on" data-cred="4"><i class="dot cold"></i>Thin</button>
+        <button type="button" class="map-chip is-on" data-cred="5"><i class="dot cold"></i>Take with salt</button>
+        <span class="map-count"><b id="map-count">{total}</b>/{total} shown</span>
+      </div>
+
+      <div id="uap-map" role="application" aria-label="Map of UAP sightings">
+        <noscript>
+          <p style="padding:1rem;color:#cfc9ba;font-family:var(--font-mono);font-size:.8rem;">
+            The interactive map needs JavaScript. The full list of sightings is below.
+          </p>
+        </noscript>
+      </div>
+    </section>
+
+    <!-- Server-rendered list: works without JS, and doubles as SEO content -->
+    <h2 class="section-title">Case files</h2>
+    <div class="sightings-list">
+      {byDate.map((s) => (
+        <article class="sighting-row" id={`case-${s.id}`}>
+          <div class="sighting-main">
+            <h3>{s.name}</h3>
+            <p class="sighting-meta">
+              <span>{s.place}</span><span>·</span><span>{s.date}</span>
+              <span>·</span>
+              <span class="cred" title={credLabel[s.credibility]}>
+                {'●'.repeat(6 - s.credibility)}{'○'.repeat(s.credibility - 1)}
+              </span>
+            </p>
+            <p class="sighting-blurb">{s.blurb}</p>
+            {s.article && <a class="sighting-link" href={s.article}>Read the file →</a>}
+          </div>
+        </article>
+      ))}
+    </div>
+
+    <div class="prose"><a class="back-link" href="/">← Back to the latest</a></div>
+  </div>
+
+  <script type="application/json" id="sightings-data" set:html={JSON.stringify(sightings)} />
+
+  <script>
+    import L from 'leaflet';
+    import 'leaflet/dist/leaflet.css';
+
+    const el = document.getElementById('uap-map');
+    const raw = document.getElementById('sightings-data');
+    if (el && raw) {
+      const data = JSON.parse(raw.textContent || '[]');
+
+      const map = L.map(el, {
+        center: [28, -35],
+        zoom: 2,
+        minZoom: 2,
+        maxZoom: 9,
+        worldCopyJump: true,
+        scrollWheelZoom: true,
+        zoomControl: true,
+      });
+
+      L.tileLayer('https://{s}.basemaps.cartocdn.com/dark_all/{z}/{x}/{y}{r}.png', {
+        subdomains: 'abcd',
+        maxZoom: 19,
+        attribution: '&copy; OpenStreetMap contributors &copy; CARTO',
+      }).addTo(map);
+
+      const tier = (c) => (c <= 2 ? 'hot' : c === 3 ? 'warm' : 'cold');
+      const esc = (s) => String(s).replace(/[&<>"]/g, (m) => (
+        { '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;' }[m]
+      ));
+
+      const entries = data.map((s) => {
+        const t = tier(s.credibility);
+        const icon = L.divIcon({
+          className: 'uap-marker',
+          html: `<span class="uap-blip uap-${t}"></span>`,
+          iconSize: [20, 20],
+          iconAnchor: [10, 10],
+          popupAnchor: [0, -9],
+        });
+        const dots = '●'.repeat(6 - s.credibility) + '○'.repeat(s.credibility - 1);
+        const link = s.article
+          ? `<a class="uap-pop-link" href="${esc(s.article)}">Read the file →</a>`
+          : '';
+        const html =
+          `<div class="uap-pop">` +
+            `<div class="uap-pop-hd">${esc(s.name)}</div>` +
+            `<div class="uap-pop-meta">${esc(s.place)} &middot; ${esc(s.date)}</div>` +
+            `<div class="uap-pop-cred"><span class="lbl">CRED</span> <span class="uap-${t}-txt">${dots}</span></div>` +
+            `<p class="uap-pop-blurb">${esc(s.blurb)}</p>` +
+            link +
+          `</div>`;
+        const marker = L.marker([s.lat, s.lng], { icon, title: s.name });
+        marker.bindPopup(html, { className: 'uap-popup', maxWidth: 280, minWidth: 220 });
+        marker.addTo(map);
+        return { marker, cred: s.credibility };
+      });
+
+      // Credibility filter
+      const countEl = document.getElementById('map-count');
+      const active = new Set([1, 2, 3, 4, 5]);
+      const refresh = () => {
+        let shown = 0;
+        entries.forEach(({ marker, cred }) => {
+          if (active.has(cred)) {
+            if (!map.hasLayer(marker)) marker.addTo(map);
+            shown++;
+          } else if (map.hasLayer(marker)) {
+            map.removeLayer(marker);
+          }
+        });
+        if (countEl) countEl.textContent = String(shown);
+      };
+      document.querySelectorAll('.map-chip').forEach((btn) => {
+        btn.addEventListener('click', () => {
+          const c = Number(btn.getAttribute('data-cred'));
+          if (active.has(c)) { active.delete(c); btn.classList.remove('is-on'); }
+          else { active.add(c); btn.classList.add('is-on'); }
+          refresh();
+        });
+      });
+
+      // Nudge Leaflet after layout settles (fonts/flex) so tiles fill the box.
+      setTimeout(() => map.invalidateSize(), 200);
+    }
+  </script>
+</BaseLayout>
