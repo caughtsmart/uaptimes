@@ -28,7 +28,7 @@ What keeps the subject alive is the residue. A minority of cases remain uncatego
 
 If there's a recurring theme across every one of these reports, it's this: the data is rubbish. Not because the witnesses are unreliable — many are trained military aviators — but because gun-camera footage and single-sensor radar hits are a genuinely terrible basis for identifying a fast-moving object at distance.
 
-AARO has repeatedly asked for better, purpose-built sensors. Until that happens, the unexplained pile will keep refilling itself, and every annual report will read a little like this one.
+AARO has repeatedly asked for better, purpose-built sensors. Until that happens, the unexplained pile will keep refilling itself, and every annual report will read a little like this one. It is also why the government's [new UAP Science Advisory Council](/articles/uap-science-advisory-council-loeb/) — a panel of statisticians and instrumentation physicists barred from seeing any classified data — starts at such a disadvantage.
 
 ##### The UAP Times take
 

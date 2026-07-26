@@ -89,3 +89,5 @@ Credibility 2, and the rating is about the *document*, not the objects. This is 
 That's the deflating part and the unsettling part at once. A hundred drones and two robot boats off Virginia is not evidence of visitors. It is evidence that the approaches to the largest naval base on the planet can host a small mechanised crowd, and that the resulting institutional response is one paragraph, filed fourteen months late, with the word "likely" in it.
 
 We'd like a date. We'd like to know which sensors saw what. And we'd like to know whether anyone has yet checked the simplest question of all — whether it was ours.
+
+*Update: the government's [newly formed UAP Science Advisory Council](/articles/uap-science-advisory-council-loeb/) would be an obvious body to examine this case. On present arrangements it cannot see the underlying data either.*
