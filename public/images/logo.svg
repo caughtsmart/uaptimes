@@ -33,8 +33,13 @@
       <line x1="20" y1="76" x2="144" y2="76"/>
     </g>
 
-    <!-- radar sweep wedge -->
-    <path d="M82 76 L82 20 A56 56 0 0 1 131 48 Z" fill="url(#uapSweep)"/>
+    <!-- radar sweep wedge — slowly rotating -->
+    <g>
+      <path d="M82 76 L82 20 A56 56 0 0 1 131 48 Z" fill="url(#uapSweep)"/>
+      <line x1="82" y1="76" x2="82" y2="20" stroke="#b12a1d" stroke-opacity="0.5" stroke-width="1.2"/>
+      <animateTransform attributeName="transform" type="rotate"
+        from="0 82 76" to="360 82 76" dur="7s" repeatCount="indefinite"/>
+    </g>
 
     <!-- blips -->
     <g fill="#b12a1d">
