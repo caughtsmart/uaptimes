@@ -5,7 +5,7 @@ pubDate: 2026-07-26
 author: "UAP Times Desk"
 topic: "Sightings"
 tags: ["AARO", "US Navy", "Virginia", "drones", "swarm", "Jon Kosloski", "Langley"]
-heroImage: "/images/placeholder-sky.svg"
+heroImage: "/images/navy-uap-swarm-virginia-coast-hero.png"
 heroCredit: "AI-generated illustration"
 heroImageRemote: "https://d8j0ntlcm91z4.cloudfront.net/user_3H0FDLhevoDIIm5NZhOBNfDEWRH/hf_20260726_121204_3a1c9c21-6db7-4a90-80c3-8f1fa4ce60a7.png"
 credibility: 2
