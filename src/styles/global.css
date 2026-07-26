@@ -126,16 +126,19 @@ img { max-width: 100%; height: auto; display: block; }
 }
 .brand:hover { text-decoration: none; }
 .brand-logo {
-  height: 50px;
+  height: 100px;
   width: auto;
   display: block;
   transition: filter 0.2s ease;
 }
 .brand:hover .brand-logo {
-  filter: drop-shadow(0 1px 6px rgba(177, 42, 29, 0.28));
+  filter: drop-shadow(0 2px 10px rgba(177, 42, 29, 0.32));
+}
+@media (max-width: 720px) {
+  .brand-logo { height: 78px; }
 }
 @media (max-width: 480px) {
-  .brand-logo { height: 42px; }
+  .brand-logo { height: 60px; }
 }
 .nav { display: flex; gap: 1.25rem; flex-wrap: wrap; align-items: center; }
 .nav a {
@@ -170,33 +173,66 @@ img { max-width: 100%; height: auto; display: block; }
 .site-footer .inner a { color: var(--link); }
 
 /* ---- Hero / masthead ---- */
+/* A dark, image-backed classified banner. The gradient overlay keeps text
+   legible over whatever photo sits in --mast-image; a deep fallback colour
+   shows if the image is missing so it never renders flat white. */
 .masthead {
-  text-align: center;
-  padding: 3rem 1rem 2.25rem;
-  border-bottom: 1px solid var(--border-ink);
+  --mast-image: url('/images/masthead-bg.png');
   position: relative;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  min-height: clamp(300px, 44vh, 460px);
+  padding: 4.5rem 1.25rem;
+  border-bottom: 2px solid var(--accent);
+  color: #f4f0e5;
+  background-color: #0b0f17;
+  background-image:
+    linear-gradient(180deg, rgba(8,10,16,.68) 0%, rgba(8,10,16,.52) 45%, rgba(10,9,7,.86) 100%),
+    var(--mast-image, none);
+  background-size: cover;
+  background-position: center 42%;
+  overflow: hidden;
 }
-.masthead .kicker {
+/* faint scanline texture over the photo for a surveillance-feed feel */
+.masthead::after {
+  content: "";
+  position: absolute; inset: 0; pointer-events: none;
+  background: repeating-linear-gradient(0deg, rgba(255,255,255,.035) 0 1px, transparent 1px 3px);
+  mix-blend-mode: overlay;
+  opacity: .5;
+}
+.masthead > * { position: relative; z-index: 1; }
+.masthead h1 {
   font-family: var(--font-mono);
   text-transform: uppercase;
-  letter-spacing: .34em;
-  font-size: .68rem;
-  color: var(--accent);
-  margin: 0 0 .9rem;
+  letter-spacing: .16em;
+  font-weight: 700;
+  font-size: clamp(1.65rem, 4.6vw, 3rem);
+  margin: 0 0 0.9rem;
+  color: #f6f2e7;
+  text-shadow: 0 2px 22px rgba(0,0,0,.7);
 }
-.masthead .kicker::before,
-.masthead .kicker::after { content: "—"; opacity: .55; margin: 0 .6rem; }
-.masthead h1 {
-  font-family: var(--font-head);
-  font-size: clamp(2.2rem, 6vw, 3.5rem);
-  margin: 0 0 0.6rem;
-  letter-spacing: -0.02em;
-  color: var(--text);
+.masthead p {
+  color: rgba(244,240,229,.86);
+  font-size: 1.12rem;
+  margin: 0;
+  text-shadow: 0 1px 12px rgba(0,0,0,.6);
 }
-.masthead p { color: var(--text-dim); font-size: 1.05rem; margin: 0; }
 .masthead .rule {
-  width: 72px; height: 3px; margin: 1.1rem auto 0;
+  width: 84px; height: 3px; margin: 1.3rem auto 0;
   background: var(--accent);
+  box-shadow: 0 0 18px rgba(177,42,29,.75);
+}
+/* stamp needs to read against the dark photo, not multiply into it */
+.masthead .decl-stamp {
+  color: #f0665a;
+  border-color: #f0665a;
+  background: rgba(240,102,90,.12);
+  box-shadow: inset 0 0 0 1.5px rgba(240,102,90,.35), 0 6px 22px rgba(0,0,0,.35);
+  mix-blend-mode: normal;
 }
 
 /* Animated "DECLASSIFIED" rubber stamp — slams onto the masthead on load */

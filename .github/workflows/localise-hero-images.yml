@@ -11,6 +11,8 @@ on:
       - 'claude/**'
     paths:
       - 'src/content/articles/**'
+      - 'src/site-media.json'
+      - 'scripts/localise-hero-images.mjs'
 
 permissions:
   contents: write

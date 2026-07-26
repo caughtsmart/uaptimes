@@ -1,0 +1,10 @@
+{
+  "_comment": "Static site assets (not article heroes) that CI localises into the repo. The authoring sandbox is blocked from the image CDN, so we record the remote URL here and scripts/localise-hero-images.mjs downloads it into `path` on push (GitHub runners have open internet). Idempotent: an asset whose `path` already exists is skipped.",
+  "assets": [
+    {
+      "remote": "https://d8j0ntlcm91z4.cloudfront.net/user_3H0FDLhevoDIIm5NZhOBNfDEWRH/hf_20260726_105358_12dbb5cf-b2ef-4c0c-81a6-6fc4401de3d3.png",
+      "path": "public/images/masthead-bg.png",
+      "note": "Homepage masthead background — 'Midnight Horizon', AI-generated (Higgsfield soul_location, 21:9)."
+    }
+  ]
+}

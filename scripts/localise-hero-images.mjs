@@ -16,6 +16,7 @@ import path from 'node:path';
 
 const ARTICLES_DIR = 'src/content/articles';
 const IMAGES_DIR = 'public/images';
+const SITE_MEDIA_FILE = 'src/site-media.json';
 
 // Only pull from hosts we expect, so a stray URL can't have us commit junk.
 const ALLOWED_HOSTS = [/\.cloudfront\.net$/, /(^|\.)higgsfield\.ai$/];
@@ -51,6 +52,38 @@ const extFromUrl = (u) => {
 
 let changed = 0;
 let failed = 0;
+
+// --- Static site media (masthead background, etc.) ------------------------
+// Same problem as article heroes — recorded as remote URLs in site-media.json
+// and pulled down here in CI. No frontmatter to rewrite; just fetch the bytes
+// to a fixed path if they're not already present.
+if (await fileExists(SITE_MEDIA_FILE)) {
+  try {
+    const manifest = JSON.parse(await readFile(SITE_MEDIA_FILE, 'utf8'));
+    for (const asset of manifest.assets || []) {
+      const { remote, path: dest } = asset;
+      if (!remote || !dest) continue;
+      if (await fileExists(dest)) continue; // idempotent
+      if (!isAllowedHost(remote)) {
+        console.warn(`skip site media: host not on allow-list -> ${remote}`);
+        failed++;
+        continue;
+      }
+      try {
+        const res = await fetch(remote);
+        if (!res.ok) throw new Error(`HTTP ${res.status}`);
+        await writeFile(dest, Buffer.from(await res.arrayBuffer()));
+        console.log(`localised site media -> ${dest}`);
+        changed++;
+      } catch (err) {
+        console.error(`FAILED site media ${dest}: ${err.message} (${remote})`);
+        failed++;
+      }
+    }
+  } catch (err) {
+    console.error(`site-media.json unreadable: ${err.message}`);
+  }
+}
 
 const files = (await readdir(ARTICLES_DIR)).filter((f) => f.endsWith('.md'));
 
