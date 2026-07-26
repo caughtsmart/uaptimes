@@ -5,7 +5,7 @@ pubDate: 2026-07-14
 author: "UAP Times Desk"
 topic: "History"
 tags: ["O'Hare", "Chicago", "United Airlines", "FAA", "disc", "2006"]
-heroImage: "/images/placeholder-sky.svg"
+heroImage: "/images/ohare-2006-hero.png"
 heroCredit: "AI-generated illustration"
 heroImageRemote: "https://d8j0ntlcm91z4.cloudfront.net/user_3H0FDLhevoDIIm5NZhOBNfDEWRH/hf_20260726_192109_b877a950-f5f4-4c23-a191-8c28e0571fd9.png"
 credibility: 3

@@ -5,7 +5,7 @@ pubDate: 2026-07-16
 author: "UAP Times Desk"
 topic: "History"
 tags: ["Hudson Valley", "New York", "Connecticut", "J. Allen Hynek", "boomerang", "1983"]
-heroImage: "/images/placeholder-sky.svg"
+heroImage: "/images/hudson-valley-1983-hero.png"
 heroCredit: "AI-generated illustration"
 heroImageRemote: "https://d8j0ntlcm91z4.cloudfront.net/user_3H0FDLhevoDIIm5NZhOBNfDEWRH/hf_20260726_192054_f400f0b1-8058-42c3-8ea8-55b770a598dd.png"
 credibility: 3

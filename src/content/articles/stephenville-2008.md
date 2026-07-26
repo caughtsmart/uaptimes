@@ -5,7 +5,7 @@ pubDate: 2026-07-15
 author: "UAP Times Desk"
 topic: "History"
 tags: ["Stephenville", "Texas", "FAA radar", "F-16", "MUFON", "2008"]
-heroImage: "/images/placeholder-sky.svg"
+heroImage: "/images/stephenville-2008-hero.png"
 heroCredit: "AI-generated illustration"
 heroImageRemote: "https://d8j0ntlcm91z4.cloudfront.net/user_3H0FDLhevoDIIm5NZhOBNfDEWRH/hf_20260726_192101_d57bf799-89f2-4c55-a2c4-e0771e868111.png"
 credibility: 2
