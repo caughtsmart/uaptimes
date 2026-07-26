@@ -45,6 +45,26 @@
       "remote": "https://d8j0ntlcm91z4.cloudfront.net/user_3H0FDLhevoDIIm5NZhOBNfDEWRH/hf_20260726_184225_1126db93-7cbe-4310-b47a-4de3c682a2a6.png",
       "path": "public/images/tehran-dogfight-1976-5.png",
       "note": "Tehran dogfight inline — a brilliant planet low on the horizon, the sceptic's candidate (AI-generated)."
+    },
+    {
+      "remote": "https://d8j0ntlcm91z4.cloudfront.net/user_3H0FDLhevoDIIm5NZhOBNfDEWRH/hf_20260726_185439_0b9a2264-3df6-45c6-8371-f4dae85d6fbf.png",
+      "path": "public/images/belgian-wave-1990-2.png",
+      "note": "Belgian Wave inline — police and witnesses watching the triangle (AI-generated)."
+    },
+    {
+      "remote": "https://d8j0ntlcm91z4.cloudfront.net/user_3H0FDLhevoDIIm5NZhOBNfDEWRH/hf_20260726_185442_dad3a76e-1688-4100-a257-377c4dfdab1f.png",
+      "path": "public/images/belgian-wave-1990-3.png",
+      "note": "Belgian Wave inline — F-16s scrambled on the radar returns (AI-generated)."
+    },
+    {
+      "remote": "https://d8j0ntlcm91z4.cloudfront.net/user_3H0FDLhevoDIIm5NZhOBNfDEWRH/hf_20260726_185444_7ccb82eb-c57d-431e-ab94-ff8deb4b045f.png",
+      "path": "public/images/belgian-wave-1990-4.png",
+      "note": "Belgian Wave inline — the Petit-Rechain photo (later confessed a hoax) (AI-generated)."
+    },
+    {
+      "remote": "https://d8j0ntlcm91z4.cloudfront.net/user_3H0FDLhevoDIIm5NZhOBNfDEWRH/hf_20260726_185445_5a4303e2-0482-482f-9d71-aea43b869155.png",
+      "path": "public/images/belgian-wave-1990-5.png",
+      "note": "Belgian Wave inline — the hoax reveal, a painted styrofoam model (AI-generated)."
     }
   ],
   "_note_masthead_mp4": "public/images/masthead-ufo.mp4 is a hand-managed asset, not fetched by CI: the 1080p original (Higgsfield kling3_0_turbo, image-to-video from the still) was re-encoded to a ~0.6MB 720p H.264 clip for mobile-friendliness. Deliberately NOT listed above so CI never restores the 9MB original."
