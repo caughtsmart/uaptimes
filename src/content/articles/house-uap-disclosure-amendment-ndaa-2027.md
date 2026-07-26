@@ -5,7 +5,7 @@ pubDate: 2026-07-26
 author: "UAP Times Desk"
 topic: "Government & Disclosure"
 tags: ["UAP Disclosure Act", "Eric Burlison", "NDAA", "Congress", "PURSUE", "AARO"]
-heroImage: "/images/placeholder-sky.svg"
+heroImage: "/images/house-uap-disclosure-amendment-ndaa-2027-hero.png"
 heroCredit: "AI-generated illustration"
 heroImageRemote: "https://d8j0ntlcm91z4.cloudfront.net/user_3H0FDLhevoDIIm5NZhOBNfDEWRH/hf_20260726_095131_368c98d0-81c2-46a4-b833-77d25dff9396.png"
 credibility: 1
