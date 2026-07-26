@@ -25,6 +25,26 @@
       "remote": "https://d8j0ntlcm91z4.cloudfront.net/user_3H0FDLhevoDIIm5NZhOBNfDEWRH/hf_20260726_182135_82503208-045b-4cde-a064-fab254bbf4b0.png",
       "path": "public/images/rendlesham-forest-1980-5.png",
       "note": "Rendlesham article inline — the Orford Ness lighthouse beam (AI-generated)."
+    },
+    {
+      "remote": "https://d8j0ntlcm91z4.cloudfront.net/user_3H0FDLhevoDIIm5NZhOBNfDEWRH/hf_20260726_184220_889ef78c-8402-4a64-8277-a19d9d78494c.png",
+      "path": "public/images/tehran-dogfight-1976-2.png",
+      "note": "Tehran dogfight inline — F-4 cockpit, instruments failing (AI-generated)."
+    },
+    {
+      "remote": "https://d8j0ntlcm91z4.cloudfront.net/user_3H0FDLhevoDIIm5NZhOBNfDEWRH/hf_20260726_184222_2b7ff474-20fe-4a8d-a1b1-6e280c87a26b.png",
+      "path": "public/images/tehran-dogfight-1976-3.png",
+      "note": "Tehran dogfight inline — ground radar control room (AI-generated)."
+    },
+    {
+      "remote": "https://d8j0ntlcm91z4.cloudfront.net/user_3H0FDLhevoDIIm5NZhOBNfDEWRH/hf_20260726_184224_fbb4fb86-270e-4fae-a519-8b8500c56e4a.png",
+      "path": "public/images/tehran-dogfight-1976-4.png",
+      "note": "Tehran dogfight inline — smaller object detaching from the main object (AI-generated)."
+    },
+    {
+      "remote": "https://d8j0ntlcm91z4.cloudfront.net/user_3H0FDLhevoDIIm5NZhOBNfDEWRH/hf_20260726_184225_1126db93-7cbe-4310-b47a-4de3c682a2a6.png",
+      "path": "public/images/tehran-dogfight-1976-5.png",
+      "note": "Tehran dogfight inline — a brilliant planet low on the horizon, the sceptic's candidate (AI-generated)."
     }
   ],
   "_note_masthead_mp4": "public/images/masthead-ufo.mp4 is a hand-managed asset, not fetched by CI: the 1080p original (Higgsfield kling3_0_turbo, image-to-video from the still) was re-encoded to a ~0.6MB 720p H.264 clip for mobile-friendliness. Deliberately NOT listed above so CI never restores the 9MB original."
