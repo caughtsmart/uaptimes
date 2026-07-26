@@ -804,3 +804,24 @@ img { max-width: 100%; height: auto; display: block; }
   .craft-svg .cs-orb, .cs-blink { animation: none; }
   .craft-card:hover .craft-scan { animation: none; }
 }
+
+/* Craft-type cross-links (map popup + case list -> /field-guide) */
+.uap-pop-type {
+  display: inline-block; margin: .15rem 0 .1rem;
+  font-family: var(--font-mono); font-size: .66rem;
+  letter-spacing: .06em; text-transform: uppercase; color: #f0b429;
+}
+.uap-pop-type:hover { color: #ffcf5a; }
+.sighting-links { display: flex; gap: 1.1rem; flex-wrap: wrap; align-items: center; margin: .35rem 0 0; }
+.sighting-type {
+  font-family: var(--font-mono); font-size: .72rem;
+  letter-spacing: .04em; text-transform: uppercase; color: var(--warn);
+}
+.sighting-link { margin: 0; }
+
+/* small orbs for the sphere-cluster schematic */
+.craft-svg .cs-orb-sm {
+  fill: #ffcf86;
+  filter: drop-shadow(0 0 5px rgba(255,150,60,.75));
+  animation: orb-pulse 3s ease-in-out infinite;
+}

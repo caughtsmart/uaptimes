@@ -108,5 +108,38 @@
     "desc": "A sphere or dome girdled by a broad ring — one of the more frequently photographed classic forms.",
     "traits": ["Body + ring", "Photographed cases", "Rotational symmetry"],
     "cases": [{ "n": "Trindade", "id": "trindade-1958" }]
+  },
+  {
+    "id": "cross",
+    "name": "Cross / Plus",
+    "aka": "Flying cross",
+    "code": "MORPH-11",
+    "size": "8–20 m",
+    "firstLogged": "Devon, 1967",
+    "desc": "A cruciform craft — two booms or ranks of light crossing at right angles. A recurring form in the British and European waves.",
+    "traits": ["Cruciform outline", "Tip lights", "Slow drift"],
+    "cases": []
+  },
+  {
+    "id": "delta",
+    "name": "Delta / Flying Wing",
+    "aka": "Manta, arrowhead",
+    "code": "MORPH-12",
+    "size": "15–60 m",
+    "firstLogged": "Belgium, 1990",
+    "desc": "A swept, wing-like delta with no fuselage or tail — closer to a stealth flying wing than a flat triangle.",
+    "traits": ["Swept wing", "No tail", "Banking turns"],
+    "cases": [{ "n": "Belgian Wave", "id": "belgian-wave-1990" }]
+  },
+  {
+    "id": "cluster",
+    "name": "Sphere Cluster",
+    "aka": "Fleet, formation",
+    "code": "MORPH-13",
+    "size": "varies",
+    "firstLogged": "Washington, 1952",
+    "desc": "Not one craft but many — a formation of orbs or lights moving together, splitting apart and re-forming.",
+    "traits": ["Multiple objects", "Formation flight", "Split & merge"],
+    "cases": [{ "n": "Washington D.C.", "id": "washington-1952" }]
   }
 ]

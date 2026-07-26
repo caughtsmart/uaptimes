@@ -1,10 +1,44 @@
 ---
 import BaseLayout from '../layouts/BaseLayout.astro';
 import sightings from '../data/sightings.json';
+import craft from '../data/craft-types.json';
+
+// Map each sighting to its reported craft shape (schematics on /field-guide).
+const typeOf = {
+  'nimitz-tictac-2004': 'tictac',
+  'area-51-lazar': 'disc',
+  'roswell-1947': 'disc',
+  'phoenix-lights-1997': 'chevron',
+  'rendlesham-1980': 'triangle',
+  'belgian-wave-1990': 'triangle',
+  'washington-1952': 'orb',
+  'kecksburg-1965': 'bell',
+  'westall-1966': 'disc',
+  'tehran-1976': 'orb',
+  'jal1628-1986': 'cigar',
+  'trans-en-provence-1981': 'disc',
+  'trindade-1958': 'saturn',
+  'hudson-valley-1983': 'chevron',
+  'stephenville-2008': 'triangle',
+  'aguadilla-2013': 'orb',
+  'ohare-2006': 'disc',
+  'levelland-1957': 'egg',
+  'shag-harbour-1967': 'orb',
+  'varginha-1996': 'egg',
+  'ariel-school-1994': 'disc',
+  'malmstrom-1967': 'orb',
+  'cash-landrum-1980': 'diamond',
+};
+const craftName = Object.fromEntries(craft.map((c) => [c.id, c.name]));
+const enriched = sightings.map((s) => ({
+  ...s,
+  craftType: typeOf[s.id] || null,
+  craftName: craftName[typeOf[s.id]] || null,
+}));
 
 // Newest-first for the fallback list; the map plots them all.
-const byDate = [...sightings].sort((a, b) => b.date.localeCompare(a.date));
-const total = sightings.length;
+const byDate = [...enriched].sort((a, b) => b.date.localeCompare(a.date));
+const total = enriched.length;
 const credLabel = ['', 'Well-sourced', 'Credible', 'Unconfirmed', 'Thin', 'Take with salt'];
 ---
 <BaseLayout
@@ -61,7 +95,12 @@ const credLabel = ['', 'Well-sourced', 'Credible', 'Unconfirmed', 'Thin', 'Take 
               </span>
             </p>
             <p class="sighting-blurb">{s.blurb}</p>
-            {s.article && <a class="sighting-link" href={s.article}>Read the file →</a>}
+            <p class="sighting-links">
+              {s.craftType && (
+                <a class="sighting-type" href={`/field-guide#type-${s.craftType}`}>◈ {s.craftName}</a>
+              )}
+              {s.article && <a class="sighting-link" href={s.article}>Read the file →</a>}
+            </p>
           </div>
         </article>
       ))}
@@ -70,7 +109,7 @@ const credLabel = ['', 'Well-sourced', 'Credible', 'Unconfirmed', 'Thin', 'Take 
     <div class="prose"><a class="back-link" href="/">← Back to the latest</a></div>
   </div>
 
-  <script type="application/json" id="sightings-data" set:html={JSON.stringify(sightings)} />
+  <script type="application/json" id="sightings-data" set:html={JSON.stringify(enriched)} />
 
   <script>
     import L from 'leaflet';
@@ -115,11 +154,15 @@ const credLabel = ['', 'Well-sourced', 'Credible', 'Unconfirmed', 'Thin', 'Take 
         const link = s.article
           ? `<a class="uap-pop-link" href="${esc(s.article)}">Read the file →</a>`
           : '';
+        const typeLine = s.craftType
+          ? `<a class="uap-pop-type" href="/field-guide#type-${esc(s.craftType)}">◈ ${esc(s.craftName)}</a>`
+          : '';
         const html =
           `<div class="uap-pop">` +
             `<div class="uap-pop-hd">${esc(s.name)}</div>` +
             `<div class="uap-pop-meta">${esc(s.place)} &middot; ${esc(s.date)}</div>` +
             `<div class="uap-pop-cred"><span class="lbl">CRED</span> <span class="uap-${t}-txt">${dots}</span></div>` +
+            typeLine +
             `<p class="uap-pop-blurb">${esc(s.blurb)}</p>` +
             link +
           `</div>`;
