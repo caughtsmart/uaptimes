@@ -1,0 +1,41 @@
+name: Localise hero images
+
+# When an article is pushed with a `heroImageRemote` URL, download the image
+# into the repo (GitHub runners have open internet, unlike the authoring
+# sandbox) and commit it so Cloudflare Pages serves it like any other asset.
+
+on:
+  push:
+    branches:
+      - main
+      - 'claude/**'
+    paths:
+      - 'src/content/articles/**'
+
+permissions:
+  contents: write
+
+jobs:
+  localise:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+
+      - name: Fetch remote hero images
+        run: node scripts/localise-hero-images.mjs
+
+      - name: Commit any downloaded images
+        run: |
+          if [[ -n "$(git status --porcelain)" ]]; then
+            git config user.name "uaptimes-bot"
+            git config user.email "actions@users.noreply.github.com"
+            git add public/images src/content/articles
+            git commit -m "Localise hero images [automated]"
+            git push
+          else
+            echo "Nothing to localise."
+          fi

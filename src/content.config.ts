@@ -23,6 +23,11 @@ const articles = defineCollection({
     tags: z.array(z.string()).default([]),
     heroImage: z.string().optional(),      // path in /public, e.g. /images/foo.jpg
     heroCredit: z.string().optional(),
+    // Optional remote source for the hero (e.g. a freshly generated image on a
+    // CDN). CI downloads it into /public/images and repoints heroImage at the
+    // local copy — see scripts/localise-hero-images.mjs. Lets the article
+    // pipeline record an image URL even when it can't fetch the bytes itself.
+    heroImageRemote: z.string().url().optional(),
     // A bit of house personality: how much salt to take the story with.
     // 1 = "we saw the FAA report ourselves", 5 = "bloke on Facebook".
     credibility: z.number().min(1).max(5).default(3),
