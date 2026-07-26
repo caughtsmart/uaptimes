@@ -265,6 +265,12 @@ img { max-width: 100%; height: auto; display: block; }
 .masthead .rec-hud .rec-tc { margin-left: .25rem; opacity: .82; letter-spacing: .1em; }
 @keyframes rec-blink { 0%,50% { opacity: 1; } 51%,100% { opacity: .12; } }
 
+@media (max-width: 699px) {
+  /* phones show the still poster only (the script skips loading the video),
+     so drop the continuous shake/grain animations too */
+  .masthead .masthead-bg-video { animation: none; transform: scale(1.04); }
+  .masthead .masthead-grain { animation: none; }
+}
 @media (max-width: 620px) {
   .masthead .rec-hud { top: .6rem; left: .7rem; font-size: .62rem; }
 }

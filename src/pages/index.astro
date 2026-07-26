@@ -14,13 +14,28 @@ const [lead, ...rest] = articles;
   <section class="masthead">
     <video
       class="masthead-bg-video"
-      autoplay muted loop playsinline
-      preload="metadata"
+      muted loop playsinline
+      preload="none"
       poster="/images/masthead-ufo.png"
+      data-src="/images/masthead-ufo.mp4"
       aria-hidden="true"
-    >
-      <source src="/images/masthead-ufo.mp4" type="video/mp4" />
-    </video>
+    ></video>
+    <script is:inline>
+      // Only load & play the clip on wider screens with motion allowed —
+      // phones and reduced-motion users get the lightweight still poster,
+      // and never download the video at all.
+      (function () {
+        var v = document.querySelector('.masthead-bg-video');
+        if (!v) return;
+        var ok = window.matchMedia('(min-width: 700px)').matches &&
+                 !window.matchMedia('(prefers-reduced-motion: reduce)').matches;
+        if (!ok) return;
+        v.src = v.dataset.src;
+        v.load();
+        var go = function () { var p = v.play(); if (p && p.catch) p.catch(function () {}); };
+        if (v.readyState >= 2) go(); else v.addEventListener('loadeddata', go, { once: true });
+      })();
+    </script>
     <div class="masthead-grain" aria-hidden="true"></div>
     <div class="rec-hud" aria-hidden="true">
       <span class="rec-dot"></span>REC<span class="rec-tc">00:37:14</span>

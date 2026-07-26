@@ -5,11 +5,7 @@
       "remote": "https://d8j0ntlcm91z4.cloudfront.net/user_3H0FDLhevoDIIm5NZhOBNfDEWRH/hf_20260726_113846_9521035e-cc93-4aec-b52e-7cb28466e12d.png",
       "path": "public/images/masthead-ufo.png",
       "note": "Homepage masthead found-footage still / video poster — faint black-triangle craft with 3 lights in fog, AI-generated (Higgsfield nano_banana_pro, 16:9)."
-    },
-    {
-      "remote": "https://d8j0ntlcm91z4.cloudfront.net/user_3H0FDLhevoDIIm5NZhOBNfDEWRH/hf_20260726_114307_ca6e3e2a-b0bb-4844-b488-e112aafd50ba.mp4",
-      "path": "public/images/masthead-ufo.mp4",
-      "note": "Homepage masthead found-footage clip — the triangle craft hovering in drifting fog, AI-generated (Higgsfield kling3_0_turbo, image-to-video from the still, 5s 1080p)."
     }
-  ]
+  ],
+  "_note_masthead_mp4": "public/images/masthead-ufo.mp4 is a hand-managed asset, not fetched by CI: the 1080p original (Higgsfield kling3_0_turbo, image-to-video from the still) was re-encoded to a ~0.6MB 720p H.264 clip for mobile-friendliness. Deliberately NOT listed above so CI never restores the 9MB original."
 }
