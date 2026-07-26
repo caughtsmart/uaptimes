@@ -195,20 +195,11 @@ img { max-width: 100%; height: auto; display: block; }
   background-position: center 42%;
   overflow: hidden;
 }
-/* looping video sky — sits over the still, under the overlay + content.
-   The `.masthead` prefix lifts this above the `.masthead > *` content rule
-   so the video stays the absolute back layer instead of joining the flow. */
-.masthead .masthead-bg-video {
-  position: absolute; inset: 0; z-index: 0;
-  width: 100%; height: 100%;
-  object-fit: cover; object-position: center 42%;
-  border: 0; pointer-events: none;
-}
-/* legibility gradient over image + video */
+/* legibility gradient over the sky photo */
 .masthead::before {
   content: "";
   position: absolute; inset: 0; z-index: 1; pointer-events: none;
-  background: linear-gradient(180deg, rgba(8,10,16,.66) 0%, rgba(8,10,16,.5) 45%, rgba(10,9,7,.86) 100%);
+  background: linear-gradient(180deg, rgba(8,10,16,.6) 0%, rgba(8,10,16,.44) 45%, rgba(10,9,7,.84) 100%);
 }
 /* faint scanline texture over the photo for a surveillance-feed feel */
 .masthead::after {
@@ -218,15 +209,49 @@ img { max-width: 100%; height: auto; display: block; }
   mix-blend-mode: overlay;
   opacity: .5;
 }
-/* content sits above the overlay; the video keeps its own higher-specificity
-   rule above, so it stays the absolute back layer and isn't caught here */
 .masthead > * { position: relative; z-index: 3; }
-/* honour reduced-motion and spare mobile the download — show the still */
-@media (prefers-reduced-motion: reduce) {
-  .masthead-bg-video { display: none; }
+
+/* ---- Animated light streaks across the night sky (UAP shooting-stars) ---- */
+.sky-streaks {
+  position: absolute; inset: 0; z-index: 2;   /* over the gradient, behind the text */
+  overflow: hidden; pointer-events: none;
 }
-@media (max-width: 620px) {
-  .masthead-bg-video { display: none; }
+.sky-streaks span {
+  position: absolute;
+  left: 0;
+  height: 2px;
+  width: 220px;
+  border-radius: 2px;
+  background: linear-gradient(90deg, transparent 0%, rgba(140,200,255,.5) 40%, rgba(220,240,255,.98) 78%, #ffffff 90%, transparent 100%);
+  box-shadow: 0 0 6px 1px rgba(150,205,255,.75);
+  opacity: 0;
+  transform: translate3d(-30vw, 0, 0) rotate(19deg);
+  animation: streak-fly 6s linear infinite;
+  will-change: transform, opacity;
+}
+/* a leading "head" so each streak reads as a meteor, not just a line */
+.sky-streaks span::after {
+  content: "";
+  position: absolute; right: -2px; top: -1.5px;
+  width: 5px; height: 5px; border-radius: 50%;
+  background: #ffffff;
+  box-shadow: 0 0 10px 3px rgba(200,230,255,.95);
+}
+@keyframes streak-fly {
+  0%   { opacity: 0; transform: translate3d(-30vw, -8vh, 0) rotate(19deg); }
+  6%   { opacity: 1; }
+  60%  { opacity: 1; }
+  100% { opacity: 0; transform: translate3d(120vw, 44vh, 0) rotate(19deg); }
+}
+/* stagger the streaks so it feels like an intermittent meteor shower */
+.sky-streaks span:nth-child(1) { top: 12%; width: 240px; animation-duration: 5s;   animation-delay: 0s;   }
+.sky-streaks span:nth-child(2) { top: 4%;  width: 180px; animation-duration: 7s;   animation-delay: 1.4s; }
+.sky-streaks span:nth-child(3) { top: 26%; width: 200px; animation-duration: 6s;   animation-delay: 2.6s; }
+.sky-streaks span:nth-child(4) { top: 0%;  width: 300px; animation-duration: 8s;   animation-delay: 3.8s; }
+.sky-streaks span:nth-child(5) { top: 18%; width: 160px; animation-duration: 5.5s; animation-delay: 5s;   }
+.sky-streaks span:nth-child(6) { top: 33%; width: 210px; animation-duration: 6.5s; animation-delay: 6.2s; }
+@media (prefers-reduced-motion: reduce) {
+  .sky-streaks { display: none; }
 }
 .masthead h1 {
   font-family: var(--font-mono);
