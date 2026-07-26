@@ -1,0 +1,33 @@
+---
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import Giscus from '../../components/Giscus.astro';
+import { BOARDS } from '../../config/forum';
+
+// One page per board, generated at build time from the forum config.
+export function getStaticPaths() {
+  return BOARDS.map((board) => ({
+    params: { board: board.slug },
+    props: { board },
+  }));
+}
+
+const { board } = Astro.props;
+---
+<BaseLayout
+  title={`${board.title} — Forum`}
+  description={`${board.blurb} Join the discussion on the UAP Times community forum.`}
+>
+  <div class="container">
+    <div class="article-header prose">
+      <span class="topic-tag">Forum</span>
+      <h1><span class="board-icon" aria-hidden="true">{board.icon}</span> {board.title}</h1>
+      <p class="lede">{board.blurb}</p>
+    </div>
+
+    <div class="prose forum-board">
+      <Giscus term={board.slug} />
+    </div>
+
+    <div class="prose"><a class="back-link" href="/forum/">← All boards</a></div>
+  </div>
+</BaseLayout>

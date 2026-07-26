@@ -233,6 +233,42 @@ img { max-width: 100%; height: auto; display: block; }
 .signup button:hover { filter: brightness(1.08); }
 .signup .small { font-size: .75rem; color: var(--text-dim); margin: .8rem 0 0; }
 
+/* ---- Forum ---- */
+.forum-grid { padding-top: 1.5rem; }
+.forum-card { cursor: pointer; }
+.forum-card:hover { text-decoration: none; }
+.forum-card .card-body { gap: .55rem; }
+.board-icon { font-size: 1.35rem; line-height: 1; }
+.board-enter { color: var(--accent); font-size: .82rem; margin-top: auto; }
+.forum-card:hover .board-enter { text-decoration: underline; }
+
+.forum-rules { margin-top: 1rem; }
+.forum-rules ul { padding-left: 1.2rem; color: var(--text-dim); }
+.forum-rules li { margin: .5rem 0; }
+.forum-rules li strong { color: var(--text); }
+
+.forum-board { margin: 2rem auto; min-height: 200px; }
+.giscus-wrap { color-scheme: dark; }
+
+.forum-notice {
+  background: linear-gradient(135deg, var(--bg-soft), var(--bg-softer));
+  border: 1px solid var(--border);
+  border-radius: 12px;
+  padding: 1.5rem 1.6rem;
+  color: var(--text-dim);
+  text-align: center;
+}
+.forum-notice p { margin: 0 0 .6rem; }
+.forum-notice p:last-child { margin-bottom: 0; }
+.forum-notice code {
+  background: var(--bg);
+  border: 1px solid var(--border);
+  border-radius: 5px;
+  padding: .1rem .4rem;
+  font-size: .85em;
+  color: var(--text);
+}
+
 /* ---- Utility ---- */
 .section-title {
   font-family: var(--font-head); font-size: 1.5rem;

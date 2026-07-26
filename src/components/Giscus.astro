@@ -1,0 +1,49 @@
+---
+// Giscus discussion widget — one threaded board per page.
+// Renders nothing but a friendly notice until the repo is wired up in
+// src/config/forum.ts (so the site is safe to deploy before setup is done).
+import { GISCUS, isGiscusConfigured } from '../config/forum';
+
+interface Props {
+  /** Unique key for this board's thread (we use the board slug). */
+  term: string;
+}
+const { term } = Astro.props;
+---
+{isGiscusConfigured ? (
+  <div class="giscus-wrap">
+    <script
+      src="https://giscus.app/client.js"
+      data-repo={GISCUS.repo}
+      data-repo-id={GISCUS.repoId}
+      data-category={GISCUS.category}
+      data-category-id={GISCUS.categoryId}
+      data-mapping="specific"
+      data-term={`forum:${term}`}
+      data-strict="1"
+      data-reactions-enabled="1"
+      data-emit-metadata="0"
+      data-input-position="top"
+      data-theme="transparent_dark"
+      data-lang="en"
+      data-loading="lazy"
+      crossorigin="anonymous"
+      async
+    ></script>
+    <noscript>
+      <p class="forum-notice">
+        This board needs JavaScript to load. You can also join the conversation
+        directly in <a href={`https://github.com/${GISCUS.repo}/discussions`}>GitHub Discussions</a>.
+      </p>
+    </noscript>
+  </div>
+) : (
+  <div class="forum-notice">
+    <p><strong>This board is warming up. 🛰️</strong></p>
+    <p>
+      Comments are powered by GitHub Discussions and just need a one-time hookup.
+      See <code>FORUM-SETUP.md</code> in the repo to switch it on — until then,
+      the boards are visible but not yet accepting posts.
+    </p>
+  </div>
+)}

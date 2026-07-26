@@ -1,0 +1,46 @@
+---
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import { BOARDS } from '../../config/forum';
+---
+<BaseLayout
+  title="Forum"
+  description="The UAP Times community forum — sightings, disclosure, science, and general discussion. Sceptics and believers both welcome; evidence does the talking."
+>
+  <div class="container">
+    <div class="article-header prose">
+      <span class="topic-tag">Community</span>
+      <h1>The Forum</h1>
+      <p class="lede">
+        Where readers compare notes. Sign in with GitHub, pick a board, and keep
+        it civil — evidence does the talking here.
+      </p>
+    </div>
+
+    <div class="card-grid forum-grid">
+      {BOARDS.map((board) => (
+        <a class="card forum-card" href={`/forum/${board.slug}/`}>
+          <div class="card-body">
+            <span class="board-icon" aria-hidden="true">{board.icon}</span>
+            <h3>{board.title}</h3>
+            <p class="excerpt">{board.blurb}</p>
+            <span class="board-enter meta">Open board →</span>
+          </div>
+        </a>
+      ))}
+    </div>
+
+    <div class="prose forum-rules">
+      <h2 class="section-title">House rules</h2>
+      <ul>
+        <li><strong>Cite it or caveat it.</strong> Link the source, or flag it as a hunch.</li>
+        <li><strong>Play the claim, not the person.</strong> No pile-ons, no doxxing.</li>
+        <li><strong>Scepticism cuts both ways.</strong> "Prove it's aliens" and "prove it isn't" are both lazy.</li>
+        <li><strong>Keep it legal and kind.</strong> Moderators have the final word.</li>
+      </ul>
+      <p class="small">
+        Discussion is hosted on GitHub Discussions via <a href="https://giscus.app" rel="noopener">giscus</a>,
+        so you'll post with your GitHub account. No extra sign-up, no tracking.
+      </p>
+    </div>
+  </div>
+</BaseLayout>

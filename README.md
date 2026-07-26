@@ -101,6 +101,15 @@ Cloudflare rebuilds and redeploys automatically within a minute or two.
 
 ---
 
+## The community forum
+
+There's a **Forum** section (linked in the nav) with themed discussion boards —
+General, Sightings, Disclosure, Science, and a Lounge. It's powered by
+[giscus](https://giscus.app), which uses this repo's **GitHub Discussions** as the
+backend, so it's free and needs no server. Boards show a "warming up" notice until
+you complete a quick one-time hookup — see **[FORUM-SETUP.md](FORUM-SETUP.md)**.
+Add or rename boards in `src/config/forum.ts`.
+
 ## Turning on email signups (your #1 growth lever)
 
 The signup box (`src/components/EmailSignup.astro`) is a demo until you connect a
