@@ -21,7 +21,7 @@ Most small-town UFO flaps live and die on eyewitness word alone. Stephenville is
 On the evening of 8 January 2008, people across Erath County in central Texas — in and around the dairy town of Stephenville — began reporting bright lights and a large, fast-moving, silent object low over the flat farmland. The witnesses were not the usual thin roster. They included a private pilot, a county constable, and a machinist, along with dozens of ordinary residents, several of whom described a craft they estimated to be enormous, moving at high speed without a sound.
 
 <figure class="a-fig">
-  <img src="/images/stephenville-2008-2.png" alt="A Texas rancher by a fence at dusk looking up at bright unexplained lights over flat farmland" />
+  <img src="/images/stephenville-2008-2.png" alt="A Texas rancher by a fence at dusk looking up at bright unexplained lights over flat farmland" width="1376" height="768" loading="lazy" decoding="async" />
   <figcaption>Dozens of Erath County residents — a pilot and a constable among them — reported the lights. <span>AI-generated illustration</span></figcaption>
 </figure>
 
@@ -32,7 +32,7 @@ A local newspaper ran the story, national media descended, and Stephenville brie
 In the immediate aftermath, the military stated that no aircraft had been operating in the area. Then, under pressure, it revised that: in fact, F-16s from the Air Force Reserve had been conducting training flights in the vicinity that evening.
 
 <figure class="a-fig">
-  <img src="/images/stephenville-2008-3.png" alt="Two F-16 fighter jets streaking across a wide Texas sky at dusk over farmland" />
+  <img src="/images/stephenville-2008-3.png" alt="Two F-16 fighter jets streaking across a wide Texas sky at dusk over farmland" width="1376" height="768" loading="lazy" decoding="async" />
   <figcaption>The military first said no jets were flying, then admitted F-16s were training nearby. <span>AI-generated illustration</span></figcaption>
 </figure>
 
@@ -43,7 +43,7 @@ A reversal like that is catnip to conspiracy, but it is also, more prosaically, 
 Then came the data. Investigators associated with MUFON, notably Glen Schulze and Robert Powell, filed for the raw FAA radar records and spent months analysing them. Their conclusion was striking: alongside the identifiable air traffic and the military jets, the data contained an unidentified track — an object with no transponder, moving at speed, and at one point heading in the general direction of the restricted airspace over President Bush's Crawford ranch, with F-16s appearing to converge behind it.
 
 <figure class="a-fig">
-  <img src="/images/stephenville-2008-4.png" alt="A line of bright white parachute flares descending over flat rural Texas farmland at night" />
+  <img src="/images/stephenville-2008-4.png" alt="A line of bright white parachute flares descending over flat rural Texas farmland at night" width="1376" height="768" loading="lazy" decoding="async" />
   <figcaption>Sceptics point to military flares and the F-16s; the radar analysis found a track that isn't so easily placed. <span>AI-generated illustration</span></figcaption>
 </figure>
 

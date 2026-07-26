@@ -21,7 +21,7 @@ The Hudson Valley wave is the case that a partial explanation is supposed to clo
 Beginning around 1982 and running for several years, residents of Westchester and Putnam counties in New York, and neighbouring towns in Connecticut, reported the same apparition again and again: a vast boomerang or V of coloured lights, moving slowly, low, and in near-total silence over the treeline and the rooftops.
 
 <figure class="a-fig">
-  <img src="/images/hudson-valley-1983-2.png" alt="People beside stopped cars on a suburban road at night looking up at a vast boomerang of lights" />
+  <img src="/images/hudson-valley-1983-2.png" alt="People beside stopped cars on a suburban road at night looking up at a vast boomerang of lights" width="1376" height="768" loading="lazy" decoding="async" />
   <figcaption>Drivers pulled over on the parkways to watch; thousands filed reports over several years. <span>AI-generated illustration</span></figcaption>
 </figure>
 
@@ -32,7 +32,7 @@ It became a genuine regional phenomenon. Drivers stopped on the Taconic Parkway.
 The wave attracted a heavyweight investigator: Dr J. Allen Hynek, the astronomer who had spent decades as the US Air Force's own UFO consultant before concluding the subject deserved serious study. Together with the investigator Philip Imbrogno, he gathered hundreds of Hudson Valley reports, later published as the book *Night Siege*.
 
 <figure class="a-fig">
-  <img src="/images/hudson-valley-1983-3.png" alt="An enormous dark boomerang craft passing low overhead with a row of coloured lights along its edge" />
+  <img src="/images/hudson-valley-1983-3.png" alt="An enormous dark boomerang craft passing low overhead with a row of coloured lights along its edge" width="1376" height="768" loading="lazy" decoding="async" />
   <figcaption>Witnesses were adamant: one silent, structured object, not a scatter of planes. <span>AI-generated illustration</span></figcaption>
 </figure>
 
@@ -43,7 +43,7 @@ Hynek's involvement matters for calibration. He was not a wide-eyed believer; he
 Here is the deflating part, and it is real. A group of pilots flying small aircraft — including ultralights — out of Stormville Airport admitted to flying in tight formation at night, sometimes with coloured lights, precisely to create the illusion of a single huge craft. Seen from below, a disciplined V of light aircraft, engines faint or throttled back on the wind, can genuinely read as one silent structure.
 
 <figure class="a-fig">
-  <img src="/images/hudson-valley-1983-4.png" alt="Several small ultralight aircraft flying in tight V formation with coloured lights at night" />
+  <img src="/images/hudson-valley-1983-4.png" alt="Several small ultralight aircraft flying in tight V formation with coloured lights at night" width="1376" height="768" loading="lazy" decoding="async" />
   <figcaption>A group of local pilots admitted flying in formation to mimic a single craft. <span>AI-generated illustration</span></figcaption>
 </figure>
 

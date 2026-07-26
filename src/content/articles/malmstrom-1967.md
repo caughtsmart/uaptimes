@@ -21,7 +21,7 @@ Most UFO cases ask you to weigh what someone saw. Malmstrom asks something harde
 In March 1967, at Malmstrom Air Force Base in Montana, the Minuteman missile fields were run the way they always were: two-officer crews sealed in hardened underground launch control capsules, each responsible for a flight of ten nuclear missiles sitting in silos spread across the surrounding countryside. On the morning in question, Deputy Missile Combat Crew Commander Robert Salas was on duty underground when he received a call from a security guard on the surface, agitated, reporting strange lights in the sky above the launch control facility.
 
 <figure class="a-fig">
-  <img src="/images/malmstrom-1967-3.png" alt="1960s US Air Force security police in winter gear at a floodlit missile-base gate at night looking up at a glowing red object hovering above the snowy base" />
+  <img src="/images/malmstrom-1967-3.png" alt="1960s US Air Force security police in winter gear at a floodlit missile-base gate at night looking up at a glowing red object hovering above the snowy base" width="1376" height="768" loading="lazy" decoding="async" />
   <figcaption>Security police on the surface reported a glowing object hovering over the launch control facility. <span>AI-generated illustration</span></figcaption>
 </figure>
 
@@ -32,7 +32,7 @@ Salas, by his account, told the guard to keep him posted and thought little of i
 Then, Salas says, the missiles began to fail. Within a very short span — seconds — one after another of the flight's ten Minuteman missiles dropped from "alert" status into "no-go," effectively taken off the board and rendered unlaunchable, their guidance and control systems faulting out.
 
 <figure class="a-fig">
-  <img src="/images/malmstrom-1967-2.png" alt="Two US Air Force officers in a cramped underground missile launch control capsule watching a wall of status panels as warning lights flash" />
+  <img src="/images/malmstrom-1967-2.png" alt="Two US Air Force officers in a cramped underground missile launch control capsule watching a wall of status panels as warning lights flash" width="1376" height="768" loading="lazy" decoding="async" />
   <figcaption>Underground, the crew watched the flight's missiles fault off alert one after another. <span>AI-generated illustration</span></figcaption>
 </figure>
 
@@ -43,7 +43,7 @@ For a crew whose entire purpose was to keep those weapons ready, this was close 
 Here the case splits into two threads that sceptics and proponents pull in opposite directions. On one hand, the missile shutdowns were real and were investigated: the failures happened, engineers looked into them, and the incident entered the maintenance and unit record. On the other hand, the official explanation for the shutdowns focused on electronic or electrical causes — a noise pulse propagating through the system — and Air Force documentation does not tidily link the malfunction to a UFO.
 
 <figure class="a-fig">
-  <img src="/images/malmstrom-1967-4.png" alt="A Minuteman ICBM silo hatch in a flat snowy Montana field at night with a faint glowing light hovering in the sky above it" />
+  <img src="/images/malmstrom-1967-4.png" alt="A Minuteman ICBM silo hatch in a flat snowy Montana field at night with a faint glowing light hovering in the sky above it" width="1376" height="768" loading="lazy" decoding="async" />
   <figcaption>Ten Minuteman missiles sat in silos across the Montana countryside; the flight dropped off alert together. <span>AI-generated illustration</span></figcaption>
 </figure>
 

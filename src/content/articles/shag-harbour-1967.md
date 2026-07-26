@@ -21,7 +21,7 @@ Shag Harbour is the case the official record cannot shake off, because the offic
 On the evening of 4 October 1967, in the tiny fishing community of Shag Harbour on the southern tip of Nova Scotia, multiple people independently saw a low string of bright lights in the sky. The lights descended toward the harbour at a shallow angle and struck the surface of the water with what several witnesses described as a bright flash and a whistling or rushing sound, then floated on the sea before sinking.
 
 <figure class="a-fig">
-  <img src="/images/shag-harbour-1967-2.png" alt="A small group of 1960s townspeople and an RCMP officer standing on a rocky Nova Scotia shoreline at night looking at pale lights on the dark water" />
+  <img src="/images/shag-harbour-1967-2.png" alt="A small group of 1960s townspeople and an RCMP officer standing on a rocky Nova Scotia shoreline at night looking at pale lights on the dark water" width="1376" height="768" loading="lazy" decoding="async" />
   <figcaption>Villagers and RCMP officers watched the object float on the harbour before it sank. <span>AI-generated illustration</span></figcaption>
 </figure>
 
@@ -32,7 +32,7 @@ Several of the witnesses were teenagers; others were adults; and — crucially �
 Local fishing boats put out into the dark harbour to look for survivors or wreckage. They found a patch of yellowish foam on the surface — and nothing else. No bodies, no oil slick of the expected kind, no debris field, no sign of an aircraft.
 
 <figure class="a-fig">
-  <img src="/images/shag-harbour-1967-3.png" alt="1967 Royal Canadian Navy search with small boats and divers with lamps on a dark cold Nova Scotia harbour at night" />
+  <img src="/images/shag-harbour-1967-3.png" alt="1967 Royal Canadian Navy search with small boats and divers with lamps on a dark cold Nova Scotia harbour at night" width="1376" height="768" loading="lazy" decoding="async" />
   <figcaption>Boats, and then Royal Canadian Navy divers, searched the harbour for days and found no wreckage. <span>AI-generated illustration</span></figcaption>
 </figure>
 
@@ -43,7 +43,7 @@ The response escalated. The RCMP contacted the military; a check confirmed that 
 What lifts Shag Harbour above the ordinary is the documentation. The incident generated contemporaneous RCMP reports and military message traffic, filed while the event was fresh and by people with no incentive to invent a flying saucer — they were logging what they genuinely took to be a possible fatal crash.
 
 <figure class="a-fig">
-  <img src="/images/shag-harbour-1967-4.png" alt="Close view of a patch of pale yellowish foam on dark cold harbour water at night with a searchlight beam glancing across it" />
+  <img src="/images/shag-harbour-1967-4.png" alt="Close view of a patch of pale yellowish foam on dark cold harbour water at night with a searchlight beam glancing across it" width="1376" height="768" loading="lazy" decoding="async" />
   <figcaption>The one physical trace: a patch of pale yellow foam on the water where the object went down. <span>AI-generated illustration</span></figcaption>
 </figure>
 

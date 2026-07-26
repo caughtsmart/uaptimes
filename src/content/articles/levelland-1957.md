@@ -21,7 +21,7 @@ The Levelland case has a feature that most sightings lack and that is very hard 
 It began late in the evening when a farmhand reported that a large, glowing, egg-shaped object had risen from a field, and that as it did so his truck's engine and lights had cut out. The sheriff's office logged it and, reasonably, thought little of it. Then another call came. Then another.
 
 <figure class="a-fig">
-  <img src="/images/levelland-1957-2.png" alt="A 1950s car stalled on a dark rural Texas road, a man beside it looking up at a glowing oval light" />
+  <img src="/images/levelland-1957-2.png" alt="A 1950s car stalled on a dark rural Texas road, a man beside it looking up at a glowing oval light" width="1376" height="768" loading="lazy" decoding="async" />
   <figcaption>Motorist after motorist reported the same thing: a glowing object, and a dead engine. <span>AI-generated illustration</span></figcaption>
 </figure>
 
@@ -32,7 +32,7 @@ Over the next few hours, roughly a dozen separate motorists, at different points
 The power of Levelland is entirely in that consistency. A single driver with a stalled car and a bright light is nothing — a flat battery and a planet. A dozen drivers, scattered across the roads of one county, who had no way to coordinate, all reporting the same specific combination of a glowing egg and simultaneous electrical failure, is a different order of thing.
 
 <figure class="a-fig">
-  <img src="/images/levelland-1957-3.png" alt="A brilliant glowing egg-shaped object low over flat Texas farmland and power lines at night" />
+  <img src="/images/levelland-1957-3.png" alt="A brilliant glowing egg-shaped object low over flat Texas farmland and power lines at night" width="1376" height="768" loading="lazy" decoding="async" />
   <figcaption>The object was consistently described as egg- or oval-shaped, and brilliantly lit. <span>AI-generated illustration</span></figcaption>
 </figure>
 
@@ -43,7 +43,7 @@ The witnesses were ordinary and, notably, independent — farmhands, a college s
 The US Air Force's Project Blue Book looked at Levelland and reached for a natural explanation: **ball lightning** or a related electrical phenomenon, possibly tied to weather in the area that night. Ball lightning is a real, if poorly understood, phenomenon — luminous spheres that can appear during electrical storms — and severe electrical activity can, in principle, disrupt a car's ignition.
 
 <figure class="a-fig">
-  <img src="/images/levelland-1957-4.png" alt="A glowing sphere of ball lightning near a rural road on a stormy night" />
+  <img src="/images/levelland-1957-4.png" alt="A glowing sphere of ball lightning near a rural road on a stormy night" width="1376" height="768" loading="lazy" decoding="async" />
   <figcaption>The Air Force's answer: ball lightning, a real but rare and poorly-understood phenomenon. <span>AI-generated illustration</span></figcaption>
 </figure>
 

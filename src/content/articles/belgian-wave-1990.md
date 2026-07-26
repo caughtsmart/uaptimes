@@ -23,7 +23,7 @@ It is, for that reason, one of the most institutionally respectable UFO episodes
 It began in earnest on the evening of 29 November 1989, around the town of Eupen in Belgium's German-speaking east. Over the course of that night, dozens of separate groups of witnesses — including, crucially, several gendarmes, Belgium's paramilitary police — reported the same thing: a large, dark, triangular object moving slowly and almost silently across the sky, with a bright light at each of its three corners and a pulsing red light at its centre.
 
 <figure class="a-fig">
-  <img src="/images/belgian-wave-1990-2.png" alt="People and a police officer on a snowy rural road at night looking up at a huge triangular craft with three corner lights" />
+  <img src="/images/belgian-wave-1990-2.png" alt="People and a police officer on a snowy rural road at night looking up at a huge triangular craft with three corner lights" width="1376" height="768" loading="lazy" decoding="async" />
   <figcaption>Police were among the first witnesses near Eupen in November 1989. <span>AI-generated illustration</span></figcaption>
 </figure>
 
@@ -40,7 +40,7 @@ This matters because it removes the usual escape hatch. With most famous cases y
 The wave's centrepiece came on the night of 30–31 March 1990. Two ground radar stations picked up unusual returns; witnesses on the ground reported lights; and the Air Force scrambled two F-16s from Beauvechain to take a look.
 
 <figure class="a-fig">
-  <img src="/images/belgian-wave-1990-3.png" alt="Two F-16 fighter jets banking through the night sky toward distant lights" />
+  <img src="/images/belgian-wave-1990-3.png" alt="Two F-16 fighter jets banking through the night sky toward distant lights" width="1376" height="768" loading="lazy" decoding="async" />
   <figcaption>Two F-16s were vectored onto the radar returns; they locked on repeatedly, and saw nothing. <span>AI-generated illustration</span></figcaption>
 </figure>
 
@@ -53,14 +53,14 @@ De Brouwer's Air Force later released the radar plots and discussed them openly,
 And then there is the picture. In April 1990, near Petit-Rechain, someone photographed a black triangle with three glowing corner lights and a central glow against a pitch-black sky. It was sharp, it was dramatic, and it became *the* image of the Belgian Wave — reproduced in every documentary, on every book cover, the visual shorthand for the entire episode.
 
 <figure class="a-fig">
-  <img src="/images/belgian-wave-1990-4.png" alt="A grainy, blurry night photograph of a black triangle with three white corner lights and a central red light" />
+  <img src="/images/belgian-wave-1990-4.png" alt="A grainy, blurry night photograph of a black triangle with three white corner lights and a central red light" width="1376" height="768" loading="lazy" decoding="async" />
   <figcaption>The Petit-Rechain photo became the wave's defining image — and, in 2011, its defining embarrassment. <span>AI-generated illustration</span></figcaption>
 </figure>
 
 In 2011, a man identified only as Patrick went on Belgian television and admitted he had faked it. The "craft" was a piece of expanded polystyrene, painted, with lights attached, photographed as a lark. He said he had been astonished it was taken seriously for twenty years.
 
 <figure class="a-fig">
-  <img src="/images/belgian-wave-1990-5.png" alt="A crude triangular styrofoam model painted black on a cluttered workbench with small lights at its corners" />
+  <img src="/images/belgian-wave-1990-5.png" alt="A crude triangular styrofoam model painted black on a cluttered workbench with small lights at its corners" width="1376" height="768" loading="lazy" decoding="async" />
   <figcaption>The confession: the famous triangle was painted foam with lights taped to the corners. <span>AI-generated illustration</span></figcaption>
 </figure>
 

@@ -21,7 +21,7 @@ The great weakness of most UFO cases is the shortage of witnesses. Westall has t
 It was mid-morning at Westall High School in the suburb of Clayton South. Accounts describe students out on the sports oval catching sight of a silver-grey object — most often described as a disc or saucer, roughly domed — descending over the open ground and a neighbouring paddock known as The Grange.
 
 <figure class="a-fig">
-  <img src="/images/westall-1966-2.png" alt="A crowd of 1960s Australian schoolchildren and teachers in a field looking up and pointing at the sky" />
+  <img src="/images/westall-1966-2.png" alt="A crowd of 1960s Australian schoolchildren and teachers in a field looking up and pointing at the sky" width="1376" height="768" loading="lazy" decoding="async" />
   <figcaption>Students poured out onto the school oval to watch; teachers followed. <span>AI-generated illustration</span></figcaption>
 </figure>
 
@@ -32,7 +32,7 @@ Word spread, classrooms emptied, and before long a large crowd — the figure us
 The object, witnesses said, descended behind a stand of trees in the paddock, appeared to touch down or hover very low for a short time, then rose and departed at speed. Several reported that small aircraft — light planes — appeared and seemed to circle or pursue it before it left.
 
 <figure class="a-fig">
-  <img src="/images/westall-1966-3.png" alt="A silver-grey saucer hovering low over a grassy paddock with two small light aircraft circling near it" />
+  <img src="/images/westall-1966-3.png" alt="A silver-grey saucer hovering low over a grassy paddock with two small light aircraft circling near it" width="1376" height="768" loading="lazy" decoding="async" />
   <figcaption>Witnesses described light aircraft appearing to circle the craft before it climbed away. <span>AI-generated illustration</span></figcaption>
 </figure>
 
@@ -43,7 +43,7 @@ Afterwards, witnesses described a circle of flattened or scorched grass at the s
 The leading conventional explanation is a **HIBAL** balloon. In the 1960s, a joint Australian–US programme flew large high-altitude balloons carrying instrument packages to sample the upper atmosphere for radioactivity, launched from not far away. A big silvery balloon-and-payload, drifting down and being recovered, is a genuine candidate — it can look strange, it descends, and its recovery could explain an official presence.
 
 <figure class="a-fig">
-  <img src="/images/westall-1966-4.png" alt="A large white high-altitude research balloon with an instrument package drifting down over a grassy field" />
+  <img src="/images/westall-1966-4.png" alt="A large white high-altitude research balloon with an instrument package drifting down over a grassy field" width="1376" height="768" loading="lazy" decoding="async" />
   <figcaption>The leading conventional explanation: a HIBAL high-altitude research balloon and its payload. <span>AI-generated illustration</span></figcaption>
 </figure>
 

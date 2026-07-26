@@ -21,7 +21,7 @@ Some UFO cases are strong because the witness is unimpeachable. JAL 1628 is inte
 On the evening of 17 November 1986, Japan Airlines Flight 1628, a 747 cargo jumbo, was crossing eastern Alaska near Fort Yukon on a freight run. Captain Kenju Terauchi and his two crew reported that they became aware of lights off to their side — and that the lights kept pace with the aircraft.
 
 <figure class="a-fig">
-  <img src="/images/jal1628-alaska-1986-2.png" alt="Cockpit of a 747 at night, pilots looking out at clusters of amber lights ahead" />
+  <img src="/images/jal1628-alaska-1986-2.png" alt="Cockpit of a 747 at night, pilots looking out at clusters of amber lights ahead" width="1376" height="768" loading="lazy" decoding="async" />
   <figcaption>The crew reported two clusters of lights pacing the aircraft for many minutes. <span>AI-generated illustration</span></figcaption>
 </figure>
 
@@ -32,7 +32,7 @@ At first the crew described two smaller objects, each an array of lights, moving
 Then, according to Terauchi, it escalated dramatically. Behind the smaller lights, he said, loomed a gigantic object — something he would later describe as larger than an aircraft carrier, a vast silhouette pacing the 747 across the dark wilderness.
 
 <figure class="a-fig">
-  <img src="/images/jal1628-alaska-1986-3.png" alt="An enormous dark craft silhouette far larger than an airliner against a star field over snow" />
+  <img src="/images/jal1628-alaska-1986-3.png" alt="An enormous dark craft silhouette far larger than an airliner against a star field over snow" width="1376" height="768" loading="lazy" decoding="async" />
   <figcaption>Captain Terauchi described an object he said dwarfed his 747. <span>AI-generated illustration</span></figcaption>
 </figure>
 
@@ -47,7 +47,7 @@ What keeps JAL 1628 respectable is that the FAA took it seriously. Investigators
 Now the cold water, and it is specific. On that night, from JAL 1628's position and heading, the planets **Jupiter and Mars** were shining brilliantly, low in the sky, in very nearly the direction the crew first reported the pacing lights. Bright planets seen from a moving aircraft, refracted and smeared through cold, layered Arctic air, are a documented cause of exactly this kind of "it's keeping pace with us" illusion — because a distant object appears not to move relative to you as you fly.
 
 <figure class="a-fig">
-  <img src="/images/jal1628-alaska-1986-4.png" alt="An extremely bright planet low over a frozen Alaskan horizon with ice fog" />
+  <img src="/images/jal1628-alaska-1986-4.png" alt="An extremely bright planet low over a frozen Alaskan horizon with ice fog" width="1376" height="768" loading="lazy" decoding="async" />
   <figcaption>Jupiter and Mars were blazing low in almost the reported direction that night. <span>AI-generated illustration</span></figcaption>
 </figure>
 

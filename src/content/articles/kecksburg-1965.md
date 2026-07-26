@@ -21,7 +21,7 @@ Kecksburg is sometimes called "Pennsylvania's Roswell," and the comparison is fa
 At around 4:45pm that day, a brilliant fireball was seen across a huge swathe of the north-eastern United States and Canada — Michigan, Ohio, Pennsylvania and beyond. Thousands saw it. It dropped hot metal debris in one place, started grass fires in others, and was, on the face of it, exactly what a large meteor or a piece of re-entering space hardware looks like.
 
 <figure class="a-fig">
-  <img src="/images/kecksburg-1965-2.png" alt="A brilliant fireball with a smoking trail streaking across a twilight sky over rural Pennsylvania" />
+  <img src="/images/kecksburg-1965-2.png" alt="A brilliant fireball with a smoking trail streaking across a twilight sky over rural Pennsylvania" width="1376" height="768" loading="lazy" decoding="async" />
   <figcaption>The fireball of 9 December 1965 was seen across six states. <span>AI-generated illustration</span></figcaption>
 </figure>
 
@@ -32,7 +32,7 @@ That much is not in dispute. Something big and fast came down through the atmosp
 In and around Kecksburg, witnesses reported that an object had come down in the woods, and some described going to look and finding not a meteorite but a manufactured object: acorn- or bell-shaped, perhaps the size of a small car, with a band of markings around its base that a few compared — the phrase recurs across these cases — to hieroglyphics.
 
 <figure class="a-fig">
-  <img src="/images/kecksburg-1965-3.png" alt="1960s US military soldiers with flashlights and trucks cordoning off a dark winter forest" />
+  <img src="/images/kecksburg-1965-3.png" alt="1960s US military soldiers with flashlights and trucks cordoning off a dark winter forest" width="1376" height="768" loading="lazy" decoding="async" />
   <figcaption>Witnesses described the military arriving and sealing off the woods. <span>AI-generated illustration</span></figcaption>
 </figure>
 
@@ -43,7 +43,7 @@ The witnesses then describe a rapid, heavy military response: the US Army arrivi
 The story's signature image is a flatbed army truck leaving the scene at night, carrying something large under a tarpaulin, while the official line held that nothing had been found.
 
 <figure class="a-fig">
-  <img src="/images/kecksburg-1965-4.png" alt="A 1960s military flatbed truck carrying a tarp-covered object driving away down a dark rural road" />
+  <img src="/images/kecksburg-1965-4.png" alt="A 1960s military flatbed truck carrying a tarp-covered object driving away down a dark rural road" width="1376" height="768" loading="lazy" decoding="async" />
   <figcaption>The enduring image: the military hauling something away, saying nothing was there. <span>AI-generated illustration</span></figcaption>
 </figure>
 

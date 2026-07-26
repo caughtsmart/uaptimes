@@ -21,7 +21,7 @@ The O'Hare case has a quality most sightings lack: the witnesses were aviation p
 On the afternoon of 7 November 2006, several United Airlines employees working the ramp and gates in Terminal 1 at Chicago O'Hare reported a dark, metallic, disc-shaped object hovering silently below the low overcast, more or less over Gate C17. Estimates of its size and altitude varied, as they always do, but the accounts converged on the same basic thing: a solid, saucer-like craft, sitting still, in controlled airspace, in broad daylight.
 
 <figure class="a-fig">
-  <img src="/images/ohare-2006-2.png" alt="Airport ramp ground crew in high-visibility jackets on the tarmac looking up at the overcast sky" />
+  <img src="/images/ohare-2006-2.png" alt="Airport ramp ground crew in high-visibility jackets on the tarmac looking up at the overcast sky" width="1376" height="768" loading="lazy" decoding="async" />
   <figcaption>Around a dozen United staff — ramp workers, mechanics and pilots — reported the object. <span>AI-generated illustration</span></figcaption>
 </figure>
 
@@ -32,7 +32,7 @@ Somewhere around a dozen employees are said to have seen it. These were people w
 Then came the detail that made the case famous. The object, witnesses said, suddenly shot vertically upward at high speed — punching a clean, round hole straight through the solid deck of cloud above the airport, leaving a brief blue gap where it had passed.
 
 <figure class="a-fig">
-  <img src="/images/ohare-2006-3.png" alt="A dark disc shooting upward punching a clean circular hole through a grey overcast cloud layer" />
+  <img src="/images/ohare-2006-3.png" alt="A dark disc shooting upward punching a clean circular hole through a grey overcast cloud layer" width="1376" height="768" loading="lazy" decoding="async" />
   <figcaption>Witnesses said the object shot straight up, leaving a clean hole in the overcast. <span>AI-generated illustration</span></figcaption>
 </figure>
 
@@ -43,7 +43,7 @@ It is a vivid, specific, testable claim — and it is also where the sceptical a
 Neither United nor the FAA showed any appetite to look into it. Initially both effectively denied any knowledge; it was only after the *Chicago Tribune* filed a freedom-of-information request that the FAA acknowledged it had received reports. The agency's position was that this was a **weather phenomenon**, not a matter for aviation-safety investigation, and it left it there. No formal inquiry, no interviews on the record, case closed before it opened.
 
 <figure class="a-fig">
-  <img src="/images/ohare-2006-4.png" alt="A grey overcast winter sky over an airport with a clean circular hole punched in the clouds" />
+  <img src="/images/ohare-2006-4.png" alt="A grey overcast winter sky over an airport with a clean circular hole punched in the clouds" width="1376" height="768" loading="lazy" decoding="async" />
   <figcaption>The FAA called it a 'weather phenomenon' and declined to investigate. <span>AI-generated illustration</span></figcaption>
 </figure>
 

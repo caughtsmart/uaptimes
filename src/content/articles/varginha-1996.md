@@ -21,7 +21,7 @@ Varginha is the case we have to be honest about in two directions at once. It is
 On 20 January 1996, in the town of Varginha in the Brazilian state of Minas Gerais, three young women — sisters and a friend, walking through a vacant lot — reported coming upon a strange creature crouched by a wall. They described it as roughly humanoid but distinctly not human: brown or oily-dark, with a large head, thin body, and prominent red eyes, and, in some accounts, small protrusions on its head.
 
 <figure class="a-fig">
-  <img src="/images/varginha-1996-2.png" alt="Three frightened young Brazilian women in an overgrown vacant lot on an overcast day staring at something off-frame" />
+  <img src="/images/varginha-1996-2.png" alt="Three frightened young Brazilian women in an overgrown vacant lot on an overcast day staring at something off-frame" width="1376" height="768" loading="lazy" decoding="async" />
   <figcaption>Three young women reported encountering the creature in a vacant lot; their fright was widely believed to be genuine. <span>AI-generated illustration</span></figcaption>
 </figure>
 
@@ -32,7 +32,7 @@ The women fled in terror, and their account — delivered with obvious and, to t
 Around the same window, the town filled with further reports and, crucially, with rumour: that the local fire brigade and the military had been mobilised, that one or more such creatures had been captured alive or dead, and that the bodies had been spirited away to a hospital and then to a university or military facility for secret study.
 
 <figure class="a-fig">
-  <img src="/images/varginha-1996-3.png" alt="1990s Brazilian military and fire-brigade trucks and soldiers on a wet small-town street on a grey day" />
+  <img src="/images/varginha-1996-3.png" alt="1990s Brazilian military and fire-brigade trucks and soldiers on a wet small-town street on a grey day" width="1376" height="768" loading="lazy" decoding="async" />
   <figcaption>Rumours of a military and fire-brigade operation to capture the creature swept the town. <span>AI-generated illustration</span></figcaption>
 </figure>
 
@@ -43,7 +43,7 @@ The story gained a tragic anchor when it was later claimed that a young soldier 
 And here is the problem, stated plainly. Strip Varginha down and what remains is testimony — a great deal of it, sincerely given, but testimony nonetheless. There is no creature, living or preserved. There is no photograph of the being. There is no documented, verifiable chain of military custody. The capture is rumour layered on rumour, and the official response was flat denial.
 
 <figure class="a-fig">
-  <img src="/images/varginha-1996-4.png" alt="A dim hospital corridor at night with a covered stretcher being wheeled by soldiers" />
+  <img src="/images/varginha-1996-4.png" alt="A dim hospital corridor at night with a covered stretcher being wheeled by soldiers" width="1376" height="768" loading="lazy" decoding="async" />
   <figcaption>The alleged transfer of a captured body to a hospital and beyond rests entirely on second-hand rumour. <span>AI-generated illustration</span></figcaption>
 </figure>
 

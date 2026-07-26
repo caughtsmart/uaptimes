@@ -21,7 +21,7 @@ Roswell is the most famous UFO case in the world, and one of the weakest. Those 
 In early July 1947, a ranch foreman named Mac Brazel found a scattering of odd debris — foil, rubbery material, lightweight beams, tape — across a pasture on the Foster ranch, out near Corona, some seventy-five miles from Roswell. It had been a summer of "flying disc" hysteria across America, so when Brazel eventually reported it, the story reached the Roswell Army Air Field, home of the 509th Bomb Group — at the time, the only nuclear-armed military unit on Earth.
 
 <figure class="a-fig">
-  <img src="/images/roswell-1947-2.png" alt="A 1940s rancher crouching in a desert field examining a piece of silvery foil debris" />
+  <img src="/images/roswell-1947-2.png" alt="A 1940s rancher crouching in a desert field examining a piece of silvery foil debris" width="1376" height="768" loading="lazy" decoding="async" />
   <figcaption>Foil, beams and rubbery material, scattered across a New Mexico pasture. <span>AI-generated illustration</span></figcaption>
 </figure>
 
@@ -32,7 +32,7 @@ The base intelligence officer, Major Jesse Marcel, went out and gathered it up. 
 It didn't last. That same day the debris was flown to Fort Worth, where General Roger Ramey held a press conference, laid the material out for photographers, and identified it as a weather balloon. The papers ran the correction, everyone shrugged, and Roswell vanished from the public mind for three decades. There was no siege of the base, no men in black, no lockdown. The story simply died of embarrassment.
 
 <figure class="a-fig">
-  <img src="/images/roswell-1947-3.png" alt="A 1940s US Army airfield at night with hangars, trucks and floodlights" />
+  <img src="/images/roswell-1947-3.png" alt="A 1940s US Army airfield at night with hangars, trucks and floodlights" width="1376" height="768" loading="lazy" decoding="async" />
   <figcaption>Roswell Army Air Field — home of the only nuclear-armed unit in the world in 1947. <span>AI-generated illustration</span></figcaption>
 </figure>
 
@@ -47,7 +47,7 @@ Roswell was exhumed in the late 1970s, when the nuclear physicist and UFO resear
 Here is the twist that sceptics and believers both tend to get slightly wrong. General Ramey's 1947 "weather balloon" was a cover story — but not for a spacecraft. In the mid-1990s the US Air Force published two lengthy reports that identified the debris as the remains of **Project Mogul**: a top-secret programme of high-altitude balloon trains carrying sensors to detect the acoustic signature of Soviet nuclear tests.
 
 <figure class="a-fig">
-  <img src="/images/roswell-1947-4.png" alt="1940s Army Air Force officers inspecting the remains of a downed balloon and a foil radar reflector on desert ground" />
+  <img src="/images/roswell-1947-4.png" alt="1940s Army Air Force officers inspecting the remains of a downed balloon and a foil radar reflector on desert ground" width="1376" height="768" loading="lazy" decoding="async" />
   <figcaption>The best-supported explanation: a classified Project Mogul balloon array, not a garden-variety weather balloon. <span>AI-generated illustration</span></figcaption>
 </figure>
 

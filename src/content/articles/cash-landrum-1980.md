@@ -21,7 +21,7 @@ Most UFO cases leave nothing behind but words. Cash–Landrum left injuries. Two
 On the night of 29 December 1980, Betty Cash, Vickie Landrum, and Landrum's seven-year-old grandson Colby were driving home through the piney woods near Huffman, north-east of Houston. On a lonely stretch of road, they encountered an enormous object hanging over the treeline: a large, diamond- or cone-shaped craft, glowing brilliantly and — most memorably — periodically belching flame downward from its base, roaring, and throwing off ferocious heat.
 
 <figure class="a-fig">
-  <img src="/images/cash-landrum-1980-2.png" alt="Two women and a young boy standing beside a 1980s car on a dark wooded Texas road shielding their faces from an intense glow" />
+  <img src="/images/cash-landrum-1980-2.png" alt="Two women and a young boy standing beside a 1980s car on a dark wooded Texas road shielding their faces from an intense glow" width="1376" height="768" loading="lazy" decoding="async" />
   <figcaption>Betty Cash, Vickie Landrum and young Colby stopped in the road as the craft blazed ahead of them. <span>AI-generated illustration</span></figcaption>
 </figure>
 
@@ -32,7 +32,7 @@ They stopped the car. At one point Betty Cash got out; the heat, all three said,
 Then came the detail that turns the case from a strange light into something with fingerprints. As the object moved off, the witnesses said, it was surrounded and seemingly escorted by a swarm of helicopters — many of them, and specifically the large tandem-rotor, twin-blade type, which they and later investigators identified as military CH-47 Chinooks.
 
 <figure class="a-fig">
-  <img src="/images/cash-landrum-1980-3.png" alt="A fleet of tandem-rotor twin-blade military helicopters escorting a glowing object across a dark night sky over pine forest" />
+  <img src="/images/cash-landrum-1980-3.png" alt="A fleet of tandem-rotor twin-blade military helicopters escorting a glowing object across a dark night sky over pine forest" width="1376" height="768" loading="lazy" decoding="async" />
   <figcaption>The witnesses counted more than twenty helicopters — many identified as military Chinooks — escorting the craft. <span>AI-generated illustration</span></figcaption>
 </figure>
 
@@ -43,7 +43,7 @@ The helicopters matter enormously. A glowing craft alone is a mystery; a glowing
 In the hours and days that followed, all three fell ill. Betty Cash, who had been outside the car the longest, was worst affected: severe nausea and vomiting, blistering and reddening of the skin, hair loss, and weakness that put her in hospital. The symptoms, doctors noted, resembled radiation exposure combined with burns. Cash's health was seriously and lastingly damaged.
 
 <figure class="a-fig">
-  <img src="/images/cash-landrum-1980-4.png" alt="A woman with reddened blistered skin lying ill in a 1980s hospital bed, weak and unwell" />
+  <img src="/images/cash-landrum-1980-4.png" alt="A woman with reddened blistered skin lying ill in a 1980s hospital bed, weak and unwell" width="1376" height="768" loading="lazy" decoding="async" />
   <figcaption>Betty Cash, outside the car longest, suffered burns, hair loss and radiation-like illness. <span>AI-generated illustration</span></figcaption>
 </figure>
 

@@ -21,7 +21,7 @@ There is a particular kind of UFO case that officials cannot simply ignore, beca
 Late on the night of 19–20 July 1952, air-traffic controllers at Washington National Airport watched a cluster of slow-moving targets appear on their radar scopes in airspace where nothing should have been. The objects loitered, then occasionally accelerated away at speeds no aircraft of the day could manage. The returns showed up independently at National, at nearby Andrews Air Force Base, and on the airport's precision-approach radar.
 
 <figure class="a-fig">
-  <img src="/images/washington-1952-2.png" alt="A dim 1950s radar control room with operators watching bright blips on a green scope" />
+  <img src="/images/washington-1952-2.png" alt="A dim 1950s radar control room with operators watching bright blips on a green scope" width="1376" height="768" loading="lazy" decoding="async" />
   <figcaption>Controllers at National, Andrews and on approach radar tracked the same slow, then sudden, returns. <span>AI-generated illustration</span></figcaption>
 </figure>
 
@@ -32,7 +32,7 @@ This is the load-bearing detail: multiple radar sets, operated by different peop
 The Air Force scrambled F-94 jet interceptors to run down the intruders. What followed became the signature frustration of the whole episode: as the jets arrived over the city, the objects seemed to fade from the scopes, only to return once the fighters ran low on fuel and turned for home. On at least one pass a pilot reported being briefly surrounded by lights that then simply left.
 
 <figure class="a-fig">
-  <img src="/images/washington-1952-3.png" alt="Two 1950s straight-wing jet interceptors climbing into the night sky over a city" />
+  <img src="/images/washington-1952-3.png" alt="Two 1950s straight-wing jet interceptors climbing into the night sky over a city" width="1376" height="768" loading="lazy" decoding="async" />
   <figcaption>F-94s were scrambled twice; the targets tended to fade as they arrived. <span>AI-generated illustration</span></figcaption>
 </figure>
 
@@ -43,7 +43,7 @@ Then it happened again the following weekend, 26–27 July, with the same patter
 On 29 July 1952, the Air Force convened a packed press conference — the largest it had held since 1945. The explanation offered, associated with the era's Project Blue Book, was **temperature inversion**: layers of warm air over cooler air can bend radar beams and produce false, ground-based returns that drift and dart in exactly the disconcerting way these had, while also bending light to make stars and distant lamps shimmer like hovering craft.
 
 <figure class="a-fig">
-  <img src="/images/washington-1952-4.png" alt="Soft glowing lights hovering high over the Washington Monument at night" />
+  <img src="/images/washington-1952-4.png" alt="Soft glowing lights hovering high over the Washington Monument at night" width="1376" height="768" loading="lazy" decoding="async" />
   <figcaption>The official verdict: a heat inversion bending radar and light over a humid city. <span>AI-generated illustration</span></figcaption>
 </figure>
 

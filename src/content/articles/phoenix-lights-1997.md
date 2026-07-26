@@ -21,14 +21,14 @@ The single most important fact about the Phoenix Lights is that there were two o
 At about 8pm, people across a huge stretch of Arizona — from the Nevada line, down through Phoenix, and on toward Tucson — began reporting an enormous V or boomerang formation of lights moving slowly and silently overhead. Witnesses described it passing between them and the stars, occluding the sky as it went, apparently a single vast structure rather than separate aircraft.
 
 <figure class="a-fig">
-  <img src="/images/phoenix-lights-1997-2.png" alt="People on a suburban street and rooftop at night looking up at a huge V of lights" />
+  <img src="/images/phoenix-lights-1997-2.png" alt="People on a suburban street and rooftop at night looking up at a huge V of lights" width="1376" height="768" loading="lazy" decoding="async" />
   <figcaption>Thousands across Arizona reported the same silent V, over hours and hundreds of miles. <span>AI-generated illustration</span></figcaption>
 </figure>
 
 This is the genuinely interesting event, and the harder one to dismiss, because of the sheer number and spread of witnesses reporting a consistent shape over a long track. The mundane explanation on the table is a formation of high-flying aircraft — a flight of jets whose individual lights, seen from far below at night, can read as the edge of one solid craft. Some analyses of the era's video argue exactly that. But "a formation of aircraft that thousands mistook for a single silent mile-wide object" is itself a fairly remarkable claim, and it has never been pinned to a specific, confirmed flight.
 
 <figure class="a-fig">
-  <img src="/images/phoenix-lights-1997-3.png" alt="An enormous dark boomerang craft passing overhead blotting out the stars" />
+  <img src="/images/phoenix-lights-1997-3.png" alt="An enormous dark boomerang craft passing overhead blotting out the stars" width="1376" height="768" loading="lazy" decoding="async" />
   <figcaption>Witnesses described a single structured craft occulting the stars, not separate planes. <span>AI-generated illustration</span></figcaption>
 </figure>
 
@@ -37,7 +37,7 @@ This is the genuinely interesting event, and the harder one to dismiss, because 
 Then, around 10pm, a different thing happened: a row of bright lights appeared to hang, more or less stationary, over the Phoenix area, before slowly winking out one by one. This is the footage most people remember — the static string of glowing dots. And this is the part that is, for practical purposes, solved.
 
 <figure class="a-fig">
-  <img src="/images/phoenix-lights-1997-4.png" alt="A row of bright amber lights descending behind a dark desert mountain ridge at night" />
+  <img src="/images/phoenix-lights-1997-4.png" alt="A row of bright amber lights descending behind a dark desert mountain ridge at night" width="1376" height="768" loading="lazy" decoding="async" />
   <figcaption>The 10pm lights match flares dropped on a range, descending behind the Sierra Estrella ridge. <span>AI-generated illustration</span></figcaption>
 </figure>
 

@@ -15,8 +15,13 @@ const credLabel = ['', 'Well-sourced', 'Credible', 'Unconfirmed', 'Thin', 'Take 
   title={data.title}
   description={data.description}
   image={data.heroImage}
+  imageAlt={data.title}
   article={true}
   publishedTime={data.pubDate}
+  modifiedTime={data.updatedDate}
+  section={data.topic}
+  tags={data.tags}
+  author={data.author}
 >
   <article class="container">
     <header class="article-header prose">
@@ -34,7 +39,14 @@ const credLabel = ['', 'Well-sourced', 'Credible', 'Unconfirmed', 'Thin', 'Take 
 
     {data.heroImage && (
       <figure class="hero-figure">
-        <img src={data.heroImage} alt={data.title} />
+        <img
+          src={data.heroImage}
+          alt={data.title}
+          width="1376"
+          height="768"
+          decoding="async"
+          fetchpriority="high"
+        />
         {data.heroCredit && <figcaption>{data.heroCredit}</figcaption>}
       </figure>
     )}

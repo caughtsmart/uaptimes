@@ -21,7 +21,7 @@ Almost every famous UFO case is made of testimony and, if you are lucky, a photo
 On 8 January 1981, a farmer named Renato Nicolai was working on his property above the village of Trans-en-Provence, in the south of France. He reported hearing a faint whistling and seeing a dull, leaden-grey object, shaped roughly like two saucers joined at the rim, descend and settle briefly on a terrace of his land, before rising and departing.
 
 <figure class="a-fig">
-  <img src="/images/trans-en-provence-1981-2.png" alt="A French farmer standing at the edge of a ploughed field in Provence at dusk" />
+  <img src="/images/trans-en-provence-1981-2.png" alt="A French farmer standing at the edge of a ploughed field in Provence at dusk" width="1376" height="768" loading="lazy" decoding="async" />
   <figcaption>The farmer, Renato Nicolai, reported a grey disc settling briefly on his land. <span>AI-generated illustration</span></figcaption>
 </figure>
 
@@ -32,7 +32,7 @@ It is a single-witness sighting, and a brief one — the kind that normally goes
 France, uniquely, had a government body for studying unexplained aerial phenomena: GEPAN, a unit within the national space agency CNES. GEPAN dispatched investigators to the site the very next day. They photographed and sampled a circular mark on the ground — a ring of compressed, apparently heated soil — and gathered plant material from around it.
 
 <figure class="a-fig">
-  <img src="/images/trans-en-provence-1981-3.png" alt="Two investigators crouching in a field taking soil samples around a circular scorched ground mark" />
+  <img src="/images/trans-en-provence-1981-3.png" alt="Two investigators crouching in a field taking soil samples around a circular scorched ground mark" width="1376" height="768" loading="lazy" decoding="async" />
   <figcaption>GEPAN, part of France's space agency, sampled the site within a day. <span>AI-generated illustration</span></figcaption>
 </figure>
 
@@ -43,7 +43,7 @@ This is what sets the case apart. The evidence was collected fast, by scientists
 The findings were genuinely odd. The soil in the ring showed signs of having been compressed and heated to a moderate temperature. More strikingly, the analysis of the plants — young alfalfa — reported biochemical changes: alterations in pigments and other markers consistent with the plants having been stressed, as if prematurely aged, with the effect strongest nearest the mark and fading with distance.
 
 <figure class="a-fig">
-  <img src="/images/trans-en-provence-1981-4.png" alt="A close-up of a circular scorched compressed ring in bare earth with wilted yellowing alfalfa around it" />
+  <img src="/images/trans-en-provence-1981-4.png" alt="A close-up of a circular scorched compressed ring in bare earth with wilted yellowing alfalfa around it" width="1376" height="768" loading="lazy" decoding="async" />
   <figcaption>Lab analysis reported heated, compressed soil and biochemically stressed plants near the ring. <span>AI-generated illustration</span></figcaption>
 </figure>
 

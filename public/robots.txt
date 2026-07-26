@@ -1,0 +1,6 @@
+# UAP Times — https://uaptimes.com
+# Search engines and social/AI crawlers are welcome.
+User-agent: *
+Allow: /
+
+Sitemap: https://uaptimes.com/sitemap-index.xml

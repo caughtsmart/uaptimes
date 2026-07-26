@@ -21,7 +21,7 @@ The Ariel School case is the one that unsettles even hardened sceptics, and it i
 On the morning of 16 September 1994, at the Ariel School near Ruwa, on the outskirts of Harare in Zimbabwe, children were outside for their morning break while teachers were in a staff meeting. A number of the pupils — estimates centre on around sixty, aged roughly six to twelve — reported seeing one or more objects in the sky, and then a craft that came down near the edge of the school grounds, by a scrubby, rocky area beyond the playground.
 
 <figure class="a-fig">
-  <img src="/images/ariel-school-1994-2.png" alt="A crowd of African schoolchildren in 1990s uniforms at the edge of a playground, alarmed and pointing toward dry bush" />
+  <img src="/images/ariel-school-1994-2.png" alt="A crowd of African schoolchildren in 1990s uniforms at the edge of a playground, alarmed and pointing toward dry bush" width="1376" height="768" loading="lazy" decoding="async" />
   <figcaption>Around sixty children reported the event during morning break, while teachers were indoors. <span>AI-generated illustration</span></figcaption>
 </figure>
 
@@ -32,7 +32,7 @@ The children who went closer, or who saw most clearly, described a figure near t
 That last detail is the sort of thing that ought to trip every sceptical alarm, and it should be weighed carefully. But the physical description — the proportions, the eyes, the suit — recurred across many separate children who, in the immediate aftermath, had limited opportunity to coordinate a single polished story.
 
 <figure class="a-fig">
-  <img src="/images/ariel-school-1994-3.png" alt="A small slender figure with a large head and big black almond eyes standing among rocks and dry trees near a silver craft" />
+  <img src="/images/ariel-school-1994-3.png" alt="A small slender figure with a large head and big black almond eyes standing among rocks and dry trees near a silver craft" width="1376" height="768" loading="lazy" decoding="async" />
   <figcaption>Children independently described a small figure with a large head and big black eyes near the craft. <span>AI-generated illustration</span></figcaption>
 </figure>
 
@@ -43,7 +43,7 @@ The event caused an immediate stir. The headmaster, initially sceptical, found t
 The figure who made Ariel School internationally known was Dr John Mack, a Pulitzer Prize-winning professor of psychiatry at Harvard, who had become deeply — and controversially — interested in accounts of alien encounters. Mack travelled to Zimbabwe and interviewed the children on film. Independently, the pupils were asked to draw what they had seen.
 
 <figure class="a-fig">
-  <img src="/images/ariel-school-1994-4.png" alt="African schoolchildren at desks drawing crayon pictures of a craft and a big-eyed being while an adult investigator watches" />
+  <img src="/images/ariel-school-1994-4.png" alt="African schoolchildren at desks drawing crayon pictures of a craft and a big-eyed being while an adult investigator watches" width="1376" height="768" loading="lazy" decoding="async" />
   <figcaption>Asked to draw what they saw, the children produced strikingly consistent pictures of a craft and a being. <span>AI-generated illustration</span></figcaption>
 </figure>
 

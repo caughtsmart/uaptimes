@@ -21,7 +21,7 @@ Most UFO videos are a smear of pixels shot on a phone by someone who was already
 On the night of 25 April 2013, a Department of Homeland Security Customs and Border Protection aircraft — a twin-turboprop fitted with a surveillance turret — was operating near Rafael Hernández Airport in Aguadilla, on the north-west coast of Puerto Rico. Its thermal-infrared camera picked up a small object, low and warm against the cooler ground and sea, moving across the landscape.
 
 <figure class="a-fig">
-  <img src="/images/aguadilla-2013-2.png" alt="A camera operator inside a surveillance aircraft at night watching an infrared monitor showing a small heat signature over water" />
+  <img src="/images/aguadilla-2013-2.png" alt="A camera operator inside a surveillance aircraft at night watching an infrared monitor showing a small heat signature over water" width="1376" height="768" loading="lazy" decoding="async" />
   <figcaption>The footage came from a calibrated thermal turret on a Customs and Border Protection aircraft. <span>AI-generated illustration</span></figcaption>
 </figure>
 
@@ -32,14 +32,14 @@ The crew tracked it for roughly three minutes. Because the recording is thermal,
 The object crosses over the town and the coastline and then, strikingly, appears to fly straight into the sea without slowing — and to keep moving beneath or across the water before emerging again.
 
 <figure class="a-fig">
-  <img src="/images/aguadilla-2013-3.png" alt="Thermal-infrared aerial view of a small bright object flying low over a tropical town's rooftops toward the coastline at night" />
+  <img src="/images/aguadilla-2013-3.png" alt="Thermal-infrared aerial view of a small bright object flying low over a tropical town's rooftops toward the coastline at night" width="1376" height="768" loading="lazy" decoding="async" />
   <figcaption>On the infrared, the warm object tracks low over Aguadilla and out over the water. <span>AI-generated illustration</span></figcaption>
 </figure>
 
 Then comes the detail that made the case famous: near the end of the footage, the single object appears to split into two, the two now flying together where a moment before there had been one.
 
 <figure class="a-fig">
-  <img src="/images/aguadilla-2013-4.png" alt="Infrared footage of a single warm object splitting into two glowing blobs just above a dark ocean surface at night" />
+  <img src="/images/aguadilla-2013-4.png" alt="Infrared footage of a single warm object splitting into two glowing blobs just above a dark ocean surface at night" width="1376" height="768" loading="lazy" decoding="async" />
   <figcaption>The moment that defines the debate: the object appears to divide in two over the water. <span>AI-generated illustration</span></figcaption>
 </figure>
 

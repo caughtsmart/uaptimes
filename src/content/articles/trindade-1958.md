@@ -21,7 +21,7 @@ For a certain generation of UFO researcher, the Trindade photographs were the go
 Trindade is a rugged volcanic speck in the South Atlantic, roughly a thousand kilometres off the Brazilian coast, jagged and remote. In January 1958 the Brazilian Navy vessel *Almirante Saldanha* was there in support of the International Geophysical Year. Among those aboard was Almiro Baraúna, a civilian photographer.
 
 <figure class="a-fig">
-  <img src="/images/trindade-1958-4.png" alt="A rugged volcanic island with a jagged peak rising from a churning ocean" />
+  <img src="/images/trindade-1958-4.png" alt="A rugged volcanic island with a jagged peak rising from a churning ocean" width="1376" height="768" loading="lazy" decoding="async" />
   <figcaption>Trindade Island — a remote volcanic outpost in the South Atlantic. <span>AI-generated illustration</span></figcaption>
 </figure>
 
@@ -32,7 +32,7 @@ On 16 January, according to the accounts, an object appeared over the island, an
 What the developed negatives showed became one of the most reproduced UFO images of the era: a Saturn-shaped object — a central body girdled by a broad ring — hanging over the island's peak, then apparently moving off out to sea.
 
 <figure class="a-fig">
-  <img src="/images/trindade-1958-2.png" alt="1950s sailors on a warship deck pointing up at the sky over the ocean" />
+  <img src="/images/trindade-1958-2.png" alt="1950s sailors on a warship deck pointing up at the sky over the ocean" width="1376" height="768" loading="lazy" decoding="async" />
   <figcaption>Sailors on deck reported seeing the object as Baraúna photographed it. <span>AI-generated illustration</span></figcaption>
 </figure>
 
@@ -43,7 +43,7 @@ Several people on deck said they saw the object with their own eyes, which is th
 The film, the accounts say, was developed promptly — with Baraúna watched to prevent tampering — and the Navy took the images seriously enough that they made their way up the chain, with Brazil's president of the day, Juscelino Kubitschek, reported to have personally endorsed their authenticity. Official governmental backing for UFO photographs was, and remains, vanishingly rare. It is what lifted Trindade above the endless parade of blurry snapshots.
 
 <figure class="a-fig">
-  <img src="/images/trindade-1958-3.png" alt="A grainy, blurry black-and-white photo of a distant Saturn-shaped object against a pale sky" />
+  <img src="/images/trindade-1958-3.png" alt="A grainy, blurry black-and-white photo of a distant Saturn-shaped object against a pale sky" width="1376" height="768" loading="lazy" decoding="async" />
   <figcaption>The image that made the case — a ringed disc over the island. <span>AI-generated illustration</span></figcaption>
 </figure>
 

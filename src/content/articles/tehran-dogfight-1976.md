@@ -29,7 +29,7 @@ The duty officer's first instinct was the correct one for an air-defence profess
 The first jet ran toward the light and, by the pilot's account, got close enough to matter before his aircraft turned against him. As he closed the distance, his instrumentation and his radio communications failed — the sort of total avionics and UHF drop-out that leaves a pilot suddenly deaf and half-blind in the dark at several hundred knots.
 
 <figure class="a-fig">
-  <img src="/images/tehran-dogfight-1976-2.png" alt="Inside an F-4 Phantom cockpit at night, instrument lights dimming, a bright light through the canopy" />
+  <img src="/images/tehran-dogfight-1976-2.png" alt="Inside an F-4 Phantom cockpit at night, instrument lights dimming, a bright light through the canopy" width="1376" height="768" loading="lazy" decoding="async" />
   <figcaption>Both crews reported instruments and radios failing as they closed on the object. <span>AI-generated illustration</span></figcaption>
 </figure>
 
@@ -40,7 +40,7 @@ He did the only sensible thing: he broke off and turned away. And here is the de
 A second F-4 was scrambled. Its pilot was Lieutenant Parviz Jafari — later a brigadier general, and decades on the most public witness the case would have. This time the jet held together long enough to do some proper air defence.
 
 <figure class="a-fig">
-  <img src="/images/tehran-dogfight-1976-3.png" alt="A dim 1970s military radar control room with operators watching a large blip on a green scope" />
+  <img src="/images/tehran-dogfight-1976-3.png" alt="A dim 1970s military radar control room with operators watching a large blip on a green scope" width="1376" height="768" loading="lazy" decoding="async" />
   <figcaption>Ground stations and the jet's own radar both tracked a large, fast return. <span>AI-generated illustration</span></figcaption>
 </figure>
 
@@ -51,7 +51,7 @@ Jafari acquired the object on his airborne radar, and the return, he said, was s
 Then it escalated. Jafari reported that a smaller, bright object detached from the main one and came toward his aircraft. Reading it as a threat, he moved to fire an AIM-9 Sidewinder — and, at that precise moment, his weapons control panel went dead and he again lost communications. Unable to shoot and unwilling to wait, he took hard evasive action; the small object, he said, either broke away or returned to the larger one.
 
 <figure class="a-fig">
-  <img src="/images/tehran-dogfight-1976-4.png" alt="A brilliant glowing object in the night sky with a smaller bright object streaking away from it" />
+  <img src="/images/tehran-dogfight-1976-4.png" alt="A brilliant glowing object in the night sky with a smaller bright object streaking away from it" width="1376" height="768" loading="lazy" decoding="async" />
   <figcaption>Jafari reported a smaller object detaching toward his jet as his weapons panel died. <span>AI-generated illustration</span></figcaption>
 </figure>
 
@@ -72,7 +72,7 @@ That is the crux of Tehran's reputation. Governments generate mountains of paper
 Now the cold water, and there is a respectable amount of it. The veteran UFO sceptics Philip Klass and James Oberg both dug into Tehran, and their case is not frivolous.
 
 <figure class="a-fig">
-  <img src="/images/tehran-dogfight-1976-5.png" alt="An extremely bright planet blazing low over a dark mountainous horizon beyond distant city lights" />
+  <img src="/images/tehran-dogfight-1976-5.png" alt="An extremely bright planet blazing low over a dark mountainous horizon beyond distant city lights" width="1376" height="768" loading="lazy" decoding="async" />
   <figcaption>The planet Jupiter was exceptionally bright that week — a candidate for the original "object." <span>AI-generated illustration</span></figcaption>
 </figure>
 

@@ -29,7 +29,7 @@ Rendlesham Forest wraps around the eastern edge of Woodbridge. Dense, dark plant
 In the small hours of 26 December 1980, a patrol near Woodbridge's east gate saw lights descending into the forest. The initial assumption was entirely sensible: an aircraft had come down. Three men — Staff Sergeant Jim Penniston, Airman First Class John Burroughs and Airman Edward Cabansag — went in on foot to find the wreck.
 
 <figure class="a-fig">
-  <img src="/images/rendlesham-forest-1980-2.png" alt="US Air Force security police walking with flashlights toward lights in a misty pine forest at night" />
+  <img src="/images/rendlesham-forest-1980-2.png" alt="US Air Force security police walking with flashlights toward lights in a misty pine forest at night" width="1376" height="768" loading="lazy" decoding="async" />
   <figcaption>Security police went into the trees expecting a downed aircraft. <span>AI-generated illustration</span></figcaption>
 </figure>
 
@@ -42,7 +42,7 @@ Penniston says he circled it, sketched it in his notebook, and put his hand on i
 Penniston's is the detailed testimony, and it is the load-bearing wall of the whole case. His contemporaneous notebook sketches — a boxy craft, a triangular landing configuration, close-ups of the symbols — are genuinely striking, and he has repeated the story with remarkable consistency for four decades.
 
 <figure class="a-fig">
-  <img src="/images/rendlesham-forest-1980-3.png" alt="A small dark metallic craft with soft red and blue lights among pine trees at night" />
+  <img src="/images/rendlesham-forest-1980-3.png" alt="A small dark metallic craft with soft red and blue lights among pine trees at night" width="1376" height="768" loading="lazy" decoding="async" />
   <figcaption>Penniston described a small, symbol-covered craft he says he touched. <span>AI-generated illustration</span></figcaption>
 </figure>
 
@@ -53,7 +53,7 @@ It is also, and there is no delicate way to say this, a single person's close-ra
 Daylight is where a UFO case either grows teeth or loses them. At Rendlesham, investigators returned to the clearing and found three shallow depressions in a rough triangle, some broken branches, and — crucially — took radiation readings with a hand-held meter.
 
 <figure class="a-fig">
-  <img src="/images/rendlesham-forest-1980-4.png" alt="Three shallow circular indentations in the frosty floor of a misty pine forest clearing" />
+  <img src="/images/rendlesham-forest-1980-4.png" alt="Three shallow circular indentations in the frosty floor of a misty pine forest clearing" width="1376" height="768" loading="lazy" decoding="async" />
   <figcaption>Three depressions in a triangular pattern, with slightly elevated radiation readings nearby. <span>AI-generated illustration</span></figcaption>
 </figure>
 
@@ -76,7 +76,7 @@ That memo was released to the American public in 1983 under the Freedom of Infor
 And yet. The most persistent thorn in Rendlesham's side is the astronomer and science writer Ian Ridpath, who has spent decades assembling a decidedly earthbound account — and it is not flimsy.
 
 <figure class="a-fig">
-  <img src="/images/rendlesham-forest-1980-5.png" alt="A distant lighthouse beam sweeping across a dark misty forest and fields at night" />
+  <img src="/images/rendlesham-forest-1980-5.png" alt="A distant lighthouse beam sweeping across a dark misty forest and fields at night" width="1376" height="768" loading="lazy" decoding="async" />
   <figcaption>Five miles away, the Orford Ness lighthouse swept the coast every five seconds. <span>AI-generated illustration</span></figcaption>
 </figure>
 
