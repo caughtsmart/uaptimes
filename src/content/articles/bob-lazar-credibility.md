@@ -5,8 +5,8 @@ pubDate: 2026-07-25
 author: "UAP Times Desk"
 topic: "Analysis"
 tags: ["Bob Lazar", "Area 51", "S-4", "Element 115", "classic cases"]
-heroImage: "/images/placeholder-sky.svg"
-heroCredit: "Placeholder — AI-generated hero available, swap in before/after publishing."
+heroImage: "/images/bob-lazar-credibility-hero.png"
+heroCredit: "AI-generated illustration"
 heroImageRemote: "https://d8j0ntlcm91z4.cloudfront.net/user_3H0FDLhevoDIIm5NZhOBNfDEWRH/hf_20260725_232552_1ecdb5fb-f443-41c4-8c15-f7eaf2aa0291.png"
 credibility: 4
 source: "KLAS-TV interviews (George Knapp, 1989); Los Alamos records; contemporaneous reporting"
