@@ -12,8 +12,18 @@ const [lead, ...rest] = articles;
 ---
 <BaseLayout title="UAP Times">
   <section class="masthead">
-    <div class="sky-streaks" aria-hidden="true">
-      <span></span><span></span><span></span><span></span><span></span><span></span>
+    <video
+      class="masthead-bg-video"
+      autoplay muted loop playsinline
+      preload="metadata"
+      poster="/images/masthead-ufo.png"
+      aria-hidden="true"
+    >
+      <source src="/images/masthead-ufo.mp4" type="video/mp4" />
+    </video>
+    <div class="masthead-grain" aria-hidden="true"></div>
+    <div class="rec-hud" aria-hidden="true">
+      <span class="rec-dot"></span>REC<span class="rec-tc">00:37:14</span>
     </div>
     <div class="decl-stamp" aria-hidden="true">
       <span class="decl-stamp__main">Declassified</span>

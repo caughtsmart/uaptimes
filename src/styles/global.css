@@ -177,7 +177,7 @@ img { max-width: 100%; height: auto; display: block; }
    legible over whatever photo sits in --mast-image; a deep fallback colour
    shows if the image is missing so it never renders flat white. */
 .masthead {
-  --mast-image: url('/images/masthead-bg.png');
+  --mast-image: url('/images/masthead-ufo.png');
   position: relative;
   display: flex;
   flex-direction: column;
@@ -211,47 +211,67 @@ img { max-width: 100%; height: auto; display: block; }
 }
 .masthead > * { position: relative; z-index: 3; }
 
-/* ---- Animated light streaks across the night sky (UAP shooting-stars) ---- */
-.sky-streaks {
-  position: absolute; inset: 0; z-index: 2;   /* over the gradient, behind the text */
-  overflow: hidden; pointer-events: none;
+/* ---- Found-footage UFO sighting: video + grain + handheld shake ---- */
+/* the sighting clip; scaled up so the handheld drift never reveals an edge.
+   Higher-specificity selector keeps it the absolute back layer (z-index:0). */
+.masthead .masthead-bg-video {
+  position: absolute; inset: 0; z-index: 0;
+  width: 100%; height: 100%;
+  object-fit: cover; object-position: center 45%;
+  border: 0; pointer-events: none;
+  transform: scale(1.08);
+  animation: handheld 8s ease-in-out infinite;
+  will-change: transform;
 }
-.sky-streaks span {
-  position: absolute;
-  left: 0;
-  height: 2px;
-  width: 220px;
-  border-radius: 2px;
-  background: linear-gradient(90deg, transparent 0%, rgba(140,200,255,.5) 40%, rgba(220,240,255,.98) 78%, #ffffff 90%, transparent 100%);
-  box-shadow: 0 0 6px 1px rgba(150,205,255,.75);
-  opacity: 0;
-  transform: translate3d(-30vw, 0, 0) rotate(19deg);
-  animation: streak-fly 6s linear infinite;
-  will-change: transform, opacity;
+@keyframes handheld {
+  0%   { transform: scale(1.08) translate(0, 0) rotate(0deg); }
+  15%  { transform: scale(1.08) translate(-7px, 5px) rotate(-0.5deg); }
+  32%  { transform: scale(1.09) translate(6px, -4px) rotate(0.4deg); }
+  50%  { transform: scale(1.08) translate(-5px, -6px) rotate(-0.3deg); }
+  68%  { transform: scale(1.09) translate(7px, 4px) rotate(0.5deg); }
+  85%  { transform: scale(1.08) translate(-4px, 3px) rotate(-0.2deg); }
+  100% { transform: scale(1.08) translate(0, 0) rotate(0deg); }
 }
-/* a leading "head" so each streak reads as a meteor, not just a line */
-.sky-streaks span::after {
-  content: "";
-  position: absolute; right: -2px; top: -1.5px;
-  width: 5px; height: 5px; border-radius: 50%;
-  background: #ffffff;
-  box-shadow: 0 0 10px 3px rgba(200,230,255,.95);
+
+/* animated film grain over the footage */
+.masthead .masthead-grain {
+  position: absolute; inset: 0; z-index: 2; pointer-events: none;
+  opacity: .18; mix-blend-mode: overlay;
+  background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='160' height='160'%3E%3Cfilter id='n'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='0.85' numOctaves='2' stitchTiles='stitch'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23n)'/%3E%3C/svg%3E");
+  background-size: 160px 160px;
+  animation: grain-boil .5s steps(4) infinite;
 }
-@keyframes streak-fly {
-  0%   { opacity: 0; transform: translate3d(-30vw, -8vh, 0) rotate(19deg); }
-  6%   { opacity: 1; }
-  60%  { opacity: 1; }
-  100% { opacity: 0; transform: translate3d(120vw, 44vh, 0) rotate(19deg); }
+@keyframes grain-boil {
+  0%   { background-position: 0 0; }
+  25%  { background-position: -40px 30px; }
+  50%  { background-position: 50px -20px; }
+  75%  { background-position: -30px -40px; }
+  100% { background-position: 40px 20px; }
 }
-/* stagger the streaks so it feels like an intermittent meteor shower */
-.sky-streaks span:nth-child(1) { top: 12%; width: 240px; animation-duration: 5s;   animation-delay: 0s;   }
-.sky-streaks span:nth-child(2) { top: 4%;  width: 180px; animation-duration: 7s;   animation-delay: 1.4s; }
-.sky-streaks span:nth-child(3) { top: 26%; width: 200px; animation-duration: 6s;   animation-delay: 2.6s; }
-.sky-streaks span:nth-child(4) { top: 0%;  width: 300px; animation-duration: 8s;   animation-delay: 3.8s; }
-.sky-streaks span:nth-child(5) { top: 18%; width: 160px; animation-duration: 5.5s; animation-delay: 5s;   }
-.sky-streaks span:nth-child(6) { top: 33%; width: 210px; animation-duration: 6.5s; animation-delay: 6.2s; }
+
+/* camcorder REC + timecode HUD to sell the "leaked handheld footage" feel */
+.masthead .rec-hud {
+  position: absolute; top: 1rem; left: 1.15rem; z-index: 4;
+  display: flex; align-items: center; gap: .45rem;
+  font-family: var(--font-mono);
+  font-size: .72rem; letter-spacing: .16em; color: #efe7dc;
+  text-shadow: 0 1px 6px rgba(0,0,0,.75);
+}
+.masthead .rec-hud .rec-dot {
+  width: 9px; height: 9px; border-radius: 50%;
+  background: #e3352a; box-shadow: 0 0 8px 1px rgba(227,53,42,.9);
+  animation: rec-blink 1.4s steps(1) infinite;
+}
+.masthead .rec-hud .rec-tc { margin-left: .25rem; opacity: .82; letter-spacing: .1em; }
+@keyframes rec-blink { 0%,50% { opacity: 1; } 51%,100% { opacity: .12; } }
+
+@media (max-width: 620px) {
+  .masthead .rec-hud { top: .6rem; left: .7rem; font-size: .62rem; }
+}
 @media (prefers-reduced-motion: reduce) {
-  .sky-streaks { display: none; }
+  .masthead .masthead-bg-video { animation: none; transform: scale(1.03); }
+  .masthead .masthead-grain { animation: none; }
+  .masthead .rec-hud .rec-dot { animation: none; }
 }
 .masthead h1 {
   font-family: var(--font-mono);
