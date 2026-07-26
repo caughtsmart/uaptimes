@@ -2,10 +2,13 @@
 import type { CollectionEntry } from 'astro:content';
 import { getCollection } from 'astro:content';
 import BaseLayout from './BaseLayout.astro';
+import ShareBar from '../components/ShareBar.astro';
 
 interface Props { article: CollectionEntry<'articles'>; }
 const { article } = Astro.props;
 const { data } = article;
+
+const shareUrl = new URL(Astro.url.pathname, Astro.site).toString();
 
 const dateStr = data.pubDate.toLocaleDateString('en-GB', {
   day: 'numeric', month: 'long', year: 'numeric',
@@ -85,6 +88,8 @@ const topicSlug = slugify(data.topic);
           ))}
         </div>
       )}
+
+      <ShareBar url={shareUrl} title={data.title} />
     </div>
 
     <div class="prose"><a class="back-link" href="/">← Back to the latest</a></div>
