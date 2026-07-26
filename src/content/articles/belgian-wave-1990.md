@@ -5,7 +5,7 @@ pubDate: 2026-07-23
 author: "UAP Times Desk"
 topic: "History"
 tags: ["Belgian Wave", "Belgium", "F-16", "black triangle", "SOBEPS", "De Brouwer", "1990"]
-heroImage: "/images/placeholder-sky.svg"
+heroImage: "/images/belgian-wave-1990-hero.png"
 heroCredit: "AI-generated illustration"
 heroImageRemote: "https://d8j0ntlcm91z4.cloudfront.net/user_3H0FDLhevoDIIm5NZhOBNfDEWRH/hf_20260726_185436_be0bb10e-d822-43d7-8369-973aa6de0a44.png"
 credibility: 2
