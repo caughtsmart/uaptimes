@@ -5,7 +5,7 @@ pubDate: 2026-07-25
 author: "UAP Times Desk"
 topic: "History"
 tags: ["Rendlesham", "RAF Woodbridge", "Halt Memo", "USAF", "United Kingdom", "Charles Halt", "Jim Penniston"]
-heroImage: "/images/placeholder-sky.svg"
+heroImage: "/images/rendlesham-forest-1980-hero.png"
 heroCredit: "AI-generated illustration"
 heroImageRemote: "https://d8j0ntlcm91z4.cloudfront.net/user_3H0FDLhevoDIIm5NZhOBNfDEWRH/hf_20260726_182129_db38cd69-c3c1-4247-9ffe-e36537d7d04c.png"
 credibility: 2
