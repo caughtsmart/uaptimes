@@ -5,7 +5,7 @@ pubDate: 2026-07-17
 author: "UAP Times Desk"
 topic: "History"
 tags: ["JAL 1628", "Alaska", "FAA", "Kenju Terauchi", "747", "1986"]
-heroImage: "/images/placeholder-sky.svg"
+heroImage: "/images/jal1628-alaska-1986-hero.png"
 heroCredit: "AI-generated illustration"
 heroImageRemote: "https://d8j0ntlcm91z4.cloudfront.net/user_3H0FDLhevoDIIm5NZhOBNfDEWRH/hf_20260726_191451_979877fa-2781-49f0-9139-a9c2b0708968.png"
 credibility: 2

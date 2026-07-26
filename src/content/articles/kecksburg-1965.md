@@ -5,7 +5,7 @@ pubDate: 2026-07-19
 author: "UAP Times Desk"
 topic: "History"
 tags: ["Kecksburg", "Pennsylvania", "fireball", "acorn", "NASA", "1965"]
-heroImage: "/images/placeholder-sky.svg"
+heroImage: "/images/kecksburg-1965-hero.png"
 heroCredit: "AI-generated illustration"
 heroImageRemote: "https://d8j0ntlcm91z4.cloudfront.net/user_3H0FDLhevoDIIm5NZhOBNfDEWRH/hf_20260726_191434_a0d6047b-2e27-4ed3-8a2f-cd438c3f53b7.png"
 credibility: 3

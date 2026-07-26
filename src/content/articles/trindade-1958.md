@@ -5,7 +5,7 @@ pubDate: 2026-07-18
 author: "UAP Times Desk"
 topic: "History"
 tags: ["Trindade", "Brazil", "Almiro Baraúna", "Brazilian Navy", "Saturn", "1958"]
-heroImage: "/images/placeholder-sky.svg"
+heroImage: "/images/trindade-1958-hero.png"
 heroCredit: "AI-generated illustration"
 heroImageRemote: "https://d8j0ntlcm91z4.cloudfront.net/user_3H0FDLhevoDIIm5NZhOBNfDEWRH/hf_20260726_191443_986aab9c-850c-49ca-a6a1-063c3096c980.png"
 credibility: 3
