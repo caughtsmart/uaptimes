@@ -5,7 +5,7 @@ pubDate: 2026-07-26
 author: "UAP Times Desk"
 topic: "Science"
 tags: ["Avi Loeb", "Michael Shermer", "UAP Science Advisory Council", "ODNI", "AARO", "Sean Kirkpatrick"]
-heroImage: "/images/placeholder-sky.svg"
+heroImage: "/images/uap-science-advisory-council-loeb-hero.png"
 heroCredit: "AI-generated illustration"
 heroImageRemote: "https://d8j0ntlcm91z4.cloudfront.net/user_3H0FDLhevoDIIm5NZhOBNfDEWRH/hf_20260726_181030_c14e39da-a93b-4d1b-a1f2-099f831bb73d.png"
 credibility: 2
