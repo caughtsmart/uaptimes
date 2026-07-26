@@ -95,7 +95,8 @@
     "lat": -37.96,
     "lng": 145.132,
     "credibility": 3,
-    "blurb": "Some 200 students and staff watched a craft descend near their school. One of the largest mass sightings on record."
+    "blurb": "Some 200 students and staff watched a craft descend near their school. One of the largest mass sightings on record.",
+    "article": "/articles/westall-1966/"
   },
   {
     "id": "tehran-1976",
@@ -127,7 +128,8 @@
     "lat": 43.497,
     "lng": 6.484,
     "credibility": 3,
-    "blurb": "A farmer reported a landed disc; France’s GEPAN found unusual soil and plant changes at the site. A rare physical-trace investigation."
+    "blurb": "A farmer reported a landed disc; France’s GEPAN found unusual soil and plant changes at the site. A rare physical-trace investigation.",
+    "article": "/articles/trans-en-provence-1981/"
   },
   {
     "id": "trindade-1958",
@@ -191,7 +193,8 @@
     "lat": 33.587,
     "lng": -102.378,
     "credibility": 3,
-    "blurb": "A dozen drivers independently reported an egg-shaped object that stalled their engines and headlights, then departed."
+    "blurb": "A dozen drivers independently reported an egg-shaped object that stalled their engines and headlights, then departed.",
+    "article": "/articles/levelland-1957/"
   },
   {
     "id": "shag-harbour-1967",
