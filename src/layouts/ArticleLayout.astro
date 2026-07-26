@@ -1,7 +1,6 @@
 ---
 import type { CollectionEntry } from 'astro:content';
 import BaseLayout from './BaseLayout.astro';
-import EmailSignup from '../components/EmailSignup.astro';
 
 interface Props { article: CollectionEntry<'articles'>; }
 const { article } = Astro.props;
@@ -61,7 +60,6 @@ const credLabel = ['', 'Well-sourced', 'Credible', 'Unconfirmed', 'Thin', 'Take 
       )}
     </div>
 
-    <EmailSignup />
     <div class="prose"><a class="back-link" href="/">← Back to the latest</a></div>
   </article>
 </BaseLayout>
