@@ -5,7 +5,7 @@ pubDate: 2026-07-13
 author: "UAP Times Desk"
 topic: "History"
 tags: ["Westall", "Australia", "Melbourne", "mass sighting", "HIBAL", "1966"]
-heroImage: "/images/placeholder-sky.svg"
+heroImage: "/images/westall-1966-hero.png"
 heroCredit: "AI-generated illustration"
 heroImageRemote: "https://d8j0ntlcm91z4.cloudfront.net/user_3H0FDLhevoDIIm5NZhOBNfDEWRH/hf_20260726_192554_05f8b683-5240-48f6-9e32-098923248789.png"
 credibility: 3

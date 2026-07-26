@@ -5,7 +5,7 @@ pubDate: 2026-07-11
 author: "UAP Times Desk"
 topic: "History"
 tags: ["Levelland", "Texas", "vehicle interference", "electromagnetic", "Project Blue Book", "1957"]
-heroImage: "/images/placeholder-sky.svg"
+heroImage: "/images/levelland-1957-hero.png"
 heroCredit: "AI-generated illustration"
 heroImageRemote: "https://d8j0ntlcm91z4.cloudfront.net/user_3H0FDLhevoDIIm5NZhOBNfDEWRH/hf_20260726_192609_c381ba7f-c8a7-4ce0-bec9-c84c91d32d76.png"
 credibility: 3

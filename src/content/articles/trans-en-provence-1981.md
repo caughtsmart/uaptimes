@@ -5,7 +5,7 @@ pubDate: 2026-07-12
 author: "UAP Times Desk"
 topic: "History"
 tags: ["Trans-en-Provence", "France", "GEPAN", "CNES", "physical trace", "1981"]
-heroImage: "/images/placeholder-sky.svg"
+heroImage: "/images/trans-en-provence-1981-hero.png"
 heroCredit: "AI-generated illustration"
 heroImageRemote: "https://d8j0ntlcm91z4.cloudfront.net/user_3H0FDLhevoDIIm5NZhOBNfDEWRH/hf_20260726_192601_fe50448e-c77a-41f1-8c7a-f4e8d4d74993.png"
 credibility: 3
