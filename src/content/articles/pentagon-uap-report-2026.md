@@ -33,3 +33,5 @@ AARO has repeatedly asked for better, purpose-built sensors. Until that happens,
 ##### The UAP Times take
 
 Nothing here proves anything lands on the lawn. But nothing here debunks the whole subject either, and the "it's all balloons" crowd should read the resolution rate carefully before celebrating. The honest position remains the boring one: a well-funded office is collecting better data, slowly, and we should watch what it can't explain rather than what it can.
+
+*Update: in July 2026 the House adopted a statutory framework that would put AARO's records under independent review — see [The House Just Voted for UAP Disclosure](/articles/house-uap-disclosure-amendment-ndaa-2027/).*

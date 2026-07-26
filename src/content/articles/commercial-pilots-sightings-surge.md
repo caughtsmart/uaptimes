@@ -29,3 +29,5 @@ None of this means the increase is *entirely* an artefact. It's genuinely possib
 ##### The UAP Times take
 
 When you see the "sightings are surging" headline, ask one question first: did the number of events go up, or did the number of people willing to fill in the form go up? Usually it's some of both, and the honest reporting is the reporting that admits it can't yet tell you the split.
+
+*Related: the same logic applies to witnesses inside government, where the cost of speaking up is being lowered by directive and by statute — see [The House Just Voted for UAP Disclosure](/articles/house-uap-disclosure-amendment-ndaa-2027/).*
