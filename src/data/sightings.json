@@ -216,7 +216,8 @@
     "lat": -21.551,
     "lng": -45.43,
     "credibility": 4,
-    "blurb": "Locals claimed the military captured a strange creature. Enormously popular in Brazil, thin on hard evidence."
+    "blurb": "Locals claimed the military captured a strange creature. Enormously popular in Brazil, thin on hard evidence.",
+    "article": "/articles/varginha-1996/"
   },
   {
     "id": "ariel-school-1994",
@@ -226,7 +227,8 @@
     "lat": -17.9,
     "lng": 31.24,
     "credibility": 3,
-    "blurb": "Around 60 schoolchildren described a landed craft and beings, telling remarkably consistent stories to investigators."
+    "blurb": "Around 60 schoolchildren described a landed craft and beings, telling remarkably consistent stories to investigators.",
+    "article": "/articles/ariel-school-1994/"
   },
   {
     "id": "malmstrom-1967",
@@ -247,6 +249,7 @@
     "lat": 30.07,
     "lng": -95.1,
     "credibility": 3,
-    "blurb": "Two women reported a diamond-shaped craft escorted by helicopters, then suffered burns and radiation-like illness."
+    "blurb": "Two women reported a diamond-shaped craft escorted by helicopters, then suffered burns and radiation-like illness.",
+    "article": "/articles/cash-landrum-1980/"
   }
 ]
