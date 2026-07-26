@@ -5,8 +5,9 @@ pubDate: 2026-07-10
 author: "UAP Times Desk"
 topic: "History"
 tags: ["Nimitz", "Tic Tac", "US Navy", "classic cases"]
-heroImage: "/images/placeholder-radar.svg"
-heroCredit: "Placeholder — swap for a licensed image before publishing."
+heroImage: "/images/tic-tac-encounter-explained-hero.png"
+heroCredit: "AI-generated illustration"
+heroImageRemote: "https://d8j0ntlcm91z4.cloudfront.net/user_3H0FDLhevoDIIm5NZhOBNfDEWRH/hf_20260726_085859_14152416-e601-4702-bc96-36c3041ce997.png"
 credibility: 3
 source: "US Navy declassified accounts"
 featured: false

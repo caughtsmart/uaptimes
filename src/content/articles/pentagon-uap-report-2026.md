@@ -5,8 +5,9 @@ pubDate: 2026-07-22
 author: "UAP Times Desk"
 topic: "Government & Disclosure"
 tags: ["AARO", "Pentagon", "UAP report", "US Navy"]
-heroImage: "/images/placeholder-sky.svg"
-heroCredit: "Placeholder — swap for a licensed image before publishing."
+heroImage: "/images/pentagon-uap-report-2026-hero.png"
+heroCredit: "AI-generated illustration"
+heroImageRemote: "https://d8j0ntlcm91z4.cloudfront.net/user_3H0FDLhevoDIIm5NZhOBNfDEWRH/hf_20260726_085857_3ab505da-70f4-443a-8cbd-671f4eb63cc8.png"
 credibility: 2
 source: "All-domain Anomaly Resolution Office (AARO)"
 featured: true

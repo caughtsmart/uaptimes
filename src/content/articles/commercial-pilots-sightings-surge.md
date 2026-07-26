@@ -5,8 +5,9 @@ pubDate: 2026-07-18
 author: "UAP Times Desk"
 topic: "Analysis"
 tags: ["pilots", "aviation", "reporting", "FAA"]
-heroImage: "/images/placeholder-cockpit.svg"
-heroCredit: "Placeholder — swap for a licensed image before publishing."
+heroImage: "/images/commercial-pilots-sightings-surge-hero.png"
+heroCredit: "AI-generated illustration"
+heroImageRemote: "https://d8j0ntlcm91z4.cloudfront.net/user_3H0FDLhevoDIIm5NZhOBNfDEWRH/hf_20260726_085856_93c4d5cb-d0c1-4599-8392-42f152823749.png"
 credibility: 2
 source: "Aviation safety reporting analysis"
 featured: false
