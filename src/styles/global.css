@@ -440,7 +440,7 @@ img { max-width: 100%; height: auto; display: block; }
   font-size: 0.78rem; color: var(--warn); letter-spacing: 0;
 }
 .tag-list { display:flex; gap:.5rem; flex-wrap:wrap; margin: 1.2rem 0; }
-.tag-list a {
+.tag-list a, .tag-list span {
   font-family: var(--font-mono);
   font-size: .72rem; color: var(--text-dim);
   border:1px solid var(--border-ink); border-radius:3px; padding:.22rem .55rem;

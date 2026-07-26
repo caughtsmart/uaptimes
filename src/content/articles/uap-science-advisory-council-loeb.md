@@ -1,5 +1,6 @@
 ---
 title: "The White House Has a UAP Science Council. It Isn't Allowed to See the Classified Files"
+seoTitle: "The White House UAP Science Council"
 description: "A fifteen-strong panel of scientists, chaired by Avi Loeb, has been asked to resolve the UAP question for the US government — with no budget, no clearances, and access only to material already made public."
 pubDate: 2026-07-26
 author: "UAP Times Desk"

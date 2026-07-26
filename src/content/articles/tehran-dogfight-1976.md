@@ -1,5 +1,6 @@
 ---
 title: "The Tehran Dogfight: Two Jets, a Radar Lock and a Missile That Wouldn't Fire"
+seoTitle: "The 1976 Tehran UFO Dogfight"
 description: "In September 1976 the Imperial Iranian Air Force scrambled F-4 Phantoms at a brilliant object over Tehran. Both jets reported instruments and weapons failing as they closed — and a US intelligence memo called the case 'outstanding.'"
 pubDate: 2026-07-24
 author: "UAP Times Desk"

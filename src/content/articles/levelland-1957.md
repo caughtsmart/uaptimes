@@ -1,5 +1,6 @@
 ---
 title: "Levelland 1957: The Night the Cars Kept Stalling in Texas"
+seoTitle: "Levelland 1957: The UFO That Stalled Cars"
 description: "In a few hours one November night, driver after driver around a small Texas town reported the same thing: a glowing egg-shaped object, and engines and headlights that died as it neared. It's one of the best vehicle-interference cases on record."
 pubDate: 2026-07-11
 author: "UAP Times Desk"

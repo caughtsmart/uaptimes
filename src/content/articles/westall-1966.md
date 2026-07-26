@@ -1,5 +1,6 @@
 ---
 title: "Westall 1966: The Day 200 Australians Watched a Saucer Land"
+seoTitle: "Westall 1966: Australia's Mass UFO Sighting"
 description: "One autumn morning in suburban Melbourne, students and teachers at Westall High poured onto the oval to watch a silver craft descend near their school. It remains one of the largest mass sightings on record — and one of the least explained."
 pubDate: 2026-07-13
 author: "UAP Times Desk"

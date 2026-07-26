@@ -1,5 +1,6 @@
 ---
 title: "Bob Lazar's Credibility: What Actually Checks Out — And What Doesn't"
+seoTitle: "Bob Lazar: What Actually Checks Out"
 description: "Thirty-five years on, how much of Bob Lazar's Area 51 story holds up? We separate the handful of verifiable facts from the claims with no evidence behind them."
 pubDate: 2026-07-25
 author: "UAP Times Desk"

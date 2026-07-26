@@ -1,5 +1,6 @@
 ---
 title: "The Ariel School Encounter: 62 Children and a Story That Held"
+seoTitle: "Ariel School 1994: 62 Children, One UFO"
 description: "One September morning in 1994, dozens of schoolchildren in Zimbabwe said a craft landed beyond their playground and a being looked at them. They drew the same thing, separately, and told a Harvard psychiatrist the same thing, for years. It remains deeply unsettling."
 pubDate: 2026-07-06
 author: "UAP Times Desk"

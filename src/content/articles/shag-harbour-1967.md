@@ -1,5 +1,6 @@
 ---
 title: "Shag Harbour: The Night Something Went Into the Sea Off Nova Scotia"
+seoTitle: "Shag Harbour 1967: Canada's UFO Splashdown"
 description: "In October 1967, villagers on the Nova Scotia coast watched an object with lights descend and strike the water. The RCMP and the Navy searched for days. Canada's own files still list it as an unsolved UFO case — one of the best-documented on record."
 pubDate: 2026-07-09
 author: "UAP Times Desk"

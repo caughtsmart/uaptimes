@@ -1,5 +1,6 @@
 ---
 title: "The House Just Voted for UAP Disclosure. Now Comes the Bit That's Killed It Three Years Running"
+seoTitle: "UAP Disclosure in the 2027 NDAA: What's Stalling It"
 description: "For the first time, the House has adopted a comprehensive UAP records framework on its own floor — Archives collection, review board, eminent domain and all. Turning that into law is an entirely different problem."
 pubDate: 2026-07-26
 author: "UAP Times Desk"

@@ -1,5 +1,6 @@
 ---
 title: "Roswell 1947: How a Crashed Balloon Became the World's Most Famous UFO"
+seoTitle: "Roswell 1947: The World's Most Famous UFO"
 description: "A rancher found strange debris in the New Mexico desert, an army airfield announced it had a 'flying disc,' and then took it back within hours. Everything else — the bodies, the memory metal, the cover-up — came decades later."
 pubDate: 2026-07-22
 author: "UAP Times Desk"

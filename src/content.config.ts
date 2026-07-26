@@ -9,6 +9,11 @@ const articles = defineCollection({
   loader: glob({ pattern: '**/*.md', base: './src/content/articles' }),
   schema: z.object({
     title: z.string(),
+    // Optional shorter, keyword-front-loaded title for the <title> tag and
+    // social cards. Google shows ~60 chars incl. the " — UAP Times" suffix, so
+    // long editorial headlines get truncated in results. When set, this is used
+    // for SEO metadata; the full `title` still renders as the on-page <h1>.
+    seoTitle: z.string().optional(),
     description: z.string(),               // used for SEO + the card preview
     pubDate: z.coerce.date(),              // "2026-07-24" becomes a real Date
     updatedDate: z.coerce.date().optional(),

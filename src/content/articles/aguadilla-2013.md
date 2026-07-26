@@ -1,5 +1,6 @@
 ---
 title: "The Aguadilla Video: A Border Patrol Camera's Strangest Night"
+seoTitle: "Aguadilla 2013: The Border Patrol UFO Video"
 description: "In 2013, a US Customs and Border Protection plane filmed a small object skimming over Puerto Rico, dropping into the sea, and apparently splitting in two — all on thermal infrared. It is one of the best-documented modern videos, and one of the most argued-over."
 pubDate: 2026-07-10
 author: "UAP Times Desk"

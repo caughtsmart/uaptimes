@@ -1,5 +1,6 @@
 ---
 title: "The Hudson Valley Sightings: The Boomerang That Haunted the Suburbs"
+seoTitle: "Hudson Valley 1983: The Boomerang UFO Wave"
 description: "For years in the 1980s, huge silent V-shaped craft drifted over the New York suburbs, watched by thousands and investigated by a founding father of UFO study. Some of it was a stunt by a handful of pilots. Not all of it fits."
 pubDate: 2026-07-16
 author: "UAP Times Desk"

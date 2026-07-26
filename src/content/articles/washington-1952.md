@@ -1,5 +1,6 @@
 ---
 title: "The Washington Flap of 1952: The Summer UFOs Buzzed the Capital"
+seoTitle: "The 1952 Washington DC UFO Flap"
 description: "For two weekends in July 1952, unidentified blips appeared on radar over Washington D.C., jets were scrambled, and the Air Force held its largest press conference since the war. The official answer — a heat haze on the radar — has never fully satisfied."
 pubDate: 2026-07-20
 author: "UAP Times Desk"

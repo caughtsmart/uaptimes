@@ -1,5 +1,6 @@
 ---
 title: "The Phoenix Lights: Two Events, One Name, and a Governor Who Changed His Story"
+seoTitle: "The Phoenix Lights, 1997: What Happened"
 description: "On one night in March 1997, thousands of Arizonans watched lights over the desert. It was really two separate events — a silent V that crossed the state, and a set of hovering lights later pinned on flares. Even the governor came round."
 pubDate: 2026-07-21
 author: "UAP Times Desk"

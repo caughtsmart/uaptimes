@@ -1,5 +1,6 @@
 ---
 title: "Kecksburg 1965: The Acorn in the Woods and the Truck That Drove Away"
+seoTitle: "Kecksburg 1965: The Acorn UFO Crash"
 description: "A fireball crossed six US states one December afternoon in 1965. In one Pennsylvania town, witnesses say an acorn-shaped object came down in the forest — and that the military hauled something away and told everyone there was nothing to see."
 pubDate: 2026-07-19
 author: "UAP Times Desk"

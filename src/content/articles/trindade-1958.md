@@ -1,5 +1,6 @@
 ---
 title: "Trindade 1958: The Saturn in the Sky the Brazilian Navy Vouched For"
+seoTitle: "Trindade 1958: The Brazilian Navy UFO Photo"
 description: "A civilian photographer aboard a Brazilian Navy vessel snapped a Saturn-shaped object over a remote South Atlantic island — and the government stood behind the pictures. The trouble is who was holding the camera."
 pubDate: 2026-07-18
 author: "UAP Times Desk"

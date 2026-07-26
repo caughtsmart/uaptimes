@@ -1,5 +1,6 @@
 ---
 title: "Trans-en-Provence: The Landing a Government Lab Took Seriously"
+seoTitle: "Trans-en-Provence 1981: A UFO Trace Case"
 description: "A French farmer said a grey disc landed in his field for a moment and flew off. What makes the 1981 case unusual is what happened next: a government scientific body arrived, took samples, and found the soil and plants had changed."
 pubDate: 2026-07-12
 author: "UAP Times Desk"

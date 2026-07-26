@@ -1,5 +1,6 @@
 ---
 title: "The Belgian Wave: The Triangle Its Own Air Force Couldn't Explain"
+seoTitle: "The Belgian Wave: Triangle UFOs Over Belgium"
 description: "For more than a year, tens of thousands of Belgians reported silent black triangles overhead. Their air force scrambled F-16s, released the radar data, and admitted it was stumped — even as the wave's most famous photograph turned out to be a fake."
 pubDate: 2026-07-23
 author: "UAP Times Desk"

@@ -1,5 +1,6 @@
 ---
 title: "The O'Hare Disc: The UFO That Punched a Hole in the Clouds"
+seoTitle: "O'Hare 2006: The Airport UFO Disc"
 description: "In 2006, a dozen United Airlines employees at Chicago's O'Hare said a metallic disc hovered over a gate, then shot straight up and left a clean hole in the overcast. The FAA's answer was a 'weather phenomenon' it declined to investigate."
 pubDate: 2026-07-14
 author: "UAP Times Desk"

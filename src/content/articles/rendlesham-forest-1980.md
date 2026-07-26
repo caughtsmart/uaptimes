@@ -1,5 +1,6 @@
 ---
 title: "Two Nights in Rendlesham Forest: Britain's Best-Documented UFO Case"
+seoTitle: "Rendlesham Forest: Britain's Best UFO Case"
 description: "In December 1980, US airmen at a nuclear-armed airbase in Suffolk reported a landed craft, pulsing lights and radiation traces — and their deputy commander wrote it all down. Forty-odd years on, how much of Rendlesham actually holds up?"
 pubDate: 2026-07-25
 author: "UAP Times Desk"

@@ -1,5 +1,6 @@
 ---
 title: "A Hundred Objects and Two Boats: The One Case AARO Couldn't File Away"
+seoTitle: "The Navy UAP Swarm Off Virginia, Explained"
 description: "The Pentagon's new annual report logs a single maritime UAP event — roughly 100 airborne objects and two apparently uncrewed vessels off the Virginia coast. It gets one paragraph, no date, and no explanation."
 pubDate: 2026-07-26
 author: "UAP Times Desk"

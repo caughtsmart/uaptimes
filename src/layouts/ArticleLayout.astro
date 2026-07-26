@@ -1,5 +1,6 @@
 ---
 import type { CollectionEntry } from 'astro:content';
+import { getCollection } from 'astro:content';
 import BaseLayout from './BaseLayout.astro';
 
 interface Props { article: CollectionEntry<'articles'>; }
@@ -10,9 +11,21 @@ const dateStr = data.pubDate.toLocaleDateString('en-GB', {
   day: 'numeric', month: 'long', year: 'numeric',
 });
 const credLabel = ['', 'Well-sourced', 'Credible', 'Unconfirmed', 'Thin', 'Take with salt'][data.credibility];
+
+// Work out which tags have their own hub page (used by 2+ articles). Only
+// those become links; single-use tags render as plain text so we don't link
+// to thin pages that don't exist.
+const slugify = (s: string) => s.toLowerCase().replace(/[^a-z0-9]+/g, '-').replace(/^-|-$/g, '');
+const allArticles = await getCollection('articles', ({ data }) => !data.draft);
+const tagCounts = new Map<string, number>();
+for (const a of allArticles) {
+  for (const t of a.data.tags) tagCounts.set(slugify(t), (tagCounts.get(slugify(t)) ?? 0) + 1);
+}
+const topicSlug = slugify(data.topic);
 ---
 <BaseLayout
   title={data.title}
+  seoTitle={data.seoTitle}
   description={data.description}
   image={data.heroImage}
   imageAlt={data.title}
@@ -66,7 +79,9 @@ const credLabel = ['', 'Well-sourced', 'Credible', 'Unconfirmed', 'Thin', 'Take 
       {data.tags.length > 0 && (
         <div class="tag-list">
           {data.tags.map((t) => (
-            <a href={`/topics/${data.topic.toLowerCase().replace(/[^a-z0-9]+/g, '-')}/`}>#{t}</a>
+            (tagCounts.get(slugify(t)) ?? 0) >= 2
+              ? <a href={`/tags/${slugify(t)}/`}>#{t}</a>
+              : <span>#{t}</span>
           ))}
         </div>
       )}

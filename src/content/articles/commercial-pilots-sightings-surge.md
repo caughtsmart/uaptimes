@@ -1,5 +1,6 @@
 ---
 title: "Why Commercial Pilots Are Reporting More Sightings — And Why That Doesn't Mean More UFOs"
+seoTitle: "Why Pilots Are Reporting More UFO Sightings"
 description: "Airline pilot UAP reports are up. Before you reach for the tinfoil, here's what changed about the reporting system, not necessarily the skies."
 pubDate: 2026-07-18
 author: "UAP Times Desk"

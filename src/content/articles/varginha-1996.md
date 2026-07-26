@@ -1,5 +1,6 @@
 ---
 title: "The Varginha Case: Brazil's Roswell and the Creature in the Rain"
+seoTitle: "Varginha 1996: Brazil's Roswell"
 description: "In January 1996, a Brazilian town convulsed with reports of a strange creature loose in the streets — and rumours the military had captured it. It is one of the most beloved cases in South America, and one of the thinnest on hard evidence. Here's why it's both."
 pubDate: 2026-07-07
 author: "UAP Times Desk"

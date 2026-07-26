@@ -1,5 +1,6 @@
 ---
 title: "Pentagon's Latest UAP Report Logs 240 New Cases — And Actually Explains Some of Them"
+seoTitle: "Pentagon 2026 UAP Report: 240 New Cases"
 description: "The annual AARO report catalogues hundreds of fresh military encounters, resolves a chunk of them as balloons and drones, and quietly leaves a stubborn few unexplained."
 pubDate: 2026-07-22
 author: "UAP Times Desk"

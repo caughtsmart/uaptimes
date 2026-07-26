@@ -1,5 +1,6 @@
 ---
 title: "The Tic Tac at 25: What the Nimitz Encounter Still Gets Right"
+seoTitle: "The Nimitz Tic Tac UFO Encounter"
 description: "A quarter-century of hindsight on the most famous modern military UFO case — what holds up, what's been overstated, and why it still matters."
 pubDate: 2026-07-10
 author: "UAP Times Desk"

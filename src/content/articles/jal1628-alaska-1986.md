@@ -1,5 +1,6 @@
 ---
 title: "JAL Flight 1628: The Night a Jumbo Jet Was Shadowed Over Alaska"
+seoTitle: "JAL Flight 1628: UFO Over Alaska, 1986"
 description: "In 1986 the crew of a Japan Airlines 747 reported being paced by lights — and then by something enormous — for the better part of an hour over Alaska. The FAA investigated, the radar was ambiguous, and two bright planets were hanging in exactly the wrong place."
 pubDate: 2026-07-17
 author: "UAP Times Desk"
