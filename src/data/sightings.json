@@ -148,7 +148,8 @@
     "lat": 41.51,
     "lng": -73.92,
     "credibility": 3,
-    "blurb": "Years of huge, silent boomerang-craft reports across the New York–Connecticut border. Some, but not all, tied to hoaxing pilots."
+    "blurb": "Years of huge, silent boomerang-craft reports across the New York–Connecticut border. Some, but not all, tied to hoaxing pilots.",
+    "article": "/articles/hudson-valley-1983/"
   },
   {
     "id": "stephenville-2008",
@@ -158,7 +159,8 @@
     "lat": 32.221,
     "lng": -98.202,
     "credibility": 2,
-    "blurb": "Dozens of residents, including a pilot, reported a mile-wide craft. FAA radar data later showed unexplained tracks in the area."
+    "blurb": "Dozens of residents, including a pilot, reported a mile-wide craft. FAA radar data later showed unexplained tracks in the area.",
+    "article": "/articles/stephenville-2008/"
   },
   {
     "id": "aguadilla-2013",
@@ -178,7 +180,8 @@
     "lat": 41.978,
     "lng": -87.905,
     "credibility": 3,
-    "blurb": "United Airlines staff reported a disc hovering over Gate C17 before it shot upward, punching a hole in the cloud deck."
+    "blurb": "United Airlines staff reported a disc hovering over Gate C17 before it shot upward, punching a hole in the cloud deck.",
+    "article": "/articles/ohare-2006/"
   },
   {
     "id": "levelland-1957",
