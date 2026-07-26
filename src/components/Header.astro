@@ -10,10 +10,16 @@ const nav = [
   { href: '/about', label: 'About' },
 ];
 ---
+<div class="classification-bar">
+  <div class="inner">
+    <span><span class="redact">◤ TOP SECRET</span> &nbsp;//&nbsp; UAP&nbsp;//&nbsp;NOFORN</span>
+    <span class="right">DECLASSIFIED FOR PUBLIC RELEASE &nbsp;·&nbsp; FILE&nbsp;REF&nbsp;UAP-████</span>
+  </div>
+</div>
 <header class="site-header">
   <div class="bar">
     <a href="/" class="brand" aria-label="UAP Times — home">
-      <img src="/images/logo.svg" alt="UAP Times" class="brand-logo" width="620" height="150" />
+      <img src="/images/logo.svg" alt="UAP Times" class="brand-logo" width="640" height="150" />
     </a>
     <nav class="nav">
       {nav.map((item) => <a href={item.href}>{item.label}</a>)}

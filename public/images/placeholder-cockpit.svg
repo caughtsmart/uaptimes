@@ -1,13 +1,19 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 675">
   <defs>
     <linearGradient id="g" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0" stop-color="#121722"/>
-      <stop offset="1" stop-color="#0a0d14"/>
+      <stop offset="0" stop-color="#f7f5ee"/>
+      <stop offset="1" stop-color="#e4e0d3"/>
     </linearGradient>
   </defs>
   <rect width="1200" height="675" fill="url(#g)"/>
-  <ellipse cx="600" cy="370" rx="150" ry="46" fill="#4ade9c" opacity="0.85"/>
-  <ellipse cx="600" cy="335" rx="85" ry="55" fill="#e6e9f0" opacity="0.9"/>
-  <text x="600" y="560" fill="#9aa4b8" font-family="Georgia, serif" font-size="30" text-anchor="middle">From the flight deck</text>
-  <text x="600" y="605" fill="#54607a" font-family="sans-serif" font-size="18" text-anchor="middle">Placeholder — replace with a licensed image</text>
+  <g fill="none" stroke="#b7ad96" stroke-opacity="0.6">
+    <circle cx="600" cy="340" r="180"/>
+    <circle cx="600" cy="340" r="120"/>
+    <circle cx="600" cy="340" r="60"/>
+  </g>
+  <ellipse cx="600" cy="360" rx="150" ry="44" fill="#b12a1d" opacity="0.9"/>
+  <ellipse cx="600" cy="328" rx="82" ry="52" fill="#d8d2c2"/>
+  <rect x="470" y="120" width="260" height="34" fill="#b12a1d" opacity="0.9"/>
+  <text x="600" y="560" fill="#201e18" font-family="Georgia, serif" font-size="30" text-anchor="middle">From the flight deck</text>
+  <text x="600" y="605" fill="#6a6250" font-family="'Courier New', monospace" font-size="17" letter-spacing="2" text-anchor="middle">CLASSIFIED — replace with a licensed image</text>
 </svg>
