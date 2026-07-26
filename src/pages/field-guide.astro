@@ -1,0 +1,67 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+import CraftShape from '../components/CraftShape.astro';
+import craft from '../data/craft-types.json';
+
+const total = craft.length;
+---
+<BaseLayout
+  title="Field Guide — UAP Craft Types"
+  description="A field guide to the common reported shapes of unidentified anomalous phenomena — discs, black triangles, Tic Tacs, orbs, chevrons and more, each drawn as a schematic."
+>
+  <div class="container">
+    <div class="article-header prose">
+      <span class="topic-tag">Field Guide</span>
+      <h1>Craft Types</h1>
+      <p class="lede">
+        The {total} shapes that turn up again and again in the reports — drawn
+        as schematics, with what defines each and where it's been logged.
+        Classification is descriptive, not a claim about what they are.
+      </p>
+    </div>
+
+    <div class="craft-grid">
+      {craft.map((t) => (
+        <article class="craft-card" id={`type-${t.id}`}>
+          <div class="craft-panel">
+            <span class="craft-brackets" aria-hidden="true"></span>
+            <span class="craft-code">{t.code}</span>
+            <CraftShape id={t.id} />
+            <span class="craft-scan" aria-hidden="true"></span>
+          </div>
+          <div class="craft-body">
+            <div class="craft-spec">
+              <span>SIZE {t.size}</span>
+              <span>·</span>
+              <span>FIRST LOGGED {t.firstLogged}</span>
+            </div>
+            <h3>{t.name}</h3>
+            {t.aka && <p class="craft-aka">also: {t.aka}</p>}
+            <p class="craft-desc">{t.desc}</p>
+            <div class="craft-traits">
+              {t.traits.map((tr) => <span class="craft-trait">{tr}</span>)}
+            </div>
+            {t.cases.length > 0 && (
+              <p class="craft-cases">
+                <span class="craft-cases-lbl">Logged:</span>{' '}
+                {t.cases.map((c, i) => (
+                  <>
+                    {i > 0 && <span>, </span>}
+                    <a href={`/map#case-${c.id}`}>{c.n}</a>
+                  </>
+                ))}
+              </p>
+            )}
+          </div>
+        </article>
+      ))}
+    </div>
+
+    <p class="craft-foot prose">
+      Shapes are reader-reported and overlap freely — many cases fit more than
+      one. See where they were logged on the <a href="/map">sightings map</a>.
+    </p>
+
+    <div class="prose"><a class="back-link" href="/">← Back to the latest</a></div>
+  </div>
+</BaseLayout>

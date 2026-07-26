@@ -684,3 +684,123 @@ img { max-width: 100%; height: auto; display: block; }
 .sighting-meta .cred { color: var(--warn); }
 .sighting-blurb { font-size: .9rem; color: #403b30; margin: 0 0 .55rem; }
 .sighting-link { font-family: var(--font-mono); font-size: .72rem; }
+
+/* ---------------------------------------------------------------
+   Field guide (/field-guide) — UAP craft-type schematics.
+   Dossier cards on the light page, each with a dark "schematic
+   console" panel holding a hand-drawn SVG shape.
+----------------------------------------------------------------*/
+.craft-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+  gap: 1.4rem;
+  padding: 2rem 0 1rem;
+}
+.craft-card {
+  background: var(--paper);
+  border: 1px solid var(--border);
+  border-radius: 4px;
+  overflow: hidden;
+  box-shadow: var(--shadow);
+  display: flex; flex-direction: column;
+  transition: transform .15s ease, box-shadow .15s ease, border-color .15s ease;
+}
+.craft-card:hover {
+  transform: translateY(-3px);
+  border-color: var(--border-ink);
+  box-shadow: 0 2px 4px rgba(40,34,20,.08), 0 12px 30px rgba(40,34,20,.12);
+}
+
+/* the dark schematic viewport */
+.craft-panel {
+  position: relative;
+  height: 168px;
+  background:
+    radial-gradient(120% 90% at 50% 40%, #12171f 0%, #0a0d13 100%);
+  border-bottom: 1px solid var(--border);
+  overflow: hidden;
+  color: #e6c07a;               /* schematic line colour (currentColor) */
+}
+/* faint measurement grid + crosshair */
+.craft-panel::before {
+  content: "";
+  position: absolute; inset: 0; pointer-events: none;
+  background:
+    linear-gradient(rgba(230,192,122,.07) 1px, transparent 1px) 0 0 / 100% 22px,
+    linear-gradient(90deg, rgba(230,192,122,.07) 1px, transparent 1px) 0 0 / 22px 100%,
+    linear-gradient(rgba(230,192,122,.14), rgba(230,192,122,.14)) 50% 0 / 1px 100% no-repeat,
+    linear-gradient(rgba(230,192,122,.14), rgba(230,192,122,.14)) 0 50% / 100% 1px no-repeat;
+  opacity: .5;
+}
+.craft-code {
+  position: absolute; top: .5rem; left: .6rem; z-index: 2;
+  font-family: var(--font-mono); font-size: .58rem; letter-spacing: .18em;
+  color: #9c8a63;
+}
+.craft-brackets { position: absolute; inset: .45rem; pointer-events: none; }
+.craft-brackets::before, .craft-brackets::after {
+  content: ""; position: absolute; width: 12px; height: 12px;
+  border: 1px solid rgba(230,192,122,.4);
+}
+.craft-brackets::before { top: 0; left: 0; border-right: 0; border-bottom: 0; }
+.craft-brackets::after  { bottom: 0; right: 0; border-left: 0; border-top: 0; }
+
+.craft-svg { position: relative; z-index: 1; display: block; width: 100%; height: 100%; padding: 12px 18px; }
+.craft-svg .cs-line { fill: none; stroke: currentColor; stroke-width: 2.4; stroke-linejoin: round; stroke-linecap: round; }
+.craft-svg .cs-dim  { fill: none; stroke: currentColor; stroke-opacity: .4; stroke-width: 1.4; }
+.craft-svg .cs-fill { fill: rgba(230,192,122,.07); stroke: none; }
+.craft-svg .cs-port { fill: #e6c07a; opacity: .7; }
+.craft-svg .cs-heat { fill: none; stroke: #ff5a3d; stroke-width: 2; stroke-opacity: .7; stroke-linecap: round; filter: drop-shadow(0 0 3px rgba(255,90,61,.7)); }
+.craft-svg .cs-light { fill: #ff4a3d; filter: drop-shadow(0 0 3px rgba(255,74,61,.9)); }
+.craft-svg .cs-orb {
+  fill: #ffcf86;
+  filter: drop-shadow(0 0 10px rgba(255,150,60,.8)) drop-shadow(0 0 4px rgba(255,220,150,.9));
+  animation: orb-pulse 3s ease-in-out infinite;
+}
+.cs-blink { animation: cs-blink 1.8s steps(1) infinite; }
+@keyframes cs-blink { 0%, 55% { opacity: 1; } 56%, 100% { opacity: .18; } }
+@keyframes orb-pulse { 0%, 100% { opacity: .82; } 50% { opacity: 1; } }
+
+/* schematic "power-up" scan sweep on hover */
+.craft-scan {
+  position: absolute; top: 0; left: -40%; width: 40%; height: 100%; z-index: 1;
+  background: linear-gradient(90deg, transparent, rgba(230,192,122,.18), transparent);
+  pointer-events: none; opacity: 0;
+}
+.craft-card:hover .craft-scan { animation: craft-scan 1.1s ease-in-out; }
+.craft-card:hover .craft-panel { color: #ffd591; }
+@keyframes craft-scan { 0% { left: -40%; opacity: 0; } 30% { opacity: 1; } 100% { left: 100%; opacity: 0; } }
+
+/* card text */
+.craft-body { padding: 1rem 1.2rem 1.25rem; display: flex; flex-direction: column; gap: .45rem; flex: 1; }
+.craft-spec {
+  display: flex; gap: .4rem; flex-wrap: wrap;
+  font-family: var(--font-mono); font-size: .6rem; letter-spacing: .1em;
+  text-transform: uppercase; color: var(--text-dim);
+}
+.craft-body h3 { font-family: var(--font-head); font-size: 1.28rem; margin: 0; color: var(--text); }
+.craft-aka {
+  font-family: var(--font-mono); font-size: .66rem; letter-spacing: .06em;
+  text-transform: uppercase; color: var(--accent); margin: -.15rem 0 0;
+}
+.craft-desc { font-size: .9rem; color: #403b30; margin: .25rem 0 .1rem; line-height: 1.55; }
+.craft-traits { display: flex; flex-wrap: wrap; gap: .35rem; margin-top: .2rem; }
+.craft-trait {
+  font-family: var(--font-mono); font-size: .62rem; letter-spacing: .04em;
+  text-transform: uppercase; color: var(--text-dim);
+  border: 1px solid var(--border-ink); border-radius: 3px; padding: .16rem .45rem;
+  background: var(--bg-softer);
+}
+.craft-cases { font-size: .78rem; color: var(--text-dim); margin: .35rem 0 0; }
+.craft-cases-lbl {
+  font-family: var(--font-mono); font-size: .62rem; letter-spacing: .1em;
+  text-transform: uppercase;
+}
+.craft-foot {
+  font-size: .86rem; color: var(--text-dim); text-align: center;
+  margin: 1.5rem auto 0; font-style: italic;
+}
+@media (prefers-reduced-motion: reduce) {
+  .craft-svg .cs-orb, .cs-blink { animation: none; }
+  .craft-card:hover .craft-scan { animation: none; }
+}

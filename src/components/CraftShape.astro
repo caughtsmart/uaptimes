@@ -1,0 +1,109 @@
+---
+// Hand-drawn SVG schematics for each UAP craft type. Shapes use shared
+// classes (.cs-line / .cs-dim / .cs-fill / .cs-light / .cs-orb …) styled
+// in global.css so the whole set stays visually consistent.
+interface Props { id: string; }
+const { id } = Astro.props;
+---
+{id === 'disc' && (
+  <svg viewBox="0 0 200 130" class="craft-svg" role="img" aria-label="Disc / saucer schematic">
+    <ellipse class="cs-fill" cx="100" cy="66" rx="72" ry="15" />
+    <ellipse class="cs-line" cx="100" cy="66" rx="72" ry="15" />
+    <path class="cs-line" d="M70 60 A32 26 0 0 1 130 60" />
+    <path class="cs-dim" d="M44 68 Q100 88 156 68" />
+    <ellipse class="cs-dim" cx="100" cy="52" rx="9" ry="4" />
+    <circle class="cs-light" cx="76" cy="76" r="2.6" />
+    <circle class="cs-light" cx="100" cy="79" r="2.6" />
+    <circle class="cs-light" cx="124" cy="76" r="2.6" />
+  </svg>
+)}
+
+{id === 'triangle' && (
+  <svg viewBox="0 0 200 130" class="craft-svg" role="img" aria-label="Black triangle schematic">
+    <polygon class="cs-fill" points="100,38 44,96 156,96" />
+    <polygon class="cs-line" points="100,38 44,96 156,96" />
+    <path class="cs-dim" d="M100 38 L100 96 M72 67 L128 67" />
+    <circle class="cs-light cs-blink" cx="100" cy="46" r="3" />
+    <circle class="cs-light cs-blink" cx="50" cy="90" r="3" style="animation-delay:.4s" />
+    <circle class="cs-light cs-blink" cx="150" cy="90" r="3" style="animation-delay:.8s" />
+  </svg>
+)}
+
+{id === 'tictac' && (
+  <svg viewBox="0 0 200 130" class="craft-svg" role="img" aria-label="Tic Tac cylinder schematic">
+    <rect class="cs-fill" x="34" y="52" width="132" height="34" rx="17" />
+    <rect class="cs-line" x="34" y="52" width="132" height="34" rx="17" />
+    <path class="cs-dim" d="M48 62 Q100 57 152 62" />
+    <line class="cs-dim" x1="54" y1="70" x2="146" y2="70" />
+  </svg>
+)}
+
+{id === 'orb' && (
+  <svg viewBox="0 0 200 130" class="craft-svg" role="img" aria-label="Orb / sphere schematic">
+    <circle class="cs-dim" cx="100" cy="66" r="42" />
+    <circle class="cs-dim" cx="100" cy="66" r="31" />
+    <circle class="cs-orb" cx="100" cy="66" r="20" />
+  </svg>
+)}
+
+{id === 'cigar' && (
+  <svg viewBox="0 0 200 130" class="craft-svg" role="img" aria-label="Cigar craft schematic">
+    <rect class="cs-fill" x="24" y="57" width="152" height="20" rx="10" />
+    <rect class="cs-line" x="24" y="57" width="152" height="20" rx="10" />
+    <line class="cs-dim" x1="38" y1="67" x2="162" y2="67" />
+    <circle class="cs-port" cx="58" cy="67" r="1.8" />
+    <circle class="cs-port" cx="76" cy="67" r="1.8" />
+    <circle class="cs-port" cx="94" cy="67" r="1.8" />
+    <circle class="cs-port" cx="112" cy="67" r="1.8" />
+    <circle class="cs-port" cx="130" cy="67" r="1.8" />
+  </svg>
+)}
+
+{id === 'chevron' && (
+  <svg viewBox="0 0 200 130" class="craft-svg" role="img" aria-label="Chevron / boomerang schematic">
+    <polygon class="cs-fill" points="30,54 100,92 170,54 170,63 100,101 30,63" />
+    <polygon class="cs-line" points="30,54 100,92 170,54 170,63 100,101 30,63" />
+    <circle class="cs-light cs-blink" cx="100" cy="96" r="2.6" />
+    <circle class="cs-light cs-blink" cx="66" cy="79" r="2.3" style="animation-delay:.3s" />
+    <circle class="cs-light cs-blink" cx="134" cy="79" r="2.3" style="animation-delay:.3s" />
+    <circle class="cs-light cs-blink" cx="40" cy="61" r="2" style="animation-delay:.6s" />
+    <circle class="cs-light cs-blink" cx="160" cy="61" r="2" style="animation-delay:.6s" />
+  </svg>
+)}
+
+{id === 'egg' && (
+  <svg viewBox="0 0 200 130" class="craft-svg" role="img" aria-label="Egg / ovoid schematic">
+    <path class="cs-fill" d="M100 38 C126 38 138 64 138 80 C138 99 121 110 100 110 C79 110 62 99 62 80 C62 64 74 38 100 38 Z" />
+    <path class="cs-line" d="M100 38 C126 38 138 64 138 80 C138 99 121 110 100 110 C79 110 62 99 62 80 C62 64 74 38 100 38 Z" />
+    <path class="cs-dim" d="M76 62 Q100 57 124 62" />
+  </svg>
+)}
+
+{id === 'diamond' && (
+  <svg viewBox="0 0 200 130" class="craft-svg" role="img" aria-label="Diamond craft schematic">
+    <polygon class="cs-fill" points="100,34 150,72 100,110 50,72" />
+    <polygon class="cs-line" points="100,34 150,72 100,110 50,72" />
+    <path class="cs-dim" d="M50 72 L150 72 M100 34 L100 110" />
+    <path class="cs-heat" d="M84 102 L100 118 L116 102" />
+  </svg>
+)}
+
+{id === 'bell' && (
+  <svg viewBox="0 0 200 130" class="craft-svg" role="img" aria-label="Bell / acorn schematic">
+    <path class="cs-fill" d="M66 96 C66 54 78 44 100 44 C122 44 134 54 134 96 Z" />
+    <path class="cs-line" d="M66 96 C66 54 78 44 100 44 C122 44 134 54 134 96 Z" />
+    <line class="cs-line" x1="60" y1="96" x2="140" y2="96" />
+    <path class="cs-dim" d="M79 60 Q100 55 121 60" />
+    <circle class="cs-dim" cx="100" cy="42" r="3" />
+  </svg>
+)}
+
+{id === 'saturn' && (
+  <svg viewBox="0 0 200 130" class="craft-svg" role="img" aria-label="Saturn / ringed disc schematic">
+    <circle class="cs-fill" cx="100" cy="62" r="24" />
+    <circle class="cs-line" cx="100" cy="62" r="24" />
+    <path class="cs-dim" d="M80 48 A24 24 0 0 1 120 48" />
+    <ellipse class="cs-fill" cx="100" cy="68" rx="62" ry="11" />
+    <ellipse class="cs-line" cx="100" cy="68" rx="62" ry="11" />
+  </svg>
+)}

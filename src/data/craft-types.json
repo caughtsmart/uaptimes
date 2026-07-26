@@ -1,0 +1,112 @@
+[
+  {
+    "id": "disc",
+    "name": "Disc / Saucer",
+    "aka": "Flying saucer",
+    "code": "MORPH-01",
+    "size": "5–30 m",
+    "firstLogged": "Arnold, 1947",
+    "desc": "The archetype: a domed, rotationally symmetric disc. Reported hovering in silence, then departing at implausible speed.",
+    "traits": ["Domed top", "Silent hover", "Sudden acceleration"],
+    "cases": [{ "n": "Trindade", "id": "trindade-1958" }, { "n": "Roswell (alleged)", "id": "roswell-1947" }]
+  },
+  {
+    "id": "triangle",
+    "name": "Black Triangle",
+    "aka": "TR-3B (alleged)",
+    "code": "MORPH-02",
+    "size": "20–200 m",
+    "firstLogged": "Hudson Valley, 1980s",
+    "desc": "A large, silent, matte-black triangle with a light at each corner. The signature craft of the modern era.",
+    "traits": ["Three corner lights", "Near-silent", "Very large"],
+    "cases": [{ "n": "Belgian Wave", "id": "belgian-wave-1990" }, { "n": "Phoenix Lights", "id": "phoenix-lights-1997" }]
+  },
+  {
+    "id": "tictac",
+    "name": "Tic Tac / Cylinder",
+    "aka": "AAV",
+    "code": "MORPH-03",
+    "size": "~12 m",
+    "firstLogged": "Nimitz, 2004",
+    "desc": "A smooth, wingless capsule with no visible propulsion or flight surfaces. Defined by the Nimitz encounter.",
+    "traits": ["No wings or exhaust", "Instant acceleration", "Featureless hull"],
+    "cases": [{ "n": "USS Nimitz", "id": "nimitz-tictac-2004" }]
+  },
+  {
+    "id": "orb",
+    "name": "Orb / Sphere",
+    "aka": "Foo fighter",
+    "code": "MORPH-04",
+    "size": "0.3–3 m",
+    "firstLogged": "WWII",
+    "desc": "A self-luminous sphere, often small and highly manoeuvrable — the most commonly reported modern form.",
+    "traits": ["Self-luminous", "Erratic motion", "Often in groups"],
+    "cases": [{ "n": "Aguadilla", "id": "aguadilla-2013" }]
+  },
+  {
+    "id": "cigar",
+    "name": "Cigar",
+    "aka": "Mothership",
+    "code": "MORPH-05",
+    "size": "30–300 m",
+    "firstLogged": "1896 airship wave",
+    "desc": "A long cylindrical craft, sometimes reported releasing smaller objects. A staple of the earliest sightings.",
+    "traits": ["Elongated body", "Occasional windows", "May deploy smaller craft"],
+    "cases": []
+  },
+  {
+    "id": "chevron",
+    "name": "Chevron / Boomerang",
+    "aka": "V-craft",
+    "code": "MORPH-06",
+    "size": "up to 1.5 km",
+    "firstLogged": "Hudson Valley, 1983",
+    "desc": "A wide V or boomerang — often a rank of lights holding perfect formation, gliding slow and silent.",
+    "traits": ["V formation", "Slow, silent glide", "Immense span"],
+    "cases": [{ "n": "Phoenix Lights", "id": "phoenix-lights-1997" }, { "n": "Hudson Valley", "id": "hudson-valley-1983" }]
+  },
+  {
+    "id": "egg",
+    "name": "Egg / Ovoid",
+    "aka": "Oval",
+    "code": "MORPH-07",
+    "size": "3–10 m",
+    "firstLogged": "Levelland, 1957",
+    "desc": "A seamless oval, frequently tied to electromagnetic effects — stalled engines and dead headlights.",
+    "traits": ["Seamless shell", "EM interference", "Low hover"],
+    "cases": [{ "n": "Levelland", "id": "levelland-1957" }]
+  },
+  {
+    "id": "diamond",
+    "name": "Diamond",
+    "aka": "Faceted craft",
+    "code": "MORPH-08",
+    "size": "10–30 m",
+    "firstLogged": "Cash–Landrum, 1980",
+    "desc": "An angular, faceted craft, occasionally reported venting flame and shadowed by conventional aircraft.",
+    "traits": ["Faceted hull", "Heat beneath", "Sometimes escorted"],
+    "cases": [{ "n": "Cash–Landrum", "id": "cash-landrum-1980" }]
+  },
+  {
+    "id": "bell",
+    "name": "Bell / Acorn",
+    "aka": "",
+    "code": "MORPH-09",
+    "size": "2–4 m",
+    "firstLogged": "Kecksburg, 1965",
+    "desc": "A small acorn- or bell-shaped object, famously linked to a rumoured military recovery in Pennsylvania.",
+    "traits": ["Bell / acorn profile", "Often small", "Alleged recoveries"],
+    "cases": [{ "n": "Kecksburg", "id": "kecksburg-1965" }]
+  },
+  {
+    "id": "saturn",
+    "name": "Saturn / Hat",
+    "aka": "Ringed disc",
+    "code": "MORPH-10",
+    "size": "10–40 m",
+    "firstLogged": "Trindade, 1958",
+    "desc": "A sphere or dome girdled by a broad ring — one of the more frequently photographed classic forms.",
+    "traits": ["Body + ring", "Photographed cases", "Rotational symmetry"],
+    "cases": [{ "n": "Trindade", "id": "trindade-1958" }]
+  }
+]
