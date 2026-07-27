@@ -6,7 +6,7 @@ pubDate: 2026-07-27
 author: "UAP Times Desk"
 topic: "Government & Disclosure"
 tags: ["Eric Burlison", "MIT Lincoln Laboratory", "Edward Ruppelt", "Beacon Hill Study", "Project Blue Book", "NARA", "Washington 1952"]
-heroImage: "/images/placeholder-sky.svg"
+heroImage: "/images/lincoln-lab-1952-flying-saucer-tape-hero.png"
 heroCredit: "AI-generated illustration"
 heroImageRemote: "https://d8j0ntlcm91z4.cloudfront.net/user_3H0FDLhevoDIIm5NZhOBNfDEWRH/hf_20260727_190600_5fc427b2-0b5a-4dc0-a266-6ecada4e9b9a.png"
 credibility: 2
