@@ -58,7 +58,7 @@ Sceptics including James Oberg and Philip Klass argued that the smaller lights w
 
 JAL 1628 earns a **credibility of 2 — Credible**, and it is a genuinely finely balanced case. In its favour: a professional multi-person crew, a long-duration encounter, and an FAA that engaged rather than dismissed. Against it: radar returns that the investigating agency itself judged ambiguous, a lead witness whose later record muddied the water, and — most tellingly — two of the brightest objects in the night sky sitting almost exactly where the encounter began.
 
-Our reading is that JAL 1628 is very likely a planet-and-ice-fog case that grew, over a tense hour in the dark, into something enormous — the human perceptual system doing what it does when a trained but frightened observer stares at a brilliant, unmoving light from a moving cockpit. "Very likely" is not "certainly," which is why it keeps its place among the notable cases. But it is the clearest example in this file of how a real, documented, professionally-witnessed event can still have an entirely earthbound cause.
+Our reading is that JAL 1628 is very likely a planet-and-ice-fog case that grew, over a tense hour in the dark, into something enormous — the human perceptual system doing what it does when a trained but frightened observer stares at a brilliant, unmoving light from a moving cockpit. "Very likely" is not "certainly," which is why it keeps its place among the notable cases. But it is the clearest example in this file of how a real, documented, professionally-witnessed event can still have an entirely earthbound cause — the mirror image of [the Nimitz Tic Tac](/articles/tic-tac-encounter-explained/), where the cross-sensor data stubbornly resists any such tidy explanation.
 
 ---
 
