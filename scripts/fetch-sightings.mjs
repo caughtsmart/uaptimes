@@ -50,14 +50,23 @@ const THRESHOLD = 3;
 const TOPICAL = /\b(uap|ufo|ufos|unidentified|flying object|anomalous|sighting|orb|tic ?tac)\b/i;
 
 // ---- tiny helpers -----------------------------------------------------------
-const stripTags = (s = '') =>
-  s.replace(/<[^>]*>/g, ' ')
-   .replace(/&nbsp;/g, ' ')
-   .replace(/&amp;/g, '&').replace(/&lt;/g, '<').replace(/&gt;/g, '>')
-   .replace(/&quot;/g, '"').replace(/&#39;|&apos;/g, "'")
+// Decode HTML entities (numeric + the common named ones). Kept separate so we
+// can run it BEFORE stripping tags — feeds like Reddit and Google News deliver
+// their markup *escaped* (`&lt;table&gt;`), so entities must be decoded into
+// real tags first, or the escaped markup survives as literal on-page text.
+const decodeEntities = (s = '') =>
+  s.replace(/&nbsp;/g, ' ')
+   .replace(/&#x([0-9a-f]+);/gi, (_, n) => String.fromCharCode(parseInt(n, 16)))
    .replace(/&#(\d+);/g, (_, n) => String.fromCharCode(+n))
-   .replace(/\s+/g, ' ')
-   .trim();
+   .replace(/&quot;/g, '"').replace(/&#39;|&apos;/g, "'")
+   .replace(/&lt;/g, '<').replace(/&gt;/g, '>')
+   .replace(/&amp;/g, '&'); // last, so &amp;lt; -> &lt; on the next pass
+
+const stripTags = (s = '') =>
+  decodeEntities(decodeEntities(String(s)) // escaped markup -> real markup
+    .replace(/<[^>]*>/g, ' '))             // strip every tag, then decode leftovers
+    .replace(/\s+/g, ' ')
+    .trim();
 
 const clip = (s, n = 300) => {
   s = (s || '').trim();
@@ -150,9 +159,14 @@ async function fromReddit() {
     try {
       const xml = await get(`https://www.reddit.com/r/${sub}/new/.rss?limit=25`);
       for (const e of blocks(xml, 'entry')) {
+        const title = field(e, 'title');
+        const body = field(e, 'content');
+        // Reddit's RSS "content" is often just a link/submitted-by table with no
+        // real prose. When it is, fall back to the (clean) title as the blurb.
+        const chrome = !body || /submitted by/i.test(body) || body.length < 40;
         out.push({
-          title: field(e, 'title'),
-          summary: clip(field(e, 'content')),
+          title,
+          summary: clip(chrome ? title : body),
           url: attr(e, 'link', 'href'),
           date: field(e, 'updated') || field(e, 'published'),
           source: `Reddit · r/${sub}`,
