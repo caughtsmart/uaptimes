@@ -6,7 +6,7 @@ pubDate: 2026-07-27
 author: "UAP Times Desk"
 topic: "History"
 tags: ["green fireballs", "Los Alamos", "Lincoln LaPaz", "Edward Teller", "Project Twinkle", "PURSUE", "declassified"]
-heroImage: "/images/placeholder-sky.svg"
+heroImage: "/images/green-fireballs-los-alamos-1949-declassified-hero.png"
 heroCredit: "AI-generated illustration"
 heroImageRemote: "https://d8j0ntlcm91z4.cloudfront.net/user_3H0FDLhevoDIIm5NZhOBNfDEWRH/hf_20260727_083037_8fa8c9e8-0f2d-43c2-b23b-3fa6f5d8264d.png"
 credibility: 2
