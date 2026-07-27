@@ -57,4 +57,4 @@ Our reading is that Malmstrom is one of the most consequential cases in the whol
 
 ---
 
-*Further reading: for another case where trained military witnesses met an unexplained object, see [The Tehran Dogfight](/articles/tehran-dogfight-1976/), where jets' weapons systems failed near the craft. Malmstrom's object was reported as a glowing [sphere / orb](/field-guide#type-orb); it's on the [sightings map](/map#case-malmstrom-1967).*
+*Further reading: for another case where trained military witnesses met an unexplained object, see [The Tehran Dogfight](/articles/tehran-dogfight-1976/), where jets' weapons systems failed near the craft. The objects-over-nuclear-sites pattern runs back further than Malmstrom — to [the green fireballs over Los Alamos in 1949](/articles/green-fireballs-los-alamos-1949-declassified/), whose conference transcript was declassified this month. Malmstrom's object was reported as a glowing [sphere / orb](/field-guide#type-orb); it's on the [sightings map](/map#case-malmstrom-1967).*

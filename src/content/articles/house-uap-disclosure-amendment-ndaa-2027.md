@@ -66,7 +66,7 @@ Note too that we are relying on anonymous officials describing a directive whose
 
 ##### The sceptic's read deserves its hearing
 
-PURSUE has been running since May, and the results so far are the best available guide to what "disclosure" actually yields in practice.
+PURSUE has been running since May, and the results so far are the best available guide to what "disclosure" actually yields in practice — the fourth tranche, in July, produced its most quotable item not from a modern sensor but from a 1949 filing cabinet: [the transcript of the Los Alamos green fireball conference](/articles/green-fireballs-los-alamos-1949-declassified/).
 
 The first tranche landed on 8 May with roughly 160 files. The fourth arrived on 10 July: 40 items — 14 documents, 19 videos, four audio files, three images — from the Pentagon, NASA, the CIA, the FBI and the Department of Energy. There is genuinely interesting material in there: a 2019 encounter over the eastern United States in which an aviator and four other personnel reported an object with "flight characteristics unlike anything I had seen in my 28 years" of Air Force and Navy service; a September 2015 incident at the Pantex nuclear weapons plant near Amarillo, Texas, where security staff put the facility on lockdown and tracked a silent object with no visible means of propulsion through binoculars.
 

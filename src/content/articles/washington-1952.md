@@ -58,4 +58,4 @@ The honest verdict sits in the tension between those two facts. Inversions are r
 
 ---
 
-*Further reading: for another radar case where jets were scrambled and came home empty, see [The Tehran Dogfight](/articles/tehran-dogfight-1976/) and [The Belgian Wave](/articles/belgian-wave-1990/). The Washington returns read as classic [orbs](/field-guide#type-orb); the case is on the [sightings map](/map#case-washington-1952).*
+*Further reading: for another radar case where jets were scrambled and came home empty, see [The Tehran Dogfight](/articles/tehran-dogfight-1976/) and [The Belgian Wave](/articles/belgian-wave-1990/). For what the same Cold War state was doing about this three years earlier, behind closed doors, see [the newly released 1949 Los Alamos green fireball transcript](/articles/green-fireballs-los-alamos-1949-declassified/). The Washington returns read as classic [orbs](/field-guide#type-orb); the case is on the [sightings map](/map#case-washington-1952).*
