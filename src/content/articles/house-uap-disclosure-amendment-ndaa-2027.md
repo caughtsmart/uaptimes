@@ -93,3 +93,7 @@ What we would *not* rate a 1 is anything about what the sealed records contain. 
 So: a real institutional barrier fell this week, after three years of the same language dying quietly upstream, and the people who did the unglamorous procedural work deserve the credit. It is equally true that the mechanism most likely to kill it is still ahead, operates without recorded votes, and has worked flawlessly every year so far.
 
 Both things are true at once. Watch the conference report, not the press releases.
+
+---
+
+*Further reading: for the same records-duty argument being applied to a federally funded lab rather than an agency — with a named 1952 reel of tape at the end of it — see [the MIT Lincoln Laboratory "flying saucer talk"](/articles/lincoln-lab-1952-flying-saucer-tape/).*

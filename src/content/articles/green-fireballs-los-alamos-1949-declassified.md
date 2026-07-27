@@ -97,4 +97,4 @@ But the value of this release is not that it solves 1949. It is that it demolish
 
 ---
 
-*Further reading: for the most consequential later case of unexplained objects over a nuclear weapons site, see [Malmstrom 1967](/articles/malmstrom-1967/); for the moment the Cold War state first lost control of the story in public, [The Washington Flap of 1952](/articles/washington-1952/). The 1949 objects were described as bright green [orbs](/field-guide#type-orb).*
+*Further reading: for the most consequential later case of unexplained objects over a nuclear weapons site, see [Malmstrom 1967](/articles/malmstrom-1967/); for the moment the Cold War state first lost control of the story in public, [The Washington Flap of 1952](/articles/washington-1952/). Three years after this meeting, the Air Force gave a similar closed briefing to MIT's Beacon Hill reconnaissance panel — and [a tape of it is now being extracted from Lincoln Laboratory](/articles/lincoln-lab-1952-flying-saucer-tape/). The 1949 objects were described as bright green [orbs](/field-guide#type-orb).*
