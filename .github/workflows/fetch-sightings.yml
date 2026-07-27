@@ -1,13 +1,13 @@
 name: Fetch sightings wire
 
-# Sweeps open UAP/UFO sources every hour and commits the results to
+# Sweeps open UAP/UFO sources every 3 hours and commits the results to
 # src/data/live-sightings.json, which powers the /sightings "Live Wire" page.
 # GitHub runners have open internet (unlike the article-authoring sandbox), so
 # the actual crawling happens here. No API keys or secrets required.
 
 on:
   schedule:
-    - cron: '17 * * * *'   # hourly, at :17 past (off the top-of-hour rush)
+    - cron: '17 */3 * * *'  # every 3 hours, at :17 past (off the top-of-hour rush)
   workflow_dispatch: {}     # lets you trigger a sweep by hand from the Actions tab
 
 permissions:

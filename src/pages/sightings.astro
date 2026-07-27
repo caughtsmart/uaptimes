@@ -3,7 +3,7 @@ import BaseLayout from '../layouts/BaseLayout.astro';
 import wire from '../data/live-sightings.json';
 
 // The Live Sightings Wire, styled as a stream of intercepted classified
-// transmissions. Short paragraphs of the latest UAP chatter, pulled hourly from
+// transmissions. Short paragraphs of the latest UAP chatter, pulled every few hours from
 // open sources by scripts/fetch-sightings.mjs and committed to
 // live-sightings.json. This page just renders whatever is in that file.
 const items = wire.items ?? [];
@@ -44,7 +44,7 @@ const tickerItems = [...items]
 
 const title = 'Live Sightings Wire';
 const description =
-  'Intercepted UAP/UFO sighting traffic, swept hourly from open press and social sources and logged newest-first as short classified-style dispatches. Unverified — the notable ones flagged FLASH/PRIORITY.';
+  'Intercepted UAP/UFO sighting traffic, swept every few hours from open press and social sources and logged newest-first as short classified-style dispatches. Unverified — the notable ones flagged FLASH/PRIORITY.';
 ---
 <BaseLayout title={title} description={description}>
   <!-- Scrolling intercept ticker -->
@@ -73,7 +73,7 @@ const description =
       </div>
       <h1>Intercept Wire</h1>
       <p class="wire-sub">
-        Raw UAP traffic, swept hourly from open press and social channels and logged
+        Raw UAP traffic, swept every few hours from open press and social channels and logged
         below newest-first. Every line is unverified intake — the ones our filter
         rates worth a second look ride in flagged <span class="p-flash inline-prec">FLASH</span>
         or <span class="p-priority inline-prec">PRIORITY</span>.
@@ -81,7 +81,7 @@ const description =
       <div class="wire-status mono-label">
         <span class="live-dot" aria-hidden="true"></span>
         LINK&nbsp;ACTIVE · {items.length}&nbsp;INTERCEPTS · LAST&nbsp;SWEEP&nbsp;{updatedZ}
-        {wire.seed && <span class="seed-note"> · TEST PATTERN — hourly crawl overwrites</span>}
+        {wire.seed && <span class="seed-note"> · TEST PATTERN — the scheduled crawl overwrites</span>}
       </div>
     </header>
 

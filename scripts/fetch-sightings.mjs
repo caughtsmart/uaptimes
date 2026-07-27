@@ -9,7 +9,7 @@
 // down (rate-limited, offline, format change) never takes the whole run — and
 // never wipes the page. If a run collects nothing, the previous JSON is kept.
 //
-// Runs hourly from .github/workflows/fetch-sightings.yml (GitHub runners have
+// Runs every 3 hours from .github/workflows/fetch-sightings.yml (GitHub runners have
 // open internet, unlike the article-authoring sandbox). No API keys, no
 // secrets, nothing to pay for.
 // -----------------------------------------------------------------------------
@@ -26,8 +26,8 @@ const UA = 'UAPTimesWireBot/1.0 (+https://uaptimes.com)';
 // read on the notable ones). Runs only when ANTHROPIC_API_KEY is present, and
 // is fully best-effort — any failure falls back to the rules-based output, so
 // the wire never breaks. Model is a single knob: Opus 5 by default; swap to
-// e.g. "claude-haiku-4-5" here to cut the hourly cost dramatically.
-const LLM_MODEL = 'claude-opus-5';
+// e.g. "claude-haiku-4-5" here to change the model / cost.
+const LLM_MODEL = 'claude-haiku-4-5';
 const ANTHROPIC_KEY = process.env.ANTHROPIC_API_KEY;
 
 // ---- What counts as "interesting" -------------------------------------------
