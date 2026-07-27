@@ -6,7 +6,7 @@ pubDate: 2026-07-27
 author: "UAP Times Desk"
 topic: "Analysis"
 tags: ["Galileo Project", "Avi Loeb", "Laura Domine", "triangulation", "Las Vegas Sphere", "Mick West", "instrumentation"]
-heroImage: "/images/placeholder-sky.svg"
+heroImage: "/images/galileo-project-triangulation-distance-problem-hero.png"
 heroCredit: "AI-generated illustration"
 heroImageRemote: "https://d8j0ntlcm91z4.cloudfront.net/user_3H0FDLhevoDIIm5NZhOBNfDEWRH/hf_20260727_093809_ff0f0665-0a56-4cd2-88c5-0c4160b19a91.png"
 credibility: 2
