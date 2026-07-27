@@ -1,0 +1,71 @@
+{
+  "updated": "2026-07-27T09:00:00.000Z",
+  "seed": true,
+  "enriched": true,
+  "count": 5,
+  "notable": 3,
+  "items": [
+    {
+      "id": "seed-navy-radar",
+      "title": "Aircrew report fast-moving object off the Virginia coast",
+      "summary": "Commercial crew relayed a radar-correlated contact holding position against a 40-knot headwind before accelerating out of scope. Controllers logged the return; no aircraft was on the flight plan.",
+      "url": "https://uaptimes.com/",
+      "date": "2026-07-27T07:40:00.000Z",
+      "source": "News",
+      "sourceType": "news",
+      "notable": true,
+      "precedence": "FLASH",
+      "signals": ["military/agency", "aviation", "instrumented"],
+      "read": "Strong on paper — radar correlation plus an ATC log is the kind of hard sensor evidence that separates signal from noise; unverified until the flight-plan gap is confirmed."
+    },
+    {
+      "id": "seed-orb-formation",
+      "title": "Cluster of silent orbs filmed over the Arizona desert",
+      "summary": "Multiple witnesses captured a slow triangular formation of amber lights drifting without sound for several minutes near Sedona before winking out one by one.",
+      "url": "https://uaptimes.com/",
+      "date": "2026-07-27T05:15:00.000Z",
+      "source": "Social",
+      "sourceType": "social",
+      "notable": true,
+      "precedence": "PRIORITY",
+      "signals": ["mass sighting", "has media", "craft shape"],
+      "read": "Multiple witnesses and footage raise the floor, but silent amber lights over a desert tourist town are a classic flare/drone confound — worth watching, not banking."
+    },
+    {
+      "id": "seed-hearing-note",
+      "title": "Follow-up questions filed after congressional UAP hearing",
+      "summary": "Lawmakers submitted written questions to defence officials requesting the sensor data referenced during the latest disclosure hearing.",
+      "url": "https://uaptimes.com/",
+      "date": "2026-07-26T14:00:00.000Z",
+      "source": "News",
+      "sourceType": "news",
+      "notable": true,
+      "precedence": "PRIORITY",
+      "signals": ["government"]
+    },
+    {
+      "id": "seed-disc-photo",
+      "title": "Daylight photo of a disc-shaped object shared online",
+      "summary": "A commuter posted a single still frame of a metallic disc-like shape above a motorway. Analysts note the image is low-resolution and unverified.",
+      "url": "https://uaptimes.com/",
+      "date": "2026-07-26T18:30:00.000Z",
+      "source": "Social",
+      "sourceType": "social",
+      "notable": false,
+      "precedence": "ROUTINE",
+      "signals": ["has media", "craft shape"]
+    },
+    {
+      "id": "seed-light-coast",
+      "title": "Single bright light hovering over the coastline",
+      "summary": "A late-night observer described a stationary white light low over the water that faded after roughly ten minutes. No corroborating footage yet.",
+      "url": "https://uaptimes.com/",
+      "date": "2026-07-27T02:05:00.000Z",
+      "source": "Social",
+      "sourceType": "social",
+      "notable": false,
+      "precedence": "ROUTINE",
+      "signals": []
+    }
+  ]
+}
