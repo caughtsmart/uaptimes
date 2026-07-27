@@ -27,7 +27,7 @@ The official acknowledgement matters too. The Pentagon confirming the footage wa
 
 Where the case gets shakier is in the confident physics. "It went from 80,000 feet to sea level in a second" is a thrilling claim, but the underlying radar data supporting the most extreme performance figures is far less clean than the retellings suggest. A lot of the wildest numbers come from memory and interpretation, not a clean instrument log.
 
-Extraordinary claims lean hardest on exactly the data that's weakest here. That doesn't make the witnesses wrong — it makes the *specific superlatives* unreliable. It's a useful yardstick for newer cases too: [the swarm reported off the Virginia coast](/articles/navy-uap-swarm-virginia-coast/) has a far more arresting headline number and nothing like the Tic Tac's cross-sensor corroboration behind it.
+Extraordinary claims lean hardest on exactly the data that's weakest here. That doesn't make the witnesses wrong — it makes the *specific superlatives* unreliable. The root problem is one the field has never solved: without a measured range, every figure for size, speed and acceleration is an inference. That is precisely the gap the [Galileo Project's triangulating cameras](/articles/galileo-project-triangulation-distance-problem/) were built to close. It's a useful yardstick for newer cases too: [the swarm reported off the Virginia coast](/articles/navy-uap-swarm-virginia-coast/) has a far more arresting headline number and nothing like the Tic Tac's cross-sensor corroboration behind it.
 
 ##### The UAP Times take
 

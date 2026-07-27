@@ -52,6 +52,8 @@ Sit with that. The stated purpose is to help the government resolve what its own
 
 What it can see is the processed, redacted, agency-selected residue. And we have a decent idea of what that residue supports, because the sceptics went through it first: Sean Kirkpatrick found "nothing unexpected" in the opening tranche, and Mick West found "nothing really interesting" in the second. A panel of statisticians handed the same files is not going to extract a signal that isn't in them. You cannot statistics your way out of a missing instrument log.
 
+Which is presumably why Loeb's other venture takes the opposite approach entirely: the Galileo Project simply [builds its own instruments](/articles/galileo-project-triangulation-distance-problem/) and generates data nobody has to be granted permission to see.
+
 So the council's most useful output may not be an answer at all. It may be a precise, credentialed, publicly documented account of exactly which data it asked for and did not receive. That request for fifty-odd items of information is, in this light, the most interesting thing it has done — not because of what it might yield, but because the refusals will be on the record.
 
 ##### Putting a sceptic in the room
