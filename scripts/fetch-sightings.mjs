@@ -1,0 +1,238 @@
+// -----------------------------------------------------------------------------
+// UAP Times — Live Sightings Wire crawler
+//
+// Pulls the latest UAP/UFO chatter from a handful of OPEN, FREE, no-auth
+// sources, normalises it into short paragraphs, flags the interesting-looking
+// ones with a simple keyword rulebook, and writes src/data/live-sightings.json.
+//
+// It is deliberately best-effort: every source is wrapped so that one going
+// down (rate-limited, offline, format change) never takes the whole run — and
+// never wipes the page. If a run collects nothing, the previous JSON is kept.
+//
+// Runs hourly from .github/workflows/fetch-sightings.yml (GitHub runners have
+// open internet, unlike the article-authoring sandbox). No API keys, no
+// secrets, nothing to pay for.
+// -----------------------------------------------------------------------------
+
+import fs from 'node:fs';
+import path from 'node:path';
+import crypto from 'node:crypto';
+
+const OUT = path.resolve('./src/data/live-sightings.json');
+const MAX_ITEMS = 60;                 // how many entries the page keeps
+const UA = 'UAPTimesWireBot/1.0 (+https://uaptimes.com)';
+
+// ---- What counts as "interesting" -------------------------------------------
+// Each keyword that appears adds to a signal score. Higher-signal terms (a
+// pilot, military radar, a government body) weigh more than a bare "light in
+// the sky". Above THRESHOLD an item is flagged Notable on the page.
+const SIGNALS = [
+  [/\b(navy|air ?force|military|norad|noaa|faa|pentagon|dod|nasa)\b/i, 3, 'military/agency'],
+  [/\b(pilot|aircrew|air ?traffic|cockpit|airline|airport)\b/i, 3, 'aviation'],
+  [/\b(radar|infrared|flir|gimbal|sensor|telemetry|transponder)\b/i, 3, 'instrumented'],
+  [/\b(congress|senate|hearing|whistleblow|disclosure|classified|grusch|aaro)\b/i, 3, 'government'],
+  [/\b(multiple witnesses|dozens|hundreds|crowd|simultaneous)\b/i, 2, 'mass sighting'],
+  [/\b(video|footage|photograph|photo|caught on camera|captured)\b/i, 1, 'has media'],
+  [/\b(triangle|tic ?tac|orb|disc|craft|formation|fleet)\b/i, 1, 'craft shape'],
+  [/\b(landing|landed|abduct|entity|being|occupant|creature)\b/i, 2, 'close encounter'],
+];
+const THRESHOLD = 3;
+
+// Only keep items that are actually on-topic — kills off-topic news bleed.
+const TOPICAL = /\b(uap|ufo|ufos|unidentified|flying object|anomalous|sighting|orb|tic ?tac)\b/i;
+
+// ---- tiny helpers -----------------------------------------------------------
+const stripTags = (s = '') =>
+  s.replace(/<[^>]*>/g, ' ')
+   .replace(/&nbsp;/g, ' ')
+   .replace(/&amp;/g, '&').replace(/&lt;/g, '<').replace(/&gt;/g, '>')
+   .replace(/&quot;/g, '"').replace(/&#39;|&apos;/g, "'")
+   .replace(/&#(\d+);/g, (_, n) => String.fromCharCode(+n))
+   .replace(/\s+/g, ' ')
+   .trim();
+
+const clip = (s, n = 300) => {
+  s = (s || '').trim();
+  if (s.length <= n) return s;
+  return s.slice(0, n - 1).replace(/\s+\S*$/, '') + '…';
+};
+
+const idFor = (url, title) =>
+  crypto.createHash('sha1').update((url || '') + '|' + (title || '')).digest('hex').slice(0, 12);
+
+// grab all <tag>…</tag> blocks
+const blocks = (xml, tag) => {
+  const re = new RegExp(`<${tag}[^>]*>([\\s\\S]*?)</${tag}>`, 'gi');
+  const out = [];
+  let m;
+  while ((m = re.exec(xml))) out.push(m[1]);
+  return out;
+};
+const field = (xml, tag) => {
+  const m = new RegExp(`<${tag}[^>]*>([\\s\\S]*?)</${tag}>`, 'i').exec(xml);
+  if (!m) return '';
+  return stripTags(m[1].replace(/<!\[CDATA\[|\]\]>/g, ''));
+};
+const attr = (xml, tag, name) => {
+  const m = new RegExp(`<${tag}[^>]*\\b${name}="([^"]*)"`, 'i').exec(xml);
+  return m ? m[1] : '';
+};
+
+async function get(url, { json = false } = {}) {
+  const res = await fetch(url, {
+    headers: { 'user-agent': UA, accept: json ? 'application/json' : 'application/rss+xml, application/xml, text/xml, */*' },
+    // don't let a slow source hang the whole job
+    signal: AbortSignal.timeout(20000),
+  });
+  if (!res.ok) throw new Error(`HTTP ${res.status} for ${url}`);
+  return json ? res.json() : res.text();
+}
+
+// ---- sources ----------------------------------------------------------------
+
+// Google News RSS — aggregates mainstream + local press. No key, no auth.
+async function fromGoogleNews() {
+  const q = encodeURIComponent('("UAP" OR "UFO" OR "unidentified flying object") (sighting OR spotted OR filmed) when:3d');
+  const xml = await get(`https://news.google.com/rss/search?q=${q}&hl=en-US&gl=US&ceid=US:en`);
+  return blocks(xml, 'item').map((it) => {
+    const title = field(it, 'title');
+    // Google prefixes the source onto the title after " - "
+    const src = field(it, 'source') || (title.split(' - ').pop() || 'News');
+    const cleanTitle = title.replace(new RegExp(`\\s*-\\s*${src}\\s*$`), '');
+    return {
+      title: cleanTitle,
+      summary: clip(field(it, 'description') || cleanTitle),
+      url: field(it, 'link'),
+      date: field(it, 'pubDate'),
+      source: src,
+      sourceType: 'news',
+    };
+  });
+}
+
+// Bluesky — fully open public API, no auth needed. Real-time firehose search.
+async function fromBluesky() {
+  const out = [];
+  for (const term of ['UFO sighting', 'UAP sighting']) {
+    const data = await get(
+      `https://public.api.bsky.app/xrpc/app.bsky.feed.searchPosts?q=${encodeURIComponent(term)}&limit=25&sort=latest`,
+      { json: true },
+    );
+    for (const p of data.posts || []) {
+      const rkey = (p.uri || '').split('/').pop();
+      const handle = p.author?.handle;
+      out.push({
+        title: clip(p.record?.text || '', 120),
+        summary: clip(p.record?.text || ''),
+        url: handle && rkey ? `https://bsky.app/profile/${handle}/post/${rkey}` : undefined,
+        date: p.indexedAt || p.record?.createdAt,
+        source: `Bluesky · @${handle || 'unknown'}`,
+        sourceType: 'social',
+      });
+    }
+  }
+  return out;
+}
+
+// Reddit — public per-subreddit RSS. Best-effort: Reddit sometimes rate-limits
+// cloud IPs, so a 429/403 here just means "no reddit this hour", not a failure.
+async function fromReddit() {
+  const out = [];
+  for (const sub of ['UFOs', 'UFOB']) {
+    const xml = await get(`https://www.reddit.com/r/${sub}/new/.rss?limit=25`);
+    for (const e of blocks(xml, 'entry')) {
+      out.push({
+        title: field(e, 'title'),
+        summary: clip(field(e, 'content')),
+        url: attr(e, 'link', 'href'),
+        date: field(e, 'updated') || field(e, 'published'),
+        source: `Reddit · r/${sub}`,
+        sourceType: 'social',
+      });
+    }
+  }
+  return out;
+}
+
+// ---- scoring & assembly -----------------------------------------------------
+function score(item) {
+  const hay = `${item.title} ${item.summary}`;
+  let n = 0;
+  const signals = [];
+  for (const [re, weight, label] of SIGNALS) {
+    if (re.test(hay)) { n += weight; signals.push(label); }
+  }
+  return { n, signals };
+}
+
+function normDate(d) {
+  const t = Date.parse(d || '');
+  return Number.isNaN(t) ? 0 : t;
+}
+
+async function run() {
+  const sources = [
+    ['Google News', fromGoogleNews],
+    ['Bluesky', fromBluesky],
+    ['Reddit', fromReddit],
+  ];
+
+  let raw = [];
+  for (const [name, fn] of sources) {
+    try {
+      const got = await fn();
+      console.log(`  ${name}: ${got.length} items`);
+      raw = raw.concat(got);
+    } catch (err) {
+      console.warn(`  ${name}: skipped (${err.message})`);
+    }
+  }
+
+  // topical filter + dedupe (by url, then by normalised title)
+  const seen = new Set();
+  const items = [];
+  for (const it of raw) {
+    if (!it.url && !it.title) continue;
+    const hay = `${it.title} ${it.summary}`;
+    if (!TOPICAL.test(hay)) continue;
+    const key = (it.url || '').split('?')[0] || it.title.toLowerCase().replace(/\W+/g, '').slice(0, 60);
+    if (seen.has(key)) continue;
+    seen.add(key);
+
+    const { n, signals } = score(it);
+    items.push({
+      id: idFor(it.url, it.title),
+      title: it.title,
+      summary: it.summary,
+      url: it.url,
+      date: it.date ? new Date(normDate(it.date)).toISOString() : null,
+      source: it.source,
+      sourceType: it.sourceType,
+      notable: n >= THRESHOLD,
+      signals,
+    });
+  }
+
+  items.sort((a, b) => normDate(b.date) - normDate(a.date));
+  const trimmed = items.slice(0, MAX_ITEMS);
+
+  if (!trimmed.length) {
+    console.warn('No items collected — keeping the existing file untouched.');
+    return;
+  }
+
+  const payload = {
+    updated: new Date().toISOString(),
+    count: trimmed.length,
+    notable: trimmed.filter((i) => i.notable).length,
+    items: trimmed,
+  };
+  fs.writeFileSync(OUT, JSON.stringify(payload, null, 2) + '\n');
+  console.log(`Wrote ${trimmed.length} items (${payload.notable} notable) → ${path.relative(process.cwd(), OUT)}`);
+}
+
+run().catch((err) => {
+  // Never fail the workflow over the wire — just log and leave the file be.
+  console.error('Wire crawl failed:', err);
+  process.exit(0);
+});

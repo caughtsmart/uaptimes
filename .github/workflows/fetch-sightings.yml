@@ -1,0 +1,44 @@
+name: Fetch sightings wire
+
+# Sweeps open UAP/UFO sources every hour and commits the results to
+# src/data/live-sightings.json, which powers the /sightings "Live Wire" page.
+# GitHub runners have open internet (unlike the article-authoring sandbox), so
+# the actual crawling happens here. No API keys or secrets required.
+
+on:
+  schedule:
+    - cron: '17 * * * *'   # hourly, at :17 past (off the top-of-hour rush)
+  workflow_dispatch: {}     # lets you trigger a sweep by hand from the Actions tab
+
+permissions:
+  contents: write
+
+# Never let two sweeps stack up.
+concurrency:
+  group: fetch-sightings
+  cancel-in-progress: true
+
+jobs:
+  sweep:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+
+      - name: Sweep the wire
+        run: node scripts/fetch-sightings.mjs
+
+      - name: Commit any new sightings
+        run: |
+          if [[ -n "$(git status --porcelain src/data/live-sightings.json)" ]]; then
+            git config user.name "uaptimes-bot"
+            git config user.email "actions@users.noreply.github.com"
+            git add src/data/live-sightings.json
+            git commit -m "Update sightings wire [automated]"
+            git push
+          else
+            echo "Wire unchanged — nothing to commit."
+          fi
