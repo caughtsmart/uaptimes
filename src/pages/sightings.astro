@@ -2,194 +2,248 @@
 import BaseLayout from '../layouts/BaseLayout.astro';
 import wire from '../data/live-sightings.json';
 
-// The Live Sightings Wire: short paragraphs of the latest UAP chatter, pulled
-// hourly from open sources by scripts/fetch-sightings.mjs and committed to
+// The Live Sightings Wire, styled as a stream of intercepted classified
+// transmissions. Short paragraphs of the latest UAP chatter, pulled hourly from
+// open sources by scripts/fetch-sightings.mjs and committed to
 // live-sightings.json. This page just renders whatever is in that file.
 const items = wire.items ?? [];
-const notable = items.filter((i) => i.notable);
-const rest = items.filter((i) => !i.notable);
 
 const updated = wire.updated ? new Date(wire.updated) : null;
-const updatedStr = updated
-  ? updated.toLocaleString('en-GB', {
-      day: 'numeric', month: 'short', year: 'numeric',
-      hour: '2-digit', minute: '2-digit', timeZone: 'UTC',
-    }) + ' UTC'
-  : 'unknown';
+const updatedZ = updated
+  ? `${String(updated.getUTCDate()).padStart(2, '0')}${String(updated.getUTCHours()).padStart(2, '0')}${String(updated.getUTCMinutes()).padStart(2, '0')}Z`
+  : 'UNKNOWN';
+
+// Military-style date-time group, e.g. 271540Z — DDHHMM in Zulu (UTC).
+function dtg(iso) {
+  if (!iso) return '------Z';
+  const d = new Date(iso);
+  if (Number.isNaN(d.getTime())) return '------Z';
+  const p = (n) => String(n).padStart(2, '0');
+  return `${p(d.getUTCDate())}${p(d.getUTCHours())}${p(d.getUTCMinutes())}Z`;
+}
 
 function ago(iso) {
   if (!iso) return '';
   const then = new Date(iso).getTime();
   if (Number.isNaN(then)) return '';
   const mins = Math.round((Date.now() - then) / 60000);
-  if (mins < 1) return 'just now';
-  if (mins < 60) return `${mins}m ago`;
+  if (mins < 1) return 'JUST NOW';
+  if (mins < 60) return `+${mins}M`;
   const hrs = Math.round(mins / 60);
-  if (hrs < 24) return `${hrs}h ago`;
-  const days = Math.round(hrs / 24);
-  return `${days}d ago`;
+  if (hrs < 24) return `+${hrs}H`;
+  return `+${Math.round(hrs / 24)}D`;
 }
 
-const kindLabel = { news: 'PRESS', social: 'SOCIAL' };
+const kindLabel = { news: 'PRESS', social: 'OSINT' };
+const ref = (id) => `UAP-${String(id).slice(0, 4).toUpperCase()}`;
+
+// A few of the highest-priority items scroll across the ticker up top.
+const tickerItems = [...items]
+  .sort((a, b) => (b.precedence === 'FLASH' ? 1 : 0) - (a.precedence === 'FLASH' ? 1 : 0))
+  .slice(0, 14);
 
 const title = 'Live Sightings Wire';
 const description =
-  'The latest UAP and UFO sighting reports, pulled hourly from open press and social sources. Short, raw, unverified — the notable ones flagged.';
+  'Intercepted UAP/UFO sighting traffic, swept hourly from open press and social sources and logged newest-first as short classified-style dispatches. Unverified — the notable ones flagged FLASH/PRIORITY.';
 ---
 <BaseLayout title={title} description={description}>
+  <!-- Scrolling intercept ticker -->
+  {tickerItems.length > 0 && (
+    <div class="ticker" role="marquee" aria-label="Latest intercepts">
+      <span class="ticker-label mono-label">◉ LIVE&nbsp;INTERCEPT</span>
+      <div class="ticker-track">
+        <div class="ticker-run">
+          {[...tickerItems, ...tickerItems].map((it) => (
+            <span class="ticker-item">
+              <span class={`tick-prec p-${it.precedence?.toLowerCase()}`}>{it.precedence ?? 'ROUTINE'}</span>
+              {it.title}
+              <span class="tick-sep">◆</span>
+            </span>
+          ))}
+        </div>
+      </div>
+    </div>
+  )}
+
   <div class="container wire">
     <header class="wire-head">
-      <span class="mono-label wire-kicker">◈ Incoming · unverified traffic</span>
-      <h1>Live Sightings Wire</h1>
+      <div class="console-line mono-label">
+        <span>◈ SIGNALS&nbsp;INTELLIGENCE&nbsp;//&nbsp;UAP&nbsp;DESK</span>
+        <span class="console-right">FREQ&nbsp;UNCLASS&nbsp;·&nbsp;NOFORN</span>
+      </div>
+      <h1>Intercept Wire</h1>
       <p class="wire-sub">
-        Raw UAP chatter, swept hourly from open press and social feeds and dropped
-        here newest-first. Nothing here is confirmed — it's the intake tray, not the
-        archive. The ones our filter thinks are worth a second look are
-        <span class="flag-inline">⚑ flagged</span>.
+        Raw UAP traffic, swept hourly from open press and social channels and logged
+        below newest-first. Every line is unverified intake — the ones our filter
+        rates worth a second look ride in flagged <span class="p-flash inline-prec">FLASH</span>
+        or <span class="p-priority inline-prec">PRIORITY</span>.
       </p>
       <div class="wire-status mono-label">
         <span class="live-dot" aria-hidden="true"></span>
-        {items.length} signals · {notable.length} notable · last swept {updatedStr}
-        {wire.seed && <span class="seed-note"> · sample data — the hourly crawl replaces this</span>}
+        LINK&nbsp;ACTIVE · {items.length}&nbsp;INTERCEPTS · LAST&nbsp;SWEEP&nbsp;{updatedZ}
+        {wire.seed && <span class="seed-note"> · TEST PATTERN — hourly crawl overwrites</span>}
       </div>
     </header>
 
-    {notable.length > 0 && (
-      <section class="wire-section">
-        <h2 class="section-title">⚑ Flagged for a second look</h2>
-        <ol class="wire-list">
-          {notable.map((it) => (
-            <li class="wire-item is-notable">
-              <div class="wire-meta mono-label">
-                <span class={`src-tag src-${it.sourceType}`}>{kindLabel[it.sourceType] ?? 'WIRE'}</span>
-                <span class="src-name">{it.source}</span>
-                <span class="dot">·</span>
-                <time datetime={it.date}>{ago(it.date)}</time>
-              </div>
-              <p class="wire-text">{it.summary || it.title}</p>
-              {it.signals?.length > 0 && (
-                <div class="wire-signals">
-                  {it.signals.map((s) => <span class="signal">{s}</span>)}
-                </div>
-              )}
-              {it.url && (
-                <a class="wire-src-link" href={it.url} target="_blank" rel="noopener nofollow">
-                  Source ↗
-                </a>
-              )}
-            </li>
-          ))}
-        </ol>
-      </section>
-    )}
-
-    <section class="wire-section">
-      <h2 class="section-title">Everything else on the wire</h2>
-      {rest.length === 0 ? (
-        <p class="wire-empty">The wire is quiet. Check back after the next hourly sweep.</p>
-      ) : (
-        <ol class="wire-list">
-          {rest.map((it) => (
-            <li class="wire-item">
-              <div class="wire-meta mono-label">
-                <span class={`src-tag src-${it.sourceType}`}>{kindLabel[it.sourceType] ?? 'WIRE'}</span>
-                <span class="src-name">{it.source}</span>
-                <span class="dot">·</span>
-                <time datetime={it.date}>{ago(it.date)}</time>
-              </div>
-              <p class="wire-text">{it.summary || it.title}</p>
-              {it.url && (
-                <a class="wire-src-link" href={it.url} target="_blank" rel="noopener nofollow">
-                  Source ↗
-                </a>
-              )}
-            </li>
-          ))}
-        </ol>
+    <ol class="wire-log">
+      {items.length === 0 && (
+        <li class="wire-empty mono-label">// NO TRAFFIC ON THIS FREQUENCY — STAND BY FOR NEXT SWEEP</li>
       )}
-    </section>
+      {items.map((it) => (
+        <li class={`tx tx-${it.precedence?.toLowerCase()} ${it.notable ? 'is-notable' : ''}`}>
+          <div class="tx-header mono-label">
+            <span class={`tx-prec p-${it.precedence?.toLowerCase()}`}>{it.precedence ?? 'ROUTINE'}</span>
+            <span class="tx-dtg">{dtg(it.date)}</span>
+            <span class="tx-age">{ago(it.date)}</span>
+            <span class="tx-sep">//</span>
+            <span class={`tx-src src-${it.sourceType}`}>{kindLabel[it.sourceType] ?? 'WIRE'}</span>
+            <span class="tx-origin">{it.source}</span>
+            <span class="tx-ref">REF&nbsp;{ref(it.id)}</span>
+          </div>
+          <p class="tx-body">
+            <span class="tx-caret" aria-hidden="true">▌</span>{it.summary || it.title}
+          </p>
+          <div class="tx-foot">
+            {it.signals?.length > 0 && (
+              <span class="tx-signals">
+                {it.signals.map((s) => <span class="signal">{s}</span>)}
+              </span>
+            )}
+            {it.url && (
+              <a class="tx-link mono-label" href={it.url} target="_blank" rel="noopener nofollow">
+                DECODE&nbsp;SOURCE&nbsp;↗
+              </a>
+            )}
+          </div>
+        </li>
+      ))}
+    </ol>
 
     <p class="wire-foot mono-label">
-      Sources: open press (Google News), Bluesky &amp; Reddit public feeds. Unverified
-      user reports — treat accordingly. Spotted something yourself?
-      <a href="mailto:tips@uaptimes.com">tips@uaptimes.com</a>
+      // INTERCEPT SOURCES: OPEN PRESS (GOOGLE NEWS) · BLUESKY · MASTODON · REDDIT —
+      ALL PUBLIC, UNVERIFIED. HANDLE AS RAW INTAKE. EYES-ON A CRAFT YOURSELF?
+      TRANSMIT&nbsp;<a href="mailto:tips@uaptimes.com">tips@uaptimes.com</a>
     </p>
   </div>
 </BaseLayout>
 
 <style>
-  .wire { max-width: var(--maxw); padding-top: 2rem; padding-bottom: 3rem; }
+  /* ---- scrolling intercept ticker ---- */
+  .ticker {
+    display: flex; align-items: stretch;
+    background: var(--text); color: var(--paper);
+    border-bottom: 1px solid var(--border-ink);
+    overflow: hidden; font-family: var(--font-mono);
+  }
+  .ticker-label {
+    flex: 0 0 auto; display: flex; align-items: center; gap: .35rem;
+    background: var(--accent); color: #fff; padding: .45rem .8rem;
+    letter-spacing: .14em; white-space: nowrap;
+  }
+  .ticker-track { flex: 1 1 auto; overflow: hidden; position: relative; }
+  .ticker-run {
+    display: inline-flex; align-items: center; white-space: nowrap;
+    padding: .45rem 0; will-change: transform;
+    animation: ticker 80s linear infinite;
+  }
+  .ticker:hover .ticker-run { animation-play-state: paused; }
+  .ticker-item {
+    display: inline-flex; align-items: center; gap: .5rem;
+    padding: 0 .9rem; font-size: .78rem; letter-spacing: .02em;
+    color: rgba(247,245,238,.9);
+  }
+  .tick-prec { font-size: .6rem; letter-spacing: .1em; padding: .05rem .3rem; border-radius: 2px; }
+  .tick-sep { color: var(--accent); opacity: .8; }
+  @keyframes ticker { from { transform: translateX(0); } to { transform: translateX(-50%); } }
+  @media (prefers-reduced-motion: reduce) { .ticker-run { animation: none; } }
 
-  .wire-head { margin-bottom: 2rem; }
-  .wire-kicker { color: var(--accent); display: block; margin-bottom: .5rem; }
-  .wire-head h1 { font-family: var(--font-head); font-size: 2.4rem; margin: 0 0 .5rem; }
+  /* ---- console header ---- */
+  .wire { max-width: 800px; padding-top: 1.6rem; padding-bottom: 3rem; }
+  .wire-head { margin-bottom: 1.6rem; }
+  .console-line {
+    display: flex; justify-content: space-between; gap: 1rem; flex-wrap: wrap;
+    color: var(--accent); border-bottom: 1px solid var(--border);
+    padding-bottom: .5rem; margin-bottom: .8rem; letter-spacing: .12em;
+  }
+  .console-right { color: var(--text-dim); }
+  .wire-head h1 { font-family: var(--font-head); font-size: 2.3rem; margin: 0 0 .5rem; }
   .wire-sub { color: var(--text-dim); margin: 0 0 1rem; }
-  .flag-inline { color: var(--accent); font-weight: 600; }
+  .inline-prec { font-family: var(--font-mono); font-size: .72rem; padding: .05rem .35rem; border-radius: 2px; letter-spacing: .08em; }
 
   .wire-status {
-    display: flex; flex-wrap: wrap; align-items: center; gap: .4rem;
-    color: var(--text-dim); border-top: 1px solid var(--border);
-    padding-top: .75rem; letter-spacing: .12em;
+    display: flex; flex-wrap: wrap; align-items: center; gap: .45rem;
+    color: var(--text-dim); border: 1px solid var(--border); background: var(--bg-softer);
+    padding: .5rem .7rem; border-radius: 4px; letter-spacing: .1em;
   }
-  .seed-note { color: var(--warn); text-transform: none; letter-spacing: .02em; }
+  .seed-note { color: var(--warn); }
   .live-dot {
     width: 8px; height: 8px; border-radius: 50%; background: var(--accent);
     box-shadow: 0 0 0 0 rgba(177,42,29,.5); animation: pulse 2s infinite;
   }
   @keyframes pulse {
-    0%   { box-shadow: 0 0 0 0 rgba(177,42,29,.45); }
-    70%  { box-shadow: 0 0 0 7px rgba(177,42,29,0); }
+    0% { box-shadow: 0 0 0 0 rgba(177,42,29,.45); }
+    70% { box-shadow: 0 0 0 7px rgba(177,42,29,0); }
     100% { box-shadow: 0 0 0 0 rgba(177,42,29,0); }
   }
   @media (prefers-reduced-motion: reduce) { .live-dot { animation: none; } }
 
-  .wire-section { margin-bottom: 2.5rem; }
+  /* ---- precedence colours (shared) ---- */
+  .p-flash { background: var(--accent); color: #fff; }
+  .p-priority { background: var(--warn); color: #fff; }
+  .p-routine { background: var(--text-dim); color: var(--paper); }
 
-  .wire-list { list-style: none; margin: 0; padding: 0; }
-  .wire-item {
+  /* ---- the transmission log ---- */
+  .wire-log { list-style: none; margin: 0; padding: 0; }
+  .tx {
     background: var(--paper); border: 1px solid var(--border);
-    border-radius: 6px; padding: 1rem 1.1rem; margin-bottom: .85rem;
+    border-left: 3px solid var(--border-ink);
+    border-radius: 5px; padding: .85rem 1rem; margin-bottom: .7rem;
     box-shadow: var(--shadow);
   }
-  .wire-item.is-notable { border-left: 3px solid var(--accent); }
+  .tx.tx-flash { border-left-color: var(--accent); }
+  .tx.tx-priority { border-left-color: var(--warn); }
 
-  .wire-meta {
-    display: flex; flex-wrap: wrap; align-items: center; gap: .5rem;
-    color: var(--text-dim); margin-bottom: .5rem; letter-spacing: .1em;
+  .tx-header {
+    display: flex; flex-wrap: wrap; align-items: center; gap: .45rem;
+    color: var(--text-dim); margin-bottom: .5rem; letter-spacing: .08em;
+    font-size: .66rem;
   }
-  .src-tag {
-    padding: .1rem .4rem; border-radius: 3px; color: var(--paper);
-    background: var(--text-dim); letter-spacing: .1em; font-size: .62rem;
-  }
-  .src-tag.src-news { background: var(--link); }
-  .src-tag.src-social { background: var(--warn); }
-  .src-name { color: var(--text); text-transform: none; letter-spacing: .02em; }
-  .dot { opacity: .5; }
+  .tx-prec { padding: .08rem .4rem; border-radius: 2px; letter-spacing: .1em; }
+  .tx-dtg { color: var(--text); font-weight: 600; }
+  .tx-age { color: var(--text-dim); }
+  .tx-sep { opacity: .45; }
+  .tx-src { padding: .08rem .38rem; border-radius: 2px; color: var(--paper); background: var(--text-dim); }
+  .tx-src.src-news { background: var(--link); }
+  .tx-src.src-social { background: var(--warn); }
+  .tx-origin { color: var(--text); text-transform: none; letter-spacing: .01em; }
+  .tx-ref { margin-left: auto; color: var(--text-dim); }
 
-  .wire-text {
+  .tx-body {
     margin: 0; color: var(--text); line-height: 1.6;
-    font-size: 1.02rem;
+    font-family: var(--font-mono); font-size: .9rem;
   }
+  .tx-caret { color: var(--accent); margin-right: .4rem; }
 
-  .wire-signals { display: flex; flex-wrap: wrap; gap: .35rem; margin-top: .6rem; }
+  .tx-foot {
+    display: flex; flex-wrap: wrap; align-items: center; gap: .6rem;
+    margin-top: .55rem;
+  }
+  .tx-signals { display: flex; flex-wrap: wrap; gap: .3rem; }
   .signal {
-    font-family: var(--font-mono); font-size: .64rem; text-transform: uppercase;
-    letter-spacing: .08em; color: var(--accent-deep);
+    font-family: var(--font-mono); font-size: .6rem; text-transform: uppercase;
+    letter-spacing: .06em; color: var(--accent-deep);
     background: rgba(177,42,29,.07); border: 1px solid var(--accent-dim);
-    padding: .1rem .45rem; border-radius: 3px;
+    padding: .06rem .4rem; border-radius: 2px;
   }
+  .tx-link { margin-left: auto; letter-spacing: .08em; font-size: .64rem; }
 
-  .wire-src-link {
-    display: inline-block; margin-top: .55rem;
-    font-family: var(--font-mono); font-size: .72rem; letter-spacing: .04em;
+  .wire-empty {
+    color: var(--text-dim); letter-spacing: .08em; padding: 1.2rem;
+    border: 1px dashed var(--border-ink); border-radius: 5px; text-align: center;
   }
-
-  .wire-empty { color: var(--text-dim); font-style: italic; }
 
   .wire-foot {
     border-top: 1px solid var(--border); padding-top: 1rem; margin-top: 2rem;
-    color: var(--text-dim); text-transform: none; letter-spacing: .02em;
-    line-height: 1.6;
+    color: var(--text-dim); letter-spacing: .06em; line-height: 1.7; font-size: .66rem;
   }
-  .wire-foot a { font-family: var(--font-mono); }
 </style>

@@ -19,7 +19,7 @@ import path from 'node:path';
 import crypto from 'node:crypto';
 
 const OUT = path.resolve('./src/data/live-sightings.json');
-const MAX_ITEMS = 60;                 // how many entries the page keeps
+const MAX_ITEMS = 90;                 // how many entries the page keeps
 const UA = 'UAPTimesWireBot/1.0 (+https://uaptimes.com)';
 
 // ---- What counts as "interesting" -------------------------------------------
@@ -138,17 +138,52 @@ async function fromBluesky() {
 // cloud IPs, so a 429/403 here just means "no reddit this hour", not a failure.
 async function fromReddit() {
   const out = [];
-  for (const sub of ['UFOs', 'UFOB']) {
-    const xml = await get(`https://www.reddit.com/r/${sub}/new/.rss?limit=25`);
-    for (const e of blocks(xml, 'entry')) {
-      out.push({
-        title: field(e, 'title'),
-        summary: clip(field(e, 'content')),
-        url: attr(e, 'link', 'href'),
-        date: field(e, 'updated') || field(e, 'published'),
-        source: `Reddit · r/${sub}`,
-        sourceType: 'social',
-      });
+  for (const sub of ['UFOs', 'UFOB', 'aliens', 'HighStrangeness']) {
+    try {
+      const xml = await get(`https://www.reddit.com/r/${sub}/new/.rss?limit=25`);
+      for (const e of blocks(xml, 'entry')) {
+        out.push({
+          title: field(e, 'title'),
+          summary: clip(field(e, 'content')),
+          url: attr(e, 'link', 'href'),
+          date: field(e, 'updated') || field(e, 'published'),
+          source: `Reddit · r/${sub}`,
+          sourceType: 'social',
+        });
+      }
+    } catch (err) {
+      console.warn(`    r/${sub}: skipped (${err.message})`);
+    }
+  }
+  return out;
+}
+
+// Mastodon — the public hashtag timeline API is open, no auth. We poll a few
+// large instances so we're not reliant on any single server being up.
+async function fromMastodon() {
+  const out = [];
+  const instances = ['mastodon.social', 'mstdn.social'];
+  const tags = ['ufo', 'uap', 'ufosighting', 'ufos'];
+  for (const host of instances) {
+    for (const tag of tags) {
+      try {
+        const data = await get(
+          `https://${host}/api/v1/timelines/tag/${tag}?limit=15`,
+          { json: true },
+        );
+        for (const s of data || []) {
+          out.push({
+            title: clip(stripTags(s.content || ''), 120),
+            summary: clip(stripTags(s.content || '')),
+            url: s.url || s.uri,
+            date: s.created_at,
+            source: `Mastodon · @${s.account?.username || 'unknown'}`,
+            sourceType: 'social',
+          });
+        }
+      } catch (err) {
+        console.warn(`    ${host}#${tag}: skipped (${err.message})`);
+      }
     }
   }
   return out;
@@ -174,6 +209,7 @@ async function run() {
   const sources = [
     ['Google News', fromGoogleNews],
     ['Bluesky', fromBluesky],
+    ['Mastodon', fromMastodon],
     ['Reddit', fromReddit],
   ];
 
@@ -200,6 +236,9 @@ async function run() {
     seen.add(key);
 
     const { n, signals } = score(it);
+    // Borrow military message-precedence labels for the transmission styling:
+    // FLASH (drop everything) → PRIORITY → ROUTINE.
+    const precedence = n >= 6 ? 'FLASH' : n >= THRESHOLD ? 'PRIORITY' : 'ROUTINE';
     items.push({
       id: idFor(it.url, it.title),
       title: it.title,
@@ -209,6 +248,7 @@ async function run() {
       source: it.source,
       sourceType: it.sourceType,
       notable: n >= THRESHOLD,
+      precedence,
       signals,
     });
   }
