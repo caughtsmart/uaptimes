@@ -103,6 +103,12 @@ const description =
           <p class="tx-body">
             <span class="tx-caret" aria-hidden="true">▌</span>{it.summary || it.title}
           </p>
+          {it.read && (
+            <p class="tx-read">
+              <span class="tx-read-tag mono-label">▚ ANALYST READ</span>
+              {it.read}
+            </p>
+          )}
           <div class="tx-foot">
             {it.signals?.length > 0 && (
               <span class="tx-signals">
@@ -223,6 +229,16 @@ const description =
     font-family: var(--font-mono); font-size: .9rem;
   }
   .tx-caret { color: var(--accent); margin-right: .4rem; }
+
+  .tx-read {
+    margin: .55rem 0 0; padding: .5rem .7rem; line-height: 1.5;
+    font-size: .82rem; color: var(--text);
+    background: var(--bg-softer); border-left: 2px solid var(--link);
+    border-radius: 0 4px 4px 0;
+  }
+  .tx-read-tag {
+    display: inline; color: var(--link); letter-spacing: .1em; margin-right: .45rem;
+  }
 
   .tx-foot {
     display: flex; flex-wrap: wrap; align-items: center; gap: .6rem;

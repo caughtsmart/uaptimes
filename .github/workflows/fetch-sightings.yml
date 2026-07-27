@@ -30,6 +30,10 @@ jobs:
 
       - name: Sweep the wire
         run: node scripts/fetch-sightings.mjs
+        env:
+          # Optional: set this repo secret to turn on the LLM pass (dedupe +
+          # analyst reads). Leave it unset and the crawler runs rules-only.
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
 
       - name: Commit any new sightings
         run: |

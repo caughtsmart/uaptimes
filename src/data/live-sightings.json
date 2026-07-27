@@ -1,6 +1,7 @@
 {
   "updated": "2026-07-27T09:00:00.000Z",
   "seed": true,
+  "enriched": true,
   "count": 5,
   "notable": 3,
   "items": [
@@ -14,7 +15,8 @@
       "sourceType": "news",
       "notable": true,
       "precedence": "FLASH",
-      "signals": ["military/agency", "aviation", "instrumented"]
+      "signals": ["military/agency", "aviation", "instrumented"],
+      "read": "Strong on paper — radar correlation plus an ATC log is the kind of hard sensor evidence that separates signal from noise; unverified until the flight-plan gap is confirmed."
     },
     {
       "id": "seed-orb-formation",
@@ -26,7 +28,8 @@
       "sourceType": "social",
       "notable": true,
       "precedence": "PRIORITY",
-      "signals": ["mass sighting", "has media", "craft shape"]
+      "signals": ["mass sighting", "has media", "craft shape"],
+      "read": "Multiple witnesses and footage raise the floor, but silent amber lights over a desert tourist town are a classic flare/drone confound — worth watching, not banking."
     },
     {
       "id": "seed-hearing-note",
