@@ -1,20 +1,115 @@
 {
-  "updated": "2026-07-27T19:37:45.740Z",
+  "updated": "2026-07-27T22:19:50.518Z",
   "count": 90,
-  "notable": 15,
+  "notable": 18,
   "enriched": false,
   "items": [
     {
-      "id": "4175b2b1bc9e",
-      "title": "Patrick from Vetted Called Out as Disinfo Agent After Criticizing UAP Ge...",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/UFOs/comments/1v8aq37/patrick_from_vetted_called_out_as_disinfo_agent/\"> <img…",
-      "url": "https://www.reddit.com/r/UFOs/comments/1v8aq37/patrick_from_vetted_called_out_as_disinfo_agent/",
-      "date": "2026-07-27T19:35:17.000Z",
+      "id": "511ba83796ea",
+      "title": "📹 VIDEO SITREP 2026-07-27 22:00 UTC [A1] UAP report (Early) https://www. youtube.com/watch?v=IyTeV6kko5A https://…",
+      "summary": "📹 VIDEO SITREP 2026-07-27 22:00 UTC [A1] UAP report (Early) https://www. youtube.com/watch?v=IyTeV6kko5A https:// n4hy.github.io/sciencebobnews- site # UAP # UFO # USO Powered by Science Bob News",
+      "url": "https://mastodon.social/@ScienceBob/116994186313316160",
+      "date": "2026-07-27T22:00:10.502Z",
+      "source": "Mastodon · @ScienceBob",
+      "sourceType": "social",
+      "notable": false,
+      "precedence": "ROUTINE",
+      "signals": [
+        "has media"
+      ]
+    },
+    {
+      "id": "ba92449118d7",
+      "title": "New Interview is Up: Are UFOs Demons? What UFO Disclosure Would Do to Christianity.",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/UFOs/comments/1v8dpqv/new_interview_is_up_are_ufos_demons_what_ufo/\"> <img…",
+      "url": "https://www.reddit.com/r/UFOs/comments/1v8dpqv/new_interview_is_up_are_ufos_demons_what_ufo/",
+      "date": "2026-07-27T21:23:04.000Z",
+      "source": "Reddit · r/UFOs",
+      "sourceType": "social",
+      "notable": true,
+      "precedence": "PRIORITY",
+      "signals": [
+        "government"
+      ]
+    },
+    {
+      "id": "fe5d633d7047",
+      "title": "🛸 SITREP 2026-07-27 21:10 UTC 1 corroborated UAP events. Top: [A1] UAP report https:// n4hy.github.io/sciencebobnews-…",
+      "summary": "🛸 SITREP 2026-07-27 21:10 UTC 1 corroborated UAP events. Top: [A1] UAP report https:// n4hy.github.io/sciencebobnews- site # UAP # UFO # USO Powered by Science Bob News",
+      "url": "https://mastodon.social/@ScienceBob/116993990156873941",
+      "date": "2026-07-27T21:10:17.390Z",
+      "source": "Mastodon · @ScienceBob",
+      "sourceType": "social",
+      "notable": false,
+      "precedence": "ROUTINE",
+      "signals": []
+    },
+    {
+      "id": "4a9ae44291a0",
+      "title": "📹 VIDEO SITREP 2026-07-27 21:00 UTC [A1] Official UAP statement reported (Austin) https://www.…",
+      "summary": "📹 VIDEO SITREP 2026-07-27 21:00 UTC [A1] Official UAP statement reported (Austin) https://www. youtube.com/watch?v=U04unJVpz8s https:// n4hy.github.io/sciencebobnews- site # UAP # UFO # USO Powered by Science Bob News",
+      "url": "https://mastodon.social/@ScienceBob/116993950409750517",
+      "date": "2026-07-27T21:00:10.946Z",
+      "source": "Mastodon · @ScienceBob",
+      "sourceType": "social",
+      "notable": false,
+      "precedence": "ROUTINE",
+      "signals": [
+        "has media"
+      ]
+    },
+    {
+      "id": "08e9b3ca1b07",
+      "title": "🛸 SITREP 2026-07-27 21:00 UTC 2 corroborated UAP events. Top: [A1] Official UAP statement reported (Austin) https://…",
+      "summary": "🛸 SITREP 2026-07-27 21:00 UTC 2 corroborated UAP events. Top: [A1] Official UAP statement reported (Austin) https:// n4hy.github.io/sciencebobnews- site # UAP # UFO # USO Powered by Science Bob News",
+      "url": "https://mastodon.social/@ScienceBob/116993950406747830",
+      "date": "2026-07-27T21:00:10.936Z",
+      "source": "Mastodon · @ScienceBob",
+      "sourceType": "social",
+      "notable": false,
+      "precedence": "ROUTINE",
+      "signals": []
+    },
+    {
+      "id": "737d17ea9cb9",
+      "title": "I have No Idea What I Was Seeing",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/UFOs/comments/1v8d0oz/i_have_no_idea_what_i_was_seeing/\"> <img src=\"https://preview.redd.it/jhkxvjx16ufh1.jpg?width=140&amp;height=106&amp;auto=webp&amp;s=f565ea20024f1fa8c6018e748b6c80b1e22b7405\" alt=\"I have No Idea What I Was Seeing\" title=\"I…",
+      "url": "https://www.reddit.com/r/UFOs/comments/1v8d0oz/i_have_no_idea_what_i_was_seeing/",
+      "date": "2026-07-27T20:57:24.000Z",
       "source": "Reddit · r/UFOs",
       "sourceType": "social",
       "notable": false,
       "precedence": "ROUTINE",
       "signals": []
+    },
+    {
+      "id": "671a8086875c",
+      "title": "🚀In November 1996, astronauts aboard Space Shuttle Columbia captured a mysterious object during the STS-80 mission,…",
+      "summary": "🚀In November 1996, astronauts aboard Space Shuttle Columbia captured a mysterious object during the STS-80 mission, floating in low-Earth orbit. What could it be? The image shows something intriguing against the vastness of space! # NASA # UFO # STSD80 👽✨ https:// activite-paranormale.net/photo…",
+      "url": "https://masto.nu/@paranormalactivity/116993719916167641",
+      "date": "2026-07-27T20:01:33.000Z",
+      "source": "Mastodon · @paranormalactivity",
+      "sourceType": "social",
+      "notable": true,
+      "precedence": "PRIORITY",
+      "signals": [
+        "military/agency",
+        "has media"
+      ]
+    },
+    {
+      "id": "fbe4e93d6b74",
+      "title": "Help: UFO image scrubbed?",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>Hi everyone,</p> <p>I'm trying to track down a specific UFO image from the November 2023 incident in Beltrami County near Bemidji, Minnesota.</p> <p>During that event, a bright flash and a loud boom were captured on multiple home surveillance cameras. After…",
+      "url": "https://www.reddit.com/r/UFOs/comments/1v8au4q/help_ufo_image_scrubbed/",
+      "date": "2026-07-27T19:39:09.000Z",
+      "source": "Reddit · r/UFOs",
+      "sourceType": "social",
+      "notable": false,
+      "precedence": "ROUTINE",
+      "signals": [
+        "has media"
+      ]
     },
     {
       "id": "dab7d9261f67",
@@ -223,6 +318,18 @@
       "signals": []
     },
     {
+      "id": "6dcebd4e36d5",
+      "title": "Long-hidden UFO information at center of Trump push to free former officials",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxQbG4yV05LX09Yb1l3U1h4bm9uUjlLSkxjZEpmRXU5N2xiNjYzR1dod0lqNF9pQWlYV1VmSGVrU3VENzFhbzZFYnBrRjdVT3FXdUxhMXd1d2s1RXNXVkptdDAxbXV5ODg3M0RHNFlPakNkU09UdGJPZGYzX2xyVlhQM01oX0E?oc=5\" target=\"_blank\">Long-hidden UFO information at center of Trump…",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQbG4yV05LX09Yb1l3U1h4bm9uUjlLSkxjZEpmRXU5N2xiNjYzR1dod0lqNF9pQWlYV1VmSGVrU3VENzFhbzZFYnBrRjdVT3FXdUxhMXd1d2s1RXNXVkptdDAxbXV5ODg3M0RHNFlPakNkU09UdGJPZGYzX2xyVlhQM01oX0E?oc=5",
+      "date": "2026-07-27T08:23:12.000Z",
+      "source": "AOL.com",
+      "sourceType": "news",
+      "notable": false,
+      "precedence": "ROUTINE",
+      "signals": []
+    },
+    {
       "id": "2d5fa53786b6",
       "title": "U of Arizona at Tucson Connections Part 4: Eric Davis Reveals in His New CITD Presentation That He's Friends With Paul Davis, author of Are We Alone? That Hillary Clinton Was Spotted Carrying",
       "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/UFOs/comments/1v7t2q9/u_of_arizona_at_tucson_connections_part_4_eric/\"> <img…",
@@ -377,18 +484,6 @@
       "signals": []
     },
     {
-      "id": "440a9369e834",
-      "title": "\"There’s A UFO Under the Ranch!\" – Skinwalker Owner Breaks Silence http:// dlvr.it/TTjs1H # UFO # UFONews #…",
-      "summary": "\"There’s A UFO Under the Ranch!\" – Skinwalker Owner Breaks Silence http:// dlvr.it/TTjs1H # UFO # UFONews # ufodisclosure",
-      "url": "https://mastodon.au/@vibewire/116988203427523425",
-      "date": "2026-07-26T20:38:38.000Z",
-      "source": "Mastodon · @vibewire",
-      "sourceType": "social",
-      "notable": false,
-      "precedence": "ROUTINE",
-      "signals": []
-    },
-    {
       "id": "dd683339cc83",
       "title": "\"It’s a fistfight,\" Burchett says, \"deep state\" is hiding full UFO disclosure from President Trump",
       "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/UFOs/comments/1v7eilu/its_a_fistfight_burchett_says_deep_state_is/\"> <img…",
@@ -417,20 +512,6 @@
       ]
     },
     {
-      "id": "6f2df3157796",
-      "title": "📹 VIDEO SITREP 2026-07-26 18:00 UTC [A1] UAP report (Early) https://www. youtube.com/watch?v=IyTeV6kko5A https://…",
-      "summary": "📹 VIDEO SITREP 2026-07-26 18:00 UTC [A1] UAP report (Early) https://www. youtube.com/watch?v=IyTeV6kko5A https:// n4hy.github.io/sciencebobnews- site # UAP # UFO # USO Powered by Science Bob News",
-      "url": "https://mastodon.social/@ScienceBob/116987580247891017",
-      "date": "2026-07-26T18:00:09.947Z",
-      "source": "Mastodon · @ScienceBob",
-      "sourceType": "social",
-      "notable": false,
-      "precedence": "ROUTINE",
-      "signals": [
-        "has media"
-      ]
-    },
-    {
       "id": "40d3a011912f",
       "title": "Silent white sphere moving intentionally and gracefully in an unconventional flight path over Montreal, Canada — Jul 26, 2026, 1:08 AM",
       "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/UFOs/comments/1v7a28k/silent_white_sphere_moving_intentionally_and/\"> <img…",
@@ -441,32 +522,6 @@
       "notable": false,
       "precedence": "ROUTINE",
       "signals": []
-    },
-    {
-      "id": "2bc52f91284d",
-      "title": "🛸 SITREP 2026-07-26 17:10 UTC 1 corroborated UAP events. Top: [A1] UAP report https:// n4hy.github.io/sciencebobnews-…",
-      "summary": "🛸 SITREP 2026-07-26 17:10 UTC 1 corroborated UAP events. Top: [A1] UAP report https:// n4hy.github.io/sciencebobnews- site # UAP # UFO # USO Powered by Science Bob News",
-      "url": "https://mastodon.social/@ScienceBob/116987383681325095",
-      "date": "2026-07-26T17:10:10.617Z",
-      "source": "Mastodon · @ScienceBob",
-      "sourceType": "social",
-      "notable": false,
-      "precedence": "ROUTINE",
-      "signals": []
-    },
-    {
-      "id": "258526f04b74",
-      "title": "📹 VIDEO SITREP 2026-07-26 15:00 UTC [A1] UAP report (Early) https://www. youtube.com/watch?v=IyTeV6kko5A https://…",
-      "summary": "📹 VIDEO SITREP 2026-07-26 15:00 UTC [A1] UAP report (Early) https://www. youtube.com/watch?v=IyTeV6kko5A https:// n4hy.github.io/sciencebobnews- site # UAP # UFO # USO Powered by Science Bob News",
-      "url": "https://mastodon.social/@ScienceBob/116986872521790917",
-      "date": "2026-07-26T15:00:10.916Z",
-      "source": "Mastodon · @ScienceBob",
-      "sourceType": "social",
-      "notable": false,
-      "precedence": "ROUTINE",
-      "signals": [
-        "has media"
-      ]
     },
     {
       "id": "308792d5073b",
@@ -502,6 +557,56 @@
       "date": "2026-07-26T12:24:23.000Z",
       "source": "Reddit · r/UFOs",
       "sourceType": "social",
+      "notable": false,
+      "precedence": "ROUTINE",
+      "signals": []
+    },
+    {
+      "id": "63dec2c99606",
+      "title": "UFO Sighting Over Hawaii: Flight Swerves to Avoid Mysterious White Object as Airline Denies Claim",
+      "summary": "<a…",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNanlwVE1fdENYNHg2a2FuYXdBcVh3UDU0OGIwaDJ0LS1VQWtUd3BsMWtNLUhsQk5IRnQ5cW1XeUlIRWtuUTFhcmZUcWtIdkRSVFhTa2FtZG44N1Q0NE1ELWJoQVJUWEFmZ21yVmFtbUpFdDlna0JZNXJvSm9hRUxBTzdqanpoTXc3RV96MHhqLUUwT3lCeDc3SFhmbTZuWEVGRjlQY09mVjdKY3RYVTAtMkluQWNMRTIwdDRBUGg2cw?oc=5",
+      "date": "2026-07-26T11:29:11.000Z",
+      "source": "inkl",
+      "sourceType": "news",
+      "notable": true,
+      "precedence": "PRIORITY",
+      "signals": [
+        "aviation"
+      ]
+    },
+    {
+      "id": "3dd3d4b00bbc",
+      "title": "Dr. Phil claims Trump recruited him to review UFO files and found government cover-up",
+      "summary": "<a…",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQeTN4eC1nZko0RGMyU18zdXZhTmhWRW95TlVzWVlLZWdnd1ZORnlLT1NibFRMRFg0aWlsWXBmQnl6TVdXVHdrNkMxWEpCOEFwXzRGVXB2V1J3ZnVKZWhFNGt5dWNfMFNaeVl0Z2V6b1R6dDF0cEtoQ2t3QkJwdkdLV0JfcXoyR0lRRTRtWEVUR0EyOTBXblZGUzdKVW5JTl9kcXZLRnF2akxtbllJQ3BZTXRneEpvblVYREdrTEdpbzUtbnJ3S25wRjIzNmXSAcwBQVVfeXFMUHkzeHgtZ2ZKNERjMlNfM3V2YU5oVkVveU5Vc1lZS2VnZ3dWTkZ5S09TYmxUTERYNGlpbFlwZkJ5ek1XV1R3azZDMVhKQjhBcF80RlVwdldSd2Z1SmVoRTRreXVjXzBTWnlZdGdlem9UenQxdHBLaENrd0JCcHZHS1dCX3F6MkdJUUU0bVhFVEdBMjkwV25WRlM3SlVuSU5fZHF2S0ZxdmpMbW5ZSUNwWU10Z3hKb25VWERHa0xHaW81LW5yd0tucEYyMzZl?oc=5",
+      "date": "2026-07-26T11:00:00.000Z",
+      "source": "Daily Express US",
+      "sourceType": "news",
+      "notable": false,
+      "precedence": "ROUTINE",
+      "signals": []
+    },
+    {
+      "id": "4c998210eeed",
+      "title": "\"Witches' innovation\": UFO spotted in Soweto sparks debate among South Africans",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxNUzRsYS16TlpnQWdKT25haldRM05QU05oSWkzRGs1aS12V3J4TmNQSnlWeTh6bWdKWEd0YkNTVzh0bDNod29UZzZJMTZ5RGwtWmxVRkF0VHBTZW9pMDZjaUZHeThZN01NcnRrbld3em9Xem5IVEhGZ0dhOWkwWFBaVElKYk9SWk9rQmlEc0VYOXR4MHdoRmdxRQ?oc=5\" target=\"_blank\">\"Witches'…",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNUzRsYS16TlpnQWdKT25haldRM05QU05oSWkzRGs1aS12V3J4TmNQSnlWeTh6bWdKWEd0YkNTVzh0bDNod29UZzZJMTZ5RGwtWmxVRkF0VHBTZW9pMDZjaUZHeThZN01NcnRrbld3em9Xem5IVEhGZ0dhOWkwWFBaVElKYk9SWk9rQmlEc0VYOXR4MHdoRmdxRQ?oc=5",
+      "date": "2026-07-26T09:54:12.000Z",
+      "source": "Briefly News",
+      "sourceType": "news",
+      "notable": false,
+      "precedence": "ROUTINE",
+      "signals": []
+    },
+    {
+      "id": "3f0b6862e0f5",
+      "title": "UFOs: What are they and what are the most famous sightings?",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTE93U1JQeHpqVVg4ZDFlQ2Y4MUlVdi1EaE9LT29ySXBNcm95d0lBUnhibW9oNzNLZEpBaVBMVFJRaXVNbGVsXzRueF9lcnVpSGFYME5NelI3b0ZLMEE?oc=5\" target=\"_blank\">UFOs: What are they and what are the most famous sightings?</a>&nbsp;&nbsp;<font…",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE93U1JQeHpqVVg4ZDFlQ2Y4MUlVdi1EaE9LT29ySXBNcm95d0lBUnhibW9oNzNLZEpBaVBMVFJRaXVNbGVsXzRueF9lcnVpSGFYME5NelI3b0ZLMEE?oc=5",
+      "date": "2026-07-26T03:06:18.000Z",
+      "source": "BBC",
+      "sourceType": "news",
       "notable": false,
       "precedence": "ROUTINE",
       "signals": []
@@ -550,44 +655,6 @@
       "summary": "<!-- SC_OFF --><div class=\"md\"><p><strong>Reported by <a href=\"/u/Nov2313\">u/Nov2313</a></strong> (verified via ufosighting.report)</p> <p><em>This is an automated post.</em> The report was filed through the structured sighting form on <a href=\"https://ufosighting.report\">ufosighting.report</a>…",
       "url": "https://www.reddit.com/r/UFOs/comments/1v6m2ir/chevronshaped_object_floated_across_clear_sky/",
       "date": "2026-07-25T22:34:01.000Z",
-      "source": "Reddit · r/UFOs",
-      "sourceType": "social",
-      "notable": false,
-      "precedence": "ROUTINE",
-      "signals": []
-    },
-    {
-      "id": "c1dfa245adc0",
-      "title": "Orbs spotted over 300 miles apart 2 hours apart!",
-      "summary": "<!-- SC_OFF --><div class=\"md\"><p>Post on here yesterday of an orb over London at 7pm. I saw the exact same thing (round silver ball) in Belfast Ireland 2 hours before and have msgs to my friends to prove. According to grok, ballon’s can’t travel that far that fast. I checked my apples maps, and…",
-      "url": "https://www.reddit.com/r/UFOs/comments/1v6j67k/orbs_spotted_over_300_miles_apart_2_hours_apart/",
-      "date": "2026-07-25T20:34:06.000Z",
-      "source": "Reddit · r/UFOs",
-      "sourceType": "social",
-      "notable": false,
-      "precedence": "ROUTINE",
-      "signals": [
-        "craft shape"
-      ]
-    },
-    {
-      "id": "cbefb7690ecb",
-      "title": "“I’m Not Crazy and I’m Not Lying!” Eight Really Weird Humanoid Encounters",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/UFOs/comments/1v6hhta/im_not_crazy_and_im_not_lying_eight_really_weird/\"> <img src=\"https://preview.redd.it/6qlamzr6gffh1.jpg?width=140&amp;height=77&amp;auto=webp&amp;s=6e4053da9dec06427890752153ce2496cf9f21b0\" alt=\"“I’m Not Crazy and I’m Not…",
-      "url": "https://www.reddit.com/r/UFOs/comments/1v6hhta/im_not_crazy_and_im_not_lying_eight_really_weird/",
-      "date": "2026-07-25T19:27:34.000Z",
-      "source": "Reddit · r/UFOs",
-      "sourceType": "social",
-      "notable": false,
-      "precedence": "ROUTINE",
-      "signals": []
-    },
-    {
-      "id": "8e6ad465320b",
-      "title": "Strange Sighting. “Time: July 25, 2026 11:09am Location: Fort Wayne, Indiana”",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/UFOs/comments/1v6d7ib/strange_sighting_time_july_25_2026_1109am/\"> <img…",
-      "url": "https://www.reddit.com/r/UFOs/comments/1v6d7ib/strange_sighting_time_july_25_2026_1109am/",
-      "date": "2026-07-25T16:43:18.000Z",
       "source": "Reddit · r/UFOs",
       "sourceType": "social",
       "notable": false,
@@ -1085,70 +1152,6 @@
         "military/agency",
         "aviation",
         "instrumented"
-      ]
-    },
-    {
-      "id": "8dd671b71228",
-      "title": "UFO: Exeter Incident, New Hampshire, USA, 1965 The night police witnessed a UFO in Exeter, New Hampshire changed…",
-      "summary": "UFO: Exeter Incident, New Hampshire, USA, 1965 The night police witnessed a UFO in Exeter, New Hampshire changed everything. September 1965 brought one of the most credible UFO encounters in history. # UFO # ExeterIncident # NewHampshire # UFOSighting # TrueStory # Shorts from Around The World In…",
-      "url": "https://mas.to/@AroundTheWorldIOD/116717587591706268",
-      "date": "2026-06-09T01:37:28.000Z",
-      "source": "Mastodon · @AroundTheWorldIOD",
-      "sourceType": "social",
-      "notable": false,
-      "precedence": "ROUTINE",
-      "signals": []
-    },
-    {
-      "id": "9bf5c6648dcf",
-      "title": "UFO: Father Gill Sighting, Papua New Guinea, 1958 In 1958, Anglican priest Father William Gill and 38 witnesses…",
-      "summary": "UFO: Father Gill Sighting, Papua New Guinea, 1958 In 1958, Anglican priest Father William Gill and 38 witnesses watched a UFO hover for hours over Papua New Guinea. They even waved at the figures inside—and they waved back! One of history's most credible mass UFO sightings. # UFO # FatherGill #…",
-      "url": "https://mas.to/@AroundTheWorldIOD/116711454479416068",
-      "date": "2026-06-07T23:37:45.000Z",
-      "source": "Mastodon · @AroundTheWorldIOD",
-      "sourceType": "social",
-      "notable": false,
-      "precedence": "ROUTINE",
-      "signals": []
-    },
-    {
-      "id": "ece398f68b99",
-      "title": "UFO: Florence Stadium Incident, Florence, Italy, 1954 In 1954, 10,000 soccer fans in Florence witnessed something…",
-      "summary": "UFO: Florence Stadium Incident, Florence, Italy, 1954 In 1954, 10,000 soccer fans in Florence witnessed something impossible. UFOs stopped a game and left the city covered in mystery. What really happened that October day? # UFO # Florence1954 # ItalyMystery # UFOSighting # TrueStory # Shorts from…",
-      "url": "https://mas.to/@AroundTheWorldIOD/116704139858282207",
-      "date": "2026-06-06T16:37:32.000Z",
-      "source": "Mastodon · @AroundTheWorldIOD",
-      "sourceType": "social",
-      "notable": false,
-      "precedence": "ROUTINE",
-      "signals": []
-    },
-    {
-      "id": "39092314b161",
-      "title": "UFO: Great Falls UFO Film, Montana, USA, 1950 The Great Falls UFO film remains one of the most compelling pieces of…",
-      "summary": "UFO: Great Falls UFO Film, Montana, USA, 1950 The Great Falls UFO film remains one of the most compelling pieces of UFO evidence ever captured. Baseball manager Nick Mariana filmed two silver objects over Montana in 1950, creating footage that still baffles experts today. # UFO # GreatFalls #…",
-      "url": "https://mas.to/@AroundTheWorldIOD/116701076709393221",
-      "date": "2026-06-06T03:38:32.000Z",
-      "source": "Mastodon · @AroundTheWorldIOD",
-      "sourceType": "social",
-      "notable": false,
-      "precedence": "ROUTINE",
-      "signals": [
-        "has media"
-      ]
-    },
-    {
-      "id": "0ad41120c9eb",
-      "title": "UFO: Chiles–Whitted Encounter, Alabama, USA, 1948 Two experienced pilots encounter a mysterious cigar-shaped craft…",
-      "summary": "UFO: Chiles–Whitted Encounter, Alabama, USA, 1948 Two experienced pilots encounter a mysterious cigar-shaped craft over Alabama in 1948. This UFO sighting changed aviation history forever. What did they really see that night? # UFO # ChilesWhitted # Alabama # UFOSighting # Mystery # Shorts from…",
-      "url": "https://mas.to/@AroundTheWorldIOD/116701074703717107",
-      "date": "2026-06-06T03:38:02.000Z",
-      "source": "Mastodon · @AroundTheWorldIOD",
-      "sourceType": "social",
-      "notable": false,
-      "precedence": "ROUTINE",
-      "signals": [
-        "craft shape"
       ]
     }
   ]
