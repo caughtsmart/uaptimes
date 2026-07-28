@@ -1,15 +1,15 @@
 {
-  "updated": "2026-07-28T19:55:04.800Z",
+  "updated": "2026-07-28T22:18:26.261Z",
   "count": 90,
-  "notable": 13,
+  "notable": 12,
   "enriched": false,
   "items": [
     {
-      "id": "1c0240e240f4",
-      "title": "Patrick Vetted vs. the UFO Community: What Happened?",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/UFOs/comments/1v998u1/patrick_vetted_vs_the_ufo_community_what_happened/\"> <img…",
-      "url": "https://www.reddit.com/r/UFOs/comments/1v998u1/patrick_vetted_vs_the_ufo_community_what_happened/",
-      "date": "2026-07-28T19:51:56.000Z",
+      "id": "b4f66573907f",
+      "title": "[Showcase] Why we shouldn't always use AI to \"enhance\" blurry photos - Before & After",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/UFOs/comments/1v9cem2/showcase_why_we_shouldnt_always_use_ai_to_enhance/\"> <img src=\"https://preview.redd.it/tixkh2hwg1gh1.png?width=140&amp;height=140&amp;auto=webp&amp;s=d5a5c6dd66df46ebb312adadf8501e5ca281bee5\" alt=\"[Showcase] Why we shouldn't…",
+      "url": "https://www.reddit.com/r/UFOs/comments/1v9cem2/showcase_why_we_shouldnt_always_use_ai_to_enhance/",
+      "date": "2026-07-28T21:50:58.000Z",
       "source": "Reddit · r/UFOs",
       "sourceType": "social",
       "notable": false,
@@ -17,16 +17,30 @@
       "signals": []
     },
     {
-      "id": "2c924ad20c04",
-      "title": "Found this online . Looks like something Near the Sun..maybe 2006 to 2012 not sure",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/UFOs/comments/1v98vef/found_this_online_looks_like_something_near_the/\"> <img src=\"https://preview.redd.it/a29rrczvw0gh1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=93fbe0e569f091b5b8635a5b429030e7fc4977b1\" alt=\"Found this online . Looks…",
-      "url": "https://www.reddit.com/r/UFOs/comments/1v98vef/found_this_online_looks_like_something_near_the/",
-      "date": "2026-07-28T19:38:30.000Z",
+      "id": "092645c97cba",
+      "title": "New sighting submission process and community tool",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>Hey <a href=\"/r/UFOs\">/r/UFOs</a>,</p> <p>Thank you to everyone who's been participating in our <a href=\"https://old.reddit.com/r/UFOs/comments/1ul2rnn/how_can_we_improve_the_subreddit_indepth/\">community feedback thread</a>. We've been reading through all of the…",
+      "url": "https://www.reddit.com/r/UFOs/comments/1v99xp3/new_sighting_submission_process_and_community_tool/",
+      "date": "2026-07-28T20:16:11.000Z",
       "source": "Reddit · r/UFOs",
       "sourceType": "social",
       "notable": false,
       "precedence": "ROUTINE",
       "signals": []
+    },
+    {
+      "id": "8dcb712b24c2",
+      "title": "New Skinny Bob Video Original 2011 Ivan0135 Tape + Latest Alleged Footag...",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/UFOs/comments/1v99g3o/new_skinny_bob_video_original_2011_ivan0135_tape/\"> <img…",
+      "url": "https://www.reddit.com/r/UFOs/comments/1v99g3o/new_skinny_bob_video_original_2011_ivan0135_tape/",
+      "date": "2026-07-28T19:59:03.000Z",
+      "source": "Reddit · r/UFOs",
+      "sourceType": "social",
+      "notable": false,
+      "precedence": "ROUTINE",
+      "signals": [
+        "has media"
+      ]
     },
     {
       "id": "1d7b29100435",
@@ -742,20 +756,6 @@
       "precedence": "ROUTINE",
       "signals": [
         "has media"
-      ]
-    },
-    {
-      "id": "dd683339cc83",
-      "title": "\"It’s a fistfight,\" Burchett says, \"deep state\" is hiding full UFO disclosure from President Trump",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/UFOs/comments/1v7eilu/its_a_fistfight_burchett_says_deep_state_is/\"> <img…",
-      "url": "https://www.reddit.com/r/UFOs/comments/1v7eilu/its_a_fistfight_burchett_says_deep_state_is/",
-      "date": "2026-07-26T20:05:48.000Z",
-      "source": "Reddit · r/UFOs",
-      "sourceType": "social",
-      "notable": true,
-      "precedence": "PRIORITY",
-      "signals": [
-        "government"
       ]
     },
     {
