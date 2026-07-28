@@ -16,7 +16,7 @@ featured: false
 draft: false
 ---
 
-Somewhere in the long history of this subject, somebody was always going to try the obvious thing: hand the problem to scientists and ask them to sort it out. That has now happened. In June, an official from the Office of the Director of National Intelligence approached Avi Loeb, the Harvard astrophysicist best known for arguing that the interstellar object 'Oumuamua might have been artificial, and asked him to assemble a panel of experts to help the US government work out what it has been looking at.
+Somewhere in the long history of this subject, somebody was always going to try the obvious thing: hand the problem to scientists and ask them to sort it out. That has now happened. In June, an official from the Office of the Director of National Intelligence approached Avi Loeb, the Harvard astrophysicist best known for arguing that the interstellar object 'Oumuamua might have been artificial — and who has since spent a year making a [similar case about 3I/ATLAS, to a similar reception](/articles/3i-atlas-radio-silence-one-year-on/) — and asked him to assemble a panel of experts to help the US government work out what it has been looking at.
 
 The result is the UAP Science Advisory Council. Its public website went live on 1 July. It has around fifteen members, it has already filed a request for more than fifty items of information, and it is advising — on paper — the White House, the Pentagon's All-domain Anomaly Resolution Office, ODNI, the FBI and the wider intelligence community.
 

@@ -62,7 +62,7 @@ Read that sentence again, because it is the opposite of what you would expect fr
 
 The instinctive reaction to "144 ambiguous smudges out of 500,000" is disappointment. That reaction is wrong, and understanding why is the most useful thing in this story.
 
-A detector that finds nothing anomalous is only worthless if you already knew the answer. If you did not, a well-characterised null result is information — it converts "people see strange things" into "at this sensitivity, over this sky, for this long, the strange-thing rate is below X." That is a measurement. The field has produced vanishingly few of them.
+A detector that finds nothing anomalous is only worthless if you already knew the answer. If you did not, a well-characterised null result is information — it converts "people see strange things" into "at this sensitivity, over this sky, for this long, the strange-thing rate is below X." That is a measurement. The field has produced vanishingly few of them, though the [year-long technosignature hunt for a transmitter aboard 3I/ATLAS](/articles/3i-atlas-radio-silence-one-year-on/) has since added several more.
 
 It also, quietly, disciplines everyone. Ambiguity is the sea this subject swims in, and an instrument that reports its own uncertainty in numbers rather than adjectives makes a certain kind of arm-waving much harder to sustain — in both directions. It is the same standard we applied to the [White House UAP Science Advisory Council](/articles/uap-science-advisory-council-loeb/) that Loeb chairs: the most valuable output a scientific body can produce here is a dull answer it is willing to sign.
 
