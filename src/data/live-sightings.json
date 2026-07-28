@@ -1,9 +1,109 @@
 {
-  "updated": "2026-07-27T22:19:50.518Z",
+  "updated": "2026-07-28T03:39:38.257Z",
   "count": 90,
-  "notable": 18,
+  "notable": 17,
   "enriched": false,
   "items": [
+    {
+      "id": "ed454d4ead27",
+      "title": "I recorded some objects chasing each other around a full moon a couple years ago",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/UFOs/comments/1v8kzdh/i_recorded_some_objects_chasing_each_other_around/\"> <img…",
+      "url": "https://www.reddit.com/r/UFOs/comments/1v8kzdh/i_recorded_some_objects_chasing_each_other_around/",
+      "date": "2026-07-28T02:21:17.000Z",
+      "source": "Reddit · r/UFOs",
+      "sourceType": "social",
+      "notable": false,
+      "precedence": "ROUTINE",
+      "signals": []
+    },
+    {
+      "id": "e97ff616132a",
+      "title": "🛸 SITREP 2026-07-28 00:50 UTC 1 corroborated UAP events. Top: [A1] UAP report https:// n4hy.github.io/sciencebobnews-…",
+      "summary": "🛸 SITREP 2026-07-28 00:50 UTC 1 corroborated UAP events. Top: [A1] UAP report https:// n4hy.github.io/sciencebobnews- site # UAP # UFO # USO Powered by Science Bob News",
+      "url": "https://mastodon.social/@ScienceBob/116994854875773012",
+      "date": "2026-07-28T00:50:11.956Z",
+      "source": "Mastodon · @ScienceBob",
+      "sourceType": "social",
+      "notable": false,
+      "precedence": "ROUTINE",
+      "signals": []
+    },
+    {
+      "id": "d725096aa0f2",
+      "title": "🛸 SITREP 2026-07-28 00:40 UTC 2 corroborated UAP events. Top: [A1] UAP whistleblower testimony reported (American)…",
+      "summary": "🛸 SITREP 2026-07-28 00:40 UTC 2 corroborated UAP events. Top: [A1] UAP whistleblower testimony reported (American) https:// n4hy.github.io/sciencebobnews- site # UAP # UFO # USO Powered by Science Bob News",
+      "url": "https://mastodon.social/@ScienceBob/116994815424455328",
+      "date": "2026-07-28T00:40:10.009Z",
+      "source": "Mastodon · @ScienceBob",
+      "sourceType": "social",
+      "notable": false,
+      "precedence": "ROUTINE",
+      "signals": []
+    },
+    {
+      "id": "6c0f73637663",
+      "title": "🛸 SITREP 2026-07-28 00:30 UTC 1 corroborated UAP events. Top: [A1] UAP report https:// n4hy.github.io/sciencebobnews-…",
+      "summary": "🛸 SITREP 2026-07-28 00:30 UTC 1 corroborated UAP events. Top: [A1] UAP report https:// n4hy.github.io/sciencebobnews- site # UAP # UFO # USO Powered by Science Bob News",
+      "url": "https://mastodon.social/@ScienceBob/116994776114220760",
+      "date": "2026-07-28T00:30:10.153Z",
+      "source": "Mastodon · @ScienceBob",
+      "sourceType": "social",
+      "notable": false,
+      "precedence": "ROUTINE",
+      "signals": []
+    },
+    {
+      "id": "7ee25790a5d3",
+      "title": "🛸 SITREP 2026-07-28 00:20 UTC 2 corroborated UAP events. Top: [A1] UAP report (Australia) https://…",
+      "summary": "🛸 SITREP 2026-07-28 00:20 UTC 2 corroborated UAP events. Top: [A1] UAP report (Australia) https:// n4hy.github.io/sciencebobnews- site # UAP # UFO # USO Powered by Science Bob News",
+      "url": "https://mastodon.social/@ScienceBob/116994736804083163",
+      "date": "2026-07-28T00:20:10.332Z",
+      "source": "Mastodon · @ScienceBob",
+      "sourceType": "social",
+      "notable": false,
+      "precedence": "ROUTINE",
+      "signals": []
+    },
+    {
+      "id": "92fea6c0b6c2",
+      "title": "📹 VIDEO SITREP 2026-07-28 00:00 UTC [A1] UAP report (Early) https://www. youtube.com/watch?v=IyTeV6kko5A https://…",
+      "summary": "📹 VIDEO SITREP 2026-07-28 00:00 UTC [A1] UAP report (Early) https://www. youtube.com/watch?v=IyTeV6kko5A https:// n4hy.github.io/sciencebobnews- site # UAP # UFO # USO Powered by Science Bob News",
+      "url": "https://mastodon.social/@ScienceBob/116994658618483790",
+      "date": "2026-07-28T00:00:17.303Z",
+      "source": "Mastodon · @ScienceBob",
+      "sourceType": "social",
+      "notable": false,
+      "precedence": "ROUTINE",
+      "signals": [
+        "has media"
+      ]
+    },
+    {
+      "id": "dd4a6feb2061",
+      "title": "📹 VIDEO SITREP 2026-07-27 23:00 UTC [A1] UAP report (McMinnville) https://www. youtube.com/watch?v=7OT6uJ0yzVY…",
+      "summary": "📹 VIDEO SITREP 2026-07-27 23:00 UTC [A1] UAP report (McMinnville) https://www. youtube.com/watch?v=7OT6uJ0yzVY https:// n4hy.github.io/sciencebobnews- site # UAP # UFO # USO Powered by Science Bob News",
+      "url": "https://mastodon.social/@ScienceBob/116994422293403277",
+      "date": "2026-07-27T23:00:11.270Z",
+      "source": "Mastodon · @ScienceBob",
+      "sourceType": "social",
+      "notable": false,
+      "precedence": "ROUTINE",
+      "signals": [
+        "has media"
+      ]
+    },
+    {
+      "id": "548502e89522",
+      "title": "The Phoenix Lights UFO event and Heaven's Gate mass exit, are they related?",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>I was one of the witnesses closest to the 8:40 PM sighting of the fly over Phoenix March 13, 1997. It was illuminated by two light sources and I could clearly see the bottom of the solid piece of machinery. It muted the sound of my truck motor while it flew over…",
+      "url": "https://www.reddit.com/r/UFOs/comments/1v8fsq8/the_phoenix_lights_ufo_event_and_heavens_gate/",
+      "date": "2026-07-27T22:43:08.000Z",
+      "source": "Reddit · r/UFOs",
+      "sourceType": "social",
+      "notable": false,
+      "precedence": "ROUTINE",
+      "signals": []
+    },
     {
       "id": "511ba83796ea",
       "title": "📹 VIDEO SITREP 2026-07-27 22:00 UTC [A1] UAP report (Early) https://www. youtube.com/watch?v=IyTeV6kko5A https://…",
@@ -65,18 +165,6 @@
       "url": "https://mastodon.social/@ScienceBob/116993950406747830",
       "date": "2026-07-27T21:00:10.936Z",
       "source": "Mastodon · @ScienceBob",
-      "sourceType": "social",
-      "notable": false,
-      "precedence": "ROUTINE",
-      "signals": []
-    },
-    {
-      "id": "737d17ea9cb9",
-      "title": "I have No Idea What I Was Seeing",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/UFOs/comments/1v8d0oz/i_have_no_idea_what_i_was_seeing/\"> <img src=\"https://preview.redd.it/jhkxvjx16ufh1.jpg?width=140&amp;height=106&amp;auto=webp&amp;s=f565ea20024f1fa8c6018e748b6c80b1e22b7405\" alt=\"I have No Idea What I Was Seeing\" title=\"I…",
-      "url": "https://www.reddit.com/r/UFOs/comments/1v8d0oz/i_have_no_idea_what_i_was_seeing/",
-      "date": "2026-07-27T20:57:24.000Z",
-      "source": "Reddit · r/UFOs",
       "sourceType": "social",
       "notable": false,
       "precedence": "ROUTINE",
@@ -148,18 +236,6 @@
       "signals": []
     },
     {
-      "id": "3b7cf9c711e5",
-      "title": "I saw something unexplainable when i was 13 - Teanecck, NJ, 8 pm, August 2001",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/UFOs/comments/1v82q9l/i_saw_something_unexplainable_when_i_was_13/\"> <img src=\"https://external-preview.redd.it/tg9gZElpCdHOtwG3PnqK3x52HrhKHKqEicj_E8ewF6M.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=fbc9ca1af0ccdba8b239baab4941e0144c7ef144\"…",
-      "url": "https://www.reddit.com/r/UFOs/comments/1v82q9l/i_saw_something_unexplainable_when_i_was_13/",
-      "date": "2026-07-27T14:55:21.000Z",
-      "source": "Reddit · r/UFOs",
-      "sourceType": "social",
-      "notable": false,
-      "precedence": "ROUTINE",
-      "signals": []
-    },
-    {
       "id": "0df3b370356a",
       "title": "Two sightings in the sky on the same day, Israel. looking for explanations - Tel aviv & Jerusalem, July 24, 2026, 5:30 AM + Mid-day",
       "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/UFOs/comments/1v82d3k/two_sightings_in_the_sky_on_the_same_day_israel/\"> <img…",
@@ -206,20 +282,6 @@
       "notable": false,
       "precedence": "ROUTINE",
       "signals": []
-    },
-    {
-      "id": "d13c3d7479f2",
-      "title": "Air Force Veteran Prepares to Testify About UFOs, Mars and Secret Space Programs http:// dlvr.it/TTkM2S # UFO #…",
-      "summary": "Air Force Veteran Prepares to Testify About UFOs, Mars and Secret Space Programs http:// dlvr.it/TTkM2S # UFO # UFONews # ufodisclosure",
-      "url": "https://mastodon.au/@vibewire/116992234148369863",
-      "date": "2026-07-27T13:43:42.000Z",
-      "source": "Mastodon · @vibewire",
-      "sourceType": "social",
-      "notable": true,
-      "precedence": "PRIORITY",
-      "signals": [
-        "military/agency"
-      ]
     },
     {
       "id": "1f85a0a2282d",
@@ -356,18 +418,6 @@
       ]
     },
     {
-      "id": "e0e2a7ed1652",
-      "title": "🛸 SITREP 2026-07-27 04:30 UTC 2 corroborated UAP events. Top: [A1] Official UAP statement reported (Austin) https://…",
-      "summary": "🛸 SITREP 2026-07-27 04:30 UTC 2 corroborated UAP events. Top: [A1] Official UAP statement reported (Austin) https:// n4hy.github.io/sciencebobnews- site # UAP # UFO # USO Powered by Science Bob News",
-      "url": "https://mastodon.social/@ScienceBob/116990057513447798",
-      "date": "2026-07-27T04:30:10.013Z",
-      "source": "Mastodon · @ScienceBob",
-      "sourceType": "social",
-      "notable": false,
-      "precedence": "ROUTINE",
-      "signals": []
-    },
-    {
       "id": "5a363f31179f",
       "title": "# Anal probing # aliens are currently looking for cavernous # eggplants as they fly through # Metro areas in their #…",
       "summary": "# Anal probing # aliens are currently looking for cavernous # eggplants as they fly through # Metro areas in their # UFOs , you can't make this stuff up in # 2026 ;",
@@ -392,20 +442,6 @@
       "signals": []
     },
     {
-      "id": "9ca882a75f23",
-      "title": "📹 VIDEO SITREP 2026-07-26 23:00 UTC [A1] UAP report (Early) https://www. youtube.com/watch?v=IyTeV6kko5A https://…",
-      "summary": "📹 VIDEO SITREP 2026-07-26 23:00 UTC [A1] UAP report (Early) https://www. youtube.com/watch?v=IyTeV6kko5A https:// n4hy.github.io/sciencebobnews- site # UAP # UFO # USO Powered by Science Bob News",
-      "url": "https://mastodon.social/@ScienceBob/116988760121650032",
-      "date": "2026-07-26T23:00:13.384Z",
-      "source": "Mastodon · @ScienceBob",
-      "sourceType": "social",
-      "notable": false,
-      "precedence": "ROUTINE",
-      "signals": [
-        "has media"
-      ]
-    },
-    {
       "id": "31762bda3ff1",
       "title": "Gosford (NSW, Australia), 1995 - a compelling mass UFO sighting",
       "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/UFOs/comments/1v7id6m/gosford_nsw_australia_1995_a_compelling_mass_ufo/\"> <img…",
@@ -422,7 +458,7 @@
       "title": "Alien vs housecat # funnymemes # shorts # animation # ai # aiart # video # Cat # ufo",
       "summary": "Alien vs housecat # funnymemes # shorts # animation # ai # aiart # video # Cat # ufo",
       "url": "https://mastodon.social/@pestcontrol_daveandtony/116988594175663437",
-      "date": "2026-07-26T22:18:01.257Z",
+      "date": "2026-07-26T22:18:01.000Z",
       "source": "Mastodon · @pestcontrol_daveandtony",
       "sourceType": "social",
       "notable": false,
@@ -430,58 +466,6 @@
       "signals": [
         "has media"
       ]
-    },
-    {
-      "id": "2aa6bb78aec2",
-      "title": "📹 VIDEO SITREP 2026-07-26 22:00 UTC [A1] UAP whistleblower testimony reported (American) https://www.…",
-      "summary": "📹 VIDEO SITREP 2026-07-26 22:00 UTC [A1] UAP whistleblower testimony reported (American) https://www. youtube.com/watch?v=LPtMaGpuK-M https:// n4hy.github.io/sciencebobnews- site # UAP # UFO # USO Powered by Science Bob News",
-      "url": "https://mastodon.social/@ScienceBob/116988523994448104",
-      "date": "2026-07-26T22:00:10.386Z",
-      "source": "Mastodon · @ScienceBob",
-      "sourceType": "social",
-      "notable": false,
-      "precedence": "ROUTINE",
-      "signals": [
-        "has media"
-      ]
-    },
-    {
-      "id": "beebc61159b4",
-      "title": "🛸 SITREP 2026-07-26 21:20 UTC 1 corroborated UAP events. Top: [A1] UAP report https:// n4hy.github.io/sciencebobnews-…",
-      "summary": "🛸 SITREP 2026-07-26 21:20 UTC 1 corroborated UAP events. Top: [A1] UAP report https:// n4hy.github.io/sciencebobnews- site # UAP # UFO # USO Powered by Science Bob News",
-      "url": "https://mastodon.social/@ScienceBob/116988366708384724",
-      "date": "2026-07-26T21:20:10.377Z",
-      "source": "Mastodon · @ScienceBob",
-      "sourceType": "social",
-      "notable": false,
-      "precedence": "ROUTINE",
-      "signals": []
-    },
-    {
-      "id": "2aa706513051",
-      "title": "📹 VIDEO SITREP 2026-07-26 21:00 UTC [A1] UAP report (Australia) https://www. youtube.com/watch?v=ZegQhxJrJGo https://…",
-      "summary": "📹 VIDEO SITREP 2026-07-26 21:00 UTC [A1] UAP report (Australia) https://www. youtube.com/watch?v=ZegQhxJrJGo https:// n4hy.github.io/sciencebobnews- site # UAP # UFO # USO Powered by Science Bob News",
-      "url": "https://mastodon.social/@ScienceBob/116988288087707275",
-      "date": "2026-07-26T21:00:10.719Z",
-      "source": "Mastodon · @ScienceBob",
-      "sourceType": "social",
-      "notable": false,
-      "precedence": "ROUTINE",
-      "signals": [
-        "has media"
-      ]
-    },
-    {
-      "id": "83a7bb3f5353",
-      "title": "🛸 SITREP 2026-07-26 21:00 UTC 2 corroborated UAP events. Top: [A1] UAP report (Australia) https://…",
-      "summary": "🛸 SITREP 2026-07-26 21:00 UTC 2 corroborated UAP events. Top: [A1] UAP report (Australia) https:// n4hy.github.io/sciencebobnews- site # UAP # UFO # USO Powered by Science Bob News",
-      "url": "https://mastodon.social/@ScienceBob/116988288079752531",
-      "date": "2026-07-26T21:00:10.620Z",
-      "source": "Mastodon · @ScienceBob",
-      "sourceType": "social",
-      "notable": false,
-      "precedence": "ROUTINE",
-      "signals": []
     },
     {
       "id": "dd683339cc83",
@@ -562,12 +546,12 @@
       "signals": []
     },
     {
-      "id": "63dec2c99606",
+      "id": "32ad5169e3db",
       "title": "UFO Sighting Over Hawaii: Flight Swerves to Avoid Mysterious White Object as Airline Denies Claim",
       "summary": "<a…",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNanlwVE1fdENYNHg2a2FuYXdBcVh3UDU0OGIwaDJ0LS1VQWtUd3BsMWtNLUhsQk5IRnQ5cW1XeUlIRWtuUTFhcmZUcWtIdkRSVFhTa2FtZG44N1Q0NE1ELWJoQVJUWEFmZ21yVmFtbUpFdDlna0JZNXJvSm9hRUxBTzdqanpoTXc3RV96MHhqLUUwT3lCeDc3SFhmbTZuWEVGRjlQY09mVjdKY3RYVTAtMkluQWNMRTIwdDRBUGg2cw?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPeXR5ek1QRDktY0Jfd05td3padE1FV1RzNjZSQndPSURWSkZZVGVtN1JwZ0NzS2VqMHJEVlJPS25CTzJ4NExVNG1CdTJLaHNwUzF3ak0zZXhpUDFXRUd6SWJrYlZyS3JwX1dQdE5hbGhjWWJ2U2hJdVpGaWxQaFg2czFnZmF4MjRSUDdDY2FseGJLdjVFaE9wUnNaTjNaaHViYXlfYjBnTFFneURNUHRldnVfVWlDZWxFejNRS01BTFd5dw?oc=5",
       "date": "2026-07-26T11:29:11.000Z",
-      "source": "inkl",
+      "source": "International Business Times UK",
       "sourceType": "news",
       "notable": true,
       "precedence": "PRIORITY",
@@ -660,6 +644,20 @@
       "notable": false,
       "precedence": "ROUTINE",
       "signals": []
+    },
+    {
+      "id": "c1dfa245adc0",
+      "title": "Orbs spotted over 300 miles apart 2 hours apart!",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>Post on here yesterday of an orb over London at 7pm. I saw the exact same thing (round silver ball) in Belfast Ireland 2 hours before and have msgs to my friends to prove. According to grok, ballon’s can’t travel that far that fast. I checked my apples maps, and…",
+      "url": "https://www.reddit.com/r/UFOs/comments/1v6j67k/orbs_spotted_over_300_miles_apart_2_hours_apart/",
+      "date": "2026-07-25T20:34:06.000Z",
+      "source": "Reddit · r/UFOs",
+      "sourceType": "social",
+      "notable": false,
+      "precedence": "ROUTINE",
+      "signals": [
+        "craft shape"
+      ]
     },
     {
       "id": "df31671bf96f",
