@@ -4,6 +4,8 @@ import sitemap from '@astrojs/sitemap';
 import fs from 'node:fs';
 import path from 'node:path';
 
+import cloudflare from "@astrojs/cloudflare";
+
 // Your live domain — used for the sitemap, RSS feed and social share cards.
 const SITE_URL = 'https://uaptimes.com';
 
@@ -30,6 +32,7 @@ const LASTMOD = articleLastmod();
 // https://astro.build/config
 export default defineConfig({
   site: SITE_URL,
+
   integrations: [
     sitemap({
       serialize(item) {
@@ -43,9 +46,12 @@ export default defineConfig({
       },
     }),
   ],
+
   markdown: {
     shikiConfig: {
       theme: 'css-variables',
     },
   },
+
+  adapter: cloudflare()
 });
