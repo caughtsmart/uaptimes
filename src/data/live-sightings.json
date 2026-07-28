@@ -1,9 +1,73 @@
 {
-  "updated": "2026-07-28T16:52:59.340Z",
+  "updated": "2026-07-28T19:55:04.800Z",
   "count": 90,
   "notable": 13,
   "enriched": false,
   "items": [
+    {
+      "id": "1c0240e240f4",
+      "title": "Patrick Vetted vs. the UFO Community: What Happened?",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/UFOs/comments/1v998u1/patrick_vetted_vs_the_ufo_community_what_happened/\"> <img…",
+      "url": "https://www.reddit.com/r/UFOs/comments/1v998u1/patrick_vetted_vs_the_ufo_community_what_happened/",
+      "date": "2026-07-28T19:51:56.000Z",
+      "source": "Reddit · r/UFOs",
+      "sourceType": "social",
+      "notable": false,
+      "precedence": "ROUTINE",
+      "signals": []
+    },
+    {
+      "id": "2c924ad20c04",
+      "title": "Found this online . Looks like something Near the Sun..maybe 2006 to 2012 not sure",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/UFOs/comments/1v98vef/found_this_online_looks_like_something_near_the/\"> <img src=\"https://preview.redd.it/a29rrczvw0gh1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=93fbe0e569f091b5b8635a5b429030e7fc4977b1\" alt=\"Found this online . Looks…",
+      "url": "https://www.reddit.com/r/UFOs/comments/1v98vef/found_this_online_looks_like_something_near_the/",
+      "date": "2026-07-28T19:38:30.000Z",
+      "source": "Reddit · r/UFOs",
+      "sourceType": "social",
+      "notable": false,
+      "precedence": "ROUTINE",
+      "signals": []
+    },
+    {
+      "id": "1d7b29100435",
+      "title": "🛸 SITREP 2026-07-28 18:50 UTC 1 corroborated UAP events. Top: [A1] UAP report (Black) https://…",
+      "summary": "🛸 SITREP 2026-07-28 18:50 UTC 1 corroborated UAP events. Top: [A1] UAP report (Black) https:// n4hy.github.io/sciencebobnews- site # UAP # UFO # USO Powered by Science Bob News",
+      "url": "https://mastodon.social/@ScienceBob/116999101461695048",
+      "date": "2026-07-28T18:50:09.715Z",
+      "source": "Mastodon · @ScienceBob",
+      "sourceType": "social",
+      "notable": false,
+      "precedence": "ROUTINE",
+      "signals": []
+    },
+    {
+      "id": "f24dc8bb411b",
+      "title": "UAPs And Non-Human Intelligence – Time For Disclosure http:// dlvr.it/TTlNZ1 # UFO # UFONews # ufodisclosure",
+      "summary": "UAPs And Non-Human Intelligence – Time For Disclosure http:// dlvr.it/TTlNZ1 # UFO # UFONews # ufodisclosure",
+      "url": "https://mastodon.au/@vibewire/116998719164105289",
+      "date": "2026-07-28T17:12:56.000Z",
+      "source": "Mastodon · @vibewire",
+      "sourceType": "social",
+      "notable": true,
+      "precedence": "PRIORITY",
+      "signals": [
+        "government"
+      ]
+    },
+    {
+      "id": "e07edb9d1244",
+      "title": "“We Can’t Fight Them” – UAP Disclosure Day in the Middle East – Beyond The 1976 Tehran UFO Incident http://…",
+      "summary": "“We Can’t Fight Them” – UAP Disclosure Day in the Middle East – Beyond The 1976 Tehran UFO Incident http:// dlvr.it/TTlNXy # UFO # UFONews # ufodisclosure",
+      "url": "https://mastodon.au/@vibewire/116998718948591565",
+      "date": "2026-07-28T17:12:53.000Z",
+      "source": "Mastodon · @vibewire",
+      "sourceType": "social",
+      "notable": true,
+      "precedence": "PRIORITY",
+      "signals": [
+        "government"
+      ]
+    },
     {
       "id": "a2c6cafeff04",
       "title": "The Canadian Official Who Tried to Build a UFO Detector",
@@ -47,18 +111,6 @@
       "url": "https://mastodon.au/@vibewire/116998271384200480",
       "date": "2026-07-28T15:19:03.000Z",
       "source": "Mastodon · @vibewire",
-      "sourceType": "social",
-      "notable": false,
-      "precedence": "ROUTINE",
-      "signals": []
-    },
-    {
-      "id": "a06a7aa22c40",
-      "title": "Blemish in front of the sun? On the Sun? On my lens? Took yesterday",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/UFOs/comments/1v913oe/blemish_in_front_of_the_sun_on_the_sun_on_my_lens/\"> <img src=\"https://preview.redd.it/frqajyqyjzfh1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=cb67c7e7cdfb1117c6bcd2123920854ff1ccb502\" alt=\"Blemish in front of the…",
-      "url": "https://www.reddit.com/r/UFOs/comments/1v913oe/blemish_in_front_of_the_sun_on_the_sun_on_my_lens/",
-      "date": "2026-07-28T15:04:17.000Z",
-      "source": "Reddit · r/UFOs",
       "sourceType": "social",
       "notable": false,
       "precedence": "ROUTINE",
@@ -149,6 +201,20 @@
       "notable": false,
       "precedence": "ROUTINE",
       "signals": []
+    },
+    {
+      "id": "ae1243675402",
+      "title": "Sentient Light Orb activity is increasing DRASTICALLY. (Multiple Videos)",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/UFOs/comments/1v8ts61/sentient_light_orb_activity_is_increasing/\"> <img…",
+      "url": "https://www.reddit.com/r/UFOs/comments/1v8ts61/sentient_light_orb_activity_is_increasing/",
+      "date": "2026-07-28T09:57:19.000Z",
+      "source": "Reddit · r/UFOs",
+      "sourceType": "social",
+      "notable": false,
+      "precedence": "ROUTINE",
+      "signals": [
+        "craft shape"
+      ]
     },
     {
       "id": "a2bad3f29d0e",
@@ -471,18 +537,6 @@
       ]
     },
     {
-      "id": "08e9b3ca1b07",
-      "title": "🛸 SITREP 2026-07-27 21:00 UTC 2 corroborated UAP events. Top: [A1] Official UAP statement reported (Austin) https://…",
-      "summary": "🛸 SITREP 2026-07-27 21:00 UTC 2 corroborated UAP events. Top: [A1] Official UAP statement reported (Austin) https:// n4hy.github.io/sciencebobnews- site # UAP # UFO # USO Powered by Science Bob News",
-      "url": "https://mastodon.social/@ScienceBob/116993950406747830",
-      "date": "2026-07-27T21:00:10.936Z",
-      "source": "Mastodon · @ScienceBob",
-      "sourceType": "social",
-      "notable": false,
-      "precedence": "ROUTINE",
-      "signals": []
-    },
-    {
       "id": "fbe4e93d6b74",
       "title": "Help: UFO image scrubbed?",
       "summary": "<!-- SC_OFF --><div class=\"md\"><p>Hi everyone,</p> <p>I'm trying to track down a specific UFO image from the November 2023 incident in Beltrami County near Bemidji, Minnesota.</p> <p>During that event, a bright flash and a loud boom were captured on multiple home surveillance cameras. After…",
@@ -528,6 +582,18 @@
       "date": "2026-07-27T14:41:56.000Z",
       "source": "Reddit · r/UFOs",
       "sourceType": "social",
+      "notable": false,
+      "precedence": "ROUTINE",
+      "signals": []
+    },
+    {
+      "id": "3f0b6862e0f5",
+      "title": "UFOs: What are they and what are the most famous sightings?",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTE93U1JQeHpqVVg4ZDFlQ2Y4MUlVdi1EaE9LT29ySXBNcm95d0lBUnhibW9oNzNLZEpBaVBMVFJRaXVNbGVsXzRueF9lcnVpSGFYME5NelI3b0ZLMEE?oc=5\" target=\"_blank\">UFOs: What are they and what are the most famous sightings?</a>&nbsp;&nbsp;<font…",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE93U1JQeHpqVVg4ZDFlQ2Y4MUlVdi1EaE9LT29ySXBNcm95d0lBUnhibW9oNzNLZEpBaVBMVFJRaXVNbGVsXzRueF9lcnVpSGFYME5NelI3b0ZLMEE?oc=5",
+      "date": "2026-07-27T14:09:50.000Z",
+      "source": "BBC",
+      "sourceType": "news",
       "notable": false,
       "precedence": "ROUTINE",
       "signals": []
@@ -600,6 +666,18 @@
       "date": "2026-07-27T09:05:26.000Z",
       "source": "Mastodon · @hayesstw",
       "sourceType": "social",
+      "notable": false,
+      "precedence": "ROUTINE",
+      "signals": []
+    },
+    {
+      "id": "886a9e7e1ab7",
+      "title": "Declassified Project Moondust Files Spark Claims US Secretly Recovered UFO Debris During Cold War",
+      "summary": "<a…",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPR3lfel92aW9QalBja3FIdm5yS3YtNFlwaGcyWjcySzZxdkdoTFZNY0RtLVAtZnBHUXplc05YRU9aMl9fblhJOVZ2dGd6UVd5NUxhUjNLcmF1Mjd6N25adFplRExKdUpLVGs0amRCUm9uQ1VwOXdXT3lRTWZoMUR6ZmpGMWFtZTc2V3Fiem9pVEZycjMySmRnNENDOVRfWkZXMzNsVzFWalZFNzFBQlU3WlpyM3BXX1dBd0FSQXZJTVY?oc=5",
+      "date": "2026-07-27T08:56:26.000Z",
+      "source": "inkl",
+      "sourceType": "news",
       "notable": false,
       "precedence": "ROUTINE",
       "signals": []
@@ -681,20 +759,6 @@
       ]
     },
     {
-      "id": "3d59cf4c0d5d",
-      "title": "Free, open-source tool for comprehensive photo and video analysis. Triangulate real size and distance (and even speed/Gforces) of UFOs from multiple photos/videos using photogrammetry. Object tracking, automatic video stabilization/exporting and more. Produces \"white paper\" style report in the end.",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/UFOs/comments/1v7bq75/free_opensource_tool_for_comprehensive_photo_and/\"> <img…",
-      "url": "https://www.reddit.com/r/UFOs/comments/1v7bq75/free_opensource_tool_for_comprehensive_photo_and/",
-      "date": "2026-07-26T18:22:28.000Z",
-      "source": "Reddit · r/UFOs",
-      "sourceType": "social",
-      "notable": false,
-      "precedence": "ROUTINE",
-      "signals": [
-        "has media"
-      ]
-    },
-    {
       "id": "308792d5073b",
       "title": "Rapport 2025 AARO on UAP - Rapport annuel de l'AARO sur les PAN : Lire l'article ici : https://www.…",
       "summary": "Rapport 2025 AARO on UAP - Rapport annuel de l'AARO sur les PAN : Lire l'article ici : https://www. theblackvault.com/documentarch ive/aaro-releases-fy2025-uap-report-months-after-statutory-deadline-citing-319-new-cases-and-expanded-satellite-analysis/ Lire le rapport complet ici : https://…",
@@ -753,18 +817,6 @@
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNUzRsYS16TlpnQWdKT25haldRM05QU05oSWkzRGs1aS12V3J4TmNQSnlWeTh6bWdKWEd0YkNTVzh0bDNod29UZzZJMTZ5RGwtWmxVRkF0VHBTZW9pMDZjaUZHeThZN01NcnRrbld3em9Xem5IVEhGZ0dhOWkwWFBaVElKYk9SWk9rQmlEc0VYOXR4MHdoRmdxRQ?oc=5",
       "date": "2026-07-26T09:54:12.000Z",
       "source": "Briefly News",
-      "sourceType": "news",
-      "notable": false,
-      "precedence": "ROUTINE",
-      "signals": []
-    },
-    {
-      "id": "3f0b6862e0f5",
-      "title": "UFOs: What are they and what are the most famous sightings?",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTE93U1JQeHpqVVg4ZDFlQ2Y4MUlVdi1EaE9LT29ySXBNcm95d0lBUnhibW9oNzNLZEpBaVBMVFJRaXVNbGVsXzRueF9lcnVpSGFYME5NelI3b0ZLMEE?oc=5\" target=\"_blank\">UFOs: What are they and what are the most famous sightings?</a>&nbsp;&nbsp;<font…",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE93U1JQeHpqVVg4ZDFlQ2Y4MUlVdi1EaE9LT29ySXBNcm95d0lBUnhibW9oNzNLZEpBaVBMVFJRaXVNbGVsXzRueF9lcnVpSGFYME5NelI3b0ZLMEE?oc=5",
-      "date": "2026-07-26T03:06:18.000Z",
-      "source": "BBC",
       "sourceType": "news",
       "notable": false,
       "precedence": "ROUTINE",
@@ -1086,59 +1138,6 @@
       "notable": false,
       "precedence": "ROUTINE",
       "signals": []
-    },
-    {
-      "id": "6e0c43312d8f",
-      "title": "People: Pentagon Releases New UFO Records Detailing Decades of Unexplained Aerial Encounters. “The Pentagon has…",
-      "summary": "People: Pentagon Releases New UFO Records Detailing Decades of Unexplained Aerial Encounters. “The Pentagon has expanded its public UFO archive with dozens of newly released records, from declassified documents to videos, audio recordings and images tied to decades of unexplained aerial…",
-      "url": "https://rbfirehose.com/2026/07/11/people-pentagon-releases-new-ufo-records-detailing-decades-of-unexplained-aerial-encounters/",
-      "date": "2026-07-11T18:14:23.000Z",
-      "source": "Mastodon · @researchbuzz_firehose",
-      "sourceType": "social",
-      "notable": true,
-      "precedence": "PRIORITY",
-      "signals": [
-        "military/agency",
-        "mass sighting"
-      ]
-    },
-    {
-      "id": "8f1f9c08a186",
-      "title": "UFOs #ufos #aliens",
-      "summary": "UFOs #ufos #aliens",
-      "url": "https://pixelfed.com/p/Matthieu/980135046455633725",
-      "date": "2026-07-07T15:46:45.000Z",
-      "source": "Mastodon · @Matthieu",
-      "sourceType": "social",
-      "notable": false,
-      "precedence": "ROUTINE",
-      "signals": []
-    },
-    {
-      "id": "5de28938721c",
-      "title": "Do I believe in aliens? Yep. Have they visited earth? That's... possible, but I don't know if it's probable. https://…",
-      "summary": "Do I believe in aliens? Yep. Have they visited earth? That's... possible, but I don't know if it's probable. https:// meerkatmusings.co.uk/?p=1331 # UFOS",
-      "url": "https://ohai.social/@BenBerwick/116878370040025908",
-      "date": "2026-07-07T11:06:34.000Z",
-      "source": "Mastodon · @BenBerwick",
-      "sourceType": "social",
-      "notable": false,
-      "precedence": "ROUTINE",
-      "signals": []
-    },
-    {
-      "id": "a0bf914c64f9",
-      "title": "A ex-funcionária da NASA, Donna Hare, afirmou que a agência apagou imagens de UFOs de fotografias antes de torná-las…",
-      "summary": "A ex-funcionária da NASA, Donna Hare, afirmou que a agência apagou imagens de UFOs de fotografias antes de torná-las públicas. Suas declarações, feitas durante sua carreira entre 1967 e 1981, reacendem os debates sobre a transparência da NASA em relação a fenômenos anômalos. 🔗 https://…",
-      "url": "https://mastodon.social/@verdadeufo/116878257124138428",
-      "date": "2026-07-07T10:37:51.456Z",
-      "source": "Mastodon · @verdadeufo",
-      "sourceType": "social",
-      "notable": true,
-      "precedence": "PRIORITY",
-      "signals": [
-        "military/agency"
-      ]
     }
   ]
 }
