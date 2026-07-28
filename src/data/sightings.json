@@ -251,5 +251,16 @@
     "credibility": 3,
     "blurb": "Two women reported a diamond-shaped craft escorted by helicopters, then suffered burns and radiation-like illness.",
     "article": "/articles/cash-landrum-1980/"
+  },
+  {
+    "id": "kenneth-arnold-1947",
+    "name": "Kenneth Arnold / Mount Rainier",
+    "place": "Mount Rainier, Washington",
+    "date": "June 1947",
+    "lat": 46.852,
+    "lng": -121.76,
+    "credibility": 2,
+    "blurb": "A pilot reported nine fast, flat, crescent-shaped objects racing along the Cascades. His skipping-saucer simile coined the term 'flying saucer' and launched the modern UFO era.",
+    "article": "/articles/kenneth-arnold-1947/"
   }
 ]
