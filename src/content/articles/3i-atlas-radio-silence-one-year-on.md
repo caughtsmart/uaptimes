@@ -6,7 +6,7 @@ pubDate: 2026-07-28
 author: "UAP Times Desk"
 topic: "Science"
 tags: ["3I/ATLAS", "Avi Loeb", "Sofia Sheikh", "Jason Wright", "SETI", "Breakthrough Listen", "FAST", "technosignatures", "interstellar objects"]
-heroImage: "/images/placeholder-sky.svg"
+heroImage: "/images/3i-atlas-radio-silence-one-year-on-hero.png"
 heroCredit: "AI-generated illustration"
 heroImageRemote: "https://d8j0ntlcm91z4.cloudfront.net/user_3H0FDLhevoDIIm5NZhOBNfDEWRH/hf_20260728_081546_c953908e-ea8f-443d-9ca2-513f8402f6e8.png"
 credibility: 1
