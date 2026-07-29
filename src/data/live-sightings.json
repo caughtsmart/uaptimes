@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-29T09:11:34.222Z",
+  "updated": "2026-07-29T11:35:13.779Z",
   "count": 90,
   "notable": 15,
   "enriched": false,
@@ -43,30 +43,6 @@
       "signals": [
         "close encounter"
       ]
-    },
-    {
-      "id": "64e34d51c85e",
-      "title": "Seen on my Facebook, UAP sightings on the Navajo Nation reservation.",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/UFOs/comments/1v9n661/seen_on_my_facebook_uap_sightings_on_the_navajo/\"> <img src=\"https://preview.redd.it/5srlsgchx3gh1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=e2e820cfe63dd19f0dfbba9a59175105b47b1c7e\" alt=\"Seen on my Facebook, UAP…",
-      "url": "https://www.reddit.com/r/UFOs/comments/1v9n661/seen_on_my_facebook_uap_sightings_on_the_navajo/",
-      "date": "2026-07-29T05:47:38.000Z",
-      "source": "Reddit · r/UFOs",
-      "sourceType": "social",
-      "notable": false,
-      "precedence": "ROUTINE",
-      "signals": []
-    },
-    {
-      "id": "6561eafb34f1",
-      "title": "What are we thinking this is?",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/UFOs/comments/1v9mvog/what_are_we_thinking_this_is/\"> <img…",
-      "url": "https://www.reddit.com/r/UFOs/comments/1v9mvog/what_are_we_thinking_this_is/",
-      "date": "2026-07-29T05:32:19.000Z",
-      "source": "Reddit · r/UFOs",
-      "sourceType": "social",
-      "notable": false,
-      "precedence": "ROUTINE",
-      "signals": []
     },
     {
       "id": "e5318fed2ca0",
@@ -702,6 +678,30 @@
       "signals": []
     },
     {
+      "id": "2ddc0ea91b04",
+      "title": "I have always found the Jackie Gleason and Nixon intriguing...",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/UFOs/comments/1v7zhwr/i_have_always_found_the_jackie_gleason_and_nixon/\"> <img…",
+      "url": "https://www.reddit.com/r/UFOs/comments/1v7zhwr/i_have_always_found_the_jackie_gleason_and_nixon/",
+      "date": "2026-07-27T12:51:00.000Z",
+      "source": "Reddit · r/UFOs",
+      "sourceType": "social",
+      "notable": false,
+      "precedence": "ROUTINE",
+      "signals": []
+    },
+    {
+      "id": "94daf88d90dc",
+      "title": "UFO in my village in Croatia",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/UFOs/comments/1v7yjup/ufo_in_my_village_in_croatia/\"> <img…",
+      "url": "https://www.reddit.com/r/UFOs/comments/1v7yjup/ufo_in_my_village_in_croatia/",
+      "date": "2026-07-27T12:09:43.000Z",
+      "source": "Reddit · r/UFOs",
+      "sourceType": "social",
+      "notable": false,
+      "precedence": "ROUTINE",
+      "signals": []
+    },
+    {
       "id": "93ed72cf95ee",
       "title": "Neoinklings: aliens, alienation and otherness -- a literary conversation from 8 years ago https://…",
       "summary": "Neoinklings: aliens, alienation and otherness -- a literary conversation from 8 years ago https:// khanya.wordpress.com/2018/06/0 9/neoinklings-alienation-and-otherness/ # monasteries # UFOs # TheSixties # ReadingCommunity",
@@ -785,32 +785,6 @@
       "date": "2026-07-26T14:00:18.000Z",
       "source": "Mastodon · @nyt_science",
       "sourceType": "social",
-      "notable": false,
-      "precedence": "ROUTINE",
-      "signals": []
-    },
-    {
-      "id": "63dec2c99606",
-      "title": "UFO Sighting Over Hawaii: Flight Swerves to Avoid Mysterious White Object as Airline Denies Claim",
-      "summary": "<a…",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNanlwVE1fdENYNHg2a2FuYXdBcVh3UDU0OGIwaDJ0LS1VQWtUd3BsMWtNLUhsQk5IRnQ5cW1XeUlIRWtuUTFhcmZUcWtIdkRSVFhTa2FtZG44N1Q0NE1ELWJoQVJUWEFmZ21yVmFtbUpFdDlna0JZNXJvSm9hRUxBTzdqanpoTXc3RV96MHhqLUUwT3lCeDc3SFhmbTZuWEVGRjlQY09mVjdKY3RYVTAtMkluQWNMRTIwdDRBUGg2cw?oc=5",
-      "date": "2026-07-26T11:29:11.000Z",
-      "source": "inkl",
-      "sourceType": "news",
-      "notable": true,
-      "precedence": "PRIORITY",
-      "signals": [
-        "aviation"
-      ]
-    },
-    {
-      "id": "4c998210eeed",
-      "title": "\"Witches' innovation\": UFO spotted in Soweto sparks debate among South Africans",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxNUzRsYS16TlpnQWdKT25haldRM05QU05oSWkzRGs1aS12V3J4TmNQSnlWeTh6bWdKWEd0YkNTVzh0bDNod29UZzZJMTZ5RGwtWmxVRkF0VHBTZW9pMDZjaUZHeThZN01NcnRrbld3em9Xem5IVEhGZ0dhOWkwWFBaVElKYk9SWk9rQmlEc0VYOXR4MHdoRmdxRQ?oc=5\" target=\"_blank\">\"Witches'…",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNUzRsYS16TlpnQWdKT25haldRM05QU05oSWkzRGs1aS12V3J4TmNQSnlWeTh6bWdKWEd0YkNTVzh0bDNod29UZzZJMTZ5RGwtWmxVRkF0VHBTZW9pMDZjaUZHeThZN01NcnRrbld3em9Xem5IVEhGZ0dhOWkwWFBaVElKYk9SWk9rQmlEc0VYOXR4MHdoRmdxRQ?oc=5",
-      "date": "2026-07-26T09:54:12.000Z",
-      "source": "briefly.co.za",
-      "sourceType": "news",
       "notable": false,
       "precedence": "ROUTINE",
       "signals": []
@@ -1146,6 +1120,32 @@
       "notable": false,
       "precedence": "ROUTINE",
       "signals": []
+    },
+    {
+      "id": "5de28938721c",
+      "title": "Do I believe in aliens? Yep. Have they visited earth? That's... possible, but I don't know if it's probable. https://…",
+      "summary": "Do I believe in aliens? Yep. Have they visited earth? That's... possible, but I don't know if it's probable. https:// meerkatmusings.co.uk/?p=1331 # UFOS",
+      "url": "https://ohai.social/@BenBerwick/116878370040025908",
+      "date": "2026-07-07T11:06:34.000Z",
+      "source": "Mastodon · @BenBerwick",
+      "sourceType": "social",
+      "notable": false,
+      "precedence": "ROUTINE",
+      "signals": []
+    },
+    {
+      "id": "a0bf914c64f9",
+      "title": "A ex-funcionária da NASA, Donna Hare, afirmou que a agência apagou imagens de UFOs de fotografias antes de torná-las…",
+      "summary": "A ex-funcionária da NASA, Donna Hare, afirmou que a agência apagou imagens de UFOs de fotografias antes de torná-las públicas. Suas declarações, feitas durante sua carreira entre 1967 e 1981, reacendem os debates sobre a transparência da NASA em relação a fenômenos anômalos. 🔗 https://…",
+      "url": "https://mastodon.social/@verdadeufo/116878257124138428",
+      "date": "2026-07-07T10:37:51.456Z",
+      "source": "Mastodon · @verdadeufo",
+      "sourceType": "social",
+      "notable": true,
+      "precedence": "PRIORITY",
+      "signals": [
+        "military/agency"
+      ]
     }
   ]
 }
