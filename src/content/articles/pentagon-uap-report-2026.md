@@ -23,7 +23,7 @@ That sounds like a lot. It is a lot. But the more interesting story is buried in
 
 Of the new cases, a solid majority were run down to fairly mundane origins — a familiar cast of balloons, commercial drones, birds picked up on infrared, and the occasional Starlink train mistaken for something rather more exotic. This is, if we're honest, what a functioning investigative body is supposed to do: explain the explicable and narrow the field.
 
-What keeps the subject alive is the residue. A minority of cases remain uncategorised, not because AARO has declared them extraterrestrial — it has pointedly not — but because there simply isn't enough sensor data to say anything with confidence.
+What keeps the subject alive is the residue. A minority of cases remain uncategorised, not because AARO has declared them extraterrestrial — it has pointedly not — but because there simply isn't enough sensor data to say anything with confidence. And where AARO *has* had the history to assess a celebrated case in depth — as with the [Skinwalker Ranch](/articles/skinwalker-ranch/) programme — its verdicts have tended to deflate the legend rather than inflate it.
 
 ##### The "we need better cameras" problem
 
