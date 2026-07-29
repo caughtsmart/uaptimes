@@ -88,7 +88,7 @@ Three tests, in ascending order of difficulty.
 
 **Does it get read-in?** If the government genuinely wants this question resolved, granting clearances to a handful of council members is trivially within its power. Continued refusal, over months, is itself a finding — and a rather louder one than anything the panel could conclude from public files.
 
-**Does it produce a negative result and say so plainly?** The most valuable thing a scientific body can do here is close cases. If the council examines the [Virginia maritime swarm](/articles/navy-uap-swarm-virginia-coast/) or the Pantex incident and concludes the data cannot bear the weight being placed on it, and says so in public despite the audience it would disappoint, that is a functioning scientific process. If everything it touches stays tantalisingly open, that tells you something too.
+**Does it produce a negative result and say so plainly?** The most valuable thing a scientific body can do here is close cases. If the council examines the [Virginia maritime swarm](/articles/navy-uap-swarm-virginia-coast/) or [the Pantex incursion](/articles/pantex-2015-nuclear-plant-incursion/) and concludes the data cannot bear the weight being placed on it, and says so in public despite the audience it would disappoint, that is a functioning scientific process. If everything it touches stays tantalisingly open, that tells you something too.
 
 ##### The UAP Times take
 

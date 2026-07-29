@@ -85,7 +85,7 @@ In 1949 the United States put its very best scientists in a room, gave them clea
 
 Set that against the present arrangement. The White House's [new UAP Science Advisory Council under Avi Loeb](/articles/uap-science-advisory-council-loeb/) has fifteen scientists, no budget, no clearances, and access only to material already made public. The 1949 panel had less physics and better access. Whatever else the last three-quarters of a century achieved, it did not improve the terms on which scientists get to look at this.
 
-The other reason it matters is the setting. Objects over nuclear facilities is the single most persistent pattern in the entire documentary record, running from Los Alamos in 1949 through [the Malmstrom missile shutdown of 1967](/articles/malmstrom-1967/) to the Pantex file published in this same tranche. Whatever is generating those reports — and it may well be several different things — the pattern is not new, and the government has been unable to close it out for three generations.
+The other reason it matters is the setting. Objects over nuclear facilities is the single most persistent pattern in the entire documentary record, running from Los Alamos in 1949 through [the Malmstrom missile shutdown of 1967](/articles/malmstrom-1967/) to [the Pantex incursion file published in this same tranche](/articles/pantex-2015-nuclear-plant-incursion/). Whatever is generating those reports — and it may well be several different things — the pattern is not new, and the government has been unable to close it out for three generations.
 
 ##### The UAP Times take
 
