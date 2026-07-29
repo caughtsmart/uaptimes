@@ -89,7 +89,7 @@ That combination is why Tehran sits in the top rank of military UFO cases withou
 
 ##### The UAP Times take
 
-Tehran earns a **credibility rating of 2** — well-witnessed, multiply-sourced and genuinely puzzling — held back from a 1 only by the absence of hard sensor data we can put under a lens today, and by a sceptical explanation for the opening act that refuses to fully go away.
+Tehran earns a **Credible** rating — four out of five on our scale — well-witnessed, multiply-sourced and genuinely puzzling — held back from our top mark only by the absence of hard sensor data we can put under a lens today, and by a sceptical explanation for the opening act that refuses to fully go away.
 
 What you make of it comes down to a single question: how many coincidences are you willing to buy? One bright planet, fine. One jet with a bad radio, fine. But two aircraft, two failures, both while bearing down on the same light, plus air and ground radar and a memo that impressed the Pentagon — at some point the pile of ordinary explanations starts to feel heavier than the extraordinary one it is meant to replace. Tehran does not prove anything landed over the capital that night. It does prove that, for a few tense minutes in 1976, an entire air-defence system pointed everything it had at something, and came home unable to say what it was.
 
