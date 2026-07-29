@@ -6,7 +6,7 @@ pubDate: 2026-07-29
 author: "UAP Times Desk"
 topic: "Analysis"
 tags: ["Skinwalker Ranch", "AAWSAP", "Robert Bigelow", "Brandon Fugal", "Uinta Basin", "AARO"]
-heroImage: "/images/placeholder-sky.svg"
+heroImage: "/images/skinwalker-ranch-hero.png"
 heroCredit: "AI-generated illustration"
 heroImageRemote: "https://d8j0ntlcm91z4.cloudfront.net/user_3H0FDLhevoDIIm5NZhOBNfDEWRH/hf_20260729_173325_3a12fda3-2d5a-45ca-b3e3-d288ca4b7a25.png"
 credibility: 4
