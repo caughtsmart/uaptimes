@@ -1,9 +1,138 @@
 {
-  "updated": "2026-07-28T22:18:26.261Z",
+  "updated": "2026-07-29T03:43:31.630Z",
   "count": 90,
-  "notable": 12,
+  "notable": 14,
   "enriched": false,
   "items": [
+    {
+      "id": "7c39f37c9c69",
+      "title": "Lunar Bases & UAPs: NASA’s Secret Interest in Moon Rocks http:// dlvr.it/TTlgdG # NASA # UAP # UAPDisclosure #…",
+      "summary": "Lunar Bases & UAPs: NASA’s Secret Interest in Moon Rocks http:// dlvr.it/TTlgdG # NASA # UAP # UAPDisclosure # ufodocuments",
+      "url": "https://mastodon.au/@vibewire/117001180457773006",
+      "date": "2026-07-29T03:38:52.000Z",
+      "source": "Mastodon · @vibewire",
+      "sourceType": "social",
+      "notable": true,
+      "precedence": "PRIORITY",
+      "signals": [
+        "military/agency"
+      ]
+    },
+    {
+      "id": "1c5675bfd527",
+      "title": "UAP Gerb Briefing Document (GBD) - A written companion to UAP Gerb's current research",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/UFOs/comments/1v9jmys/uap_gerb_briefing_document_gbd_a_written/\"> <img src=\"https://external-preview.redd.it/_DCnFxQkRW0Z_UGgdQVxYZz3zTW6zud5hTHqK0YT3pw.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=42f1fc7e7bda5d1b45bf3e146240af57c807c395\"…",
+      "url": "https://www.reddit.com/r/UFOs/comments/1v9jmys/uap_gerb_briefing_document_gbd_a_written/",
+      "date": "2026-07-29T02:54:17.000Z",
+      "source": "Reddit · r/UFOs",
+      "sourceType": "social",
+      "notable": false,
+      "precedence": "ROUTINE",
+      "signals": []
+    },
+    {
+      "id": "774cd1bb9495",
+      "title": "🛸 SITREP 2026-07-29 01:50 UTC 1 corroborated UAP events. Top: [A1] Official UAP statement reported (Austin) https://…",
+      "summary": "🛸 SITREP 2026-07-29 01:50 UTC 1 corroborated UAP events. Top: [A1] Official UAP statement reported (Austin) https:// n4hy.github.io/sciencebobnews- site # UAP # UFO # USO Powered by Science Bob News",
+      "url": "https://mastodon.social/@ScienceBob/117000753010176488",
+      "date": "2026-07-29T01:50:10.343Z",
+      "source": "Mastodon · @ScienceBob",
+      "sourceType": "social",
+      "notable": false,
+      "precedence": "ROUTINE",
+      "signals": []
+    },
+    {
+      "id": "3c7e55bc9ac2",
+      "title": "Decades of documents provide evidence of UFO coverups",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxNdm5iR2ZEd2pwdWMxTmgwRl9mYk5EMmNQaDZWREJ5R3N4dm4yZlFCbW9wc0wxUUczcTF2VlRBS3FUaFd2cDRTR0ZOQ2JtS2M2dWE0bFkya2lNSDZCcl85cFdCbEZ1NThPWWVFUkN0UW45eVNTbXhKSVBuUVNGNWdkdnlxaEF1X21FOXpz?oc=5\" target=\"_blank\">Decades of documents provide evidence…",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNdm5iR2ZEd2pwdWMxTmgwRl9mYk5EMmNQaDZWREJ5R3N4dm4yZlFCbW9wc0wxUUczcTF2VlRBS3FUaFd2cDRTR0ZOQ2JtS2M2dWE0bFkya2lNSDZCcl85cFdCbEZ1NThPWWVFUkN0UW45eVNTbXhKSVBuUVNGNWdkdnlxaEF1X21FOXpz?oc=5",
+      "date": "2026-07-29T01:14:29.000Z",
+      "source": "AOL.com",
+      "sourceType": "news",
+      "notable": false,
+      "precedence": "ROUTINE",
+      "signals": []
+    },
+    {
+      "id": "a040d58ecb3e",
+      "title": "📹 VIDEO SITREP 2026-07-29 01:00 UTC [A1] UAP report (Early) https://www. youtube.com/watch?v=IyTeV6kko5A https://…",
+      "summary": "📹 VIDEO SITREP 2026-07-29 01:00 UTC [A1] UAP report (Early) https://www. youtube.com/watch?v=IyTeV6kko5A https:// n4hy.github.io/sciencebobnews- site # UAP # UFO # USO Powered by Science Bob News",
+      "url": "https://mastodon.social/@ScienceBob/117000556433554792",
+      "date": "2026-07-29T01:00:10.837Z",
+      "source": "Mastodon · @ScienceBob",
+      "sourceType": "social",
+      "notable": false,
+      "precedence": "ROUTINE",
+      "signals": [
+        "has media"
+      ]
+    },
+    {
+      "id": "5a3bdff50630",
+      "title": "🛸 SITREP 2026-07-29 00:40 UTC 1 corroborated UAP events. Top: [A1] Official UAP statement reported (Simon) https://…",
+      "summary": "🛸 SITREP 2026-07-29 00:40 UTC 1 corroborated UAP events. Top: [A1] Official UAP statement reported (Simon) https:// n4hy.github.io/sciencebobnews- site # UAP # UFO # USO Powered by Science Bob News",
+      "url": "https://mastodon.social/@ScienceBob/117000477746325760",
+      "date": "2026-07-29T00:40:10.148Z",
+      "source": "Mastodon · @ScienceBob",
+      "sourceType": "social",
+      "notable": false,
+      "precedence": "ROUTINE",
+      "signals": []
+    },
+    {
+      "id": "9a21d01f4363",
+      "title": "New UAP GERB interview with Ross Coulthart. He champions Grusch's push for disclosure and lays out allegations Elizondo is being positioned to engineer limited, controlled disclosure similar DNI James Clapper at AATIP back in 2016.",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/UFOs/comments/1v9fwg0/new_uap_gerb_interview_with_ross_coulthart_he/\"> <img…",
+      "url": "https://www.reddit.com/r/UFOs/comments/1v9fwg0/new_uap_gerb_interview_with_ross_coulthart_he/",
+      "date": "2026-07-29T00:09:31.000Z",
+      "source": "Reddit · r/UFOs",
+      "sourceType": "social",
+      "notable": true,
+      "precedence": "PRIORITY",
+      "signals": [
+        "government",
+        "close encounter"
+      ]
+    },
+    {
+      "id": "280f4ba65012",
+      "title": "📹 VIDEO SITREP 2026-07-29 00:00 UTC [A1] Official UAP statement reported https://www. youtube.com/watch?v=ibFPJk7mG0k…",
+      "summary": "📹 VIDEO SITREP 2026-07-29 00:00 UTC [A1] Official UAP statement reported https://www. youtube.com/watch?v=ibFPJk7mG0k https:// n4hy.github.io/sciencebobnews- site # UAP # UFO # USO Powered by Science Bob News",
+      "url": "https://mastodon.social/@ScienceBob/117000320462114396",
+      "date": "2026-07-29T00:00:10.181Z",
+      "source": "Mastodon · @ScienceBob",
+      "sourceType": "social",
+      "notable": false,
+      "precedence": "ROUTINE",
+      "signals": [
+        "has media"
+      ]
+    },
+    {
+      "id": "e17d26402446",
+      "title": "🛸 SITREP 2026-07-29 00:00 UTC 1 corroborated UAP events. Top: [A1] Official UAP statement reported https://…",
+      "summary": "🛸 SITREP 2026-07-29 00:00 UTC 1 corroborated UAP events. Top: [A1] Official UAP statement reported https:// n4hy.github.io/sciencebobnews- site # UAP # UFO # USO Powered by Science Bob News",
+      "url": "https://mastodon.social/@ScienceBob/117000320461536680",
+      "date": "2026-07-29T00:00:10.180Z",
+      "source": "Mastodon · @ScienceBob",
+      "sourceType": "social",
+      "notable": false,
+      "precedence": "ROUTINE",
+      "signals": []
+    },
+    {
+      "id": "1d2c6e7beaf2",
+      "title": "The Nimitz incident: An Infographic Map",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/UFOs/comments/1v9fa02/the_nimitz_incident_an_infographic_map/\"> <img src=\"https://preview.redd.it/19vl6esq42gh1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=64fb192e9e4bc97c4de8112ca1f22c11a9d95347\" alt=\"The Nimitz incident: An Infographic…",
+      "url": "https://www.reddit.com/r/UFOs/comments/1v9fa02/the_nimitz_incident_an_infographic_map/",
+      "date": "2026-07-28T23:44:18.000Z",
+      "source": "Reddit · r/UFOs",
+      "sourceType": "social",
+      "notable": false,
+      "precedence": "ROUTINE",
+      "signals": []
+    },
     {
       "id": "b4f66573907f",
       "title": "[Showcase] Why we shouldn't always use AI to \"enhance\" blurry photos - Before & After",
@@ -12,6 +141,18 @@
       "date": "2026-07-28T21:50:58.000Z",
       "source": "Reddit · r/UFOs",
       "sourceType": "social",
+      "notable": false,
+      "precedence": "ROUTINE",
+      "signals": []
+    },
+    {
+      "id": "e568ce93e3c9",
+      "title": "Dr. Phil claims Trump recruited him to review UFO files and found government cover-up",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE0xcHItbVVhTXlSVldDUWN4bk9mY25tQ2pfcFpvak05akVFZFhsaGU2WG5oUElKVmZKSFZ1VmUtaWlSSExxbGRtR3NyYjhUbDBTNFIyZ0g4NGh6bGVLLW1OYWlRZnRuZ052SzRhQ1ZkVFIwRUlJalVsYVBRS2taT2M?oc=5\" target=\"_blank\">Dr. Phil claims Trump recruited him to review UFO…",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE0xcHItbVVhTXlSVldDUWN4bk9mY25tQ2pfcFpvak05akVFZFhsaGU2WG5oUElKVmZKSFZ1VmUtaWlSSExxbGRtR3NyYjhUbDBTNFIyZ0g4NGh6bGVLLW1OYWlRZnRuZ052SzRhQ1ZkVFIwRUlJalVsYVBRS2taT2M?oc=5",
+      "date": "2026-07-28T20:28:20.000Z",
+      "source": "AOL.com",
+      "sourceType": "news",
       "notable": false,
       "precedence": "ROUTINE",
       "signals": []
@@ -27,20 +168,6 @@
       "notable": false,
       "precedence": "ROUTINE",
       "signals": []
-    },
-    {
-      "id": "8dcb712b24c2",
-      "title": "New Skinny Bob Video Original 2011 Ivan0135 Tape + Latest Alleged Footag...",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/UFOs/comments/1v99g3o/new_skinny_bob_video_original_2011_ivan0135_tape/\"> <img…",
-      "url": "https://www.reddit.com/r/UFOs/comments/1v99g3o/new_skinny_bob_video_original_2011_ivan0135_tape/",
-      "date": "2026-07-28T19:59:03.000Z",
-      "source": "Reddit · r/UFOs",
-      "sourceType": "social",
-      "notable": false,
-      "precedence": "ROUTINE",
-      "signals": [
-        "has media"
-      ]
     },
     {
       "id": "1d7b29100435",
@@ -155,6 +282,18 @@
       "signals": []
     },
     {
+      "id": "4a0939e48ec7",
+      "title": "'Little Punk With a Man Bun': US Congressman Claims Bureaucrat Blocked Prez from UFO Secrets",
+      "summary": "<a…",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNdV9CYXRKMGxqMFlsTjdTdHM1Ty1BSzlFOXdfWWtvanIxM1ZPTjdPNWdoVXJEN2oyeHJmd2I3eGJvY254YkxhX2VoMkFmcEc5R1MzeU83amVNaHU2bVFSVG9qRThRdnp6WVBqU195Q2lzTUlWNEVEUTdWSThQbFpkdGZWZGwxd2NFelY5VG1MLWhITVljWU94YW5yRHA0cHF2MXN2c3FOZW5MZGVxRHBMb0JrX1h0dw?oc=5",
+      "date": "2026-07-28T12:34:56.000Z",
+      "source": "inkl",
+      "sourceType": "news",
+      "notable": false,
+      "precedence": "ROUTINE",
+      "signals": []
+    },
+    {
       "id": "d647298e2199",
       "title": "Sedona UFOs (What are these)?",
       "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/UFOs/comments/1v8x4z7/sedona_ufos_what_are_these/\"> <img src=\"https://external-preview.redd.it/bdKOBsnkSzmGuSgET9S4i7c_H7SLuSO2NL_drqiZnU4.jpeg?width=320&amp;crop=smart&amp;auto=webp&amp;s=7b96439010c9db1e9723c598c3d875906ab12417\" alt=\"Sedona UFOs…",
@@ -259,20 +398,8 @@
       "title": "Adventures of a hubcap # charcoal # drawing # fediart # mastoart # ufo",
       "summary": "Adventures of a hubcap # charcoal # drawing # fediart # mastoart # ufo",
       "url": "https://mastodon.social/@amosmulder/116996832459455572",
-      "date": "2026-07-28T09:13:07.489Z",
+      "date": "2026-07-28T09:13:07.000Z",
       "source": "Mastodon · @amosmulder",
-      "sourceType": "social",
-      "notable": false,
-      "precedence": "ROUTINE",
-      "signals": []
-    },
-    {
-      "id": "5d31196bcb31",
-      "title": "Authentic UFO photos from long before the era of AI-generated UFO images http:// dlvr.it/TTkyjs # orbs # spheres # UFO",
-      "summary": "Authentic UFO photos from long before the era of AI-generated UFO images http:// dlvr.it/TTkyjs # orbs # spheres # UFO",
-      "url": "https://mastodon.au/@vibewire/116996702457551396",
-      "date": "2026-07-28T08:40:03.000Z",
-      "source": "Mastodon · @vibewire",
       "sourceType": "social",
       "notable": false,
       "precedence": "ROUTINE",
@@ -309,7 +436,7 @@
       "title": "# music # radio # zoo # LovetoLove # UFO Ранковий хард-рок: https:// open.spotify.com/track/4v6F1pL KcfAJbVbGs2NAJH…",
       "summary": "# music # radio # zoo # LovetoLove # UFO Ранковий хард-рок: https:// open.spotify.com/track/4v6F1pL KcfAJbVbGs2NAJH Невпинний потік скреготіння, виття та крику в ефірі Радіо Зоопарк, який раптом стає романтичною радіо хвилею: https:// cutt.ly/yyynJ15K",
       "url": "https://mastodon.social/@zoogger/116996394489544724",
-      "date": "2026-07-28T07:21:44.635Z",
+      "date": "2026-07-28T07:21:44.000Z",
       "source": "Mastodon · @zoogger",
       "sourceType": "social",
       "notable": false,
@@ -445,46 +572,6 @@
       "signals": []
     },
     {
-      "id": "7ee25790a5d3",
-      "title": "🛸 SITREP 2026-07-28 00:20 UTC 2 corroborated UAP events. Top: [A1] UAP report (Australia) https://…",
-      "summary": "🛸 SITREP 2026-07-28 00:20 UTC 2 corroborated UAP events. Top: [A1] UAP report (Australia) https:// n4hy.github.io/sciencebobnews- site # UAP # UFO # USO Powered by Science Bob News",
-      "url": "https://mastodon.social/@ScienceBob/116994736804083163",
-      "date": "2026-07-28T00:20:10.332Z",
-      "source": "Mastodon · @ScienceBob",
-      "sourceType": "social",
-      "notable": false,
-      "precedence": "ROUTINE",
-      "signals": []
-    },
-    {
-      "id": "92fea6c0b6c2",
-      "title": "📹 VIDEO SITREP 2026-07-28 00:00 UTC [A1] UAP report (Early) https://www. youtube.com/watch?v=IyTeV6kko5A https://…",
-      "summary": "📹 VIDEO SITREP 2026-07-28 00:00 UTC [A1] UAP report (Early) https://www. youtube.com/watch?v=IyTeV6kko5A https:// n4hy.github.io/sciencebobnews- site # UAP # UFO # USO Powered by Science Bob News",
-      "url": "https://mastodon.social/@ScienceBob/116994658618483790",
-      "date": "2026-07-28T00:00:17.303Z",
-      "source": "Mastodon · @ScienceBob",
-      "sourceType": "social",
-      "notable": false,
-      "precedence": "ROUTINE",
-      "signals": [
-        "has media"
-      ]
-    },
-    {
-      "id": "dd4a6feb2061",
-      "title": "📹 VIDEO SITREP 2026-07-27 23:00 UTC [A1] UAP report (McMinnville) https://www. youtube.com/watch?v=7OT6uJ0yzVY…",
-      "summary": "📹 VIDEO SITREP 2026-07-27 23:00 UTC [A1] UAP report (McMinnville) https://www. youtube.com/watch?v=7OT6uJ0yzVY https:// n4hy.github.io/sciencebobnews- site # UAP # UFO # USO Powered by Science Bob News",
-      "url": "https://mastodon.social/@ScienceBob/116994422293403277",
-      "date": "2026-07-27T23:00:11.270Z",
-      "source": "Mastodon · @ScienceBob",
-      "sourceType": "social",
-      "notable": false,
-      "precedence": "ROUTINE",
-      "signals": [
-        "has media"
-      ]
-    },
-    {
       "id": "548502e89522",
       "title": "The Phoenix Lights UFO event and Heaven's Gate mass exit, are they related?",
       "summary": "<!-- SC_OFF --><div class=\"md\"><p>I was one of the witnesses closest to the 8:40 PM sighting of the fly over Phoenix March 13, 1997. It was illuminated by two light sources and I could clearly see the bottom of the solid piece of machinery. It muted the sound of my truck motor while it flew over…",
@@ -495,20 +582,6 @@
       "notable": false,
       "precedence": "ROUTINE",
       "signals": []
-    },
-    {
-      "id": "511ba83796ea",
-      "title": "📹 VIDEO SITREP 2026-07-27 22:00 UTC [A1] UAP report (Early) https://www. youtube.com/watch?v=IyTeV6kko5A https://…",
-      "summary": "📹 VIDEO SITREP 2026-07-27 22:00 UTC [A1] UAP report (Early) https://www. youtube.com/watch?v=IyTeV6kko5A https:// n4hy.github.io/sciencebobnews- site # UAP # UFO # USO Powered by Science Bob News",
-      "url": "https://mastodon.social/@ScienceBob/116994186313316160",
-      "date": "2026-07-27T22:00:10.502Z",
-      "source": "Mastodon · @ScienceBob",
-      "sourceType": "social",
-      "notable": false,
-      "precedence": "ROUTINE",
-      "signals": [
-        "has media"
-      ]
     },
     {
       "id": "ba92449118d7",
@@ -522,32 +595,6 @@
       "precedence": "PRIORITY",
       "signals": [
         "government"
-      ]
-    },
-    {
-      "id": "fe5d633d7047",
-      "title": "🛸 SITREP 2026-07-27 21:10 UTC 1 corroborated UAP events. Top: [A1] UAP report https:// n4hy.github.io/sciencebobnews-…",
-      "summary": "🛸 SITREP 2026-07-27 21:10 UTC 1 corroborated UAP events. Top: [A1] UAP report https:// n4hy.github.io/sciencebobnews- site # UAP # UFO # USO Powered by Science Bob News",
-      "url": "https://mastodon.social/@ScienceBob/116993990156873941",
-      "date": "2026-07-27T21:10:17.390Z",
-      "source": "Mastodon · @ScienceBob",
-      "sourceType": "social",
-      "notable": false,
-      "precedence": "ROUTINE",
-      "signals": []
-    },
-    {
-      "id": "4a9ae44291a0",
-      "title": "📹 VIDEO SITREP 2026-07-27 21:00 UTC [A1] Official UAP statement reported (Austin) https://www.…",
-      "summary": "📹 VIDEO SITREP 2026-07-27 21:00 UTC [A1] Official UAP statement reported (Austin) https://www. youtube.com/watch?v=U04unJVpz8s https:// n4hy.github.io/sciencebobnews- site # UAP # UFO # USO Powered by Science Bob News",
-      "url": "https://mastodon.social/@ScienceBob/116993950409750517",
-      "date": "2026-07-27T21:00:10.946Z",
-      "source": "Mastodon · @ScienceBob",
-      "sourceType": "social",
-      "notable": false,
-      "precedence": "ROUTINE",
-      "signals": [
-        "has media"
       ]
     },
     {
@@ -697,13 +744,13 @@
       "signals": []
     },
     {
-      "id": "2d5fa53786b6",
-      "title": "U of Arizona at Tucson Connections Part 4: Eric Davis Reveals in His New CITD Presentation That He's Friends With Paul Davis, author of Are We Alone? That Hillary Clinton Was Spotted Carrying",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/UFOs/comments/1v7t2q9/u_of_arizona_at_tucson_connections_part_4_eric/\"> <img…",
-      "url": "https://www.reddit.com/r/UFOs/comments/1v7t2q9/u_of_arizona_at_tucson_connections_part_4_eric/",
-      "date": "2026-07-27T07:11:13.000Z",
-      "source": "Reddit · r/UFOs",
-      "sourceType": "social",
+      "id": "6dcebd4e36d5",
+      "title": "Long-hidden UFO information at center of Trump push to free former officials",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxQbG4yV05LX09Yb1l3U1h4bm9uUjlLSkxjZEpmRXU5N2xiNjYzR1dod0lqNF9pQWlYV1VmSGVrU3VENzFhbzZFYnBrRjdVT3FXdUxhMXd1d2s1RXNXVkptdDAxbXV5ODg3M0RHNFlPakNkU09UdGJPZGYzX2xyVlhQM01oX0E?oc=5\" target=\"_blank\">Long-hidden UFO information at center of Trump…",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQbG4yV05LX09Yb1l3U1h4bm9uUjlLSkxjZEpmRXU5N2xiNjYzR1dod0lqNF9pQWlYV1VmSGVrU3VENzFhbzZFYnBrRjdVT3FXdUxhMXd1d2s1RXNXVkptdDAxbXV5ODg3M0RHNFlPakNkU09UdGJPZGYzX2xyVlhQM01oX0E?oc=5",
+      "date": "2026-07-27T08:23:12.000Z",
+      "source": "AOL.com",
+      "sourceType": "news",
       "notable": false,
       "precedence": "ROUTINE",
       "signals": []
@@ -715,30 +762,6 @@
       "url": "https://social.2ndshot.photos/display/ed754d0d-636a-66d1-e694-90a088499151",
       "date": "2026-07-27T03:35:02.000Z",
       "source": "Mastodon · @pasjrwoctx",
-      "sourceType": "social",
-      "notable": false,
-      "precedence": "ROUTINE",
-      "signals": []
-    },
-    {
-      "id": "6804119a94a5",
-      "title": "Small white light moved extremely fast in straight line east to west over Oxfordshire — Jul 26, 2026, 10:00 PM",
-      "summary": "<!-- SC_OFF --><div class=\"md\"><p><strong>Reported by <a href=\"/u/Imtooflyforawhiteguy\">u/Imtooflyforawhiteguy</a></strong> (verified via ufosighting.report)</p> <p><em>This is an automated post.</em> The report was filed through the structured sighting form on <a…",
-      "url": "https://www.reddit.com/r/UFOs/comments/1v7jcn2/small_white_light_moved_extremely_fast_in/",
-      "date": "2026-07-26T23:15:29.000Z",
-      "source": "Reddit · r/UFOs",
-      "sourceType": "social",
-      "notable": false,
-      "precedence": "ROUTINE",
-      "signals": []
-    },
-    {
-      "id": "31762bda3ff1",
-      "title": "Gosford (NSW, Australia), 1995 - a compelling mass UFO sighting",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/UFOs/comments/1v7id6m/gosford_nsw_australia_1995_a_compelling_mass_ufo/\"> <img…",
-      "url": "https://www.reddit.com/r/UFOs/comments/1v7id6m/gosford_nsw_australia_1995_a_compelling_mass_ufo/",
-      "date": "2026-07-26T22:34:30.000Z",
-      "source": "Reddit · r/UFOs",
       "sourceType": "social",
       "notable": false,
       "precedence": "ROUTINE",
@@ -780,18 +803,6 @@
       "date": "2026-07-26T14:00:18.000Z",
       "source": "Mastodon · @nyt_science",
       "sourceType": "social",
-      "notable": false,
-      "precedence": "ROUTINE",
-      "signals": []
-    },
-    {
-      "id": "e568ce93e3c9",
-      "title": "Dr. Phil claims Trump recruited him to review UFO files and found government cover-up",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE0xcHItbVVhTXlSVldDUWN4bk9mY25tQ2pfcFpvak05akVFZFhsaGU2WG5oUElKVmZKSFZ1VmUtaWlSSExxbGRtR3NyYjhUbDBTNFIyZ0g4NGh6bGVLLW1OYWlRZnRuZ052SzRhQ1ZkVFIwRUlJalVsYVBRS2taT2M?oc=5\" target=\"_blank\">Dr. Phil claims Trump recruited him to review UFO…",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE0xcHItbVVhTXlSVldDUWN4bk9mY25tQ2pfcFpvak05akVFZFhsaGU2WG5oUElKVmZKSFZ1VmUtaWlSSExxbGRtR3NyYjhUbDBTNFIyZ0g4NGh6bGVLLW1OYWlRZnRuZ052SzRhQ1ZkVFIwRUlJalVsYVBRS2taT2M?oc=5",
-      "date": "2026-07-26T11:34:37.000Z",
-      "source": "AOL.com",
-      "sourceType": "news",
       "notable": false,
       "precedence": "ROUTINE",
       "signals": []
@@ -1078,18 +1089,6 @@
       "signals": [
         "government"
       ]
-    },
-    {
-      "id": "d5d817969094",
-      "title": "More YGBFKM posts about the 4th UAP drop from war.gov/ufo this week. Today: In 1949, the scientists who built the…",
-      "summary": "More YGBFKM posts about the 4th UAP drop from war.gov/ufo this week. Today: In 1949, the scientists who built the atomic bomb held a secret meeting about unexplained green lights flying over their facility. They ran the calculations. They left without an answer. https://www.…",
-      "url": "https://hachyderm.io/@pragmaticmarg/116930216643983316",
-      "date": "2026-07-16T14:51:50.000Z",
-      "source": "Mastodon · @pragmaticmarg",
-      "sourceType": "social",
-      "notable": false,
-      "precedence": "ROUTINE",
-      "signals": []
     },
     {
       "id": "ed9e86461d09",
