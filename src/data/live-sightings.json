@@ -1,9 +1,85 @@
 {
-  "updated": "2026-07-29T11:35:13.779Z",
+  "updated": "2026-07-29T14:33:17.623Z",
   "count": 90,
-  "notable": 15,
+  "notable": 17,
   "enriched": false,
   "items": [
+    {
+      "id": "9b215c56073a",
+      "title": "Sharing my UFO book collection, most signed.",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/UFOs/comments/1v9xnly/sharing_my_ufo_book_collection_most_signed/\"> <img src=\"https://preview.redd.it/do23pp4hh6gh1.jpg?width=140&amp;height=140&amp;crop=1:1,smart&amp;auto=webp&amp;s=c0a2711c6958d00e14bd29e88c3dc9bc6ca8264c\" alt=\"Sharing my UFO…",
+      "url": "https://www.reddit.com/r/UFOs/comments/1v9xnly/sharing_my_ufo_book_collection_most_signed/",
+      "date": "2026-07-29T14:22:47.000Z",
+      "source": "Reddit · r/UFOs",
+      "sourceType": "social",
+      "notable": false,
+      "precedence": "ROUTINE",
+      "signals": []
+    },
+    {
+      "id": "4f2a7ed990cf",
+      "title": "Latest: UFO Findings You Were Never Told About http:// dlvr.it/TTm6B2 # UFO # UFONews # ufodisclosure",
+      "summary": "Latest: UFO Findings You Were Never Told About http:// dlvr.it/TTm6B2 # UFO # UFONews # ufodisclosure",
+      "url": "https://mastodon.au/@vibewire/117003676271699372",
+      "date": "2026-07-29T14:13:35.000Z",
+      "source": "Mastodon · @vibewire",
+      "sourceType": "social",
+      "notable": false,
+      "precedence": "ROUTINE",
+      "signals": []
+    },
+    {
+      "id": "fac9f85b370b",
+      "title": "Are Mantid Aliens The Apex Non-Human Intelligence? http:// dlvr.it/TTm3dv # UFO # UFONews # ufodisclosure",
+      "summary": "Are Mantid Aliens The Apex Non-Human Intelligence? http:// dlvr.it/TTm3dv # UFO # UFONews # ufodisclosure",
+      "url": "https://mastodon.au/@vibewire/117003453591784081",
+      "date": "2026-07-29T13:16:57.000Z",
+      "source": "Mastodon · @vibewire",
+      "sourceType": "social",
+      "notable": false,
+      "precedence": "ROUTINE",
+      "signals": []
+    },
+    {
+      "id": "dd57c4cb2345",
+      "title": "A Whistleblower Saw a Massive Hole in the Ice…Then the NSA Called! | Brad Olsen http:// dlvr.it/TTm3dr # UFO # UFONews…",
+      "summary": "A Whistleblower Saw a Massive Hole in the Ice…Then the NSA Called! | Brad Olsen http:// dlvr.it/TTm3dr # UFO # UFONews # ufodisclosure",
+      "url": "https://mastodon.au/@vibewire/117003453491003914",
+      "date": "2026-07-29T13:16:56.000Z",
+      "source": "Mastodon · @vibewire",
+      "sourceType": "social",
+      "notable": false,
+      "precedence": "ROUTINE",
+      "signals": []
+    },
+    {
+      "id": "947118d296bf",
+      "title": "Alien Missile Found on Mars? UFO Researchers Claim NASA Rover Image Uncovers Extraterrestrial War",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiekFVX3lxTE5uX1p0MlJpOW5lZXRJQm40bW5zcDZWTmVXa1l6dkRxMFdvWC1kZTFEaGExRzRrT3dSSDlLZExWU2tNTmI2cEFFSG9hdEhGRzFvQV9mUlJlUHE0YmRGSHdUU1VVci02VDU4dkMwellqaldzMEE2WU1yZjVB?oc=5\" target=\"_blank\">Alien Missile Found on Mars? UFO Researchers Claim NASA Rover…",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5uX1p0MlJpOW5lZXRJQm40bW5zcDZWTmVXa1l6dkRxMFdvWC1kZTFEaGExRzRrT3dSSDlLZExWU2tNTmI2cEFFSG9hdEhGRzFvQV9mUlJlUHE0YmRGSHdUU1VVci02VDU4dkMwellqaldzMEE2WU1yZjVB?oc=5",
+      "date": "2026-07-29T12:53:35.000Z",
+      "source": "International Business Times UK",
+      "sourceType": "news",
+      "notable": true,
+      "precedence": "PRIORITY",
+      "signals": [
+        "military/agency"
+      ]
+    },
+    {
+      "id": "771b9348a6d4",
+      "title": "Defense intelligence scientist Dr. Eric Davis on the use of Eisenhower era Presidential Emergency Action Directives (PEADs) as mechanisms for UFO secrecy: “No PEAD has ever been declassified or leaked since inception […] and they’ve never been disclosed to Congress.”",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/UFOs/comments/1v9tn7t/defense_intelligence_scientist_dr_eric_davis_on/\"> <img…",
+      "url": "https://www.reddit.com/r/UFOs/comments/1v9tn7t/defense_intelligence_scientist_dr_eric_davis_on/",
+      "date": "2026-07-29T11:37:14.000Z",
+      "source": "Reddit · r/UFOs",
+      "sourceType": "social",
+      "notable": true,
+      "precedence": "PRIORITY",
+      "signals": [
+        "government"
+      ]
+    },
     {
       "id": "c02deef3a648",
       "title": "Sci-fi Flying Props 3D Animated # Butterfly # Neon # Ufo # Cyber # Scifi # Shader # Abstract # Animated # Cyberpunk #…",
@@ -188,18 +264,6 @@
       "signals": []
     },
     {
-      "id": "e568ce93e3c9",
-      "title": "Dr. Phil claims Trump recruited him to review UFO files and found government cover-up",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE0xcHItbVVhTXlSVldDUWN4bk9mY25tQ2pfcFpvak05akVFZFhsaGU2WG5oUElKVmZKSFZ1VmUtaWlSSExxbGRtR3NyYjhUbDBTNFIyZ0g4NGh6bGVLLW1OYWlRZnRuZ052SzRhQ1ZkVFIwRUlJalVsYVBRS2taT2M?oc=5\" target=\"_blank\">Dr. Phil claims Trump recruited him to review UFO…",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE0xcHItbVVhTXlSVldDUWN4bk9mY25tQ2pfcFpvak05akVFZFhsaGU2WG5oUElKVmZKSFZ1VmUtaWlSSExxbGRtR3NyYjhUbDBTNFIyZ0g4NGh6bGVLLW1OYWlRZnRuZ052SzRhQ1ZkVFIwRUlJalVsYVBRS2taT2M?oc=5",
-      "date": "2026-07-28T20:28:20.000Z",
-      "source": "AOL.com",
-      "sourceType": "news",
-      "notable": false,
-      "precedence": "ROUTINE",
-      "signals": []
-    },
-    {
       "id": "092645c97cba",
       "title": "New sighting submission process and community tool",
       "summary": "<!-- SC_OFF --><div class=\"md\"><p>Hey <a href=\"/r/UFOs\">/r/UFOs</a>,</p> <p>Thank you to everyone who's been participating in our <a href=\"https://old.reddit.com/r/UFOs/comments/1ul2rnn/how_can_we_improve_the_subreddit_indepth/\">community feedback thread</a>. We've been reading through all of the…",
@@ -276,42 +340,6 @@
       "signals": []
     },
     {
-      "id": "409f8b7a24f3",
-      "title": "A Railroad-Shaped UFO Dove Straight Into Skinwalker Ridge Like It Was a Door | George Knapp http:// dlvr.it/TTlHl3 #…",
-      "summary": "A Railroad-Shaped UFO Dove Straight Into Skinwalker Ridge Like It Was a Door | George Knapp http:// dlvr.it/TTlHl3 # UFO # UFONews # ufodisclosure",
-      "url": "https://mastodon.au/@vibewire/116998271460525963",
-      "date": "2026-07-28T15:19:04.000Z",
-      "source": "Mastodon · @vibewire",
-      "sourceType": "social",
-      "notable": false,
-      "precedence": "ROUTINE",
-      "signals": []
-    },
-    {
-      "id": "3dd1cc86e5b2",
-      "title": "Alliance update: Will the Deep State go out With a Bang As They try Initiating a Global Scare Event? http://…",
-      "summary": "Alliance update: Will the Deep State go out With a Bang As They try Initiating a Global Scare Event? http:// dlvr.it/TTlHkB # UFO # UFONews # ufodisclosure",
-      "url": "https://mastodon.au/@vibewire/116998271384200480",
-      "date": "2026-07-28T15:19:03.000Z",
-      "source": "Mastodon · @vibewire",
-      "sourceType": "social",
-      "notable": false,
-      "precedence": "ROUTINE",
-      "signals": []
-    },
-    {
-      "id": "90e745d67f53",
-      "title": "Visiting the Ant king http:// dlvr.it/TTlBSV # UFO # UFONews # ufodisclosure",
-      "summary": "Visiting the Ant king http:// dlvr.it/TTlBSV # UFO # UFONews # ufodisclosure",
-      "url": "https://mastodon.au/@vibewire/116997822587759426",
-      "date": "2026-07-28T13:24:55.000Z",
-      "source": "Mastodon · @vibewire",
-      "sourceType": "social",
-      "notable": false,
-      "precedence": "ROUTINE",
-      "signals": []
-    },
-    {
       "id": "4a0939e48ec7",
       "title": "'Little Punk With a Man Bun': US Congressman Claims Bureaucrat Blocked Prez from UFO Secrets",
       "summary": "<a…",
@@ -369,18 +397,6 @@
       "date": "2026-07-28T10:11:20.000Z",
       "source": "Mastodon · @listeners",
       "sourceType": "social",
-      "notable": false,
-      "precedence": "ROUTINE",
-      "signals": []
-    },
-    {
-      "id": "53048adeeae5",
-      "title": "Shielding UAP files from the public is ‘patronizing’: Dr. Phil",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxQZVdJbmdxUnBRSDFhWGs3dThLRDRxTU1PZV9TeFVHSHA3ZzVPVTJlU0tBRDFoTGpuWEZ0V0lvcDNqYzhMWUJvbm9HcEloX095NlRtbFNkZkFVSXlZV2RpSElhODdqMWpOY2JMdFBDcDVVSTNONXQ2RWxGdzIyakcyeEdfcWJkeTEw?oc=5\" target=\"_blank\">Shielding UAP files from the public is…",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQZVdJbmdxUnBRSDFhWGs3dThLRDRxTU1PZV9TeFVHSHA3ZzVPVTJlU0tBRDFoTGpuWEZ0V0lvcDNqYzhMWUJvbm9HcEloX095NlRtbFNkZkFVSXlZV2RpSElhODdqMWpOY2JMdFBDcDVVSTNONXQ2RWxGdzIyakcyeEdfcWJkeTEw?oc=5",
-      "date": "2026-07-28T10:03:29.000Z",
-      "source": "AOL.ca",
-      "sourceType": "news",
       "notable": false,
       "precedence": "ROUTINE",
       "signals": []
@@ -672,30 +688,6 @@
       "url": "https://mastodon.online/@KilleansRow/116992126816698625",
       "date": "2026-07-27T13:16:25.000Z",
       "source": "Mastodon · @KilleansRow",
-      "sourceType": "social",
-      "notable": false,
-      "precedence": "ROUTINE",
-      "signals": []
-    },
-    {
-      "id": "2ddc0ea91b04",
-      "title": "I have always found the Jackie Gleason and Nixon intriguing...",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/UFOs/comments/1v7zhwr/i_have_always_found_the_jackie_gleason_and_nixon/\"> <img…",
-      "url": "https://www.reddit.com/r/UFOs/comments/1v7zhwr/i_have_always_found_the_jackie_gleason_and_nixon/",
-      "date": "2026-07-27T12:51:00.000Z",
-      "source": "Reddit · r/UFOs",
-      "sourceType": "social",
-      "notable": false,
-      "precedence": "ROUTINE",
-      "signals": []
-    },
-    {
-      "id": "94daf88d90dc",
-      "title": "UFO in my village in Croatia",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/UFOs/comments/1v7yjup/ufo_in_my_village_in_croatia/\"> <img…",
-      "url": "https://www.reddit.com/r/UFOs/comments/1v7yjup/ufo_in_my_village_in_croatia/",
-      "date": "2026-07-27T12:09:43.000Z",
-      "source": "Reddit · r/UFOs",
       "sourceType": "social",
       "notable": false,
       "precedence": "ROUTINE",
@@ -1146,6 +1138,18 @@
       "signals": [
         "military/agency"
       ]
+    },
+    {
+      "id": "42b32ae99002",
+      "title": "# TrumpRegime # transparency # UFOs # Epstein # populism \"No serious transparency advocate argues for the government…",
+      "summary": "# TrumpRegime # transparency # UFOs # Epstein # populism \"No serious transparency advocate argues for the government to post the nuclear codes on nukes dot gov. But the transparency maximalist dogma raises public expectations to a level at which they can never be responsibly met. Every omission,…",
+      "url": "https://kolektiva.social/@LevZadov/116863556262707714",
+      "date": "2026-07-04T20:19:14.000Z",
+      "source": "Mastodon · @LevZadov",
+      "sourceType": "social",
+      "notable": false,
+      "precedence": "ROUTINE",
+      "signals": []
     }
   ]
 }
