@@ -1,9 +1,57 @@
 {
-  "updated": "2026-07-29T16:39:39.871Z",
+  "updated": "2026-07-29T19:46:42.065Z",
   "count": 90,
-  "notable": 15,
+  "notable": 14,
   "enriched": false,
   "items": [
+    {
+      "id": "d526013ba25c",
+      "title": "👽🛸🖕 Mehr gibt es auf 👉 www.mosescartoons.de Danke für ein Käffchen ☕ paypal.me/mosescartoons # mosescartoons #…",
+      "summary": "👽🛸🖕 Mehr gibt es auf 👉 www.mosescartoons.de Danke für ein Käffchen ☕ paypal.me/mosescartoons # mosescartoons # klassiker # cartoon # alien # UFO",
+      "url": "https://mastodon.social/@mosescartoons/117004895529144869",
+      "date": "2026-07-29T19:23:40.165Z",
+      "source": "Mastodon · @mosescartoons",
+      "sourceType": "social",
+      "notable": false,
+      "precedence": "ROUTINE",
+      "signals": []
+    },
+    {
+      "id": "119e96a3d35d",
+      "title": "Mystery deepens at Utah paranormal hotspot as buried 'UFO' clues emerge",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/UFOs/comments/1va66jo/mystery_deepens_at_utah_paranormal_hotspot_as/\"> <img…",
+      "url": "https://www.reddit.com/r/UFOs/comments/1va66jo/mystery_deepens_at_utah_paranormal_hotspot_as/",
+      "date": "2026-07-29T19:22:16.000Z",
+      "source": "Reddit · r/UFOs",
+      "sourceType": "social",
+      "notable": false,
+      "precedence": "ROUTINE",
+      "signals": []
+    },
+    {
+      "id": "faeb74535f6b",
+      "title": "UFO files released, more planned from Trump admin",
+      "summary": "<a…",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPZ194OWdRZjdrRUE2TTBoQVN1YlBzODFmUXlHcnJ6MUIwM095eDdlRmtqMENjUkxuVDJicXkweGVleGJoSXRTNHZPRmZlYXNjRFZtTnpoQWdfV3lmLVFzeFNQamlKbk9LSVF5LWMzanFFQkFjS3VJWWhmX3Q4aW9saEd5SVUxTm9fLUlGYXJfQUdhZ2tycVFQMUR3UXdiR2NnNkNaQ2xmWjV1aUU3eDFMQVJCTWN2UU9TSFVlWkZWWUVZWTBUdUFJdjM5SmRfcERVNXln?oc=5",
+      "date": "2026-07-29T19:22:02.000Z",
+      "source": "Claremore Daily Progress",
+      "sourceType": "news",
+      "notable": false,
+      "precedence": "ROUTINE",
+      "signals": []
+    },
+    {
+      "id": "da22ecfe39bc",
+      "title": "Lue Elizondo setting the record straight 7/29/26",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/UFOs/comments/1va5gcy/lue_elizondo_setting_the_record_straight_72926/\"> <img…",
+      "url": "https://www.reddit.com/r/UFOs/comments/1va5gcy/lue_elizondo_setting_the_record_straight_72926/",
+      "date": "2026-07-29T18:57:01.000Z",
+      "source": "Reddit · r/UFOs",
+      "sourceType": "social",
+      "notable": false,
+      "precedence": "ROUTINE",
+      "signals": []
+    },
     {
       "id": "d60e905fe9bc",
       "title": "All About UFOs Coloring Book #adultcoloring #adultcoloringbook #coloring #coloringbook #coloredpencil #colorist…",
@@ -336,20 +384,6 @@
       "notable": false,
       "precedence": "ROUTINE",
       "signals": []
-    },
-    {
-      "id": "f24dc8bb411b",
-      "title": "UAPs And Non-Human Intelligence – Time For Disclosure http:// dlvr.it/TTlNZ1 # UFO # UFONews # ufodisclosure",
-      "summary": "UAPs And Non-Human Intelligence – Time For Disclosure http:// dlvr.it/TTlNZ1 # UFO # UFONews # ufodisclosure",
-      "url": "https://mastodon.au/@vibewire/116998719164105289",
-      "date": "2026-07-28T17:12:56.000Z",
-      "source": "Mastodon · @vibewire",
-      "sourceType": "social",
-      "notable": true,
-      "precedence": "PRIORITY",
-      "signals": [
-        "government"
-      ]
     },
     {
       "id": "a2c6cafeff04",
@@ -694,30 +728,6 @@
       "signals": []
     },
     {
-      "id": "99604381c109",
-      "title": "Astrophysicist and UAP Legacy Program insider Eric Davis’s slide deck from Contact in the Desert June 2026",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/UFOs/comments/1v86943/astrophysicist_and_uap_legacy_program_insider/\"> <img…",
-      "url": "https://www.reddit.com/r/UFOs/comments/1v86943/astrophysicist_and_uap_legacy_program_insider/",
-      "date": "2026-07-27T17:01:00.000Z",
-      "source": "Reddit · r/UFOs",
-      "sourceType": "social",
-      "notable": false,
-      "precedence": "ROUTINE",
-      "signals": []
-    },
-    {
-      "id": "0df3b370356a",
-      "title": "Two sightings in the sky on the same day, Israel. looking for explanations - Tel aviv & Jerusalem, July 24, 2026, 5:30 AM + Mid-day",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/UFOs/comments/1v82d3k/two_sightings_in_the_sky_on_the_same_day_israel/\"> <img…",
-      "url": "https://www.reddit.com/r/UFOs/comments/1v82d3k/two_sightings_in_the_sky_on_the_same_day_israel/",
-      "date": "2026-07-27T14:41:56.000Z",
-      "source": "Reddit · r/UFOs",
-      "sourceType": "social",
-      "notable": false,
-      "precedence": "ROUTINE",
-      "signals": []
-    },
-    {
       "id": "1f85a0a2282d",
       "title": "Notes on # UAP # Discussions : An interesting aside on the # OntologicalShock discussion is of course the personal…",
       "summary": "Notes on # UAP # Discussions : An interesting aside on the # OntologicalShock discussion is of course the personal evolution of panel members Burlison, Luna et al. No doubt the journey has changed and is changing them as human beings ;confrontation with the reality of # NHI comes with the job. #…",
@@ -748,18 +758,6 @@
       "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPR3lfel92aW9QalBja3FIdm5yS3YtNFlwaGcyWjcySzZxdkdoTFZNY0RtLVAtZnBHUXplc05YRU9aMl9fblhJOVZ2dGd6UVd5NUxhUjNLcmF1Mjd6N25adFplRExKdUpLVGs0amRCUm9uQ1VwOXdXT3lRTWZoMUR6ZmpGMWFtZTc2V3Fiem9pVEZycjMySmRnNENDOVRfWkZXMzNsVzFWalZFNzFBQlU3WlpyM3BXX1dBd0FSQXZJTVY?oc=5",
       "date": "2026-07-27T08:56:26.000Z",
       "source": "inkl",
-      "sourceType": "news",
-      "notable": false,
-      "precedence": "ROUTINE",
-      "signals": []
-    },
-    {
-      "id": "6dcebd4e36d5",
-      "title": "Long-hidden UFO information at center of Trump push to free former officials",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxQbG4yV05LX09Yb1l3U1h4bm9uUjlLSkxjZEpmRXU5N2xiNjYzR1dod0lqNF9pQWlYV1VmSGVrU3VENzFhbzZFYnBrRjdVT3FXdUxhMXd1d2s1RXNXVkptdDAxbXV5ODg3M0RHNFlPakNkU09UdGJPZGYzX2xyVlhQM01oX0E?oc=5\" target=\"_blank\">Long-hidden UFO information at center of Trump…",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQbG4yV05LX09Yb1l3U1h4bm9uUjlLSkxjZEpmRXU5N2xiNjYzR1dod0lqNF9pQWlYV1VmSGVrU3VENzFhbzZFYnBrRjdVT3FXdUxhMXd1d2s1RXNXVkptdDAxbXV5ODg3M0RHNFlPakNkU09UdGJPZGYzX2xyVlhQM01oX0E?oc=5",
-      "date": "2026-07-27T08:23:12.000Z",
-      "source": "AOL.com",
       "sourceType": "news",
       "notable": false,
       "precedence": "ROUTINE",
@@ -887,18 +885,6 @@
       "url": "https://ohai.social/@robchapman/116965625173107739",
       "date": "2026-07-22T20:56:42.000Z",
       "source": "Mastodon · @robchapman",
-      "sourceType": "social",
-      "notable": false,
-      "precedence": "ROUTINE",
-      "signals": []
-    },
-    {
-      "id": "c8dfea70959d",
-      "title": "#HENRY #CARLTON #CUMBERBATCH headlines-world.com?q=HENRY%20CA... #WONSAN #SUNCHON #UFO #INCIDENT…",
-      "summary": "#HENRY #CARLTON #CUMBERBATCH headlines-world.com?q=HENRY%20CA... #WONSAN #SUNCHON #UFO #INCIDENT www.perplexity.ai/search/new?q... #ESPHYR #SLOBODKINA headlines-world.com/search.html?... #ALBIGENSIAN #CRUSADE chatgpt.com?prompt=Tell+... allgraph.ro MultiSearch Tag Explorer",
-      "url": "https://fed.brid.gy/r/https://bsky.app/profile/did:plc:wjc3z3gtiq3oquai3hnz5rjz/post/3mrahyebytk2i",
-      "date": "2026-07-22T13:55:06.335Z",
-      "source": "Mastodon · @globalvisibility.bsky.social",
       "sourceType": "social",
       "notable": false,
       "precedence": "ROUTINE",
@@ -1144,6 +1130,18 @@
       "url": "https://pixelfed.com/p/Matthieu/980135046455633725",
       "date": "2026-07-07T15:46:45.000Z",
       "source": "Mastodon · @Matthieu",
+      "sourceType": "social",
+      "notable": false,
+      "precedence": "ROUTINE",
+      "signals": []
+    },
+    {
+      "id": "772ea89cd526",
+      "title": "UFO: Alderney UFO Incident, Channel Islands, United Kingdom, 2007 On April 23, 2007, experienced pilots witnessed…",
+      "summary": "UFO: Alderney UFO Incident, Channel Islands, United Kingdom, 2007 On April 23, 2007, experienced pilots witnessed massive UFOs over the Channel Islands. What they saw defied all explanation and remains one of aviation's greatest mysteries. # UFO # AlderneySighting # ChannelIslands #…",
+      "url": "https://mas.to/@AroundTheWorldIOD/116792141142863976",
+      "date": "2026-06-22T05:37:25.000Z",
+      "source": "Mastodon · @AroundTheWorldIOD",
       "sourceType": "social",
       "notable": false,
       "precedence": "ROUTINE",
