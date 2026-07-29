@@ -1,9 +1,59 @@
 {
-  "updated": "2026-07-29T14:33:17.623Z",
+  "updated": "2026-07-29T16:39:39.871Z",
   "count": 90,
-  "notable": 17,
+  "notable": 15,
   "enriched": false,
   "items": [
+    {
+      "id": "d60e905fe9bc",
+      "title": "All About UFOs Coloring Book #adultcoloring #adultcoloringbook #coloring #coloringbook #coloredpencil #colorist…",
+      "summary": "All About UFOs Coloring Book #adultcoloring #adultcoloringbook #coloring #coloringbook #coloredpencil #colorist #booksforkids #childrensbooks #KidBookAuthor #kidsbooks #kidlit #UFOs #UAPs www.amazon.com/gp/product/194...",
+      "url": "https://fed.brid.gy/r/https://bsky.app/profile/did:plc:qboml6pqgrceeoykk57n52jp/post/3mrse5jmn7q2h",
+      "date": "2026-07-29T16:34:19.963Z",
+      "source": "Mastodon · @inventingreality.bsky.social",
+      "sourceType": "social",
+      "notable": false,
+      "precedence": "ROUTINE",
+      "signals": []
+    },
+    {
+      "id": "5e93979bcc8e",
+      "title": "Breaking UFO News! New Skinny Bob Footage Is Breaking The Internet! http:// dlvr.it/TTmCF7 # UFO # UFONews #…",
+      "summary": "Breaking UFO News! New Skinny Bob Footage Is Breaking The Internet! http:// dlvr.it/TTmCF7 # UFO # UFONews # ufodisclosure",
+      "url": "https://mastodon.au/@vibewire/117004123655983431",
+      "date": "2026-07-29T16:07:22.000Z",
+      "source": "Mastodon · @vibewire",
+      "sourceType": "social",
+      "notable": false,
+      "precedence": "ROUTINE",
+      "signals": [
+        "has media"
+      ]
+    },
+    {
+      "id": "d0ff3e1fa924",
+      "title": "UAP Researcher: Lue Elizondo’s New Role is a ‘Controlled Narrative’ | Reality Check http:// dlvr.it/TTmCDJ # UFO #…",
+      "summary": "UAP Researcher: Lue Elizondo’s New Role is a ‘Controlled Narrative’ | Reality Check http:// dlvr.it/TTmCDJ # UFO # UFONews # ufodisclosure",
+      "url": "https://mastodon.au/@vibewire/117004123571147548",
+      "date": "2026-07-29T16:07:21.000Z",
+      "source": "Mastodon · @vibewire",
+      "sourceType": "social",
+      "notable": false,
+      "precedence": "ROUTINE",
+      "signals": []
+    },
+    {
+      "id": "0ca6efd003f9",
+      "title": "Proof that UFOs are a government conspiracy! The truth is out! # UFOs # GamingClips # MarioKartWorld",
+      "summary": "Proof that UFOs are a government conspiracy! The truth is out! # UFOs # GamingClips # MarioKartWorld",
+      "url": "https://donphan.social/@Hyphlosion/117004010358062974",
+      "date": "2026-07-29T15:38:33.000Z",
+      "source": "Mastodon · @Hyphlosion",
+      "sourceType": "social",
+      "notable": false,
+      "precedence": "ROUTINE",
+      "signals": []
+    },
     {
       "id": "9b215c56073a",
       "title": "Sharing my UFO book collection, most signed.",
@@ -302,38 +352,12 @@
       ]
     },
     {
-      "id": "e07edb9d1244",
-      "title": "“We Can’t Fight Them” – UAP Disclosure Day in the Middle East – Beyond The 1976 Tehran UFO Incident http://…",
-      "summary": "“We Can’t Fight Them” – UAP Disclosure Day in the Middle East – Beyond The 1976 Tehran UFO Incident http:// dlvr.it/TTlNXy # UFO # UFONews # ufodisclosure",
-      "url": "https://mastodon.au/@vibewire/116998718948591565",
-      "date": "2026-07-28T17:12:53.000Z",
-      "source": "Mastodon · @vibewire",
-      "sourceType": "social",
-      "notable": true,
-      "precedence": "PRIORITY",
-      "signals": [
-        "government"
-      ]
-    },
-    {
       "id": "a2c6cafeff04",
       "title": "The Canadian Official Who Tried to Build a UFO Detector",
       "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/UFOs/comments/1v91im3/the_canadian_official_who_tried_to_build_a_ufo/\"> <img…",
       "url": "https://www.reddit.com/r/UFOs/comments/1v91im3/the_canadian_official_who_tried_to_build_a_ufo/",
       "date": "2026-07-28T15:19:21.000Z",
       "source": "Reddit · r/UFOs",
-      "sourceType": "social",
-      "notable": false,
-      "precedence": "ROUTINE",
-      "signals": []
-    },
-    {
-      "id": "2e1d10275dc4",
-      "title": "It Already Happened And You Missed It http:// dlvr.it/TTlHl8 # UFO # UFONews # ufodisclosure",
-      "summary": "It Already Happened And You Missed It http:// dlvr.it/TTlHl8 # UFO # UFONews # ufodisclosure",
-      "url": "https://mastodon.au/@vibewire/116998271629632750",
-      "date": "2026-07-28T15:19:07.000Z",
-      "source": "Mastodon · @vibewire",
       "sourceType": "social",
       "notable": false,
       "precedence": "ROUTINE",
@@ -397,6 +421,18 @@
       "date": "2026-07-28T10:11:20.000Z",
       "source": "Mastodon · @listeners",
       "sourceType": "social",
+      "notable": false,
+      "precedence": "ROUTINE",
+      "signals": []
+    },
+    {
+      "id": "6133b438484b",
+      "title": "Presidential Unsealing and Reporting System for UAP Encounters (PURSUE) - U.S. Department of War (.gov)",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTE1SS2F0OEhxa0dwSFd1eFR6TzVpZGJtR1ppbmRyS1ZkaHA5c3BEcVBLc2tqSDVvZkpOeV9JUjVyVDRvcEtqbWVUQVppVkwtVlQ2NUtTNWdzTmp3amRQbnRJ?oc=5\" target=\"_blank\">Presidential Unsealing and Reporting System for UAP Encounters (PURSUE)</a>&nbsp;&nbsp;<font…",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1SS2F0OEhxa0dwSFd1eFR6TzVpZGJtR1ppbmRyS1ZkaHA5c3BEcVBLc2tqSDVvZkpOeV9JUjVyVDRvcEtqbWVUQVppVkwtVlQ2NUtTNWdzTmp3amRQbnRJ?oc=5",
+      "date": "2026-07-28T10:03:04.000Z",
+      "source": "U.S. Department of War (.gov)",
+      "sourceType": "news",
       "notable": false,
       "precedence": "ROUTINE",
       "signals": []
@@ -1108,44 +1144,6 @@
       "url": "https://pixelfed.com/p/Matthieu/980135046455633725",
       "date": "2026-07-07T15:46:45.000Z",
       "source": "Mastodon · @Matthieu",
-      "sourceType": "social",
-      "notable": false,
-      "precedence": "ROUTINE",
-      "signals": []
-    },
-    {
-      "id": "5de28938721c",
-      "title": "Do I believe in aliens? Yep. Have they visited earth? That's... possible, but I don't know if it's probable. https://…",
-      "summary": "Do I believe in aliens? Yep. Have they visited earth? That's... possible, but I don't know if it's probable. https:// meerkatmusings.co.uk/?p=1331 # UFOS",
-      "url": "https://ohai.social/@BenBerwick/116878370040025908",
-      "date": "2026-07-07T11:06:34.000Z",
-      "source": "Mastodon · @BenBerwick",
-      "sourceType": "social",
-      "notable": false,
-      "precedence": "ROUTINE",
-      "signals": []
-    },
-    {
-      "id": "a0bf914c64f9",
-      "title": "A ex-funcionária da NASA, Donna Hare, afirmou que a agência apagou imagens de UFOs de fotografias antes de torná-las…",
-      "summary": "A ex-funcionária da NASA, Donna Hare, afirmou que a agência apagou imagens de UFOs de fotografias antes de torná-las públicas. Suas declarações, feitas durante sua carreira entre 1967 e 1981, reacendem os debates sobre a transparência da NASA em relação a fenômenos anômalos. 🔗 https://…",
-      "url": "https://mastodon.social/@verdadeufo/116878257124138428",
-      "date": "2026-07-07T10:37:51.456Z",
-      "source": "Mastodon · @verdadeufo",
-      "sourceType": "social",
-      "notable": true,
-      "precedence": "PRIORITY",
-      "signals": [
-        "military/agency"
-      ]
-    },
-    {
-      "id": "42b32ae99002",
-      "title": "# TrumpRegime # transparency # UFOs # Epstein # populism \"No serious transparency advocate argues for the government…",
-      "summary": "# TrumpRegime # transparency # UFOs # Epstein # populism \"No serious transparency advocate argues for the government to post the nuclear codes on nukes dot gov. But the transparency maximalist dogma raises public expectations to a level at which they can never be responsibly met. Every omission,…",
-      "url": "https://kolektiva.social/@LevZadov/116863556262707714",
-      "date": "2026-07-04T20:19:14.000Z",
-      "source": "Mastodon · @LevZadov",
       "sourceType": "social",
       "notable": false,
       "precedence": "ROUTINE",
