@@ -49,7 +49,7 @@ If "unexplained objects swarming Hampton Roads" rings a bell, it should. In Dece
 
 The FBI, Defense Department officials and AARO staff held two weeks of meetings about it. The incursions showed no obvious hostile intent. The Pentagon only confirmed the episode publicly in October 2024, ten months later, and admitted it still did not know where the drones had come from. As far as the public record goes, it still doesn't.
 
-That's the context the new paragraph lands in: the same airspace, the same institutional shrug, a demonstrated inability to attribute a sustained incursion over a defended base. Whatever was off Virginia, the relevant precedent is not a 2004 gun-camera video. It's an unsolved case from two years ago in the same postcode.
+That's the context the new paragraph lands in: the same airspace, the same institutional shrug, a demonstrated inability to attribute a sustained incursion over a defended base. The reason that inability persists is less mysterious than it looks, and mostly [a question of which office is allowed to act](/articles/uap-military-base-incursions-authority-gap/). Whatever was off Virginia, the relevant precedent is not a 2004 gun-camera video. It's an unsolved case from two years ago in the same postcode.
 
 ##### The boring explanation that should worry you more
 

@@ -115,4 +115,4 @@ Hold two things at once and you have the honest version. First, something real h
 
 ---
 
-*Further reading: for Britain's best-documented case and the same lesson about how famous encounters grow in the retelling, see [Two Nights in Rendlesham Forest](/articles/rendlesham-forest-1980/); and for the instrument problem at the heart of every one of these stories, [why nobody has ever known how far away a UFO was](/articles/galileo-project-triangulation-distance-problem/).*
+*Further reading: for Britain's best-documented case and the same lesson about how famous encounters grow in the retelling, see [Two Nights in Rendlesham Forest](/articles/rendlesham-forest-1980/); for the instrument problem at the heart of every one of these stories, [why nobody has ever known how far away a UFO was](/articles/galileo-project-triangulation-distance-problem/); and for the Tic Tac's polar opposite — maximum testimony, minimum documentation — [the complete Bob Lazar evidence file](/articles/bob-lazar-credibility/).*

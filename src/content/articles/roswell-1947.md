@@ -62,4 +62,4 @@ That does not make everyone a liar. Memory is reconstructive, a genuinely secret
 
 ---
 
-*Further reading: for a case where the documents point the other way — toward something genuinely unexplained — see [The Tehran Dogfight](/articles/tehran-dogfight-1976/). Roswell's alleged craft was the archetypal [disc](/field-guide#type-disc); it's logged on the [sightings map](/map#case-roswell-1947).*
+*Further reading: for a case where the documents point the other way — toward something genuinely unexplained — see [The Tehran Dogfight](/articles/tehran-dogfight-1976/); and for the man whose 1989 testimony fused Roswell's crash-retrieval myth to a real Nevada base, [Bob Lazar's Credibility: The Complete Evidence File](/articles/bob-lazar-credibility/). Roswell's alleged craft was the archetypal [disc](/field-guide#type-disc); it's logged on the [sightings map](/map#case-roswell-1947).*
