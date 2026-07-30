@@ -1,9 +1,85 @@
 {
-  "updated": "2026-07-30T11:22:18.237Z",
+  "updated": "2026-07-30T14:34:48.286Z",
   "count": 90,
   "notable": 12,
   "enriched": false,
   "items": [
+    {
+      "id": "7d151593ae89",
+      "title": "Disclosure Foundation: \"A National Preparedness Framework for the Human Consequences of Disclosure\"",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/UFOs/comments/1vauak2/disclosure_foundation_a_national_preparedness/\"> <img…",
+      "url": "https://www.reddit.com/r/UFOs/comments/1vauak2/disclosure_foundation_a_national_preparedness/",
+      "date": "2026-07-30T13:53:13.000Z",
+      "source": "Reddit · r/UFOs",
+      "sourceType": "social",
+      "notable": true,
+      "precedence": "PRIORITY",
+      "signals": [
+        "government"
+      ]
+    },
+    {
+      "id": "4bfc9f038f10",
+      "title": "Observations and gossip from the latest UAP science conference",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/UFOs/comments/1vatoan/observations_and_gossip_from_the_latest_uap/\"> <img src=\"https://external-preview.redd.it/QPS9lRcWtglwmO1nkQoqzX78zguEIbCluMQp37C4Wxk.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=fe5b5cd3c0bc9d8a97cfe5b1cf698a04b46f9577\"…",
+      "url": "https://www.reddit.com/r/UFOs/comments/1vatoan/observations_and_gossip_from_the_latest_uap/",
+      "date": "2026-07-30T13:28:23.000Z",
+      "source": "Reddit · r/UFOs",
+      "sourceType": "social",
+      "notable": false,
+      "precedence": "ROUTINE",
+      "signals": []
+    },
+    {
+      "id": "044e95f79f07",
+      "title": "Two small spherical objects circled in opposite directions then shot apart over Caserta, Italy — Jul 29, 2026, 10:30 PM",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p><strong>Reported by <a href=\"/u/AdDefiant4960\">u/AdDefiant4960</a></strong> (self-reported via ufosighting.report)</p> <p><em>This is an automated post.</em> The report was filed through the structured sighting form on <a…",
+      "url": "https://www.reddit.com/r/UFOs/comments/1vat032/two_small_spherical_objects_circled_in_opposite/",
+      "date": "2026-07-30T13:00:35.000Z",
+      "source": "Reddit · r/UFOs",
+      "sourceType": "social",
+      "notable": false,
+      "precedence": "ROUTINE",
+      "signals": []
+    },
+    {
+      "id": "ba148807dbba",
+      "title": "I saw an unusual bright red object — Jul 29, 2026, 11:05 PM",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/UFOs/comments/1vasb1g/i_saw_an_unusual_bright_red_object_jul_29_2026/\"> <img src=\"https://preview.redd.it/ytesjgvd2dgh1.jpg?width=140&amp;height=105&amp;auto=webp&amp;s=ca7ca57ab59382a242793bc24236c687ce5075be\" alt=\"I saw an unusual bright red…",
+      "url": "https://www.reddit.com/r/UFOs/comments/1vasb1g/i_saw_an_unusual_bright_red_object_jul_29_2026/",
+      "date": "2026-07-30T12:30:41.000Z",
+      "source": "Reddit · r/UFOs",
+      "sourceType": "social",
+      "notable": false,
+      "precedence": "ROUTINE",
+      "signals": []
+    },
+    {
+      "id": "9eb6b9fd6f22",
+      "title": "Tictac with brief cloud contrail — Jul 29, 2026, 10:30 PM",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p><strong>Reported by <a href=\"/u/Thepwrfloz-\">u/Thepwrfloz-</a></strong> (verified via ufosighting.report)</p> <p><em>This is an automated post.</em> The report was filed through the structured sighting form on <a…",
+      "url": "https://www.reddit.com/r/UFOs/comments/1vasabp/tictac_with_brief_cloud_contrail_jul_29_2026_1030/",
+      "date": "2026-07-30T12:29:58.000Z",
+      "source": "Reddit · r/UFOs",
+      "sourceType": "social",
+      "notable": false,
+      "precedence": "ROUTINE",
+      "signals": [
+        "craft shape"
+      ]
+    },
+    {
+      "id": "dd2ac03c1ee5",
+      "title": "UFO Sighting in a Dead Galaxy!",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMickFVX3lxTE1IZUV6TUlIOWdHRXNzYkFpNHQ4d0JaUHIwSUQ5TDNwdV9ycEdLTGh4UVpDd2RZT3F0SGpocjhXeVd4aTFza3ZqY1J6WllXenc1aVlqcUVtcDZITk9oWU8zSlZtT1FsdnRBY25MNzB0WXJndw?oc=5\" target=\"_blank\">UFO Sighting in a Dead Galaxy!</a>&nbsp;&nbsp;<font…",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1IZUV6TUlIOWdHRXNzYkFpNHQ4d0JaUHIwSUQ5TDNwdV9ycEdLTGh4UVpDd2RZT3F0SGpocjhXeVd4aTFza3ZqY1J6WllXenc1aVlqcUVtcDZITk9oWU8zSlZtT1FsdnRBY25MNzB0WXJndw?oc=5",
+      "date": "2026-07-30T11:49:21.000Z",
+      "source": "astrobites.org",
+      "sourceType": "news",
+      "notable": false,
+      "precedence": "ROUTINE",
+      "signals": []
+    },
     {
       "id": "efc590fa773b",
       "title": "🛸 SITREP 2026-07-30 08:40 UTC 1 corroborated UAP events. Top: [A1] UAP report (Australia) https://…",
@@ -158,18 +234,6 @@
       "signals": []
     },
     {
-      "id": "e14d101fa2e2",
-      "title": "Strange rotating objects",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/UFOs/comments/1vacaz5/strange_rotating_objects/\"> <img src=\"https://external-preview.redd.it/c2c5bWJxZnQzOWdoMVG3znT9RiKx9LTJoIftFZaLXtquZ6M725FrP4v8MroZ.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=17018bfcf8f702df855578faa3d66d4c6ec9fb74\"…",
-      "url": "https://www.reddit.com/r/UFOs/comments/1vacaz5/strange_rotating_objects/",
-      "date": "2026-07-29T23:11:37.000Z",
-      "source": "Reddit · r/UFOs",
-      "sourceType": "social",
-      "notable": false,
-      "precedence": "ROUTINE",
-      "signals": []
-    },
-    {
       "id": "8356aeada720",
       "title": "📹 VIDEO SITREP 2026-07-29 23:00 UTC [A1] UAP report (Early) https://www. youtube.com/watch?v=IyTeV6kko5A https://…",
       "summary": "📹 VIDEO SITREP 2026-07-29 23:00 UTC [A1] UAP report (Early) https://www. youtube.com/watch?v=IyTeV6kko5A https:// n4hy.github.io/sciencebobnews- site # UAP # UFO # USO Powered by Science Bob News",
@@ -213,18 +277,6 @@
       "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/UFOs/comments/1vaaq15/former_bush_and_obama_official_christopher_mellon/\"> <img…",
       "url": "https://www.reddit.com/r/UFOs/comments/1vaaq15/former_bush_and_obama_official_christopher_mellon/",
       "date": "2026-07-29T22:08:17.000Z",
-      "source": "Reddit · r/UFOs",
-      "sourceType": "social",
-      "notable": false,
-      "precedence": "ROUTINE",
-      "signals": []
-    },
-    {
-      "id": "c91407d2228a",
-      "title": "Chris Ramsay Explains How Aliens Eat | Area 52 Interview with Jeremy Weeks",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/UFOs/comments/1vaan5s/chris_ramsay_explains_how_aliens_eat_area_52/\"> <img…",
-      "url": "https://www.reddit.com/r/UFOs/comments/1vaan5s/chris_ramsay_explains_how_aliens_eat_area_52/",
-      "date": "2026-07-29T22:05:15.000Z",
       "source": "Reddit · r/UFOs",
       "sourceType": "social",
       "notable": false,
@@ -289,7 +341,7 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxQaXVkWTFRS05hb2daUTJRM1h5NDZGaE9ETklwdGx3LU9VV1d4dUx5eU5jMXUxWFhLY2MwTjVpRlJRdkU3VU1DTFZTSkdjZFJBSE9RQ0E2VG84RjZkMUU5NXUxUUJRNEs1SzNpZFVSSlk1dU83ZG1YM1cyTlpMLV9Sc2dmZTdMalVSQmhIU1FwVQ?oc=5\" target=\"_blank\">Unearthed UFO Report From 1953…",
       "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQaXVkWTFRS05hb2daUTJRM1h5NDZGaE9ETklwdGx3LU9VV1d4dUx5eU5jMXUxWFhLY2MwTjVpRlJRdkU3VU1DTFZTSkdjZFJBSE9RQ0E2VG84RjZkMUU5NXUxUUJRNEs1SzNpZFVSSlk1dU83ZG1YM1cyTlpMLV9Sc2dmZTdMalVSQmhIU1FwVQ?oc=5",
       "date": "2026-07-29T20:59:21.000Z",
-      "source": "coasttocoastam.com",
+      "source": "Coast to Coast AM",
       "sourceType": "news",
       "notable": false,
       "precedence": "ROUTINE",
@@ -385,7 +437,7 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxNNlA1NmRJeDFIZkQxdnAwZ01mUHl3RFpFSi1DU3FZUG1ZUVd3cGtpT3NISVdLbGZwZjlCTk1aTXViTmV0VmlUbEZqNFd3YUI0TFdtUU9PeHI5RDRfWUlETTFlRks0cUI4Wk9PTzktWVgxeGVFZ2t4NlU1Y204NEw1TTIwN2hxXzc3QTNJWTVnaVdYbDBSTGsxak85Qmwwb2c3ckJJajd5VU5EbUNMR2c4?oc=5\"…",
       "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNNlA1NmRJeDFIZkQxdnAwZ01mUHl3RFpFSi1DU3FZUG1ZUVd3cGtpT3NISVdLbGZwZjlCTk1aTXViTmV0VmlUbEZqNFd3YUI0TFdtUU9PeHI5RDRfWUlETTFlRks0cUI4Wk9PTzktWVgxeGVFZ2t4NlU1Y204NEw1TTIwN2hxXzc3QTNJWTVnaVdYbDBSTGsxak85Qmwwb2c3ckJJajd5VU5EbUNMR2c4?oc=5",
       "date": "2026-07-29T18:44:00.000Z",
-      "source": "coasttocoastam.com",
+      "source": "Coast to Coast AM",
       "sourceType": "news",
       "notable": false,
       "precedence": "ROUTINE",
@@ -459,7 +511,7 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiekFVX3lxTE5uX1p0MlJpOW5lZXRJQm40bW5zcDZWTmVXa1l6dkRxMFdvWC1kZTFEaGExRzRrT3dSSDlLZExWU2tNTmI2cEFFSG9hdEhGRzFvQV9mUlJlUHE0YmRGSHdUU1VVci02VDU4dkMwellqaldzMEE2WU1yZjVB?oc=5\" target=\"_blank\">Alien Missile Found on Mars? UFO Researchers Claim NASA Rover…",
       "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5uX1p0MlJpOW5lZXRJQm40bW5zcDZWTmVXa1l6dkRxMFdvWC1kZTFEaGExRzRrT3dSSDlLZExWU2tNTmI2cEFFSG9hdEhGRzFvQV9mUlJlUHE0YmRGSHdUU1VVci02VDU4dkMwellqaldzMEE2WU1yZjVB?oc=5",
       "date": "2026-07-29T12:53:35.000Z",
-      "source": "ibtimes.co.uk",
+      "source": "International Business Times UK",
       "sourceType": "news",
       "notable": true,
       "precedence": "PRIORITY",
@@ -616,46 +668,8 @@
       "summary": "<a…",
       "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNdV9CYXRKMGxqMFlsTjdTdHM1Ty1BSzlFOXdfWWtvanIxM1ZPTjdPNWdoVXJEN2oyeHJmd2I3eGJvY254YkxhX2VoMkFmcEc5R1MzeU83amVNaHU2bVFSVG9qRThRdnp6WVBqU195Q2lzTUlWNEVEUTdWSThQbFpkdGZWZGwxd2NFelY5VG1MLWhITVljWU94YW5yRHA0cHF2MXN2c3FOZW5MZGVxRHBMb0JrX1h0dw?oc=5",
       "date": "2026-07-28T12:34:56.000Z",
-      "source": "inkl",
+      "source": "inkl.com",
       "sourceType": "news",
-      "notable": false,
-      "precedence": "ROUTINE",
-      "signals": []
-    },
-    {
-      "id": "d647298e2199",
-      "title": "Sedona UFOs (What are these)?",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/UFOs/comments/1v8x4z7/sedona_ufos_what_are_these/\"> <img src=\"https://external-preview.redd.it/bdKOBsnkSzmGuSgET9S4i7c_H7SLuSO2NL_drqiZnU4.jpeg?width=320&amp;crop=smart&amp;auto=webp&amp;s=7b96439010c9db1e9723c598c3d875906ab12417\" alt=\"Sedona UFOs…",
-      "url": "https://www.reddit.com/r/UFOs/comments/1v8x4z7/sedona_ufos_what_are_these/",
-      "date": "2026-07-28T12:31:52.000Z",
-      "source": "Reddit · r/UFOs",
-      "sourceType": "social",
-      "notable": false,
-      "precedence": "ROUTINE",
-      "signals": []
-    },
-    {
-      "id": "f05cc8ca14a3",
-      "title": "UFO whistleblower Matthew Brown on the UFO coverup: “I think the biggest shocks will come, if disclosure comes, from realizing what we have done to maintain the secrecy.”",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/UFOs/comments/1v8wi29/ufo_whistleblower_matthew_brown_on_the_ufo/\"> <img src=\"https://external-preview.redd.it/Xlb0gF5DWuq7VlTnjQQJi4UvBJYFiqN7JMlwbg2vcVA.jpeg?width=320&amp;crop=smart&amp;auto=webp&amp;s=26fe49714529043c73a3d0c00a896d537889c51c\"…",
-      "url": "https://www.reddit.com/r/UFOs/comments/1v8wi29/ufo_whistleblower_matthew_brown_on_the_ufo/",
-      "date": "2026-07-28T12:03:31.000Z",
-      "source": "Reddit · r/UFOs",
-      "sourceType": "social",
-      "notable": true,
-      "precedence": "PRIORITY",
-      "signals": [
-        "government"
-      ]
-    },
-    {
-      "id": "9c2b2c28db12",
-      "title": "Saw this Saturday 7/26/26 around 10pm in Mora Minnesota. Notice how the light rotates. What is this?",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/UFOs/comments/1v8w4xf/saw_this_saturday_72626_around_10pm_in_mora/\"> <img…",
-      "url": "https://www.reddit.com/r/UFOs/comments/1v8w4xf/saw_this_saturday_72626_around_10pm_in_mora/",
-      "date": "2026-07-28T11:47:42.000Z",
-      "source": "Reddit · r/UFOs",
-      "sourceType": "social",
       "notable": false,
       "precedence": "ROUTINE",
       "signals": []
@@ -673,30 +687,16 @@
       "signals": []
     },
     {
-      "id": "6133b438484b",
-      "title": "Presidential Unsealing and Reporting System for UAP Encounters (PURSUE) - U.S. Department of War (.gov)",
+      "id": "a7b13e2e3c7b",
+      "title": "Presidential Unsealing and Reporting System for UAP Encounters (PURSUE)",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTE1SS2F0OEhxa0dwSFd1eFR6TzVpZGJtR1ppbmRyS1ZkaHA5c3BEcVBLc2tqSDVvZkpOeV9JUjVyVDRvcEtqbWVUQVppVkwtVlQ2NUtTNWdzTmp3amRQbnRJ?oc=5\" target=\"_blank\">Presidential Unsealing and Reporting System for UAP Encounters (PURSUE)</a>&nbsp;&nbsp;<font…",
       "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1SS2F0OEhxa0dwSFd1eFR6TzVpZGJtR1ppbmRyS1ZkaHA5c3BEcVBLc2tqSDVvZkpOeV9JUjVyVDRvcEtqbWVUQVppVkwtVlQ2NUtTNWdzTmp3amRQbnRJ?oc=5",
       "date": "2026-07-28T10:03:04.000Z",
-      "source": "U.S. Department of War (.gov)",
+      "source": "war.gov",
       "sourceType": "news",
       "notable": false,
       "precedence": "ROUTINE",
       "signals": []
-    },
-    {
-      "id": "ae1243675402",
-      "title": "Sentient Light Orb activity is increasing DRASTICALLY. (Multiple Videos)",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/UFOs/comments/1v8ts61/sentient_light_orb_activity_is_increasing/\"> <img…",
-      "url": "https://www.reddit.com/r/UFOs/comments/1v8ts61/sentient_light_orb_activity_is_increasing/",
-      "date": "2026-07-28T09:57:19.000Z",
-      "source": "Reddit · r/UFOs",
-      "sourceType": "social",
-      "notable": false,
-      "precedence": "ROUTINE",
-      "signals": [
-        "craft shape"
-      ]
     },
     {
       "id": "a2bad3f29d0e",
