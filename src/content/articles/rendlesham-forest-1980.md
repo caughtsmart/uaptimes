@@ -93,7 +93,7 @@ We would gently file the binary-code download under "take with considerable salt
 
 ##### The UAP Times take
 
-Rendlesham is, without much competition, the best-documented UFO case in British history, and it earns a **credibility rating of 2** on our scale — well-witnessed and genuinely puzzling — rather than a 1, which we reserve for cases with hard sensor data we can actually inspect.
+Rendlesham is, without much competition, the best-documented UFO case in British history, and it earns a **Credible** rating — four out of five on our scale — well-witnessed and genuinely puzzling — rather than our top mark, which we reserve for cases with hard sensor data we can actually inspect.
 
 What is solid is remarkable: multiple trained military witnesses, a contemporaneous official memo, a real-time audio recording, and physical traces that were at least investigated. What is missing is equally telling: not a single clear photograph of a craft, physical evidence that comfortably fits rabbits and background radiation, and a coastal lighthouse doing exactly what the most dramatic light appeared to do. The honest position is the uncomfortable one — that something happened in those woods over three nights that frightened serious people, and that the most spectacular interpretation of it remains the least supported. Forty years of retelling has made the story bigger. It has not made it clearer.
 

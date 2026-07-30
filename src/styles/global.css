@@ -903,8 +903,8 @@ html.search-lock { overflow: hidden; }
 
 /* Inline article figures (multi-image articles) */
 .a-fig { margin: 1.9rem 0; }
-.a-fig img {
-  width: 100%; border-radius: 4px;
+.a-fig img, .a-fig video {
+  width: 100%; height: auto; display: block; border-radius: 4px;
   border: 1px solid var(--border-ink); box-shadow: var(--shadow);
 }
 .a-fig figcaption {

@@ -81,7 +81,7 @@ That is the shape of the Belgian Wave: heavy on official credibility and witness
 
 ##### The UAP Times take
 
-The Belgian Wave earns a **credibility rating of 2** — well-witnessed, officially investigated, genuinely unresolved — and it is a useful stress test for how you weigh evidence. If you rate cases by the seriousness of the response, Belgium is near the top: a NATO air force scrambled jets and published its data. If you rate them by hard, surviving proof, it is thinner than its reputation, and its signature photograph is a known hoax.
+The Belgian Wave earns a **Credible** rating — four out of five on our scale — well-witnessed, officially investigated, genuinely unresolved — and it is a useful stress test for how you weigh evidence. If you rate cases by the seriousness of the response, Belgium is near the top: a NATO air force scrambled jets and published its data. If you rate them by hard, surviving proof, it is thinner than its reputation, and its signature photograph is a known hoax.
 
 Our reading is that the Belgian Wave is real as a *phenomenon* — something genuinely drove tens of thousands of reports and an official investigation — while remaining completely unproven as a *craft*. The lasting lesson isn't about triangles at all. It's that the most convincing-looking piece of a case is often the first thing you should distrust, and that an honest "we don't know," from an air force willing to say it, is worth more than any photograph.
 

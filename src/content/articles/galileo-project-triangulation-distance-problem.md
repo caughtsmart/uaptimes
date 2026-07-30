@@ -94,7 +94,7 @@ Three tests, in ascending order of difficulty.
 
 ##### The UAP Times take
 
-We have rated this a 2. The claim here is not "aliens" and not even "something anomalous has been detected" — it is that a privately funded network of triangulating observatories now exists, that its prototype has published five months of data on half a million objects, and that its headline finding is a statistical upper limit rather than a discovery. All of that is on the public record, in numbered papers you can read. The 2 rather than a 1 reflects the parts still resting on the project's own account: the better-than-10% accuracy figure has been stated more often than it has been demonstrated in print.
+We have rated this **Credible** — four out of five. The claim here is not "aliens" and not even "something anomalous has been detected" — it is that a privately funded network of triangulating observatories now exists, that its prototype has published five months of data on half a million objects, and that its headline finding is a statistical upper limit rather than a discovery. All of that is on the public record, in numbered papers you can read. The four rather than our top mark reflects the parts still resting on the project's own account: the better-than-10% accuracy figure has been stated more often than it has been demonstrated in print.
 
 What strikes us is how thoroughly this inverts the usual shape of a UAP story. The normal article reports an extraordinary claim and then spends its length hedging. This one reports an unextraordinary finding — 144 smudges, most likely mundane, none claimed as anything — and the finding is more valuable than the claim would have been.
 
