@@ -1,9 +1,76 @@
 {
-  "updated": "2026-07-30T14:34:48.286Z",
+  "updated": "2026-07-30T16:51:26.091Z",
   "count": 90,
-  "notable": 12,
+  "notable": 13,
   "enriched": false,
   "items": [
+    {
+      "id": "20012429097e",
+      "title": "Skinny Bob’s Latest Footage Proves They’re Real http:// dlvr.it/TTn6Pr # UFO # UFONews # ufodisclosure",
+      "summary": "Skinny Bob’s Latest Footage Proves They’re Real http:// dlvr.it/TTn6Pr # UFO # UFONews # ufodisclosure",
+      "url": "https://mastodon.au/@vibewire/117009947025835875",
+      "date": "2026-07-30T16:48:19.000Z",
+      "source": "Mastodon · @vibewire",
+      "sourceType": "social",
+      "notable": false,
+      "precedence": "ROUTINE",
+      "signals": [
+        "has media"
+      ]
+    },
+    {
+      "id": "383d489054c3",
+      "title": "Latest Shocking UFO Truth Congress is Not Reading http:// dlvr.it/TTn6Pp # UFO # UFONews # ufodisclosure",
+      "summary": "Latest Shocking UFO Truth Congress is Not Reading http:// dlvr.it/TTn6Pp # UFO # UFONews # ufodisclosure",
+      "url": "https://mastodon.au/@vibewire/117009946952562636",
+      "date": "2026-07-30T16:48:18.000Z",
+      "source": "Mastodon · @vibewire",
+      "sourceType": "social",
+      "notable": true,
+      "precedence": "PRIORITY",
+      "signals": [
+        "government"
+      ]
+    },
+    {
+      "id": "6a4c3f976c87",
+      "title": "Twelve Alien Species… And One Dangerous Moment Coming! | Linda Moulton Howe http:// dlvr.it/TTn6Pm # UFO # UFONews #…",
+      "summary": "Twelve Alien Species… And One Dangerous Moment Coming! | Linda Moulton Howe http:// dlvr.it/TTn6Pm # UFO # UFONews # ufodisclosure",
+      "url": "https://mastodon.au/@vibewire/117009946880815221",
+      "date": "2026-07-30T16:48:17.000Z",
+      "source": "Mastodon · @vibewire",
+      "sourceType": "social",
+      "notable": false,
+      "precedence": "ROUTINE",
+      "signals": []
+    },
+    {
+      "id": "28cee92fcf41",
+      "title": "NASA’s Classified Report on Alien Life Was More Disturbing Than Anyone Expected http:// dlvr.it/TTn6PS # UFO # UFONews…",
+      "summary": "NASA’s Classified Report on Alien Life Was More Disturbing Than Anyone Expected http:// dlvr.it/TTn6PS # UFO # UFONews # ufodisclosure",
+      "url": "https://mastodon.au/@vibewire/117009946801495304",
+      "date": "2026-07-30T16:48:16.000Z",
+      "source": "Mastodon · @vibewire",
+      "sourceType": "social",
+      "notable": true,
+      "precedence": "FLASH",
+      "signals": [
+        "military/agency",
+        "government"
+      ]
+    },
+    {
+      "id": "860b1d83b835",
+      "title": "Several dim objects moved erratically and extremely fast across night sky over Winnipeg during thunderstorm — Jul 29, 2026, 11:13 PM",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/UFOs/comments/1vaximr/several_dim_objects_moved_erratically_and/\"> <img…",
+      "url": "https://www.reddit.com/r/UFOs/comments/1vaximr/several_dim_objects_moved_erratically_and/",
+      "date": "2026-07-30T15:52:55.000Z",
+      "source": "Reddit · r/UFOs",
+      "sourceType": "social",
+      "notable": false,
+      "precedence": "ROUTINE",
+      "signals": []
+    },
     {
       "id": "7d151593ae89",
       "title": "Disclosure Foundation: \"A National Preparedness Framework for the Human Consequences of Disclosure\"",
@@ -74,7 +141,7 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMickFVX3lxTE1IZUV6TUlIOWdHRXNzYkFpNHQ4d0JaUHIwSUQ5TDNwdV9ycEdLTGh4UVpDd2RZT3F0SGpocjhXeVd4aTFza3ZqY1J6WllXenc1aVlqcUVtcDZITk9oWU8zSlZtT1FsdnRBY25MNzB0WXJndw?oc=5\" target=\"_blank\">UFO Sighting in a Dead Galaxy!</a>&nbsp;&nbsp;<font…",
       "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1IZUV6TUlIOWdHRXNzYkFpNHQ4d0JaUHIwSUQ5TDNwdV9ycEdLTGh4UVpDd2RZT3F0SGpocjhXeVd4aTFza3ZqY1J6WllXenc1aVlqcUVtcDZITk9oWU8zSlZtT1FsdnRBY25MNzB0WXJndw?oc=5",
       "date": "2026-07-30T11:49:21.000Z",
-      "source": "astrobites.org",
+      "source": "Astrobites",
       "sourceType": "news",
       "notable": false,
       "precedence": "ROUTINE",
@@ -388,7 +455,7 @@
       "title": "👽🛸🖕 Mehr gibt es auf 👉 www.mosescartoons.de Danke für ein Käffchen ☕ paypal.me/mosescartoons # mosescartoons #…",
       "summary": "👽🛸🖕 Mehr gibt es auf 👉 www.mosescartoons.de Danke für ein Käffchen ☕ paypal.me/mosescartoons # mosescartoons # klassiker # cartoon # alien # UFO",
       "url": "https://mastodon.social/@mosescartoons/117004895529144869",
-      "date": "2026-07-29T19:23:40.165Z",
+      "date": "2026-07-29T19:23:40.000Z",
       "source": "Mastodon · @mosescartoons",
       "sourceType": "social",
       "notable": false,
@@ -454,20 +521,6 @@
       "notable": false,
       "precedence": "ROUTINE",
       "signals": []
-    },
-    {
-      "id": "5e93979bcc8e",
-      "title": "Breaking UFO News! New Skinny Bob Footage Is Breaking The Internet! http:// dlvr.it/TTmCF7 # UFO # UFONews #…",
-      "summary": "Breaking UFO News! New Skinny Bob Footage Is Breaking The Internet! http:// dlvr.it/TTmCF7 # UFO # UFONews # ufodisclosure",
-      "url": "https://mastodon.au/@vibewire/117004123655983431",
-      "date": "2026-07-29T16:07:22.000Z",
-      "source": "Mastodon · @vibewire",
-      "sourceType": "social",
-      "notable": false,
-      "precedence": "ROUTINE",
-      "signals": [
-        "has media"
-      ]
     },
     {
       "id": "0ca6efd003f9",
@@ -627,30 +680,6 @@
       "signals": []
     },
     {
-      "id": "092645c97cba",
-      "title": "New sighting submission process and community tool",
-      "summary": "<!-- SC_OFF --><div class=\"md\"><p>Hey <a href=\"/r/UFOs\">/r/UFOs</a>,</p> <p>Thank you to everyone who's been participating in our <a href=\"https://old.reddit.com/r/UFOs/comments/1ul2rnn/how_can_we_improve_the_subreddit_indepth/\">community feedback thread</a>. We've been reading through all of the…",
-      "url": "https://www.reddit.com/r/UFOs/comments/1v99xp3/new_sighting_submission_process_and_community_tool/",
-      "date": "2026-07-28T20:16:11.000Z",
-      "source": "Reddit · r/UFOs",
-      "sourceType": "social",
-      "notable": false,
-      "precedence": "ROUTINE",
-      "signals": []
-    },
-    {
-      "id": "a2c6cafeff04",
-      "title": "The Canadian Official Who Tried to Build a UFO Detector",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/UFOs/comments/1v91im3/the_canadian_official_who_tried_to_build_a_ufo/\"> <img…",
-      "url": "https://www.reddit.com/r/UFOs/comments/1v91im3/the_canadian_official_who_tried_to_build_a_ufo/",
-      "date": "2026-07-28T15:19:21.000Z",
-      "source": "Reddit · r/UFOs",
-      "sourceType": "social",
-      "notable": false,
-      "precedence": "ROUTINE",
-      "signals": []
-    },
-    {
       "id": "3f0b6862e0f5",
       "title": "UFOs: What are they and what are the most famous sightings?",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTE93U1JQeHpqVVg4ZDFlQ2Y4MUlVdi1EaE9LT29ySXBNcm95d0lBUnhibW9oNzNLZEpBaVBMVFJRaXVNbGVsXzRueF9lcnVpSGFYME5NelI3b0ZLMEE?oc=5\" target=\"_blank\">UFOs: What are they and what are the most famous sightings?</a>&nbsp;&nbsp;<font…",
@@ -668,7 +697,7 @@
       "summary": "<a…",
       "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNdV9CYXRKMGxqMFlsTjdTdHM1Ty1BSzlFOXdfWWtvanIxM1ZPTjdPNWdoVXJEN2oyeHJmd2I3eGJvY254YkxhX2VoMkFmcEc5R1MzeU83amVNaHU2bVFSVG9qRThRdnp6WVBqU195Q2lzTUlWNEVEUTdWSThQbFpkdGZWZGwxd2NFelY5VG1MLWhITVljWU94YW5yRHA0cHF2MXN2c3FOZW5MZGVxRHBMb0JrX1h0dw?oc=5",
       "date": "2026-07-28T12:34:56.000Z",
-      "source": "inkl.com",
+      "source": "inkl",
       "sourceType": "news",
       "notable": false,
       "precedence": "ROUTINE",
@@ -687,12 +716,12 @@
       "signals": []
     },
     {
-      "id": "a7b13e2e3c7b",
-      "title": "Presidential Unsealing and Reporting System for UAP Encounters (PURSUE)",
+      "id": "6133b438484b",
+      "title": "Presidential Unsealing and Reporting System for UAP Encounters (PURSUE) - U.S. Department of War (.gov)",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTE1SS2F0OEhxa0dwSFd1eFR6TzVpZGJtR1ppbmRyS1ZkaHA5c3BEcVBLc2tqSDVvZkpOeV9JUjVyVDRvcEtqbWVUQVppVkwtVlQ2NUtTNWdzTmp3amRQbnRJ?oc=5\" target=\"_blank\">Presidential Unsealing and Reporting System for UAP Encounters (PURSUE)</a>&nbsp;&nbsp;<font…",
       "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1SS2F0OEhxa0dwSFd1eFR6TzVpZGJtR1ppbmRyS1ZkaHA5c3BEcVBLc2tqSDVvZkpOeV9JUjVyVDRvcEtqbWVUQVppVkwtVlQ2NUtTNWdzTmp3amRQbnRJ?oc=5",
       "date": "2026-07-28T10:03:04.000Z",
-      "source": "war.gov",
+      "source": "U.S. Department of War (.gov)",
       "sourceType": "news",
       "notable": false,
       "precedence": "ROUTINE",
@@ -1114,33 +1143,6 @@
       "notable": false,
       "precedence": "ROUTINE",
       "signals": []
-    },
-    {
-      "id": "f2077f3419cb",
-      "title": "The 4th batch of files posted on the government's UFO website includes 14 documents, 19 videos, 4 audio files, and 3…",
-      "summary": "The 4th batch of files posted on the government's UFO website includes 14 documents, 19 videos, 4 audio files, and 3 images from several federal agencies https:// lemmy.world/post/49319745",
-      "url": "https://lemmy.world/post/49319745",
-      "date": "2026-07-11T18:25:34.416Z",
-      "source": "Mastodon · @Innerworld",
-      "sourceType": "social",
-      "notable": false,
-      "precedence": "ROUTINE",
-      "signals": []
-    },
-    {
-      "id": "6e0c43312d8f",
-      "title": "People: Pentagon Releases New UFO Records Detailing Decades of Unexplained Aerial Encounters. “The Pentagon has…",
-      "summary": "People: Pentagon Releases New UFO Records Detailing Decades of Unexplained Aerial Encounters. “The Pentagon has expanded its public UFO archive with dozens of newly released records, from declassified documents to videos, audio recordings and images tied to decades of unexplained aerial…",
-      "url": "https://rbfirehose.com/2026/07/11/people-pentagon-releases-new-ufo-records-detailing-decades-of-unexplained-aerial-encounters/",
-      "date": "2026-07-11T18:14:23.000Z",
-      "source": "Mastodon · @researchbuzz_firehose",
-      "sourceType": "social",
-      "notable": true,
-      "precedence": "PRIORITY",
-      "signals": [
-        "military/agency",
-        "mass sighting"
-      ]
     }
   ]
 }
