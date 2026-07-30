@@ -6,7 +6,7 @@ pubDate: 2026-07-30
 author: "UAP Times Desk"
 topic: "Analysis"
 tags: ["Christopher Mellon", "Gregory Guillot", "Langley", "AARO", "Jon Kosloski", "counter-UAS", "130i", "NORTHCOM", "drone incursions", "Pentagon Inspector General"]
-heroImage: "/images/placeholder-sky.svg"
+heroImage: "/images/uap-military-base-incursions-authority-gap-hero.png"
 heroCredit: "AI-generated illustration"
 heroImageRemote: "https://d8j0ntlcm91z4.cloudfront.net/user_3H0FDLhevoDIIm5NZhOBNfDEWRH/hf_20260730_081303_ff76fd4e-0ff0-4e66-8b8e-3df131ba01f3.png"
 credibility: 2
