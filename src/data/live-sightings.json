@@ -1,7 +1,7 @@
 {
-  "updated": "2026-07-30T09:05:07.472Z",
+  "updated": "2026-07-30T11:22:18.237Z",
   "count": 90,
-  "notable": 13,
+  "notable": 12,
   "enriched": false,
   "items": [
     {
@@ -82,33 +82,6 @@
         "government",
         "close encounter"
       ]
-    },
-    {
-      "id": "c8e4b0481d0c",
-      "title": "Has David Grusch ever mentioned Lue Elizondo's name in any public interview?",
-      "summary": "<!-- SC_OFF --><div class=\"md\"><p>With all this recent talk about Lue Elizondo having past ties to the legacy program and potentially being set up to become the new UAP Czar to control the release of information, and with a lot of people saying David Grusch should be the UAP Czar instead because…",
-      "url": "https://www.reddit.com/r/UFOs/comments/1vailk6/has_david_grusch_ever_mentioned_lue_elizondos/",
-      "date": "2026-07-30T03:53:37.000Z",
-      "source": "Reddit · r/UFOs",
-      "sourceType": "social",
-      "notable": true,
-      "precedence": "PRIORITY",
-      "signals": [
-        "government",
-        "close encounter"
-      ]
-    },
-    {
-      "id": "a984081db9b4",
-      "title": "Whats the deal with Skinny Bob? IT's still not debunked?",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/UFOs/comments/1vahw0g/whats_the_deal_with_skinny_bob_its_still_not/\"> <img…",
-      "url": "https://www.reddit.com/r/UFOs/comments/1vahw0g/whats_the_deal_with_skinny_bob_its_still_not/",
-      "date": "2026-07-30T03:19:07.000Z",
-      "source": "Reddit · r/UFOs",
-      "sourceType": "social",
-      "notable": false,
-      "precedence": "ROUTINE",
-      "signals": []
     },
     {
       "id": "1101198196d9",
@@ -316,7 +289,7 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxQaXVkWTFRS05hb2daUTJRM1h5NDZGaE9ETklwdGx3LU9VV1d4dUx5eU5jMXUxWFhLY2MwTjVpRlJRdkU3VU1DTFZTSkdjZFJBSE9RQ0E2VG84RjZkMUU5NXUxUUJRNEs1SzNpZFVSSlk1dU83ZG1YM1cyTlpMLV9Sc2dmZTdMalVSQmhIU1FwVQ?oc=5\" target=\"_blank\">Unearthed UFO Report From 1953…",
       "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQaXVkWTFRS05hb2daUTJRM1h5NDZGaE9ETklwdGx3LU9VV1d4dUx5eU5jMXUxWFhLY2MwTjVpRlJRdkU3VU1DTFZTSkdjZFJBSE9RQ0E2VG84RjZkMUU5NXUxUUJRNEs1SzNpZFVSSlk1dU83ZG1YM1cyTlpMLV9Sc2dmZTdMalVSQmhIU1FwVQ?oc=5",
       "date": "2026-07-29T20:59:21.000Z",
-      "source": "Coast to Coast AM",
+      "source": "coasttocoastam.com",
       "sourceType": "news",
       "notable": false,
       "precedence": "ROUTINE",
@@ -412,7 +385,7 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxNNlA1NmRJeDFIZkQxdnAwZ01mUHl3RFpFSi1DU3FZUG1ZUVd3cGtpT3NISVdLbGZwZjlCTk1aTXViTmV0VmlUbEZqNFd3YUI0TFdtUU9PeHI5RDRfWUlETTFlRks0cUI4Wk9PTzktWVgxeGVFZ2t4NlU1Y204NEw1TTIwN2hxXzc3QTNJWTVnaVdYbDBSTGsxak85Qmwwb2c3ckJJajd5VU5EbUNMR2c4?oc=5\"…",
       "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNNlA1NmRJeDFIZkQxdnAwZ01mUHl3RFpFSi1DU3FZUG1ZUVd3cGtpT3NISVdLbGZwZjlCTk1aTXViTmV0VmlUbEZqNFd3YUI0TFdtUU9PeHI5RDRfWUlETTFlRks0cUI4Wk9PTzktWVgxeGVFZ2t4NlU1Y204NEw1TTIwN2hxXzc3QTNJWTVnaVdYbDBSTGsxak85Qmwwb2c3ckJJajd5VU5EbUNMR2c4?oc=5",
       "date": "2026-07-29T18:44:00.000Z",
-      "source": "Coast to Coast AM",
+      "source": "coasttocoastam.com",
       "sourceType": "news",
       "notable": false,
       "precedence": "ROUTINE",
@@ -486,7 +459,7 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiekFVX3lxTE5uX1p0MlJpOW5lZXRJQm40bW5zcDZWTmVXa1l6dkRxMFdvWC1kZTFEaGExRzRrT3dSSDlLZExWU2tNTmI2cEFFSG9hdEhGRzFvQV9mUlJlUHE0YmRGSHdUU1VVci02VDU4dkMwellqaldzMEE2WU1yZjVB?oc=5\" target=\"_blank\">Alien Missile Found on Mars? UFO Researchers Claim NASA Rover…",
       "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5uX1p0MlJpOW5lZXRJQm40bW5zcDZWTmVXa1l6dkRxMFdvWC1kZTFEaGExRzRrT3dSSDlLZExWU2tNTmI2cEFFSG9hdEhGRzFvQV9mUlJlUHE0YmRGSHdUU1VVci02VDU4dkMwellqaldzMEE2WU1yZjVB?oc=5",
       "date": "2026-07-29T12:53:35.000Z",
-      "source": "International Business Times UK",
+      "source": "ibtimes.co.uk",
       "sourceType": "news",
       "notable": true,
       "precedence": "PRIORITY",
@@ -676,6 +649,18 @@
       ]
     },
     {
+      "id": "9c2b2c28db12",
+      "title": "Saw this Saturday 7/26/26 around 10pm in Mora Minnesota. Notice how the light rotates. What is this?",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/UFOs/comments/1v8w4xf/saw_this_saturday_72626_around_10pm_in_mora/\"> <img…",
+      "url": "https://www.reddit.com/r/UFOs/comments/1v8w4xf/saw_this_saturday_72626_around_10pm_in_mora/",
+      "date": "2026-07-28T11:47:42.000Z",
+      "source": "Reddit · r/UFOs",
+      "sourceType": "social",
+      "notable": false,
+      "precedence": "ROUTINE",
+      "signals": []
+    },
+    {
       "id": "83d7d8507f59",
       "title": "# listeners # noalgojustrhythm # vigiland # UFO # music # streetphotography",
       "summary": "# listeners # noalgojustrhythm # vigiland # UFO # music # streetphotography",
@@ -688,16 +673,30 @@
       "signals": []
     },
     {
-      "id": "a7b13e2e3c7b",
-      "title": "Presidential Unsealing and Reporting System for UAP Encounters (PURSUE)",
+      "id": "6133b438484b",
+      "title": "Presidential Unsealing and Reporting System for UAP Encounters (PURSUE) - U.S. Department of War (.gov)",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTE1SS2F0OEhxa0dwSFd1eFR6TzVpZGJtR1ppbmRyS1ZkaHA5c3BEcVBLc2tqSDVvZkpOeV9JUjVyVDRvcEtqbWVUQVppVkwtVlQ2NUtTNWdzTmp3amRQbnRJ?oc=5\" target=\"_blank\">Presidential Unsealing and Reporting System for UAP Encounters (PURSUE)</a>&nbsp;&nbsp;<font…",
       "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1SS2F0OEhxa0dwSFd1eFR6TzVpZGJtR1ppbmRyS1ZkaHA5c3BEcVBLc2tqSDVvZkpOeV9JUjVyVDRvcEtqbWVUQVppVkwtVlQ2NUtTNWdzTmp3amRQbnRJ?oc=5",
       "date": "2026-07-28T10:03:04.000Z",
-      "source": "war.gov",
+      "source": "U.S. Department of War (.gov)",
       "sourceType": "news",
       "notable": false,
       "precedence": "ROUTINE",
       "signals": []
+    },
+    {
+      "id": "ae1243675402",
+      "title": "Sentient Light Orb activity is increasing DRASTICALLY. (Multiple Videos)",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/UFOs/comments/1v8ts61/sentient_light_orb_activity_is_increasing/\"> <img…",
+      "url": "https://www.reddit.com/r/UFOs/comments/1v8ts61/sentient_light_orb_activity_is_increasing/",
+      "date": "2026-07-28T09:57:19.000Z",
+      "source": "Reddit · r/UFOs",
+      "sourceType": "social",
+      "notable": false,
+      "precedence": "ROUTINE",
+      "signals": [
+        "craft shape"
+      ]
     },
     {
       "id": "a2bad3f29d0e",
