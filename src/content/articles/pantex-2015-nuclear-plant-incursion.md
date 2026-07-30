@@ -100,7 +100,7 @@ The document is close to a 1. It is a real Department of Energy incident report,
 
 The interpretation is nearer a 3. There is no positive evidence of anything anomalous beyond the fact that trained officers could not identify a small, slow, silent object and a laboratory's opinion of the photographs has been withheld. A coaxial drone fits. A balloon fits better. Neither has been excluded, and that failure to exclude is the entire mystery.
 
-To anyone inclined to read this as a smoking gun: it is something more useful than that. It is a fully documented instance of the security apparatus around nuclear weapons being unable to identify or intercept a four-foot object in broad daylight. That is worth a congressional question whether the object came from Amarillo or Andromeda.
+To anyone inclined to read this as a smoking gun: it is something more useful than that. It is a fully documented instance of the security apparatus around nuclear weapons being unable to identify or intercept a four-foot object in broad daylight. That is worth a congressional question whether the object came from Amarillo or Andromeda — and it is one instance of [a much broader failure to attribute what crosses American military perimeters](/articles/uap-military-base-incursions-authority-gap/).
 
 The reasonable ask is small and specific. Release the Sandia assessment, or a summary of its conclusion with the security-sensitive imagery still withheld. If the laboratory decided in 2015 that it was a drone, say so and close the case; the public interest in knowing that a mundane object breached the perimeter is, if anything, higher than the interest in a mystery. If it could not decide, say that instead, and let researchers see why.
 
