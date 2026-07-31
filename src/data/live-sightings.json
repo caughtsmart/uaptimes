@@ -1,15 +1,27 @@
 {
-  "updated": "2026-07-30T22:28:55.525Z",
+  "updated": "2026-07-31T03:52:58.527Z",
   "count": 90,
-  "notable": 14,
+  "notable": 13,
   "enriched": false,
   "items": [
     {
-      "id": "debc67cef1fd",
-      "title": "Leonard Stringfield humanoid morphology composite",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/UFOs/comments/1vb630t/leonard_stringfield_humanoid_morphology_composite/\"> <img src=\"https://preview.redd.it/zztnx2cphfgh1.png?width=140&amp;height=140&amp;crop=1:1,smart&amp;auto=webp&amp;s=187d3c3a81bae164f15a6ff0ead14e36dd4f8f36\" alt=\"Leonard…",
-      "url": "https://www.reddit.com/r/UFOs/comments/1vb630t/leonard_stringfield_humanoid_morphology_composite/",
-      "date": "2026-07-30T20:58:44.000Z",
+      "id": "8d656fdd7dd9",
+      "title": "First detection of ultra-fast outflows in a quiescent galaxy: https:// arxiv.org/abs/2607.06844 -> # UFO Sighting in a…",
+      "summary": "First detection of ultra-fast outflows in a quiescent galaxy: https:// arxiv.org/abs/2607.06844 -> # UFO Sighting in a Dead Galaxy! https:// astrobites.org/2026/07/30/ufo- sighting-in-a-dead-galaxy/",
+      "url": "https://scicomm.xyz/@cosmos4u/117011790268309857",
+      "date": "2026-07-31T00:37:05.000Z",
+      "source": "Mastodon · @cosmos4u",
+      "sourceType": "social",
+      "notable": false,
+      "precedence": "ROUTINE",
+      "signals": []
+    },
+    {
+      "id": "230196e259b6",
+      "title": "Christian Nationalists Mike Flynn and David Shedd were installed at the DIA as Director and Deputy Director in 2012 following the failed Kona Blue UAP transfer the year prior. Elizondo talked about Shedd as Devon Woods in Imminent, who told him UAPs were “demonic” same as JD Vance.",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>Today a certain batch of unredacted files was turned over to a judge and all of a sudden Reddit's link button is broken. Funny timing.</p> <p>Mike Flynn and his No. 2 Christian Nationalist henchman David Shedd were put in as Director and Deputy Director…",
+      "url": "https://www.reddit.com/r/UFOs/comments/1vbbdzt/christian_nationalists_mike_flynn_and_david_shedd/",
+      "date": "2026-07-31T00:34:24.000Z",
       "source": "Reddit · r/UFOs",
       "sourceType": "social",
       "notable": false,
@@ -136,20 +148,6 @@
       ]
     },
     {
-      "id": "7d151593ae89",
-      "title": "Disclosure Foundation: \"A National Preparedness Framework for the Human Consequences of Disclosure\"",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/UFOs/comments/1vauak2/disclosure_foundation_a_national_preparedness/\"> <img…",
-      "url": "https://www.reddit.com/r/UFOs/comments/1vauak2/disclosure_foundation_a_national_preparedness/",
-      "date": "2026-07-30T13:53:13.000Z",
-      "source": "Reddit · r/UFOs",
-      "sourceType": "social",
-      "notable": true,
-      "precedence": "PRIORITY",
-      "signals": [
-        "government"
-      ]
-    },
-    {
       "id": "4bfc9f038f10",
       "title": "Observations and gossip from the latest UAP science conference",
       "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/UFOs/comments/1vatoan/observations_and_gossip_from_the_latest_uap/\"> <img src=\"https://external-preview.redd.it/QPS9lRcWtglwmO1nkQoqzX78zguEIbCluMQp37C4Wxk.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=fe5b5cd3c0bc9d8a97cfe5b1cf698a04b46f9577\"…",
@@ -224,6 +222,20 @@
       "signals": [
         "military/agency",
         "has media"
+      ]
+    },
+    {
+      "id": "ef870f49d3e6",
+      "title": "New Disclosure Foundation Policy Brief: National Preparedness Framework For The Human Consequences Of UAP Disclosure",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/UFOs/comments/1vaob8y/new_disclosure_foundation_policy_brief_national/\"> <img src=\"https://preview.redd.it/wv85boy01cgh1.png?width=140&amp;height=140&amp;crop=1:1,smart&amp;auto=webp&amp;s=96540635dc366b5bdc23ba8e0034aa2688b9b5c6\" alt=\"New…",
+      "url": "https://www.reddit.com/r/UFOs/comments/1vaob8y/new_disclosure_foundation_policy_brief_national/",
+      "date": "2026-07-30T09:05:56.000Z",
+      "source": "Reddit · r/UFOs",
+      "sourceType": "social",
+      "notable": true,
+      "precedence": "PRIORITY",
+      "signals": [
+        "government"
       ]
     },
     {
@@ -571,7 +583,7 @@
       "summary": "<a…",
       "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPUW1oZDhPSTMzaVRTaHMwVTBncENveFNxMXc5Zm1SbTFXbFRqYUZOQ2h1LVZ4b09DRW8xYWNVdlJnX20wM2MtR0Q5RlZvd2xiMzQ0bHllckl4alVteHUtOTRzZ2xZZTU0M201aDg1MkNGUUVSTlRtZU1IRHNvVVcwN183MnRGQTlWSV8wcEZXbFZFUzUwUHd6dEFEdVowTkMxM0QxRnVrVXZpbnQ1NkphcWwtY05XN0lsblRqOVhxVGRoUmJEWGJvYW11clk?oc=5",
       "date": "2026-07-29T19:14:03.000Z",
-      "source": "Nice-Matin",
+      "source": "nicematin.com",
       "sourceType": "news",
       "notable": false,
       "precedence": "ROUTINE",
@@ -590,12 +602,24 @@
       "signals": []
     },
     {
-      "id": "67908d1b9a88",
+      "id": "4ac6f410d26d",
       "title": "Watch: Possible Big Cat Sighting Bewilders British Couple",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxQbGN1bW4wYW43YVcxZ2o4TGlYeGlHdFVxc01rQkEtSWtEVzhQVmlRSEM3MlpOY3J6aGxjMVNiX040Y3lydWtZLXBfa1VJUmNBdzNmMU02ZmFqZlRSTncwa09JT25MZ3EzWlR3WVM3U0tKVkxYbjF3d191Z0N0ajhKcVZpT21mUnFPS0JaVkJuNndvTEp4STlkV0lzUGs?oc=5\" target=\"_blank\">Watch:…",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQbGN1bW4wYW43YVcxZ2o4TGlYeGlHdFVxc01rQkEtSWtEVzhQVmlRSEM3MlpOY3J6aGxjMVNiX040Y3lydWtZLXBfa1VJUmNBdzNmMU02ZmFqZlRSTncwa09JT25MZ3EzWlR3WVM3U0tKVkxYbjF3d191Z0N0ajhKcVZpT21mUnFPS0JaVkJuNndvTEp4STlkV0lzUGs?oc=5",
-      "date": "2026-07-29T18:42:41.000Z",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxNNlA1NmRJeDFIZkQxdnAwZ01mUHl3RFpFSi1DU3FZUG1ZUVd3cGtpT3NISVdLbGZwZjlCTk1aTXViTmV0VmlUbEZqNFd3YUI0TFdtUU9PeHI5RDRfWUlETTFlRks0cUI4Wk9PTzktWVgxeGVFZ2t4NlU1Y204NEw1TTIwN2hxXzc3QTNJWTVnaVdYbDBSTGsxak85Qmwwb2c3ckJJajd5VU5EbUNMR2c4?oc=5\"…",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNNlA1NmRJeDFIZkQxdnAwZ01mUHl3RFpFSi1DU3FZUG1ZUVd3cGtpT3NISVdLbGZwZjlCTk1aTXViTmV0VmlUbEZqNFd3YUI0TFdtUU9PeHI5RDRfWUlETTFlRks0cUI4Wk9PTzktWVgxeGVFZ2t4NlU1Y204NEw1TTIwN2hxXzc3QTNJWTVnaVdYbDBSTGsxak85Qmwwb2c3ckJJajd5VU5EbUNMR2c4?oc=5",
+      "date": "2026-07-29T18:44:00.000Z",
       "source": "Coast to Coast AM",
+      "sourceType": "news",
+      "notable": false,
+      "precedence": "ROUTINE",
+      "signals": []
+    },
+    {
+      "id": "3f0b6862e0f5",
+      "title": "UFOs: What are they and what are the most famous sightings?",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTE93U1JQeHpqVVg4ZDFlQ2Y4MUlVdi1EaE9LT29ySXBNcm95d0lBUnhibW9oNzNLZEpBaVBMVFJRaXVNbGVsXzRueF9lcnVpSGFYME5NelI3b0ZLMEE?oc=5\" target=\"_blank\">UFOs: What are they and what are the most famous sightings?</a>&nbsp;&nbsp;<font…",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE93U1JQeHpqVVg4ZDFlQ2Y4MUlVdi1EaE9LT29ySXBNcm95d0lBUnhibW9oNzNLZEpBaVBMVFJRaXVNbGVsXzRueF9lcnVpSGFYME5NelI3b0ZLMEE?oc=5",
+      "date": "2026-07-29T18:27:51.000Z",
+      "source": "BBC",
       "sourceType": "news",
       "notable": false,
       "precedence": "ROUTINE",
@@ -648,20 +672,6 @@
       "notable": false,
       "precedence": "ROUTINE",
       "signals": []
-    },
-    {
-      "id": "947118d296bf",
-      "title": "Alien Missile Found on Mars? UFO Researchers Claim NASA Rover Image Uncovers Extraterrestrial War",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiekFVX3lxTE5uX1p0MlJpOW5lZXRJQm40bW5zcDZWTmVXa1l6dkRxMFdvWC1kZTFEaGExRzRrT3dSSDlLZExWU2tNTmI2cEFFSG9hdEhGRzFvQV9mUlJlUHE0YmRGSHdUU1VVci02VDU4dkMwellqaldzMEE2WU1yZjVB?oc=5\" target=\"_blank\">Alien Missile Found on Mars? UFO Researchers Claim NASA Rover…",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5uX1p0MlJpOW5lZXRJQm40bW5zcDZWTmVXa1l6dkRxMFdvWC1kZTFEaGExRzRrT3dSSDlLZExWU2tNTmI2cEFFSG9hdEhGRzFvQV9mUlJlUHE0YmRGSHdUU1VVci02VDU4dkMwellqaldzMEE2WU1yZjVB?oc=5",
-      "date": "2026-07-29T12:53:35.000Z",
-      "source": "International Business Times UK",
-      "sourceType": "news",
-      "notable": true,
-      "precedence": "PRIORITY",
-      "signals": [
-        "military/agency"
-      ]
     },
     {
       "id": "771b9348a6d4",
@@ -733,18 +743,6 @@
       ]
     },
     {
-      "id": "3f0b6862e0f5",
-      "title": "UFOs: What are they and what are the most famous sightings?",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTE93U1JQeHpqVVg4ZDFlQ2Y4MUlVdi1EaE9LT29ySXBNcm95d0lBUnhibW9oNzNLZEpBaVBMVFJRaXVNbGVsXzRueF9lcnVpSGFYME5NelI3b0ZLMEE?oc=5\" target=\"_blank\">UFOs: What are they and what are the most famous sightings?</a>&nbsp;&nbsp;<font…",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE93U1JQeHpqVVg4ZDFlQ2Y4MUlVdi1EaE9LT29ySXBNcm95d0lBUnhibW9oNzNLZEpBaVBMVFJRaXVNbGVsXzRueF9lcnVpSGFYME5NelI3b0ZLMEE?oc=5",
-      "date": "2026-07-28T13:44:52.000Z",
-      "source": "BBC",
-      "sourceType": "news",
-      "notable": false,
-      "precedence": "ROUTINE",
-      "signals": []
-    },
-    {
       "id": "4a0939e48ec7",
       "title": "'Little Punk With a Man Bun': US Congressman Claims Bureaucrat Blocked Prez from UFO Secrets",
       "summary": "<a…",
@@ -786,7 +784,7 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxOVFhfWFVwYXR5V3Y2ZFRjdWVGVUV5RHJ6OWVNMmZXUnhRdFpRWmg1eGRTdmhrVFViY3hmemlNbEZ1NXZTMVRfcE1tVkdQRE51RlEyRnotRzlZcXk1TFRiNXFEcGJ3ekxxSXpPUGpRUzZuN1JYbE9HR2xkdDlxY2gySDB6X2pCLWxPRzQxVC0zLVcwOUc1MzdZ?oc=5\" target=\"_blank\">Rare early report of…",
       "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOVFhfWFVwYXR5V3Y2ZFRjdWVGVUV5RHJ6OWVNMmZXUnhRdFpRWmg1eGRTdmhrVFViY3hmemlNbEZ1NXZTMVRfcE1tVkdQRE51RlEyRnotRzlZcXk1TFRiNXFEcGJ3ekxxSXpPUGpRUzZuN1JYbE9HR2xkdDlxY2gySDB6X2pCLWxPRzQxVC0zLVcwOUc1MzdZ?oc=5",
       "date": "2026-07-28T09:51:00.000Z",
-      "source": "The Independent",
+      "source": "independent.co.uk",
       "sourceType": "news",
       "notable": false,
       "precedence": "ROUTINE",
@@ -935,30 +933,6 @@
       "url": "https://mastodon.social/@counivers/116974373143485557",
       "date": "2026-07-24T10:01:25.000Z",
       "source": "Mastodon · @counivers",
-      "sourceType": "social",
-      "notable": false,
-      "precedence": "ROUTINE",
-      "signals": []
-    },
-    {
-      "id": "371d82123775",
-      "title": "Golden UFO #analoguephotography #analogue #staybrokeshootfilm #believeinfilm #filmisnotdead #filmphotography #film…",
-      "summary": "Golden UFO #analoguephotography #analogue #staybrokeshootfilm #believeinfilm #filmisnotdead #filmphotography #film #berlin #35mm #ricohTF900 #kodak #urban #urbanphotography #streetphotography #ufo",
-      "url": "https://pixelfed.social/p/Grannybeelee/985930600972058764",
-      "date": "2026-07-23T15:36:12.000Z",
-      "source": "Mastodon · @Grannybeelee",
-      "sourceType": "social",
-      "notable": false,
-      "precedence": "ROUTINE",
-      "signals": []
-    },
-    {
-      "id": "ef1551edbc67",
-      "title": "https://www. wacoca.com/tour/1048557/ バイク女子と巡る日本 えびの市 矢岳高原でUFOを呼んでみた＠宮崎県 # ツーリング # バイク # バイク女子 # UFO # えびの市 # えびの高原 #…",
-      "summary": "https://www. wacoca.com/tour/1048557/ バイク女子と巡る日本 えびの市 矢岳高原でUFOを呼んでみた＠宮崎県 # ツーリング # バイク # バイク女子 # UFO # えびの市 # えびの高原 # ツーリング # バイク # バイク女子 # ハングライダー # 宮崎 # 宮崎ツアー # 宮崎県 # 宮崎県ツアー # 宮崎県観光 # 宮崎観光 # 快晴 # 旅 # 矢岳高原 # 青空 # 高原",
-      "url": "https://wakoka.com/@tour/116967738448976330",
-      "date": "2026-07-23T05:54:08.000Z",
-      "source": "Mastodon · @tour",
       "sourceType": "social",
       "notable": false,
       "precedence": "ROUTINE",
@@ -1145,6 +1119,30 @@
       "signals": [
         "government"
       ]
+    },
+    {
+      "id": "ed9e86461d09",
+      "title": "Controversial astrophysicist Avi Loeb to advise US government on UFO sightings The US government repeatedly publishes…",
+      "summary": "Controversial astrophysicist Avi Loeb to advise US government on UFO sightings The US government repeatedly publishes videos and documents on UFO sightings. A controversial physicist is now supposed to help with their handling. https://www. heise.de/en/news/Controversial…",
+      "url": "https://social.heise.de/@heiseonlineenglish/116912892375427364",
+      "date": "2026-07-13T13:26:03.000Z",
+      "source": "Mastodon · @heiseonlineenglish",
+      "sourceType": "social",
+      "notable": false,
+      "precedence": "ROUTINE",
+      "signals": []
+    },
+    {
+      "id": "38d1c6b42dae",
+      "title": "Immer wieder veröffentlicht die US-Regierung Videos und Dokumente zu UFO-Sichtungen. Ein umstrittener Physiker soll…",
+      "summary": "Immer wieder veröffentlicht die US-Regierung Videos und Dokumente zu UFO-Sichtungen. Ein umstrittener Physiker soll beim Umgang damit nun helfen. #Ufos Umstrittener Astrophysiker Avi...",
+      "url": "https://fed.brid.gy/r/https://bsky.app/profile/did:plc:zv657bpskxtjkvbdd5wymjam/post/3mqjpnqaswc2k",
+      "date": "2026-07-13T12:41:05.326Z",
+      "source": "Mastodon · @heise.de",
+      "sourceType": "social",
+      "notable": false,
+      "precedence": "ROUTINE",
+      "signals": []
     }
   ]
 }
