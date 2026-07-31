@@ -6,7 +6,7 @@ pubDate: 2026-07-31
 author: "UAP Times Desk"
 topic: "Government & Disclosure"
 tags: ["Luis Elizondo", "Ross Coulthart", "UAP Gerb", "James Clapper", "AATIP", "David Grusch", "NewsNation", "controlled disclosure", "National Security Council"]
-heroImage: "/images/placeholder-sky.svg"
+heroImage: "/images/elizondo-controlled-disclosure-row-hero.png"
 heroCredit: "AI-generated illustration"
 heroImageRemote: "https://d8j0ntlcm91z4.cloudfront.net/user_3H0FDLhevoDIIm5NZhOBNfDEWRH/hf_20260731_081347_c2d0b606-f55c-414e-8593-3dc1921059f8.png"
 credibility: 4
