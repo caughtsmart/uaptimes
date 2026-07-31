@@ -1,9 +1,35 @@
 {
-  "updated": "2026-07-31T16:59:11.440Z",
+  "updated": "2026-07-31T19:54:51.040Z",
   "count": 90,
-  "notable": 15,
+  "notable": 14,
   "enriched": false,
   "items": [
+    {
+      "id": "e862d55cae67",
+      "title": "Are Humans Really the Top Intelligence? - Joe Rogan and Diana Pasulka # ufo # disclosure # intelligence Original…",
+      "summary": "Are Humans Really the Top Intelligence? - Joe Rogan and Diana Pasulka # ufo # disclosure # intelligence Original timestamp: 01:45:49",
+      "url": "https://mastodon.social/@trndgtr/117016162188200391",
+      "date": "2026-07-31T19:08:55.749Z",
+      "source": "Mastodon · @trndgtr",
+      "sourceType": "social",
+      "notable": true,
+      "precedence": "PRIORITY",
+      "signals": [
+        "government"
+      ]
+    },
+    {
+      "id": "cb6162b13d6f",
+      "title": "Discovery: The AAF officer who oversaw Kenneth Arnold and Maury Island Investigations was the SAME officer who collected the negatives of these photos, taken same day as Roswell crash (Rhodes Phoenix photos)",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/UFOs/comments/1vbysdc/discovery_the_aaf_officer_who_oversaw_kenneth/\"> <img src=\"https://preview.redd.it/pvjxnvvuwlgh1.jpg?width=140&amp;height=140&amp;crop=1:1,smart&amp;auto=webp&amp;s=1ba2b8d48d9ff84a493661afb5ebc8b793172878\" alt=\"Discovery:…",
+      "url": "https://www.reddit.com/r/UFOs/comments/1vbysdc/discovery_the_aaf_officer_who_oversaw_kenneth/",
+      "date": "2026-07-31T18:15:48.000Z",
+      "source": "Reddit · r/UFOs",
+      "sourceType": "social",
+      "notable": false,
+      "precedence": "ROUTINE",
+      "signals": []
+    },
     {
       "id": "2f586f9e28b5",
       "title": "THE ALIEN INTERVIEW PART 2 The Man Behind the Tape",
@@ -269,21 +295,6 @@
       "notable": false,
       "precedence": "ROUTINE",
       "signals": []
-    },
-    {
-      "id": "28cee92fcf41",
-      "title": "NASA’s Classified Report on Alien Life Was More Disturbing Than Anyone Expected http:// dlvr.it/TTn6PS # UFO # UFONews…",
-      "summary": "NASA’s Classified Report on Alien Life Was More Disturbing Than Anyone Expected http:// dlvr.it/TTn6PS # UFO # UFONews # ufodisclosure",
-      "url": "https://mastodon.au/@vibewire/117009946801495304",
-      "date": "2026-07-30T16:48:16.000Z",
-      "source": "Mastodon · @vibewire",
-      "sourceType": "social",
-      "notable": true,
-      "precedence": "FLASH",
-      "signals": [
-        "military/agency",
-        "government"
-      ]
     },
     {
       "id": "4bfc9f038f10",
@@ -793,7 +804,7 @@
       "summary": "<a…",
       "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPenVyUmNjNGNvNnNiaTFhaUczLXRoY3VDakJZeE1SajFrSDFtR1FQd2Y1dUhBOHNzY0pmTU8zbW1oR1J1UFliVFotSmxzWWZ4V1RCZkktZi1MbklPYWhtRVVPa084VDl3dXBCWmdpODN2d3FGZzJVcWRmbVlaZ3pNRjhDSjhuUDBNMHlCRWdFblN5X3Rxa2d4TmRmWjJCME9zdWRMVGJlbEZ4aXNMLXVBWHlCQjhaWVRJUF91UVFLWTdxYjNVWVNkM1pialI3NzVTakFKazRn?oc=5",
       "date": "2026-07-29T12:56:00.000Z",
-      "source": "Tahlequah Daily Press",
+      "source": "tahlequahdailypress.com",
       "sourceType": "news",
       "notable": false,
       "precedence": "ROUTINE",
@@ -811,20 +822,6 @@
       "precedence": "PRIORITY",
       "signals": [
         "military/agency"
-      ]
-    },
-    {
-      "id": "771b9348a6d4",
-      "title": "Defense intelligence scientist Dr. Eric Davis on the use of Eisenhower era Presidential Emergency Action Directives (PEADs) as mechanisms for UFO secrecy: “No PEAD has ever been declassified or leaked since inception […] and they’ve never been disclosed to Congress.”",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/UFOs/comments/1v9tn7t/defense_intelligence_scientist_dr_eric_davis_on/\"> <img…",
-      "url": "https://www.reddit.com/r/UFOs/comments/1v9tn7t/defense_intelligence_scientist_dr_eric_davis_on/",
-      "date": "2026-07-29T11:37:14.000Z",
-      "source": "Reddit · r/UFOs",
-      "sourceType": "social",
-      "notable": true,
-      "precedence": "PRIORITY",
-      "signals": [
-        "government"
       ]
     },
     {
@@ -972,18 +969,6 @@
       "url": "https://www.nytimes.com/2026/07/26/us/paul-andrews-dead.html",
       "date": "2026-07-26T14:00:18.000Z",
       "source": "Mastodon · @nyt_science",
-      "sourceType": "social",
-      "notable": false,
-      "precedence": "ROUTINE",
-      "signals": []
-    },
-    {
-      "id": "df31671bf96f",
-      "title": "# TheMetalDogArticleList # BraveWords Listen: SAVATAGE Are This Week’s Feature Interview On METALSHOP; Other Guests…",
-      "summary": "# TheMetalDogArticleList # BraveWords Listen: SAVATAGE Are This Week’s Feature Interview On METALSHOP; Other Guests Include LITA FORD and UFO’s PHIL MOGG https:// bravewords.com/news/listen-sav atage-are-this-weeks-feature-interview-on-metalshop-other-guests-include-lita-ford-and-ufos-phil-mogg/ #…",
-      "url": "https://mastodon.themetaldog.net/@TheMetalDog/116981144680576047",
-      "date": "2026-07-25T14:43:32.000Z",
-      "source": "Mastodon · @TheMetalDog",
       "sourceType": "social",
       "notable": false,
       "precedence": "ROUTINE",
@@ -1144,6 +1129,18 @@
       "signals": [
         "government"
       ]
+    },
+    {
+      "id": "ac99cf947a67",
+      "title": "Wrote down my MUFON sign in information because I refuse to go until Thursday while visiting my parents without…",
+      "summary": "Wrote down my MUFON sign in information because I refuse to go until Thursday while visiting my parents without consuming # alien content and I don't have that log in saved on my laptop. # aliens # UFO # UAP # UFOs",
+      "url": "https://mas.to/@famousblueben/116935110770375622",
+      "date": "2026-07-17T11:36:29.000Z",
+      "source": "Mastodon · @famousblueben",
+      "sourceType": "social",
+      "notable": false,
+      "precedence": "ROUTINE",
+      "signals": []
     }
   ]
 }
