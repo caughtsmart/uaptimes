@@ -1,9 +1,33 @@
 {
-  "updated": "2026-07-31T03:52:58.527Z",
+  "updated": "2026-07-31T09:19:06.170Z",
   "count": 90,
-  "notable": 13,
+  "notable": 14,
   "enriched": false,
   "items": [
+    {
+      "id": "70718182cfa4",
+      "title": "Drones offer alternative to balloons for weather research https://www. theguardian.com/news/2026/jul/…",
+      "summary": "Drones offer alternative to balloons for weather research https://www. theguardian.com/news/2026/jul/ 31/weatherwatch-drone-base-station-offers-alternative-weather-balloons # DronesNonmilitary # Technology # UsNews # WorldNews # Ufos # Meteorology # Science",
+      "url": "https://halo.nu/@theguardian_science/117012834410351833",
+      "date": "2026-07-31T05:02:37.000Z",
+      "source": "Mastodon · @theguardian_science",
+      "sourceType": "social",
+      "notable": false,
+      "precedence": "ROUTINE",
+      "signals": []
+    },
+    {
+      "id": "c462d84cf948",
+      "title": "Washington UFO Sighting Odds Peak on This August Night",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTFA5RVBlVktTMHhyTHpDWjVBSXctX0lGS1ZucUVMZXB1NnRKRGFmT1BNUVdQMUNZbkx1SGdZLUdkaC1keEhlNk90YjZEUjR0UU9FZ2RrNmc4YUowTlNGY3VXYzVn?oc=5\" target=\"_blank\">Washington UFO Sighting Odds Peak on This August Night</a>&nbsp;&nbsp;<font…",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFA5RVBlVktTMHhyTHpDWjVBSXctX0lGS1ZucUVMZXB1NnRKRGFmT1BNUVdQMUNZbkx1SGdZLUdkaC1keEhlNk90YjZEUjR0UU9FZ2RrNmc4YUowTlNGY3VXYzVn?oc=5",
+      "date": "2026-07-31T01:36:42.000Z",
+      "source": "NewsRadio 560 KPQ",
+      "sourceType": "news",
+      "notable": false,
+      "precedence": "ROUTINE",
+      "signals": []
+    },
     {
       "id": "8d656fdd7dd9",
       "title": "First detection of ultra-fast outflows in a quiescent galaxy: https:// arxiv.org/abs/2607.06844 -> # UFO Sighting in a…",
@@ -79,18 +103,6 @@
       "signals": [
         "government"
       ]
-    },
-    {
-      "id": "c1ea20ced755",
-      "title": "UFO Sighting Odds Peak in Washington on This August Night",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMibEFVX3lxTE9NQklWX0F6Znk5SHh1Ykxka19xblJrU0dNd1l6RUhQMlBYWkY1dmJmTnFIUEl5QnZyNmh3UF8wdFA0R1h6Z1kzaExENmRvYkZHUF9DTU96djBNS1dVcHIxYUpzZFNTQl9uS2xYdw?oc=5\" target=\"_blank\">UFO Sighting Odds Peak in Washington on This August Night</a>&nbsp;&nbsp;<font…",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9NQklWX0F6Znk5SHh1Ykxka19xblJrU0dNd1l6RUhQMlBYWkY1dmJmTnFIUEl5QnZyNmh3UF8wdFA0R1h6Z1kzaExENmRvYkZHUF9DTU96djBNS1dVcHIxYUpzZFNTQl9uS2xYdw?oc=5",
-      "date": "2026-07-30T16:57:34.000Z",
-      "source": "News Talk KIT",
-      "sourceType": "news",
-      "notable": false,
-      "precedence": "ROUTINE",
-      "signals": []
     },
     {
       "id": "20012429097e",
@@ -674,6 +686,20 @@
       "signals": []
     },
     {
+      "id": "947118d296bf",
+      "title": "Alien Missile Found on Mars? UFO Researchers Claim NASA Rover Image Uncovers Extraterrestrial War",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiekFVX3lxTE5uX1p0MlJpOW5lZXRJQm40bW5zcDZWTmVXa1l6dkRxMFdvWC1kZTFEaGExRzRrT3dSSDlLZExWU2tNTmI2cEFFSG9hdEhGRzFvQV9mUlJlUHE0YmRGSHdUU1VVci02VDU4dkMwellqaldzMEE2WU1yZjVB?oc=5\" target=\"_blank\">Alien Missile Found on Mars? UFO Researchers Claim NASA Rover…",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5uX1p0MlJpOW5lZXRJQm40bW5zcDZWTmVXa1l6dkRxMFdvWC1kZTFEaGExRzRrT3dSSDlLZExWU2tNTmI2cEFFSG9hdEhGRzFvQV9mUlJlUHE0YmRGSHdUU1VVci02VDU4dkMwellqaldzMEE2WU1yZjVB?oc=5",
+      "date": "2026-07-29T12:53:35.000Z",
+      "source": "International Business Times UK",
+      "sourceType": "news",
+      "notable": true,
+      "precedence": "PRIORITY",
+      "signals": [
+        "military/agency"
+      ]
+    },
+    {
       "id": "771b9348a6d4",
       "title": "Defense intelligence scientist Dr. Eric Davis on the use of Eisenhower era Presidential Emergency Action Directives (PEADs) as mechanisms for UFO secrecy: “No PEAD has ever been declassified or leaked since inception […] and they’ve never been disclosed to Congress.”",
       "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/UFOs/comments/1v9tn7t/defense_intelligence_scientist_dr_eric_davis_on/\"> <img…",
@@ -784,7 +810,7 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxOVFhfWFVwYXR5V3Y2ZFRjdWVGVUV5RHJ6OWVNMmZXUnhRdFpRWmg1eGRTdmhrVFViY3hmemlNbEZ1NXZTMVRfcE1tVkdQRE51RlEyRnotRzlZcXk1TFRiNXFEcGJ3ekxxSXpPUGpRUzZuN1JYbE9HR2xkdDlxY2gySDB6X2pCLWxPRzQxVC0zLVcwOUc1MzdZ?oc=5\" target=\"_blank\">Rare early report of…",
       "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOVFhfWFVwYXR5V3Y2ZFRjdWVGVUV5RHJ6OWVNMmZXUnhRdFpRWmg1eGRTdmhrVFViY3hmemlNbEZ1NXZTMVRfcE1tVkdQRE51RlEyRnotRzlZcXk1TFRiNXFEcGJ3ekxxSXpPUGpRUzZuN1JYbE9HR2xkdDlxY2gySDB6X2pCLWxPRzQxVC0zLVcwOUc1MzdZ?oc=5",
       "date": "2026-07-28T09:51:00.000Z",
-      "source": "independent.co.uk",
+      "source": "The Independent",
       "sourceType": "news",
       "notable": false,
       "precedence": "ROUTINE",
@@ -921,18 +947,6 @@
       "url": "https://mastodon.themetaldog.net/@TheMetalDog/116981144680576047",
       "date": "2026-07-25T14:43:32.000Z",
       "source": "Mastodon · @TheMetalDog",
-      "sourceType": "social",
-      "notable": false,
-      "precedence": "ROUTINE",
-      "signals": []
-    },
-    {
-      "id": "bf5c8cb048eb",
-      "title": "Nothing 2 see here 🛸 Thanks for 1k plays on our # vlog from Landskappleiken 🎻! The # folkfluencer office is closed 4…",
-      "summary": "Nothing 2 see here 🛸 Thanks for 1k plays on our # vlog from Landskappleiken 🎻! The # folkfluencer office is closed 4 summer but you can watch the episodes on my Youtube: https:// youtu.be/-HOU6Cn_4EU?is=iycj7B 60fFVsxg1t # FolkMusic # ufo # norway",
-      "url": "https://mastodon.social/@counivers/116974373143485557",
-      "date": "2026-07-24T10:01:25.000Z",
-      "source": "Mastodon · @counivers",
       "sourceType": "social",
       "notable": false,
       "precedence": "ROUTINE",
@@ -1127,18 +1141,6 @@
       "url": "https://social.heise.de/@heiseonlineenglish/116912892375427364",
       "date": "2026-07-13T13:26:03.000Z",
       "source": "Mastodon · @heiseonlineenglish",
-      "sourceType": "social",
-      "notable": false,
-      "precedence": "ROUTINE",
-      "signals": []
-    },
-    {
-      "id": "38d1c6b42dae",
-      "title": "Immer wieder veröffentlicht die US-Regierung Videos und Dokumente zu UFO-Sichtungen. Ein umstrittener Physiker soll…",
-      "summary": "Immer wieder veröffentlicht die US-Regierung Videos und Dokumente zu UFO-Sichtungen. Ein umstrittener Physiker soll beim Umgang damit nun helfen. #Ufos Umstrittener Astrophysiker Avi...",
-      "url": "https://fed.brid.gy/r/https://bsky.app/profile/did:plc:zv657bpskxtjkvbdd5wymjam/post/3mqjpnqaswc2k",
-      "date": "2026-07-13T12:41:05.326Z",
-      "source": "Mastodon · @heise.de",
       "sourceType": "social",
       "notable": false,
       "precedence": "ROUTINE",
