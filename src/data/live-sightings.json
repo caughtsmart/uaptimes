@@ -1,9 +1,61 @@
 {
-  "updated": "2026-07-31T14:38:39.547Z",
+  "updated": "2026-07-31T16:59:11.440Z",
   "count": 90,
-  "notable": 14,
+  "notable": 15,
   "enriched": false,
   "items": [
+    {
+      "id": "2f586f9e28b5",
+      "title": "THE ALIEN INTERVIEW PART 2 The Man Behind the Tape",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/UFOs/comments/1vbw7ch/the_alien_interview_part_2_the_man_behind_the_tape/\"> <img…",
+      "url": "https://www.reddit.com/r/UFOs/comments/1vbw7ch/the_alien_interview_part_2_the_man_behind_the_tape/",
+      "date": "2026-07-31T16:42:30.000Z",
+      "source": "Reddit · r/UFOs",
+      "sourceType": "social",
+      "notable": false,
+      "precedence": "ROUTINE",
+      "signals": []
+    },
+    {
+      "id": "48e94c939cdd",
+      "title": "The Alien Who Walked Into the Pentagon… Nobody Stopped Him http:// dlvr.it/TTnvYH # UFO # UFONews # ufodisclosure",
+      "summary": "The Alien Who Walked Into the Pentagon… Nobody Stopped Him http:// dlvr.it/TTnvYH # UFO # UFONews # ufodisclosure",
+      "url": "https://mastodon.au/@vibewire/117015325213098990",
+      "date": "2026-07-31T15:36:04.000Z",
+      "source": "Mastodon · @vibewire",
+      "sourceType": "social",
+      "notable": true,
+      "precedence": "PRIORITY",
+      "signals": [
+        "military/agency"
+      ]
+    },
+    {
+      "id": "c36d7c6709bf",
+      "title": "Luis Elizondo, James Clapper, And the Controlled Disclosure Theory http:// dlvr.it/TTnvYF # UFO # UFONews #…",
+      "summary": "Luis Elizondo, James Clapper, And the Controlled Disclosure Theory http:// dlvr.it/TTnvYF # UFO # UFONews # ufodisclosure",
+      "url": "https://mastodon.au/@vibewire/117015325129681191",
+      "date": "2026-07-31T15:36:03.000Z",
+      "source": "Mastodon · @vibewire",
+      "sourceType": "social",
+      "notable": true,
+      "precedence": "PRIORITY",
+      "signals": [
+        "government"
+      ]
+    },
+    {
+      "id": "b2459ded5873",
+      "title": "UFO Insider vs The UFO Researcher: What They’re Not Telling You http:// dlvr.it/TTnvXW # UFO # UFONews # ufodisclosure",
+      "summary": "UFO Insider vs The UFO Researcher: What They’re Not Telling You http:// dlvr.it/TTnvXW # UFO # UFONews # ufodisclosure",
+      "url": "https://mastodon.au/@vibewire/117015325044940033",
+      "date": "2026-07-31T15:36:01.000Z",
+      "source": "Mastodon · @vibewire",
+      "sourceType": "social",
+      "notable": false,
+      "precedence": "ROUTINE",
+      "signals": []
+    },
     {
       "id": "b9bdf9f030d6",
       "title": "Faint triangular object moving ~191° observed over Sulaimani, Iraq — Jul 30, 2026, 10:15 PM",
@@ -12,6 +64,18 @@
       "date": "2026-07-31T13:49:38.000Z",
       "source": "Reddit · r/UFOs",
       "sourceType": "social",
+      "notable": false,
+      "precedence": "ROUTINE",
+      "signals": []
+    },
+    {
+      "id": "e568ce93e3c9",
+      "title": "Dr. Phil claims Trump recruited him to review UFO files and found government cover-up",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE0xcHItbVVhTXlSVldDUWN4bk9mY25tQ2pfcFpvak05akVFZFhsaGU2WG5oUElKVmZKSFZ1VmUtaWlSSExxbGRtR3NyYjhUbDBTNFIyZ0g4NGh6bGVLLW1OYWlRZnRuZ052SzRhQ1ZkVFIwRUlJalVsYVBRS2taT2M?oc=5\" target=\"_blank\">Dr. Phil claims Trump recruited him to review UFO…",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE0xcHItbVVhTXlSVldDUWN4bk9mY25tQ2pfcFpvak05akVFZFhsaGU2WG5oUElKVmZKSFZ1VmUtaWlSSExxbGRtR3NyYjhUbDBTNFIyZ0g4NGh6bGVLLW1OYWlRZnRuZ052SzRhQ1ZkVFIwRUlJalVsYVBRS2taT2M?oc=5",
+      "date": "2026-07-31T12:49:01.000Z",
+      "source": "AOL.com",
+      "sourceType": "news",
       "notable": false,
       "precedence": "ROUTINE",
       "signals": []
@@ -74,18 +138,6 @@
       "date": "2026-07-31T05:02:37.000Z",
       "source": "Mastodon · @theguardian_science",
       "sourceType": "social",
-      "notable": false,
-      "precedence": "ROUTINE",
-      "signals": []
-    },
-    {
-      "id": "c462d84cf948",
-      "title": "Washington UFO Sighting Odds Peak on This August Night",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTFA5RVBlVktTMHhyTHpDWjVBSXctX0lGS1ZucUVMZXB1NnRKRGFmT1BNUVdQMUNZbkx1SGdZLUdkaC1keEhlNk90YjZEUjR0UU9FZ2RrNmc4YUowTlNGY3VXYzVn?oc=5\" target=\"_blank\">Washington UFO Sighting Odds Peak on This August Night</a>&nbsp;&nbsp;<font…",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFA5RVBlVktTMHhyTHpDWjVBSXctX0lGS1ZucUVMZXB1NnRKRGFmT1BNUVdQMUNZbkx1SGdZLUdkaC1keEhlNk90YjZEUjR0UU9FZ2RrNmc4YUowTlNGY3VXYzVn?oc=5",
-      "date": "2026-07-31T01:36:42.000Z",
-      "source": "NewsRadio 560 KPQ",
-      "sourceType": "news",
       "notable": false,
       "precedence": "ROUTINE",
       "signals": []
@@ -165,6 +217,18 @@
       "signals": [
         "government"
       ]
+    },
+    {
+      "id": "c1ea20ced755",
+      "title": "UFO Sighting Odds Peak in Washington on This August Night",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMibEFVX3lxTE9NQklWX0F6Znk5SHh1Ykxka19xblJrU0dNd1l6RUhQMlBYWkY1dmJmTnFIUEl5QnZyNmh3UF8wdFA0R1h6Z1kzaExENmRvYkZHUF9DTU96djBNS1dVcHIxYUpzZFNTQl9uS2xYdw?oc=5\" target=\"_blank\">UFO Sighting Odds Peak in Washington on This August Night</a>&nbsp;&nbsp;<font…",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9NQklWX0F6Znk5SHh1Ykxka19xblJrU0dNd1l6RUhQMlBYWkY1dmJmTnFIUEl5QnZyNmh3UF8wdFA0R1h6Z1kzaExENmRvYkZHUF9DTU96djBNS1dVcHIxYUpzZFNTQl9uS2xYdw?oc=5",
+      "date": "2026-07-30T16:57:34.000Z",
+      "source": "News Talk KIT",
+      "sourceType": "news",
+      "notable": false,
+      "precedence": "ROUTINE",
+      "signals": []
     },
     {
       "id": "20012429097e",
@@ -319,18 +383,6 @@
       "url": "https://mastodon.social/@ScienceBob/117008027528351701",
       "date": "2026-07-30T08:40:10.696Z",
       "source": "Mastodon · @ScienceBob",
-      "sourceType": "social",
-      "notable": false,
-      "precedence": "ROUTINE",
-      "signals": []
-    },
-    {
-      "id": "ae1c8e07c347",
-      "title": "When a glowing UFO outmaneuvered a Pan Adria Airliner and MiG-21 Interceptors http:// dlvr.it/TTmhVC # mystery # orbs…",
-      "summary": "When a glowing UFO outmaneuvered a Pan Adria Airliner and MiG-21 Interceptors http:// dlvr.it/TTmhVC # mystery # orbs # spheres # UFO",
-      "url": "https://mastodon.au/@vibewire/117007930382598259",
-      "date": "2026-07-30T08:15:28.000Z",
-      "source": "Mastodon · @vibewire",
       "sourceType": "social",
       "notable": false,
       "precedence": "ROUTINE",
@@ -1092,56 +1144,6 @@
       "signals": [
         "government"
       ]
-    },
-    {
-      "id": "ac99cf947a67",
-      "title": "Wrote down my MUFON sign in information because I refuse to go until Thursday while visiting my parents without…",
-      "summary": "Wrote down my MUFON sign in information because I refuse to go until Thursday while visiting my parents without consuming # alien content and I don't have that log in saved on my laptop. # aliens # UFO # UAP # UFOs",
-      "url": "https://mas.to/@famousblueben/116935110770375622",
-      "date": "2026-07-17T11:36:29.000Z",
-      "source": "Mastodon · @famousblueben",
-      "sourceType": "social",
-      "notable": false,
-      "precedence": "ROUTINE",
-      "signals": []
-    },
-    {
-      "id": "80f2a9dd7017",
-      "title": "The underwhelming reality of the White House’s own ‘Disclosure Day’ The White House released their own \"Disclosure…",
-      "summary": "The underwhelming reality of the White House’s own ‘Disclosure Day’ The White House released their own \"Disclosure Day\" tranche of UFO files - and the result was the dampest of damp squibs. https://www. skeptic.org.uk/2026/07/the-und erwhelming-reality-of-the-white-houses-own-disclosure-day/ # UFOs",
-      "url": "https://mas.to/@TheSkeptic/116934498287951216",
-      "date": "2026-07-17T09:00:43.000Z",
-      "source": "Mastodon · @TheSkeptic",
-      "sourceType": "social",
-      "notable": true,
-      "precedence": "PRIORITY",
-      "signals": [
-        "government"
-      ]
-    },
-    {
-      "id": "ed9e86461d09",
-      "title": "Controversial astrophysicist Avi Loeb to advise US government on UFO sightings The US government repeatedly publishes…",
-      "summary": "Controversial astrophysicist Avi Loeb to advise US government on UFO sightings The US government repeatedly publishes videos and documents on UFO sightings. A controversial physicist is now supposed to help with their handling. https://www. heise.de/en/news/Controversial…",
-      "url": "https://social.heise.de/@heiseonlineenglish/116912892375427364",
-      "date": "2026-07-13T13:26:03.000Z",
-      "source": "Mastodon · @heiseonlineenglish",
-      "sourceType": "social",
-      "notable": false,
-      "precedence": "ROUTINE",
-      "signals": []
-    },
-    {
-      "id": "38d1c6b42dae",
-      "title": "Immer wieder veröffentlicht die US-Regierung Videos und Dokumente zu UFO-Sichtungen. Ein umstrittener Physiker soll…",
-      "summary": "Immer wieder veröffentlicht die US-Regierung Videos und Dokumente zu UFO-Sichtungen. Ein umstrittener Physiker soll beim Umgang damit nun helfen. #Ufos Umstrittener Astrophysiker Avi...",
-      "url": "https://fed.brid.gy/r/https://bsky.app/profile/did:plc:zv657bpskxtjkvbdd5wymjam/post/3mqjpnqaswc2k",
-      "date": "2026-07-13T12:41:05.326Z",
-      "source": "Mastodon · @heise.de",
-      "sourceType": "social",
-      "notable": false,
-      "precedence": "ROUTINE",
-      "signals": []
     }
   ]
 }
