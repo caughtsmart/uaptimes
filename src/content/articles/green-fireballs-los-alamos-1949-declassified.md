@@ -27,6 +27,8 @@ On Friday 10 July, the Department of War posted its fourth batch of declassified
 
 Most of the coverage went, understandably, to the moving pictures and the recent cases. There is a sensor video from over the Yellow Sea showing what the accompanying paperwork calls an area of contrast resembling a six-pointed star. There is an Energy Department file on a September 2015 intrusion over the Pantex plant near Amarillo, Texas — where American nuclear weapons are assembled and dismantled — in which security officers put the site into lockdown and pursued a silent, diamond-shaped object roughly four feet tall, drifting at ten to fifteen miles per hour with no propulsion system anybody could identify through binoculars. There is an aviator's account of something "unlike anything I had seen" in 28 years of service.
 
+There are also three NASA stills from the 1996 STS-80 shuttle mission, [published without the metadata that would make them interpretable](/articles/sts-80-columbia-1996-shuttle-photographs/).
+
 All of that is worth attention. But the historical document is the one that will still be cited in a decade, because unlike a video it can be read, quoted and checked.
 
 ##### Room P-162, 1300 hours

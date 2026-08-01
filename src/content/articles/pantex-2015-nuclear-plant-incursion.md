@@ -58,7 +58,7 @@ The report first reached daylight through the Freedom of Information Act, obtain
 
 Then the government released it itself. On 22 May 2026 the second PURSUE tranche included an item catalogued as DOE-UAP-D001, "Enhanced PANTEX Imagery" — two pages of surveillance-derived material including a frame from the radar tower and images enhanced by **Sandia National Laboratories**. The most informative portions were redacted.
 
-On 10 July it appeared a third time, in a batch of forty files — fourteen documents, nineteen videos, four audio files and three images, drawn from the Pentagon, NASA, the CIA, the FBI and the Department of Energy. This version carried additional narrative detail and additional imagery, and is the source of the propulsion-and-binoculars line that made most of the headlines.
+On 10 July it appeared a third time, in a batch of forty files — fourteen documents, nineteen videos, four audio files and three images, drawn from the Pentagon, NASA, the CIA, the FBI and the Department of Energy. This version carried additional narrative detail and additional imagery, and is the source of the propulsion-and-binoculars line that made most of the headlines. The three images in that batch were NASA's, and they carry [the same signature defect as the Pantex file](/articles/sts-80-columbia-1996-shuttle-photographs/): published pictures, withheld analysis.
 
 Three releases, each with a little more of the page visible. A useful reminder that "declassified" is not a binary state, and that the version of a document you are reading may simply be the version somebody has got round to unblacking.
 
