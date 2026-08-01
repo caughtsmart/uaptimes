@@ -1,9 +1,84 @@
 {
-  "updated": "2026-08-01T16:14:46.615Z",
+  "updated": "2026-08-01T19:36:36.607Z",
   "count": 90,
-  "notable": 17,
+  "notable": 18,
   "enriched": false,
   "items": [
+    {
+      "id": "da163733ca66",
+      "title": "Jacques Vallée Spent 70 Years Investigating UFOs. His Final Journal Says the Mystery Is Bigger Than Aliens.",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/UFOs/comments/1vcvct5/jacques_vallée_spent_70_years_investigating_ufos/\"> <img…",
+      "url": "https://www.reddit.com/r/UFOs/comments/1vcvct5/jacques_vallée_spent_70_years_investigating_ufos/",
+      "date": "2026-08-01T18:50:10.000Z",
+      "source": "Reddit · r/UFOs",
+      "sourceType": "social",
+      "notable": false,
+      "precedence": "ROUTINE",
+      "signals": []
+    },
+    {
+      "id": "1b9d7acb255b",
+      "title": "The Lights That Followed the ISS: What Did Astronaut Leroy Chiao Really See? There are countless stories of…",
+      "summary": "The Lights That Followed the ISS: What Did Astronaut Leroy Chiao Really See? There are countless stories of unidentified flying objects reported by ordinary people. Most are dismissed almost as quickly as they appear. Witnesses are questioned, memories are challenged, and explanations—whether…",
+      "url": "https://whispermysteries.wordpress.com/2026/08/01/the-lights-that-followed-the-iss-what-did-astronaut-leroy-chiao-really-see/",
+      "date": "2026-08-01T18:02:43.000Z",
+      "source": "Mastodon · @whispermysteries.wordpress.com",
+      "sourceType": "social",
+      "notable": false,
+      "precedence": "ROUTINE",
+      "signals": []
+    },
+    {
+      "id": "22c025655d83",
+      "title": "Navy F-18 Pilot Claims the Defense Industry Is Hiding Recovered Alien Technology http:// dlvr.it/TTphJn # UFO #…",
+      "summary": "Navy F-18 Pilot Claims the Defense Industry Is Hiding Recovered Alien Technology http:// dlvr.it/TTphJn # UFO # UFONews # ufodisclosure",
+      "url": "https://mastodon.au/@vibewire/117021362964603969",
+      "date": "2026-08-01T17:11:33.000Z",
+      "source": "Mastodon · @vibewire",
+      "sourceType": "social",
+      "notable": true,
+      "precedence": "FLASH",
+      "signals": [
+        "military/agency",
+        "aviation"
+      ]
+    },
+    {
+      "id": "c7e30fcafec3",
+      "title": "The UFO Lie Told to Engineers For Decades http:// dlvr.it/TTphJJ # UFO # UFONews # ufodisclosure",
+      "summary": "The UFO Lie Told to Engineers For Decades http:// dlvr.it/TTphJJ # UFO # UFONews # ufodisclosure",
+      "url": "https://mastodon.au/@vibewire/117021362885913884",
+      "date": "2026-08-01T17:11:32.000Z",
+      "source": "Mastodon · @vibewire",
+      "sourceType": "social",
+      "notable": false,
+      "precedence": "ROUTINE",
+      "signals": []
+    },
+    {
+      "id": "e10f7f869194",
+      "title": "Could this be a Tic-tac I saw today in Ilioupoli, Greece? — Aug 1, 2026, 12:00 PM",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/UFOs/comments/1vcss8j/could_this_be_a_tictac_i_saw_today_in_ilioupoli/\"> <img src=\"https://preview.redd.it/mftos7jnpsgh1.jpg?width=140&amp;height=140&amp;crop=1:1,smart&amp;auto=webp&amp;s=049df7711e35d1e723733480ade71bd55f10ffd9\" alt=\"Could this…",
+      "url": "https://www.reddit.com/r/UFOs/comments/1vcss8j/could_this_be_a_tictac_i_saw_today_in_ilioupoli/",
+      "date": "2026-08-01T17:07:50.000Z",
+      "source": "Reddit · r/UFOs",
+      "sourceType": "social",
+      "notable": false,
+      "precedence": "ROUTINE",
+      "signals": []
+    },
+    {
+      "id": "81cd7a1684d5",
+      "title": "Popular Mechanics - UAPs Are Out There. This Physicist Is Convinced They’re Not Human—And He’s Trying to Prove It.",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/UFOs/comments/1vcryt1/popular_mechanics_uaps_are_out_there_this/\"> <img src=\"https://external-preview.redd.it/szSgt5LmCc7R8WgersZpqO_TxFoQfN0ZqDjHy9WBgco.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=a7ead158d929940812fdcb1d12eb804f3562ea05\"…",
+      "url": "https://www.reddit.com/r/UFOs/comments/1vcryt1/popular_mechanics_uaps_are_out_there_this/",
+      "date": "2026-08-01T16:34:55.000Z",
+      "source": "Reddit · r/UFOs",
+      "sourceType": "social",
+      "notable": false,
+      "precedence": "ROUTINE",
+      "signals": []
+    },
     {
       "id": "cb8b0cc2ce34",
       "title": "UAP Have Always Been Hiding in Plain Sight",
@@ -334,20 +409,6 @@
       "signals": []
     },
     {
-      "id": "723f6e2657f9",
-      "title": "A UFO Landed “By Arrangement” in Russia, Says UK Barrister http:// dlvr.it/TTnBhS # UFO # UFONews # ufodisclosure",
-      "summary": "A UFO Landed “By Arrangement” in Russia, Says UK Barrister http:// dlvr.it/TTnBhS # UFO # UFONews # ufodisclosure",
-      "url": "https://mastodon.au/@vibewire/117010393717837311",
-      "date": "2026-07-30T18:41:55.000Z",
-      "source": "Mastodon · @vibewire",
-      "sourceType": "social",
-      "notable": false,
-      "precedence": "ROUTINE",
-      "signals": [
-        "close encounter"
-      ]
-    },
-    {
       "id": "6fc18201924a",
       "title": "THE ALIEN INTERVIEW John Lear, Bill Moore & the Secret Alien Tape PART 1",
       "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/UFOs/comments/1vb225i/the_alien_interview_john_lear_bill_moore_the/\"> <img…",
@@ -396,20 +457,6 @@
       "notable": false,
       "precedence": "ROUTINE",
       "signals": []
-    },
-    {
-      "id": "20012429097e",
-      "title": "Skinny Bob’s Latest Footage Proves They’re Real http:// dlvr.it/TTn6Pr # UFO # UFONews # ufodisclosure",
-      "summary": "Skinny Bob’s Latest Footage Proves They’re Real http:// dlvr.it/TTn6Pr # UFO # UFONews # ufodisclosure",
-      "url": "https://mastodon.au/@vibewire/117009947025835875",
-      "date": "2026-07-30T16:48:19.000Z",
-      "source": "Mastodon · @vibewire",
-      "sourceType": "social",
-      "notable": false,
-      "precedence": "ROUTINE",
-      "signals": [
-        "has media"
-      ]
     },
     {
       "id": "4bfc9f038f10",
@@ -472,35 +519,6 @@
       "notable": false,
       "precedence": "ROUTINE",
       "signals": []
-    },
-    {
-      "id": "fb34e9a7ebba",
-      "title": "A NASA photo near the International Space Station sparks UFO debate after a researcher claims it reveals a giant rectangular spacecraft",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/UFOs/comments/1var5ry/a_nasa_photo_near_the_international_space_station/\"> <img…",
-      "url": "https://www.reddit.com/r/UFOs/comments/1var5ry/a_nasa_photo_near_the_international_space_station/",
-      "date": "2026-07-30T11:38:43.000Z",
-      "source": "Reddit · r/UFOs",
-      "sourceType": "social",
-      "notable": true,
-      "precedence": "PRIORITY",
-      "signals": [
-        "military/agency",
-        "has media"
-      ]
-    },
-    {
-      "id": "ef870f49d3e6",
-      "title": "New Disclosure Foundation Policy Brief: National Preparedness Framework For The Human Consequences Of UAP Disclosure",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/UFOs/comments/1vaob8y/new_disclosure_foundation_policy_brief_national/\"> <img src=\"https://preview.redd.it/wv85boy01cgh1.png?width=140&amp;height=140&amp;crop=1:1,smart&amp;auto=webp&amp;s=96540635dc366b5bdc23ba8e0034aa2688b9b5c6\" alt=\"New…",
-      "url": "https://www.reddit.com/r/UFOs/comments/1vaob8y/new_disclosure_foundation_policy_brief_national/",
-      "date": "2026-07-30T09:05:56.000Z",
-      "source": "Reddit · r/UFOs",
-      "sourceType": "social",
-      "notable": true,
-      "precedence": "PRIORITY",
-      "signals": [
-        "government"
-      ]
     },
     {
       "id": "efc590fa773b",
@@ -567,20 +585,6 @@
       "signals": [
         "government",
         "close encounter"
-      ]
-    },
-    {
-      "id": "1101198196d9",
-      "title": "Can someone explain the core differences between the main UAP figures?",
-      "summary": "<!-- SC_OFF --><div class=\"md\"><p>I’m so confused where main UAP figures stand. I just saw the video where Elizondo was basically saying UAP Gerb was spreading lies (or something along those lines) &amp; it made me realize I don’t even know what exactly UAP Gerb believes that’s different than Lue.…",
-      "url": "https://www.reddit.com/r/UFOs/comments/1vahmza/can_someone_explain_the_core_differences_between/",
-      "date": "2026-07-30T03:07:13.000Z",
-      "source": "Reddit · r/UFOs",
-      "sourceType": "social",
-      "notable": false,
-      "precedence": "ROUTINE",
-      "signals": [
-        "has media"
       ]
     },
     {
@@ -651,7 +655,7 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMifkFVX3lxTFBiTnVUNzdWd01hc3R3Yl8zSXFkVGs1Y0c1dEhabDhNcFZDaVNHdU9vUm9tMXZRUnpXTFpoV1hEcVJQMGlvRlgtSl93N1NaNXRXV3l4TkFlQkFCY0VKcW9ER0tZcFFkVUlZVkNZQlNLLUpkc3I2UHJud2NkN0NXQQ?oc=5\" target=\"_blank\">The John Lennon song that was inspired by his U.F.O.…",
       "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBiTnVUNzdWd01hc3R3Yl8zSXFkVGs1Y0c1dEhabDhNcFZDaVNHdU9vUm9tMXZRUnpXTFpoV1hEcVJQMGlvRlgtSl93N1NaNXRXV3l4TkFlQkFCY0VKcW9ER0tZcFFkVUlZVkNZQlNLLUpkc3I2UHJud2NkN0NXQQ?oc=5",
       "date": "2026-07-29T22:31:54.000Z",
-      "source": "Gold Radio",
+      "source": "goldradio.com",
       "sourceType": "news",
       "notable": false,
       "precedence": "ROUTINE",
@@ -741,18 +745,6 @@
       "date": "2026-07-29T19:23:40.000Z",
       "source": "Mastodon · @mosescartoons",
       "sourceType": "social",
-      "notable": false,
-      "precedence": "ROUTINE",
-      "signals": []
-    },
-    {
-      "id": "3de3cedd4575",
-      "title": "UFO Files: Declassified US Report Describes Mysterious Object Over the Mediterranean",
-      "summary": "<a…",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPUW1oZDhPSTMzaVRTaHMwVTBncENveFNxMXc5Zm1SbTFXbFRqYUZOQ2h1LVZ4b09DRW8xYWNVdlJnX20wM2MtR0Q5RlZvd2xiMzQ0bHllckl4alVteHUtOTRzZ2xZZTU0M201aDg1MkNGUUVSTlRtZU1IRHNvVVcwN183MnRGQTlWSV8wcEZXbFZFUzUwUHd6dEFEdVowTkMxM0QxRnVrVXZpbnQ1NkphcWwtY05XN0lsblRqOVhxVGRoUmJEWGJvYW11clk?oc=5",
-      "date": "2026-07-29T19:14:03.000Z",
-      "source": "Nice-Matin",
-      "sourceType": "news",
       "notable": false,
       "precedence": "ROUTINE",
       "signals": []
@@ -918,18 +910,6 @@
       "signals": [
         "government"
       ]
-    },
-    {
-      "id": "400d72d01964",
-      "title": "Paul Andrews, Founder of the Woodstock of U.F.O.s, Dies at 77…",
-      "summary": "Paul Andrews, Founder of the Woodstock of U.F.O.s, Dies at 77 https://www.nytimes.com/2026/07/26/us/paul-andrews-dead.html # UFO # Obituaries # Science",
-      "url": "https://www.nytimes.com/2026/07/26/us/paul-andrews-dead.html",
-      "date": "2026-07-26T14:00:18.000Z",
-      "source": "Mastodon · @nyt_science",
-      "sourceType": "social",
-      "notable": false,
-      "precedence": "ROUTINE",
-      "signals": []
     },
     {
       "id": "254bad758873",
@@ -1114,18 +1094,6 @@
       ]
     },
     {
-      "id": "ed9e86461d09",
-      "title": "Controversial astrophysicist Avi Loeb to advise US government on UFO sightings The US government repeatedly publishes…",
-      "summary": "Controversial astrophysicist Avi Loeb to advise US government on UFO sightings The US government repeatedly publishes videos and documents on UFO sightings. A controversial physicist is now supposed to help with their handling. https://www. heise.de/en/news/Controversial…",
-      "url": "https://social.heise.de/@heiseonlineenglish/116912892375427364",
-      "date": "2026-07-13T13:26:03.000Z",
-      "source": "Mastodon · @heiseonlineenglish",
-      "sourceType": "social",
-      "notable": false,
-      "precedence": "ROUTINE",
-      "signals": []
-    },
-    {
       "id": "772ea89cd526",
       "title": "UFO: Alderney UFO Incident, Channel Islands, United Kingdom, 2007 On April 23, 2007, experienced pilots witnessed…",
       "summary": "UFO: Alderney UFO Incident, Channel Islands, United Kingdom, 2007 On April 23, 2007, experienced pilots witnessed massive UFOs over the Channel Islands. What they saw defied all explanation and remains one of aviation's greatest mysteries. # UFO # AlderneySighting # ChannelIslands #…",
@@ -1149,6 +1117,36 @@
       "precedence": "PRIORITY",
       "signals": [
         "aviation",
+        "craft shape"
+      ]
+    },
+    {
+      "id": "928b4ca18dfe",
+      "title": "UFO: Illinois Triangle Sightings, Illinois, USA, 2000 Massive triangle UFO flew over Illinois in January 2000,…",
+      "summary": "UFO: Illinois Triangle Sightings, Illinois, USA, 2000 Massive triangle UFO flew over Illinois in January 2000, witnessed by police officers and dozens of citizens. One of the most credible UFO cases in American history. # UFO # Illinois # UnexplainedMysteries # UFOSighting # TrueStory # Shorts…",
+      "url": "https://mas.to/@AroundTheWorldIOD/116791670679116783",
+      "date": "2026-06-22T03:37:47.000Z",
+      "source": "Mastodon · @AroundTheWorldIOD",
+      "sourceType": "social",
+      "notable": true,
+      "precedence": "PRIORITY",
+      "signals": [
+        "mass sighting",
+        "craft shape"
+      ]
+    },
+    {
+      "id": "386854a18dde",
+      "title": "UFO: Belgian UFO Wave, Belgium, 1989–1990 Thousands witnessed massive triangular UFOs over Belgium in the largest mass…",
+      "summary": "UFO: Belgian UFO Wave, Belgium, 1989–1990 Thousands witnessed massive triangular UFOs over Belgium in the largest mass sighting in European history. The military scrambled jets but couldn't catch them. What were these mysterious craft? # UFO # BelgianUFOWave # UFOSighting # MysteryUnsolved #…",
+      "url": "https://mas.to/@AroundTheWorldIOD/116790253057517958",
+      "date": "2026-06-21T21:37:15.000Z",
+      "source": "Mastodon · @AroundTheWorldIOD",
+      "sourceType": "social",
+      "notable": true,
+      "precedence": "PRIORITY",
+      "signals": [
+        "military/agency",
         "craft shape"
       ]
     }
