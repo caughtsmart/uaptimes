@@ -6,7 +6,7 @@ pubDate: 2026-08-01
 author: "UAP Times Desk"
 topic: "History"
 tags: ["STS-80", "Columbia", "NASA", "PURSUE", "James Oberg", "Tom Jones", "Story Musgrave", "declassified", "space shuttle"]
-heroImage: "/images/placeholder-sky.svg"
+heroImage: "/images/sts-80-columbia-1996-shuttle-photographs-hero.png"
 heroCredit: "AI-generated illustration"
 heroImageRemote: "https://d8j0ntlcm91z4.cloudfront.net/user_3H0FDLhevoDIIm5NZhOBNfDEWRH/hf_20260801_081303_1a7c767f-683e-400d-9f3f-8de71313db7d.png"
 credibility: 3
