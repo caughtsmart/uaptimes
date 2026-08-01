@@ -1,9 +1,35 @@
 {
-  "updated": "2026-08-01T13:57:56.186Z",
+  "updated": "2026-08-01T16:14:46.615Z",
   "count": 90,
   "notable": 17,
   "enriched": false,
   "items": [
+    {
+      "id": "cb8b0cc2ce34",
+      "title": "UAP Have Always Been Hiding in Plain Sight",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/UFOs/comments/1vcpl8n/uap_have_always_been_hiding_in_plain_sight/\"> <img src=\"https://preview.redd.it/kez8e8oppqgh1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=e18760d14dd4cbad67707a6a3432b20e8953033d\" alt=\"UAP Have Always Been Hiding in…",
+      "url": "https://www.reddit.com/r/UFOs/comments/1vcpl8n/uap_have_always_been_hiding_in_plain_sight/",
+      "date": "2026-08-01T14:59:04.000Z",
+      "source": "Reddit · r/UFOs",
+      "sourceType": "social",
+      "notable": false,
+      "precedence": "ROUTINE",
+      "signals": []
+    },
+    {
+      "id": "7ce7ac87448e",
+      "title": "Dr Phil Reveals ET Disclosure Will Happen With no Context nor Instructions http:// dlvr.it/TTpbBy # UFO # UFONews #…",
+      "summary": "Dr Phil Reveals ET Disclosure Will Happen With no Context nor Instructions http:// dlvr.it/TTpbBy # UFO # UFONews # ufodisclosure",
+      "url": "https://mastodon.au/@vibewire/117020694971279197",
+      "date": "2026-08-01T14:21:40.000Z",
+      "source": "Mastodon · @vibewire",
+      "sourceType": "social",
+      "notable": true,
+      "precedence": "PRIORITY",
+      "signals": [
+        "government"
+      ]
+    },
     {
       "id": "401cd5ba3a15",
       "title": "HPSCI leaders weren't part of UAPDA negotiations; Ranking Dem hasn’t seen UFO files",
@@ -386,20 +412,6 @@
       ]
     },
     {
-      "id": "383d489054c3",
-      "title": "Latest Shocking UFO Truth Congress is Not Reading http:// dlvr.it/TTn6Pp # UFO # UFONews # ufodisclosure",
-      "summary": "Latest Shocking UFO Truth Congress is Not Reading http:// dlvr.it/TTn6Pp # UFO # UFONews # ufodisclosure",
-      "url": "https://mastodon.au/@vibewire/117009946952562636",
-      "date": "2026-07-30T16:48:18.000Z",
-      "source": "Mastodon · @vibewire",
-      "sourceType": "social",
-      "notable": true,
-      "precedence": "PRIORITY",
-      "signals": [
-        "government"
-      ]
-    },
-    {
       "id": "4bfc9f038f10",
       "title": "Observations and gossip from the latest UAP science conference",
       "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/UFOs/comments/1vatoan/observations_and_gossip_from_the_latest_uap/\"> <img src=\"https://external-preview.redd.it/QPS9lRcWtglwmO1nkQoqzX78zguEIbCluMQp37C4Wxk.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=fe5b5cd3c0bc9d8a97cfe5b1cf698a04b46f9577\"…",
@@ -614,18 +626,6 @@
       "url": "https://mastodon.social/@ScienceBob/117006022153127905",
       "date": "2026-07-30T00:10:11.083Z",
       "source": "Mastodon · @ScienceBob",
-      "sourceType": "social",
-      "notable": false,
-      "precedence": "ROUTINE",
-      "signals": []
-    },
-    {
-      "id": "2fba9fb22462",
-      "title": "The Nimitz and Roosevelt Incidents: Electronic Warfare Speculation",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/UFOs/comments/1vad8uk/the_nimitz_and_roosevelt_incidents_electronic/\"> <img…",
-      "url": "https://www.reddit.com/r/UFOs/comments/1vad8uk/the_nimitz_and_roosevelt_incidents_electronic/",
-      "date": "2026-07-29T23:51:06.000Z",
-      "source": "Reddit · r/UFOs",
       "sourceType": "social",
       "notable": false,
       "precedence": "ROUTINE",
