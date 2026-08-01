@@ -1,15 +1,15 @@
 {
-  "updated": "2026-08-01T08:35:34.592Z",
+  "updated": "2026-08-01T10:50:40.516Z",
   "count": 90,
-  "notable": 16,
+  "notable": 17,
   "enriched": false,
   "items": [
     {
-      "id": "5c8f1be9f5f3",
-      "title": "FOIA Release: Australian Department of Defence stonewalled mainstream news media questions about UAPs",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/UFOs/comments/1vcgp7b/foia_release_australian_department_of_defence/\"> <img src=\"https://preview.redd.it/7zmht3alupgh1.jpg?width=140&amp;height=140&amp;crop=1:1,smart&amp;auto=webp&amp;s=cb60982ce16bc9c28341222dd56eb937f9a399c0\" alt=\"FOIA Release:…",
-      "url": "https://www.reddit.com/r/UFOs/comments/1vcgp7b/foia_release_australian_department_of_defence/",
-      "date": "2026-08-01T07:30:10.000Z",
+      "id": "263598b6df66",
+      "title": "What are the headlines on Lou Elizondo?",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>I saw his 60 Minutes interview and then read his book a few years back, but haven’t thought about him much since (I’m UFO-curious but not particularly deep in this world). It seems like he’s had a few gaffes recently that wobbled his credibility — what are those…",
+      "url": "https://www.reddit.com/r/UFOs/comments/1vck5yd/what_are_the_headlines_on_lou_elizondo/",
+      "date": "2026-08-01T10:50:18.000Z",
       "source": "Reddit · r/UFOs",
       "sourceType": "social",
       "notable": false,
@@ -17,11 +17,11 @@
       "signals": []
     },
     {
-      "id": "cb2d93c821ce",
-      "title": "Deuterium heavy water was crucial for enriching uranium for our atomic bombs during WWII, it’s essential for a fusion reactor, and it is best mined from seawater. It’s suspected to have lead to fission by Fermi while studying the 1933 Magenta UAP. Now it's been discovered on a new exoplanet.",
-      "summary": "<!-- SC_OFF --><div class=\"md\"><p>Deuterium is essential to fusion reactors and is best paired-up with tritium for such, although this hasn't been achieved in full yet. Didn't include it in the post, but I did find that fusion start-ups have been accelerating rapidly these last couple of weeks.…",
-      "url": "https://www.reddit.com/r/UFOs/comments/1vcauk9/deuterium_heavy_water_was_crucial_for_enriching/",
-      "date": "2026-08-01T02:28:56.000Z",
+      "id": "5c8f1be9f5f3",
+      "title": "FOIA Release: Australian Department of Defence stonewalled mainstream news media questions about UAPs",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/UFOs/comments/1vcgp7b/foia_release_australian_department_of_defence/\"> <img src=\"https://preview.redd.it/7zmht3alupgh1.jpg?width=140&amp;height=140&amp;crop=1:1,smart&amp;auto=webp&amp;s=cb60982ce16bc9c28341222dd56eb937f9a399c0\" alt=\"FOIA Release:…",
+      "url": "https://www.reddit.com/r/UFOs/comments/1vcgp7b/foia_release_australian_department_of_defence/",
+      "date": "2026-08-01T07:30:10.000Z",
       "source": "Reddit · r/UFOs",
       "sourceType": "social",
       "notable": false,
@@ -162,18 +162,6 @@
       "signals": []
     },
     {
-      "id": "e568ce93e3c9",
-      "title": "Dr. Phil claims Trump recruited him to review UFO files and found government cover-up",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE0xcHItbVVhTXlSVldDUWN4bk9mY25tQ2pfcFpvak05akVFZFhsaGU2WG5oUElKVmZKSFZ1VmUtaWlSSExxbGRtR3NyYjhUbDBTNFIyZ0g4NGh6bGVLLW1OYWlRZnRuZ052SzRhQ1ZkVFIwRUlJalVsYVBRS2taT2M?oc=5\" target=\"_blank\">Dr. Phil claims Trump recruited him to review UFO…",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE0xcHItbVVhTXlSVldDUWN4bk9mY25tQ2pfcFpvak05akVFZFhsaGU2WG5oUElKVmZKSFZ1VmUtaWlSSExxbGRtR3NyYjhUbDBTNFIyZ0g4NGh6bGVLLW1OYWlRZnRuZ052SzRhQ1ZkVFIwRUlJalVsYVBRS2taT2M?oc=5",
-      "date": "2026-07-31T12:49:01.000Z",
-      "source": "AOL.com",
-      "sourceType": "news",
-      "notable": false,
-      "precedence": "ROUTINE",
-      "signals": []
-    },
-    {
       "id": "22c497731fbc",
       "title": "UFO Crash in Italy in 1933. According to the so-called “Fascist UFO Files,” in 1933, an unidentified cylindrical…",
       "summary": "UFO Crash in Italy in 1933. According to the so-called “Fascist UFO Files,” in 1933, an unidentified cylindrical flying vehicle crashed near Magnanat, 25 kilometers from Milan, in northern Italy... https://anuchildren.org/ufo-crash-in-italy-in-1933/ #ufo #italy #extraterrestials",
@@ -265,7 +253,7 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTE93U1JQeHpqVVg4ZDFlQ2Y4MUlVdi1EaE9LT29ySXBNcm95d0lBUnhibW9oNzNLZEpBaVBMVFJRaXVNbGVsXzRueF9lcnVpSGFYME5NelI3b0ZLMEE?oc=5\" target=\"_blank\">UFOs: What are they and what are the most famous sightings?</a>&nbsp;&nbsp;<font…",
       "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE93U1JQeHpqVVg4ZDFlQ2Y4MUlVdi1EaE9LT29ySXBNcm95d0lBUnhibW9oNzNLZEpBaVBMVFJRaXVNbGVsXzRueF9lcnVpSGFYME5NelI3b0ZLMEE?oc=5",
       "date": "2026-07-30T19:29:21.000Z",
-      "source": "bbc.co.uk",
+      "source": "BBC",
       "sourceType": "news",
       "notable": false,
       "precedence": "ROUTINE",
@@ -329,7 +317,7 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMibEFVX3lxTE9NQklWX0F6Znk5SHh1Ykxka19xblJrU0dNd1l6RUhQMlBYWkY1dmJmTnFIUEl5QnZyNmh3UF8wdFA0R1h6Z1kzaExENmRvYkZHUF9DTU96djBNS1dVcHIxYUpzZFNTQl9uS2xYdw?oc=5\" target=\"_blank\">UFO Sighting Odds Peak in Washington on This August Night</a>&nbsp;&nbsp;<font…",
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9NQklWX0F6Znk5SHh1Ykxka19xblJrU0dNd1l6RUhQMlBYWkY1dmJmTnFIUEl5QnZyNmh3UF8wdFA0R1h6Z1kzaExENmRvYkZHUF9DTU96djBNS1dVcHIxYUpzZFNTQl9uS2xYdw?oc=5",
       "date": "2026-07-30T16:57:34.000Z",
-      "source": "News Talk KIT",
+      "source": "newstalkkit.com",
       "sourceType": "news",
       "notable": false,
       "precedence": "ROUTINE",
@@ -739,7 +727,7 @@
       "summary": "<a…",
       "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPUW1oZDhPSTMzaVRTaHMwVTBncENveFNxMXc5Zm1SbTFXbFRqYUZOQ2h1LVZ4b09DRW8xYWNVdlJnX20wM2MtR0Q5RlZvd2xiMzQ0bHllckl4alVteHUtOTRzZ2xZZTU0M201aDg1MkNGUUVSTlRtZU1IRHNvVVcwN183MnRGQTlWSV8wcEZXbFZFUzUwUHd6dEFEdVowTkMxM0QxRnVrVXZpbnQ1NkphcWwtY05XN0lsblRqOVhxVGRoUmJEWGJvYW11clk?oc=5",
       "date": "2026-07-29T19:14:03.000Z",
-      "source": "Nice-Matin",
+      "source": "nicematin.com",
       "sourceType": "news",
       "notable": false,
       "precedence": "ROUTINE",
@@ -1148,6 +1136,21 @@
       "notable": false,
       "precedence": "ROUTINE",
       "signals": []
+    },
+    {
+      "id": "40e7326a1f89",
+      "title": "UFO: Chicago O’Hare Airport Incident, Illinois, USA, 2006 On November 7, 2006, United Airlines employees witnessed a…",
+      "summary": "UFO: Chicago O’Hare Airport Incident, Illinois, USA, 2006 On November 7, 2006, United Airlines employees witnessed a metallic disc hovering over Gate C17 at O'Hare Airport. The object shot upward, punching a hole through the clouds before vanishing. What did they really see that afternoon? # UFO #…",
+      "url": "https://mas.to/@AroundTheWorldIOD/116791906232812821",
+      "date": "2026-06-22T04:37:41.000Z",
+      "source": "Mastodon · @AroundTheWorldIOD",
+      "sourceType": "social",
+      "notable": true,
+      "precedence": "PRIORITY",
+      "signals": [
+        "aviation",
+        "craft shape"
+      ]
     }
   ]
 }
