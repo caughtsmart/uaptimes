@@ -90,7 +90,7 @@ Three things, none of them a podcast.
 
 **Does the appointment happen?** An NSC or White House role is a matter of public record. It either occurs or it does not, and unlike everything else here, it comes with a date.
 
-**Does Elizondo answer the biography question?** Not "was he involved" — he has declined that for years. Whether he will now say plainly what he is and is not permitted to discuss, and under whose authority. The NDA waiver route the administration has opened is, on its own terms, the mechanism for exactly that; if it does not work for the field's most prominent former insider, that tells us something about the mechanism.
+**Does Elizondo answer the biography question?** Not "was he involved" — he has declined that for years. Whether he will now say plainly what he is and is not permitted to discuss, and under whose authority. The [NDA waiver route the administration has opened](/articles/odni-pursue-memo-uap-reporting-duty/) is, on its own terms, the mechanism for exactly that; if it does not work for the field's most prominent former insider, that tells us something about the mechanism.
 
 **Does Gerb produce anything?** A named source, a document, a dated record. The allegation currently rests entirely on inference from public behaviour, which is the same evidentiary standard the community rightly rejects when the Pentagon uses it.
 

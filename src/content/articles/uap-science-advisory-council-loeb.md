@@ -26,7 +26,7 @@ It is the most serious-looking scientific body ever pointed at this question. It
 
 Precision first, because the coverage has been loose. This is an advisory council, not an investigative office. It has no statutory authority, no subpoena power, and no place in the chain of command. It advises; agencies may listen.
 
-It also sits within the broader transparency push that has produced the PURSUE declassification tranches and, more recently, a directive waiving nondisclosure agreements for former personnel — the same machinery we examined when [the House adopted its UAP records amendment](/articles/house-uap-disclosure-amendment-ndaa-2027/) last week.
+It also sits within the broader transparency push that has produced the PURSUE declassification tranches and, more recently, a directive waiving nondisclosure agreements for former personnel, [now formalised in written ODNI guidance](/articles/odni-pursue-memo-uap-reporting-duty/) — the same machinery we examined when [the House adopted its UAP records amendment](/articles/house-uap-disclosure-amendment-ndaa-2027/) last week.
 
 Loeb has been notably careful about what the invitation implies, while still drawing a conclusion from it. "The fact that they are reaching out to scientists like myself indicates, in my mind, that they are baffled by what they are seeing," he told Fox News, "and they think that maybe it's not human-made."
 
