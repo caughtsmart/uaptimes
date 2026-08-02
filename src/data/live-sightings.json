@@ -1,9 +1,59 @@
 {
-  "updated": "2026-08-02T03:55:55.186Z",
+  "updated": "2026-08-02T08:38:31.674Z",
   "count": 90,
-  "notable": 21,
+  "notable": 22,
   "enriched": false,
   "items": [
+    {
+      "id": "56b825275724",
+      "title": "🛸 SITREP 2026-08-02 08:30 UTC 2 corroborated UAP events. Top: [A1] UAP report (Israel) https://…",
+      "summary": "🛸 SITREP 2026-08-02 08:30 UTC 2 corroborated UAP events. Top: [A1] UAP report (Israel) https:// n4hy.github.io/sciencebobnews- site # UAP # UFO # USO Powered by Science Bob News",
+      "url": "https://mastodon.social/@ScienceBob/117024975126639403",
+      "date": "2026-08-02T08:30:10.505Z",
+      "source": "Mastodon · @ScienceBob",
+      "sourceType": "social",
+      "notable": false,
+      "precedence": "ROUTINE",
+      "signals": []
+    },
+    {
+      "id": "d684b3cbb7b9",
+      "title": "The man who phoned in Canada's most famous UFO sighting became the face of the mystery",
+      "summary": "<a…",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOYlBuNTlZLU4tbHpQU0dfMVVsbUhCZTRwWEE3UGhPZTExeEZ1Mi03a2RDSGxkT1FkTVl2ZjJFejZxd1o0c2lDX1hBSE4zSmo2ckdzbEFyMGhvTE1xaWxJRC1kdXMtakFlZGpCWk9YSVdwbUZKT1FyUkYtc01FYXUyb1NKNC15Z3I1SXlIUlRIRDJ0bWZyUGRnTEFkUVVOd2VTeTNVNXBnRmJTOXlkMzhXc3k1NldpaGs?oc=5",
+      "date": "2026-08-02T08:00:00.000Z",
+      "source": "CBC",
+      "sourceType": "news",
+      "notable": false,
+      "precedence": "ROUTINE",
+      "signals": []
+    },
+    {
+      "id": "04de0651d116",
+      "title": "If UFOs are drawn to atomic sites, where would they have shown up first?",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/UFOs/comments/1vdawft/if_ufos_are_drawn_to_atomic_sites_where_would/\"> <img src=\"https://preview.redd.it/7pfsnl2oqwgh1.png?width=216&amp;crop=smart&amp;auto=webp&amp;s=7fe45ebf36aa51eec34a6c1871c85ce69289eec1\" alt=\"If UFOs are drawn to atomic…",
+      "url": "https://www.reddit.com/r/UFOs/comments/1vdawft/if_ufos_are_drawn_to_atomic_sites_where_would/",
+      "date": "2026-08-02T06:52:35.000Z",
+      "source": "Reddit · r/UFOs",
+      "sourceType": "social",
+      "notable": false,
+      "precedence": "ROUTINE",
+      "signals": []
+    },
+    {
+      "id": "85000cff28c7",
+      "title": "The Horned Beings of Brazil: Did the Military Capture Something Beyond Human Understanding? Some mysteries begin with…",
+      "summary": "The Horned Beings of Brazil: Did the Military Capture Something Beyond Human Understanding? Some mysteries begin with a whisper. Others begin with a scream. In January 1996, the quiet Brazilian city of Varginha became the center of one of the most controversial incidents in modern UFO history.…",
+      "url": "https://whispermysteries.wordpress.com/2026/08/02/the-horned-beings-of-brazil-did-the-military-capture-something-beyond-human-understanding/",
+      "date": "2026-08-02T05:06:07.000Z",
+      "source": "Mastodon · @whispermysteries.wordpress.com",
+      "sourceType": "social",
+      "notable": true,
+      "precedence": "PRIORITY",
+      "signals": [
+        "military/agency"
+      ]
+    },
     {
       "id": "51f7cf9c3a8c",
       "title": "Alien abduction and ufo sightings of pride audio interview Recovered https:// youtu.be/YMge245Z0ik # UFO # ufos #…",
@@ -28,6 +78,20 @@
       "precedence": "PRIORITY",
       "signals": [
         "government"
+      ]
+    },
+    {
+      "id": "5224d0ab4b27",
+      "title": "'Unanswered Questions' Explores Mystery of UAP Spotted at Gimhae Airport",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTE9qV19Xcy0tV2FVbE9uSGZRTlVTTHFuTWh3WktSM0V1MnlVb19GNE9xM01iVjZrcEZVakxLZlg3a2xyQjV1NFJJTkdRSGhUSjRieldCY0xKV0xBVTF6V1FwUmRET1hHRWR6RGc?oc=5\" target=\"_blank\">'Unanswered Questions' Explores Mystery of UAP Spotted at Gimhae…",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9qV19Xcy0tV2FVbE9uSGZRTlVTTHFuTWh3WktSM0V1MnlVb19GNE9xM01iVjZrcEZVakxLZlg3a2xyQjV1NFJJTkdRSGhUSjRieldCY0xKV0xBVTF6V1FwUmRET1hHRWR6RGc?oc=5",
+      "date": "2026-08-01T22:10:00.000Z",
+      "source": "news.sbs.co.kr",
+      "sourceType": "news",
+      "notable": true,
+      "precedence": "PRIORITY",
+      "signals": [
+        "aviation"
       ]
     },
     {
@@ -213,7 +277,7 @@
       "summary": "<a…",
       "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPMEcwVkhWRHpCZ1RaZjZ4NE5xeGlObzBDLXRsMHlUZ3hEdnJkcDNhbFRtaDR1YlZsU212eDhWLWVUT2lHczEwMUFBaHFXSnhIV1NsMWxGRFozd0lFSDc4OUpFS0tPY0h6bTFnd3Rsc3BQWHBFbjZsQ2pjSy1BVjIzbGhmNVA5Q2YzNjhpRVhxclpNY2JmREEtckg1dFB6R0V4UlpXUkpEc1pTeTJQZjVJd3BiX0tzQktHNEF2RlRvSlRUb1NI?oc=5",
       "date": "2026-08-01T13:34:37.000Z",
-      "source": "ibtimes.co.uk",
+      "source": "International Business Times UK",
       "sourceType": "news",
       "notable": false,
       "precedence": "ROUTINE",
@@ -413,30 +477,6 @@
       "signals": []
     },
     {
-      "id": "22c497731fbc",
-      "title": "UFO Crash in Italy in 1933. According to the so-called “Fascist UFO Files,” in 1933, an unidentified cylindrical…",
-      "summary": "UFO Crash in Italy in 1933. According to the so-called “Fascist UFO Files,” in 1933, an unidentified cylindrical flying vehicle crashed near Magnanat, 25 kilometers from Milan, in northern Italy... https://anuchildren.org/ufo-crash-in-italy-in-1933/ #ufo #italy #extraterrestials",
-      "url": "https://fe.disroot.org/objects/ec45c00a-64b4-4b89-968f-5e57a285c8dd",
-      "date": "2026-07-31T12:04:50.321Z",
-      "source": "Mastodon · @anuchild",
-      "sourceType": "social",
-      "notable": false,
-      "precedence": "ROUTINE",
-      "signals": []
-    },
-    {
-      "id": "66a8cb8eba22",
-      "title": "UFO Crash in Italy in 1933. According to the so-called “Fascist UFO Files,” in 1933, an unidentified cylindrical…",
-      "summary": "UFO Crash in Italy in 1933. According to the so-called “Fascist UFO Files,” in 1933, an unidentified cylindrical flying vehicle crashed near Magnanat, 25 kilometers from Milan, in northern Italy... https:// anuchildren.org/ufo-crash-in-i taly-in-1933/ # ufo # italy # extraterrestials",
-      "url": "https://mastodon.social/@pavroo/117014492779611942",
-      "date": "2026-07-31T12:04:22.590Z",
-      "source": "Mastodon · @pavroo",
-      "sourceType": "social",
-      "notable": false,
-      "precedence": "ROUTINE",
-      "signals": []
-    },
-    {
       "id": "b8c7efdeb624",
       "title": "Richard Dolan questions Gerb's claims about Lue and the Legacy program",
       "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/UFOs/comments/1vbmrek/richard_dolan_questions_gerbs_claims_about_lue/\"> <img…",
@@ -542,7 +582,7 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMibEFVX3lxTE9NQklWX0F6Znk5SHh1Ykxka19xblJrU0dNd1l6RUhQMlBYWkY1dmJmTnFIUEl5QnZyNmh3UF8wdFA0R1h6Z1kzaExENmRvYkZHUF9DTU96djBNS1dVcHIxYUpzZFNTQl9uS2xYdw?oc=5\" target=\"_blank\">UFO Sighting Odds Peak in Washington on This August Night</a>&nbsp;&nbsp;<font…",
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9NQklWX0F6Znk5SHh1Ykxka19xblJrU0dNd1l6RUhQMlBYWkY1dmJmTnFIUEl5QnZyNmh3UF8wdFA0R1h6Z1kzaExENmRvYkZHUF9DTU96djBNS1dVcHIxYUpzZFNTQl9uS2xYdw?oc=5",
       "date": "2026-07-30T16:57:34.000Z",
-      "source": "News Talk KIT",
+      "source": "newstalkkit.com",
       "sourceType": "news",
       "notable": false,
       "precedence": "ROUTINE",
@@ -554,7 +594,7 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMickFVX3lxTE1IZUV6TUlIOWdHRXNzYkFpNHQ4d0JaUHIwSUQ5TDNwdV9ycEdLTGh4UVpDd2RZT3F0SGpocjhXeVd4aTFza3ZqY1J6WllXenc1aVlqcUVtcDZITk9oWU8zSlZtT1FsdnRBY25MNzB0WXJndw?oc=5\" target=\"_blank\">UFO Sighting in a Dead Galaxy!</a>&nbsp;&nbsp;<font…",
       "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1IZUV6TUlIOWdHRXNzYkFpNHQ4d0JaUHIwSUQ5TDNwdV9ycEdLTGh4UVpDd2RZT3F0SGpocjhXeVd4aTFza3ZqY1J6WllXenc1aVlqcUVtcDZITk9oWU8zSlZtT1FsdnRBY25MNzB0WXJndw?oc=5",
       "date": "2026-07-30T11:49:21.000Z",
-      "source": "astrobites.org",
+      "source": "Astrobites",
       "sourceType": "news",
       "notable": false,
       "precedence": "ROUTINE",
@@ -716,18 +756,6 @@
       "signals": [
         "has media"
       ]
-    },
-    {
-      "id": "df042d1e8e7d",
-      "title": "https://www. 21stcentech.com/alone-in-the-u niverse-not-so-fast-part-1-ufos-uaps-martians-and-asteroids/ # ufo # uap #…",
-      "summary": "https://www. 21stcentech.com/alone-in-the-u niverse-not-so-fast-part-1-ufos-uaps-martians-and-asteroids/ # ufo # uap # lifeintheuniverse",
-      "url": "https://mastodon.social/@Lenrosen4/117005218599911115",
-      "date": "2026-07-29T20:45:49.846Z",
-      "source": "Mastodon · @Lenrosen4",
-      "sourceType": "social",
-      "notable": false,
-      "precedence": "ROUTINE",
-      "signals": []
     },
     {
       "id": "d526013ba25c",
@@ -1127,34 +1155,6 @@
         "military/agency",
         "craft shape"
       ]
-    },
-    {
-      "id": "d633e0df31b9",
-      "title": "UFO: Japan Airlines Flight 1628 Incident, Alaska, USA, 1986 November 1986: A Japanese cargo pilot encounters massive…",
-      "summary": "UFO: Japan Airlines Flight 1628 Incident, Alaska, USA, 1986 November 1986: A Japanese cargo pilot encounters massive UFOs over Alaska in one of aviation's most credible sightings. FAA confirmed. Military radar tracked it. What was really up there? # UFO # AlaskaUFO # JapanAirlines # UFOSighting #…",
-      "url": "https://mas.to/@AroundTheWorldIOD/116790018737814444",
-      "date": "2026-06-21T20:37:40.000Z",
-      "source": "Mastodon · @AroundTheWorldIOD",
-      "sourceType": "social",
-      "notable": true,
-      "precedence": "FLASH",
-      "signals": [
-        "military/agency",
-        "aviation",
-        "instrumented"
-      ]
-    },
-    {
-      "id": "8dd671b71228",
-      "title": "UFO: Exeter Incident, New Hampshire, USA, 1965 The night police witnessed a UFO in Exeter, New Hampshire changed…",
-      "summary": "UFO: Exeter Incident, New Hampshire, USA, 1965 The night police witnessed a UFO in Exeter, New Hampshire changed everything. September 1965 brought one of the most credible UFO encounters in history. # UFO # ExeterIncident # NewHampshire # UFOSighting # TrueStory # Shorts from Around The World In…",
-      "url": "https://mas.to/@AroundTheWorldIOD/116717587591706268",
-      "date": "2026-06-09T01:37:28.000Z",
-      "source": "Mastodon · @AroundTheWorldIOD",
-      "sourceType": "social",
-      "notable": false,
-      "precedence": "ROUTINE",
-      "signals": []
     }
   ]
 }
