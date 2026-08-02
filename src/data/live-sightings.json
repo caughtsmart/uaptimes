@@ -1,9 +1,48 @@
 {
-  "updated": "2026-08-02T10:52:07.437Z",
-  "count": 90,
+  "updated": "2026-08-02T13:58:58.888Z",
+  "count": 88,
   "notable": 20,
   "enriched": false,
   "items": [
+    {
+      "id": "22085aff7977",
+      "title": "🛸 SITREP 2026-08-02 11:20 UTC 1 corroborated UAP events. Top: [A1] UAP report https:// n4hy.github.io/sciencebobnews-…",
+      "summary": "🛸 SITREP 2026-08-02 11:20 UTC 1 corroborated UAP events. Top: [A1] UAP report https:// n4hy.github.io/sciencebobnews- site # UAP # UFO # USO Powered by Science Bob News",
+      "url": "https://mastodon.social/@ScienceBob/117025643560739697",
+      "date": "2026-08-02T11:20:10.006Z",
+      "source": "Mastodon · @ScienceBob",
+      "sourceType": "social",
+      "notable": false,
+      "precedence": "ROUTINE",
+      "signals": []
+    },
+    {
+      "id": "769acc7b48ba",
+      "title": "🛸 SITREP 2026-08-02 11:10 UTC 2 corroborated UAP events. Top: [A1] UAP whistleblower testimony reported https://…",
+      "summary": "🛸 SITREP 2026-08-02 11:10 UTC 2 corroborated UAP events. Top: [A1] UAP whistleblower testimony reported https:// n4hy.github.io/sciencebobnews- site # UAP # UFO # USO Powered by Science Bob News",
+      "url": "https://mastodon.social/@ScienceBob/117025604268322993",
+      "date": "2026-08-02T11:10:10.447Z",
+      "source": "Mastodon · @ScienceBob",
+      "sourceType": "social",
+      "notable": false,
+      "precedence": "ROUTINE",
+      "signals": []
+    },
+    {
+      "id": "48430e2e53cf",
+      "title": "Pilot issues 'flying saucer' alert after spotting UFO while landing at Gatwick",
+      "summary": "<a…",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNV3B2MUItS3p5ZEZGak5ianROendiNXQ2NUJIRHJwbjB4d0o0OXd5alQ2dzRlcHM0MXpDekVPWEVYUUdmeGNsVkdkOUkwRGtKaldJeVd4aWVyd2F4Sm94ZkpnaUNqRVE0WEx1SnJ6RF8yTXdHR0t6X2t2UWloSWxjTUVNQ2fSAYoBQVVfeXFMUC1kMGRjNEE0dlJ1ZzZteUlhaWg0NXdXX2N2QVZfOG9fTkVMLTNHTHAwTXo5dmdkbHZmRG9LS2Uxak1ldGdWd29PUGZDYUY3QzY4aVVNYmFpUGgyTjdWNEV1MEJwM2hGTUZxcFJwQTIzeHZCbFhIX0hZVzhSeDZqMGdfUWZZN0RnZWVR?oc=5",
+      "date": "2026-08-02T10:08:00.000Z",
+      "source": "mirror.co.uk",
+      "sourceType": "news",
+      "notable": true,
+      "precedence": "PRIORITY",
+      "signals": [
+        "aviation",
+        "close encounter"
+      ]
+    },
     {
       "id": "bb7e6f5e5a7b",
       "title": "The alien abduction and ufo sightings of pride recovered https:// youtube.com/watch?v=YMge245Z0i k&is=91OPdG2I7ZBtPYbO…",
@@ -250,7 +289,7 @@
       "title": "UFOs: What are they and what are the most famous sightings?",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTE93U1JQeHpqVVg4ZDFlQ2Y4MUlVdi1EaE9LT29ySXBNcm95d0lBUnhibW9oNzNLZEpBaVBMVFJRaXVNbGVsXzRueF9lcnVpSGFYME5NelI3b0ZLMEE?oc=5\" target=\"_blank\">UFOs: What are they and what are the most famous sightings?</a>&nbsp;&nbsp;<font…",
       "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE93U1JQeHpqVVg4ZDFlQ2Y4MUlVdi1EaE9LT29ySXBNcm95d0lBUnhibW9oNzNLZEpBaVBMVFJRaXVNbGVsXzRueF9lcnVpSGFYME5NelI3b0ZLMEE?oc=5",
-      "date": "2026-08-01T10:41:34.000Z",
+      "date": "2026-08-01T01:54:48.000Z",
       "source": "BBC",
       "sourceType": "news",
       "notable": false,
@@ -262,27 +301,13 @@
       "title": "Are Humans Really the Top Intelligence? - Joe Rogan and Diana Pasulka # ufo # disclosure # intelligence Original…",
       "summary": "Are Humans Really the Top Intelligence? - Joe Rogan and Diana Pasulka # ufo # disclosure # intelligence Original timestamp: 01:45:49",
       "url": "https://mastodon.social/@trndgtr/117016162188200391",
-      "date": "2026-07-31T19:08:55.749Z",
+      "date": "2026-07-31T19:08:55.000Z",
       "source": "Mastodon · @trndgtr",
       "sourceType": "social",
       "notable": true,
       "precedence": "PRIORITY",
       "signals": [
         "government"
-      ]
-    },
-    {
-      "id": "48e94c939cdd",
-      "title": "The Alien Who Walked Into the Pentagon… Nobody Stopped Him http:// dlvr.it/TTnvYH # UFO # UFONews # ufodisclosure",
-      "summary": "The Alien Who Walked Into the Pentagon… Nobody Stopped Him http:// dlvr.it/TTnvYH # UFO # UFONews # ufodisclosure",
-      "url": "https://mastodon.au/@vibewire/117015325213098990",
-      "date": "2026-07-31T15:36:04.000Z",
-      "source": "Mastodon · @vibewire",
-      "sourceType": "social",
-      "notable": true,
-      "precedence": "PRIORITY",
-      "signals": [
-        "military/agency"
       ]
     },
     {
@@ -374,18 +399,6 @@
       "signals": []
     },
     {
-      "id": "dd2ac03c1ee5",
-      "title": "UFO Sighting in a Dead Galaxy!",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMickFVX3lxTE1IZUV6TUlIOWdHRXNzYkFpNHQ4d0JaUHIwSUQ5TDNwdV9ycEdLTGh4UVpDd2RZT3F0SGpocjhXeVd4aTFza3ZqY1J6WllXenc1aVlqcUVtcDZITk9oWU8zSlZtT1FsdnRBY25MNzB0WXJndw?oc=5\" target=\"_blank\">UFO Sighting in a Dead Galaxy!</a>&nbsp;&nbsp;<font…",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1IZUV6TUlIOWdHRXNzYkFpNHQ4d0JaUHIwSUQ5TDNwdV9ycEdLTGh4UVpDd2RZT3F0SGpocjhXeVd4aTFza3ZqY1J6WllXenc1aVlqcUVtcDZITk9oWU8zSlZtT1FsdnRBY25MNzB0WXJndw?oc=5",
-      "date": "2026-07-30T11:49:21.000Z",
-      "source": "Astrobites",
-      "sourceType": "news",
-      "notable": false,
-      "precedence": "ROUTINE",
-      "signals": []
-    },
-    {
       "id": "efc590fa773b",
       "title": "🛸 SITREP 2026-07-30 08:40 UTC 1 corroborated UAP events. Top: [A1] UAP report (Australia) https://…",
       "summary": "🛸 SITREP 2026-07-30 08:40 UTC 1 corroborated UAP events. Top: [A1] UAP report (Australia) https:// n4hy.github.io/sciencebobnews- site # UAP # UFO # USO Powered by Science Bob News",
@@ -471,30 +484,6 @@
       "url": "https://meow.social/@daemonicusprince/117006334160303593",
       "date": "2026-07-30T01:29:31.000Z",
       "source": "Mastodon · @daemonicusprince",
-      "sourceType": "social",
-      "notable": false,
-      "precedence": "ROUTINE",
-      "signals": []
-    },
-    {
-      "id": "15a9972f3f96",
-      "title": "🛸 SITREP 2026-07-30 00:50 UTC 1 corroborated UAP events. Top: [A1] UAP report (Australia) https://…",
-      "summary": "🛸 SITREP 2026-07-30 00:50 UTC 1 corroborated UAP events. Top: [A1] UAP report (Australia) https:// n4hy.github.io/sciencebobnews- site # UAP # UFO # USO Powered by Science Bob News",
-      "url": "https://mastodon.social/@ScienceBob/117006179412983426",
-      "date": "2026-07-30T00:50:10.679Z",
-      "source": "Mastodon · @ScienceBob",
-      "sourceType": "social",
-      "notable": false,
-      "precedence": "ROUTINE",
-      "signals": []
-    },
-    {
-      "id": "cf53c5f1c2ba",
-      "title": "🛸 SITREP 2026-07-30 00:10 UTC 1 corroborated UAP events. Top: [A1] UAP whistleblower testimony reported https://…",
-      "summary": "🛸 SITREP 2026-07-30 00:10 UTC 1 corroborated UAP events. Top: [A1] UAP whistleblower testimony reported https:// n4hy.github.io/sciencebobnews- site # UAP # UFO # USO Powered by Science Bob News",
-      "url": "https://mastodon.social/@ScienceBob/117006022153127905",
-      "date": "2026-07-30T00:10:11.083Z",
-      "source": "Mastodon · @ScienceBob",
       "sourceType": "social",
       "notable": false,
       "precedence": "ROUTINE",
@@ -789,18 +778,6 @@
       "signals": [
         "government"
       ]
-    },
-    {
-      "id": "ac99cf947a67",
-      "title": "Wrote down my MUFON sign in information because I refuse to go until Thursday while visiting my parents without…",
-      "summary": "Wrote down my MUFON sign in information because I refuse to go until Thursday while visiting my parents without consuming # alien content and I don't have that log in saved on my laptop. # aliens # UFO # UAP # UFOs",
-      "url": "https://mas.to/@famousblueben/116935110770375622",
-      "date": "2026-07-17T11:36:29.000Z",
-      "source": "Mastodon · @famousblueben",
-      "sourceType": "social",
-      "notable": false,
-      "precedence": "ROUTINE",
-      "signals": []
     },
     {
       "id": "772ea89cd526",
