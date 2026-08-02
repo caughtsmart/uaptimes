@@ -1,0 +1,19 @@
+---
+// Reserved advertising slot. Renders nothing while ADS_ENABLED is false
+// (pre-authorisation); once enabled, the fixed min-heights in global.css
+// (.ad-slot / .ad-slot.compact) mean filling the slots later causes zero
+// layout shift. Flip the one flag below to bring every slot back.
+const ADS_ENABLED = false;
+
+interface Props {
+  compact?: boolean;
+}
+
+const { compact = false } = Astro.props;
+---
+
+{ADS_ENABLED && (
+  <aside class:list={['ad-slot', { compact }]} aria-label="Advertisement placeholder">
+    <span class="ad-label">Advertisement</span>
+  </aside>
+)}

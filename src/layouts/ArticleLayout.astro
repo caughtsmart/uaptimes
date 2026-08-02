@@ -3,6 +3,7 @@ import type { CollectionEntry } from 'astro:content';
 import { getCollection } from 'astro:content';
 import BaseLayout from './BaseLayout.astro';
 import ShareBar from '../components/ShareBar.astro';
+import AdSlot from '../components/AdSlot.astro';
 
 interface Props { article: CollectionEntry<'articles'>; }
 const { article } = Astro.props;
@@ -90,6 +91,8 @@ const topicSlug = slugify(data.topic);
       )}
 
       <ShareBar url={shareUrl} title={data.title} />
+
+      <AdSlot />
     </div>
 
     <div class="prose"><a class="back-link" href="/">← Back to the latest</a></div>

@@ -943,3 +943,34 @@ html.search-lock { overflow: hidden; }
   color: var(--text-dim);
 }
 .map-cred-note a { color: var(--link); }
+
+/* ---------------------------------------------------------------
+   Reserved ad slots — sized now, empty until the site is authorised
+   to serve ads. Fixed min-heights so filling them causes no layout
+   shift. Styled as a faint "space reserved" document panel.
+----------------------------------------------------------------*/
+.ad-slot {
+  min-height: 280px;
+  margin: 2.25rem 0;
+  border: 1px dashed var(--border-ink);
+  background: repeating-linear-gradient(
+    45deg,
+    transparent 0 14px,
+    rgba(106, 98, 80, 0.05) 14px 15px
+  );
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.ad-slot.compact {
+  min-height: 100px;
+}
+
+.ad-slot .ad-label {
+  font-family: var(--font-mono);
+  font-size: 0.65rem;
+  letter-spacing: 0.18em;
+  text-transform: uppercase;
+  color: var(--border-ink);
+}
