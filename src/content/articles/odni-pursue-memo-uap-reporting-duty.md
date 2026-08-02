@@ -6,7 +6,7 @@ pubDate: 2026-08-02
 author: "UAP Times Desk"
 topic: "Government & Disclosure"
 tags: ["ODNI", "Aaron Lukas", "PURSUE", "AARO", "NDAs", "Eric Burlison", "Chris Mellon", "whistleblowers"]
-heroImage: "/images/placeholder-sky.svg"
+heroImage: "/images/odni-pursue-memo-uap-reporting-duty-hero.png"
 heroCredit: "AI-generated illustration"
 heroImageRemote: "https://d8j0ntlcm91z4.cloudfront.net/user_3H0FDLhevoDIIm5NZhOBNfDEWRH/hf_20260802_081333_798869c6-997b-4323-98f2-9479b261f957.png"
 credibility: 2
