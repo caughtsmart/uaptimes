@@ -1,7 +1,7 @@
 {
-  "updated": "2026-08-03T20:00:49.660Z",
+  "updated": "2026-08-03T22:19:10.048Z",
   "count": 90,
-  "notable": 21,
+  "notable": 20,
   "enriched": false,
   "items": [
     {
@@ -17,6 +17,20 @@
       "signals": [
         "government",
         "close encounter"
+      ]
+    },
+    {
+      "id": "870e67a4ffe2",
+      "title": "Pentagon releases declassified UFO files from various federal agencies",
+      "summary": "<a…",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQbHVBS3VqSGpNSmgxTWtIa2c3aDI2WE5vS2pfVXRFNjNZd3BlWUdILWh6b245RDMtOXk3Yk91UXktV3k4ckR1dTh1R1lVbFR4MFpLRnhXVmFMMGNsaWs3SXpaTHdzekxQNmRUQkktTHMwTjU3d3V2Z2R4akdIeEM4VGlnNFFzTVVzTXprS1AyT2l3MWdGaDJxUEFiWjBMc3BwMVHSAacBQVVfeXFMUGJvM2xwYk1mVU9OYW1haDlYZlhfaF83ekszcWZrbXRWTzMtZXNOOXNYR1loRThfWElkd3NiVllpX1ZuOGV1eDQ2NHQ5aDR2M1FKZDJmb0Y5TDYzTE53T0lNQ0FvUXQ3QmtYb09QVlRRRGV2eWFjOVJFcUVCVkF1YUlkSkRGclM0eUJVV0VLSl9UZmtBb1ZKUVRtTFhoUUFXWnFiQ1hqSzQ?oc=5",
+      "date": "2026-08-03T18:44:59.000Z",
+      "source": "ABC News - Breaking News, Latest News and Videos",
+      "sourceType": "news",
+      "notable": true,
+      "precedence": "PRIORITY",
+      "signals": [
+        "military/agency"
       ]
     },
     {
@@ -63,7 +77,7 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxQYUdRd1ZLWHZMX0k4QTVhNEpRTzhjWDlSTTlRR2FTa0tNdW9XbW4tdmdySkN5WTdRZWxROUZyVG1YZmtCN0FKSzZodTgxalVueG1MWXJqdFFOTEtza085U1FGYzU5clRoV25ORlBrQTBrQWFTNm44TUJFbTFWYzNNLXhuSXhBMER0VWFBeUZTakJ1TzY3bEVCckl0RVc2VW8?oc=5\" target=\"_blank\">UFO…",
       "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQYUdRd1ZLWHZMX0k4QTVhNEpRTzhjWDlSTTlRR2FTa0tNdW9XbW4tdmdySkN5WTdRZWxROUZyVG1YZmtCN0FKSzZodTgxalVueG1MWXJqdFFOTEtza085U1FGYzU5clRoV25ORlBrQTBrQWFTNm44TUJFbTFWYzNNLXhuSXhBMER0VWFBeUZTakJ1TzY3bEVCckl0RVc2VW8?oc=5",
       "date": "2026-08-03T14:47:00.000Z",
-      "source": "northnorfolknews.co.uk",
+      "source": "North Norfolk News",
       "sourceType": "news",
       "notable": false,
       "precedence": "ROUTINE",
@@ -460,6 +474,18 @@
       "signals": []
     },
     {
+      "id": "38d6c6d098b3",
+      "title": "Werner Books and Coffee UFO Days celebrates local urban legend",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMifEFVX3lxTFBYWlhXb1VWVk5UNjJFX1FjZlNTWVA5M1RfR2tiX0ZVc01CVl9Jdy0wbkwzLVdyaE4zZ0FtVWxlUU1IOVhRZXBIWUo2MWxqYmZpbUlzYm9lU2Iyb3JyTXJsczZ6OUtWVE9EYjFpYnRlX2NzOGZocmJ3TU9ubS0?oc=5\" target=\"_blank\">Werner Books and Coffee UFO Days celebrates local urban…",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBYWlhXb1VWVk5UNjJFX1FjZlNTWVA5M1RfR2tiX0ZVc01CVl9Jdy0wbkwzLVdyaE4zZ0FtVWxlUU1IOVhRZXBIWUo2MWxqYmZpbUlzYm9lU2Iyb3JyTXJsczZ6OUtWVE9EYjFpYnRlX2NzOGZocmJ3TU9ubS0?oc=5",
+      "date": "2026-08-02T21:14:05.000Z",
+      "source": "AOL.com",
+      "sourceType": "news",
+      "notable": false,
+      "precedence": "ROUTINE",
+      "signals": []
+    },
+    {
       "id": "e9e8195fefdf",
       "title": "They Told UAP Whistleblowers To Come Forward. Matthew Brown Says It's A Trap.",
       "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/UFOs/comments/1vdtpin/they_told_uap_whistleblowers_to_come_forward/\"> <img…",
@@ -541,7 +567,7 @@
       "summary": "<a…",
       "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNV3B2MUItS3p5ZEZGak5ianROendiNXQ2NUJIRHJwbjB4d0o0OXd5alQ2dzRlcHM0MXpDekVPWEVYUUdmeGNsVkdkOUkwRGtKaldJeVd4aWVyd2F4Sm94ZkpnaUNqRVE0WEx1SnJ6RF8yTXdHR0t6X2t2UWloSWxjTUVNQ2fSAYoBQVVfeXFMUC1kMGRjNEE0dlJ1ZzZteUlhaWg0NXdXX2N2QVZfOG9fTkVMLTNHTHAwTXo5dmdkbHZmRG9LS2Uxak1ldGdWd29PUGZDYUY3QzY4aVVNYmFpUGgyTjdWNEV1MEJwM2hGTUZxcFJwQTIzeHZCbFhIX0hZVzhSeDZqMGdfUWZZN0RnZWVR?oc=5",
       "date": "2026-08-02T10:08:00.000Z",
-      "source": "mirror.co.uk",
+      "source": "The Mirror",
       "sourceType": "news",
       "notable": true,
       "precedence": "PRIORITY",
@@ -748,6 +774,18 @@
       "date": "2026-08-01T14:59:04.000Z",
       "source": "Reddit · r/UFOs",
       "sourceType": "social",
+      "notable": false,
+      "precedence": "ROUTINE",
+      "signals": []
+    },
+    {
+      "id": "88308a7cde41",
+      "title": "Learn About Japan’s Centuries-Old Legend of the Hollow UFO Ship",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTFBGS1dhMVRfQWxXN05EenItM2VoaDQzRUlORElVWXNvVTFfTkVEUWJyV2hEbTdoQ3d2Q2tIVkxhd3dZZFBMQmljWHphcEQzVWYxak5jbHNmMTFCQQ?oc=5\" target=\"_blank\">Learn About Japan’s Centuries-Old Legend of the Hollow UFO Ship</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">My…",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBGS1dhMVRfQWxXN05EenItM2VoaDQzRUlORElVWXNvVTFfTkVEUWJyV2hEbTdoQ3d2Q2tIVkxhd3dZZFBMQmljWHphcEQzVWYxak5jbHNmMTFCQQ?oc=5",
+      "date": "2026-08-01T13:49:18.000Z",
+      "source": "My Modern Met",
+      "sourceType": "news",
       "notable": false,
       "precedence": "ROUTINE",
       "signals": []
@@ -1108,49 +1146,6 @@
         "mass sighting",
         "craft shape"
       ]
-    },
-    {
-      "id": "386854a18dde",
-      "title": "UFO: Belgian UFO Wave, Belgium, 1989–1990 Thousands witnessed massive triangular UFOs over Belgium in the largest mass…",
-      "summary": "UFO: Belgian UFO Wave, Belgium, 1989–1990 Thousands witnessed massive triangular UFOs over Belgium in the largest mass sighting in European history. The military scrambled jets but couldn't catch them. What were these mysterious craft? # UFO # BelgianUFOWave # UFOSighting # MysteryUnsolved #…",
-      "url": "https://mas.to/@AroundTheWorldIOD/116790253057517958",
-      "date": "2026-06-21T21:37:15.000Z",
-      "source": "Mastodon · @AroundTheWorldIOD",
-      "sourceType": "social",
-      "notable": true,
-      "precedence": "PRIORITY",
-      "signals": [
-        "military/agency",
-        "craft shape"
-      ]
-    },
-    {
-      "id": "d633e0df31b9",
-      "title": "UFO: Japan Airlines Flight 1628 Incident, Alaska, USA, 1986 November 1986: A Japanese cargo pilot encounters massive…",
-      "summary": "UFO: Japan Airlines Flight 1628 Incident, Alaska, USA, 1986 November 1986: A Japanese cargo pilot encounters massive UFOs over Alaska in one of aviation's most credible sightings. FAA confirmed. Military radar tracked it. What was really up there? # UFO # AlaskaUFO # JapanAirlines # UFOSighting #…",
-      "url": "https://mas.to/@AroundTheWorldIOD/116790018737814444",
-      "date": "2026-06-21T20:37:40.000Z",
-      "source": "Mastodon · @AroundTheWorldIOD",
-      "sourceType": "social",
-      "notable": true,
-      "precedence": "FLASH",
-      "signals": [
-        "military/agency",
-        "aviation",
-        "instrumented"
-      ]
-    },
-    {
-      "id": "8dd671b71228",
-      "title": "UFO: Exeter Incident, New Hampshire, USA, 1965 The night police witnessed a UFO in Exeter, New Hampshire changed…",
-      "summary": "UFO: Exeter Incident, New Hampshire, USA, 1965 The night police witnessed a UFO in Exeter, New Hampshire changed everything. September 1965 brought one of the most credible UFO encounters in history. # UFO # ExeterIncident # NewHampshire # UFOSighting # TrueStory # Shorts from Around The World In…",
-      "url": "https://mas.to/@AroundTheWorldIOD/116717587591706268",
-      "date": "2026-06-09T01:37:28.000Z",
-      "source": "Mastodon · @AroundTheWorldIOD",
-      "sourceType": "social",
-      "notable": false,
-      "precedence": "ROUTINE",
-      "signals": []
     }
   ]
 }
