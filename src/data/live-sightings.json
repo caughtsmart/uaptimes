@@ -1,9 +1,50 @@
 {
-  "updated": "2026-08-03T15:19:54.485Z",
+  "updated": "2026-08-03T20:00:49.660Z",
   "count": 90,
-  "notable": 19,
+  "notable": 21,
   "enriched": false,
   "items": [
+    {
+      "id": "3a1bcc397bd8",
+      "title": "\"Liberation Times understands that the [presidential NHI disclosure] speech is now under consideration. It could be delivered before this November’s midterm elections. If it is not delivered by then, any plans could be abandoned\"",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>This was just <a href=\"https://www.liberationtimes.com/home/ufo-history-is-being-shaped-in-washington-no-one-knows-how-this-ends\">posted on Liberation Times</a></p> <p>Some quotes (but the headings are added by me):</p> <h1>The presidential disclosure speech</h1>…",
+      "url": "https://www.reddit.com/r/UFOs/comments/1ven64e/liberation_times_understands_that_the/",
+      "date": "2026-08-03T19:21:59.000Z",
+      "source": "Reddit · r/UFOs",
+      "sourceType": "social",
+      "notable": true,
+      "precedence": "PRIORITY",
+      "signals": [
+        "government",
+        "close encounter"
+      ]
+    },
+    {
+      "id": "88eca4250fb6",
+      "title": "UAP Crash Retrievals: Why only from 1933 or 1947 onward?",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>The whole topic of recovering crashed UAP debris leaves me quite puzzled.</p> <p>It seems that military organizations only started collecting these materials in the early 20th century, as if no crashes had ever occurred before then.</p> <p>That seems unlikely.</p>…",
+      "url": "https://www.reddit.com/r/UFOs/comments/1veioy9/uap_crash_retrievals_why_only_from_1933_or_1947/",
+      "date": "2026-08-03T16:41:38.000Z",
+      "source": "Reddit · r/UFOs",
+      "sourceType": "social",
+      "notable": true,
+      "precedence": "PRIORITY",
+      "signals": [
+        "military/agency"
+      ]
+    },
+    {
+      "id": "fa34960514c5",
+      "title": "Tall Whites Have Been Here for Thousands of Years http:// dlvr.it/TTr5cg # UFO # UFONews # ufodisclosure",
+      "summary": "Tall Whites Have Been Here for Thousands of Years http:// dlvr.it/TTr5cg # UFO # UFONews # ufodisclosure",
+      "url": "https://mastodon.au/@vibewire/117032542449586189",
+      "date": "2026-08-03T16:34:38.000Z",
+      "source": "Mastodon · @vibewire",
+      "sourceType": "social",
+      "notable": false,
+      "precedence": "ROUTINE",
+      "signals": []
+    },
     {
       "id": "16ec0a3f8a1b",
       "title": "🛸 SITREP 2026-08-03 14:50 UTC 1 corroborated UAP events. Top: [A1] UAP report https:// n4hy.github.io/sciencebobnews-…",
@@ -22,7 +63,7 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxQYUdRd1ZLWHZMX0k4QTVhNEpRTzhjWDlSTTlRR2FTa0tNdW9XbW4tdmdySkN5WTdRZWxROUZyVG1YZmtCN0FKSzZodTgxalVueG1MWXJqdFFOTEtza085U1FGYzU5clRoV25ORlBrQTBrQWFTNm44TUJFbTFWYzNNLXhuSXhBMER0VWFBeUZTakJ1TzY3bEVCckl0RVc2VW8?oc=5\" target=\"_blank\">UFO…",
       "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQYUdRd1ZLWHZMX0k4QTVhNEpRTzhjWDlSTTlRR2FTa0tNdW9XbW4tdmdySkN5WTdRZWxROUZyVG1YZmtCN0FKSzZodTgxalVueG1MWXJqdFFOTEtza085U1FGYzU5clRoV25ORlBrQTBrQWFTNm44TUJFbTFWYzNNLXhuSXhBMER0VWFBeUZTakJ1TzY3bEVCckl0RVc2VW8?oc=5",
       "date": "2026-08-03T14:47:00.000Z",
-      "source": "North Norfolk News",
+      "source": "northnorfolknews.co.uk",
       "sourceType": "news",
       "notable": false,
       "precedence": "ROUTINE",
@@ -79,18 +120,16 @@
       "signals": []
     },
     {
-      "id": "c2e6de1ddc20",
-      "title": "UFO - Paris 2009. Provenance of this video",
-      "summary": "<!-- SC_OFF --><div class=\"md\"><p>I was catching up with the UFO sub and came across a post asking anyone for help regarding the history of TR3B sightings. Anyway, I was reading the comments from the usual super helpful Reddit contributors who provide info and often links if folks want to read up…",
-      "url": "https://www.reddit.com/r/UFOs/comments/1veecmc/ufo_paris_2009_provenance_of_this_video/",
-      "date": "2026-08-03T14:03:07.000Z",
-      "source": "Reddit · r/UFOs",
-      "sourceType": "social",
+      "id": "a9a3427ea17e",
+      "title": "UK Air Safety Board Says 'Flying Saucer' Sighting Near Gatwick Posed a Risk to Passenger Jet",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxNOE40X0NZejR3bzdZZ1lyVlRWMkpPOVdsM1ZwbEpUclpKdE42N19RbG1BLURqOTYwRkdrVTliakVXWS1lYVBET3FNYndZOUNITHFMNXdMcTdoalRaeGgyWXh6YTdPOVdtVWFJdHdZNlVmRXJtRzhuejVtMWE3aEZ2a2dSQlRtcnZQYTRXZXpWbw?oc=5\" target=\"_blank\">UK Air Safety Board Says…",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNOE40X0NZejR3bzdZZ1lyVlRWMkpPOVdsM1ZwbEpUclpKdE42N19RbG1BLURqOTYwRkdrVTliakVXWS1lYVBET3FNYndZOUNITHFMNXdMcTdoalRaeGgyWXh6YTdPOVdtVWFJdHdZNlVmRXJtRzhuejVtMWE3aEZ2a2dSQlRtcnZQYTRXZXpWbw?oc=5",
+      "date": "2026-08-03T13:28:10.000Z",
+      "source": "International Business Times UK",
+      "sourceType": "news",
       "notable": false,
       "precedence": "ROUTINE",
-      "signals": [
-        "has media"
-      ]
+      "signals": []
     },
     {
       "id": "77ac9e9a60a4",
@@ -251,7 +290,7 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxNamdqQ1FCUGVwOXR4cW5xeVB1Yk9Vd0xzZUF0eVFHbWYyM2dEbHJhTGNZcms2MDFQZ1Z6TFFzZlkxTjhDR0U2b2k2dDVRZU9ubFBzT0ZzTl9CUmVfOFBuYjYwZWp3YzFjVnBLZHozaDhHeEl2M2hwazVXNUg4SkR0SUVVSHBVSlk?oc=5\" target=\"_blank\">New Skinny Bob Videos Trigger UFO Panic…",
       "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNamdqQ1FCUGVwOXR4cW5xeVB1Yk9Vd0xzZUF0eVFHbWYyM2dEbHJhTGNZcms2MDFQZ1Z6TFFzZlkxTjhDR0U2b2k2dDVRZU9ubFBzT0ZzTl9CUmVfOFBuYjYwZWp3YzFjVnBLZHozaDhHeEl2M2hwazVXNUg4SkR0SUVVSHBVSlk?oc=5",
       "date": "2026-08-03T06:55:52.000Z",
-      "source": "ibtimes.co.uk",
+      "source": "International Business Times UK",
       "sourceType": "news",
       "notable": false,
       "precedence": "ROUTINE",
@@ -368,18 +407,6 @@
       "signals": []
     },
     {
-      "id": "32b3de9b6bb1",
-      "title": "Wikipedia is really doing the most on UFOs, huh? Our favorite editor is at it again.",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/UFOs/comments/1vdyai8/wikipedia_is_really_doing_the_most_on_ufos_huh/\"> <img src=\"https://preview.redd.it/isazdo6312hh1.jpg?width=140&amp;height=140&amp;crop=1:1,smart&amp;auto=webp&amp;s=40e5ed1bfb509ca180b9c5f5b785a669c4e93349\" alt=\"Wikipedia is…",
-      "url": "https://www.reddit.com/r/UFOs/comments/1vdyai8/wikipedia_is_really_doing_the_most_on_ufos_huh/",
-      "date": "2026-08-03T00:27:57.000Z",
-      "source": "Reddit · r/UFOs",
-      "sourceType": "social",
-      "notable": false,
-      "precedence": "ROUTINE",
-      "signals": []
-    },
-    {
       "id": "0197420748ad",
       "title": "🛸 Big news this week, as President Trump waives all # UAP NDAs for government employees to speak about # UFOs with…",
       "summary": "🛸 Big news this week, as President Trump waives all # UAP NDAs for government employees to speak about # UFOs with AARO and PURSUE. Could this be the start of real disclosure? https:// veryexcitingtime.com/episodes/ 2026/92-trump-uap-ndas/",
@@ -457,6 +484,20 @@
       "signals": []
     },
     {
+      "id": "b6de3a0783af",
+      "title": "Erie Businesses Celebrate 60th Anniversary of UFO Landing",
+      "summary": "<a…",
+      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNNGpYenJnMlZFeXBPc3VIa2FxMVN5NE9Sa0M5R21BUjUzUHl4QzlGOGZ0MDk4WVB3blNScWlxZ1VSSXJqdTBITnFyRF82NUltUWlQSkd3dllpMlNvYzNfSFU0ZFByUERmenktR1NURVVBa3lNNU1oWDkwODFGQTBwdGpfcUxFaHpiRjhoVHBsbDVZdk5rN1RBLXplSTZvZkFFQURFWjFRaE1EajJZM3dzOUFwOEV6VVdQWmpLcVJsTl82QzREcDRDNHB0S1FTWGgzdXZkMmxqcmFSdWpXaW5v?oc=5",
+      "date": "2026-08-02T17:38:00.000Z",
+      "source": "Erie News Now",
+      "sourceType": "news",
+      "notable": false,
+      "precedence": "ROUTINE",
+      "signals": [
+        "close encounter"
+      ]
+    },
+    {
       "id": "7eeaeb7b34c9",
       "title": "Werner Books and Coffee UFO Days celebrates local urban legend",
       "summary": "<a…",
@@ -500,7 +541,7 @@
       "summary": "<a…",
       "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNV3B2MUItS3p5ZEZGak5ianROendiNXQ2NUJIRHJwbjB4d0o0OXd5alQ2dzRlcHM0MXpDekVPWEVYUUdmeGNsVkdkOUkwRGtKaldJeVd4aWVyd2F4Sm94ZkpnaUNqRVE0WEx1SnJ6RF8yTXdHR0t6X2t2UWloSWxjTUVNQ2fSAYoBQVVfeXFMUC1kMGRjNEE0dlJ1ZzZteUlhaWg0NXdXX2N2QVZfOG9fTkVMLTNHTHAwTXo5dmdkbHZmRG9LS2Uxak1ldGdWd29PUGZDYUY3QzY4aVVNYmFpUGgyTjdWNEV1MEJwM2hGTUZxcFJwQTIzeHZCbFhIX0hZVzhSeDZqMGdfUWZZN0RnZWVR?oc=5",
       "date": "2026-08-02T10:08:00.000Z",
-      "source": "Daily Mirror",
+      "source": "mirror.co.uk",
       "sourceType": "news",
       "notable": true,
       "precedence": "PRIORITY",
@@ -729,7 +770,7 @@
       "summary": "<a…",
       "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPMEcwVkhWRHpCZ1RaZjZ4NE5xeGlObzBDLXRsMHlUZ3hEdnJkcDNhbFRtaDR1YlZsU212eDhWLWVUT2lHczEwMUFBaHFXSnhIV1NsMWxGRFozd0lFSDc4OUpFS0tPY0h6bTFnd3Rsc3BQWHBFbjZsQ2pjSy1BVjIzbGhmNVA5Q2YzNjhpRVhxclpNY2JmREEtckg1dFB6R0V4UlpXUkpEc1pTeTJQZjVJd3BiX0tzQktHNEF2RlRvSlRUb1NI?oc=5",
       "date": "2026-08-01T13:34:37.000Z",
-      "source": "ibtimes.co.uk",
+      "source": "International Business Times UK",
       "sourceType": "news",
       "notable": false,
       "precedence": "ROUTINE",
@@ -1110,44 +1151,6 @@
       "notable": false,
       "precedence": "ROUTINE",
       "signals": []
-    },
-    {
-      "id": "9bf5c6648dcf",
-      "title": "UFO: Father Gill Sighting, Papua New Guinea, 1958 In 1958, Anglican priest Father William Gill and 38 witnesses…",
-      "summary": "UFO: Father Gill Sighting, Papua New Guinea, 1958 In 1958, Anglican priest Father William Gill and 38 witnesses watched a UFO hover for hours over Papua New Guinea. They even waved at the figures inside—and they waved back! One of history's most credible mass UFO sightings. # UFO # FatherGill #…",
-      "url": "https://mas.to/@AroundTheWorldIOD/116711454479416068",
-      "date": "2026-06-07T23:37:45.000Z",
-      "source": "Mastodon · @AroundTheWorldIOD",
-      "sourceType": "social",
-      "notable": false,
-      "precedence": "ROUTINE",
-      "signals": []
-    },
-    {
-      "id": "ece398f68b99",
-      "title": "UFO: Florence Stadium Incident, Florence, Italy, 1954 In 1954, 10,000 soccer fans in Florence witnessed something…",
-      "summary": "UFO: Florence Stadium Incident, Florence, Italy, 1954 In 1954, 10,000 soccer fans in Florence witnessed something impossible. UFOs stopped a game and left the city covered in mystery. What really happened that October day? # UFO # Florence1954 # ItalyMystery # UFOSighting # TrueStory # Shorts from…",
-      "url": "https://mas.to/@AroundTheWorldIOD/116704139858282207",
-      "date": "2026-06-06T16:37:32.000Z",
-      "source": "Mastodon · @AroundTheWorldIOD",
-      "sourceType": "social",
-      "notable": false,
-      "precedence": "ROUTINE",
-      "signals": []
-    },
-    {
-      "id": "39092314b161",
-      "title": "UFO: Great Falls UFO Film, Montana, USA, 1950 The Great Falls UFO film remains one of the most compelling pieces of…",
-      "summary": "UFO: Great Falls UFO Film, Montana, USA, 1950 The Great Falls UFO film remains one of the most compelling pieces of UFO evidence ever captured. Baseball manager Nick Mariana filmed two silver objects over Montana in 1950, creating footage that still baffles experts today. # UFO # GreatFalls #…",
-      "url": "https://mas.to/@AroundTheWorldIOD/116701076709393221",
-      "date": "2026-06-06T03:38:32.000Z",
-      "source": "Mastodon · @AroundTheWorldIOD",
-      "sourceType": "social",
-      "notable": false,
-      "precedence": "ROUTINE",
-      "signals": [
-        "has media"
-      ]
     }
   ]
 }
