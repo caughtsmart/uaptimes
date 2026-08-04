@@ -69,8 +69,8 @@ It is worth remembering how thin the maritime file has always been. The genuinel
 The geography matters here more than the phenomenology. Hampton Roads is not a stretch of empty ocean with a base on it. Within a few miles of each other sit Naval Station Norfolk — the largest naval complex in the world — the Norfolk Naval Shipyard, Naval Air Station Oceana, Joint Expeditionary Base Little Creek–Fort Story, Naval Weapons Station Yorktown, Langley Air Force Base and, just up the James River, Newport News Shipbuilding, the only yard in the United States that builds nuclear aircraft carriers.
 
 <figure class="a-fig">
-  <img src="/images/navy-uap-swarm-virginia-coast-5.png" alt="Aerial night view of a vast naval base with aircraft carriers and destroyers moored along floodlit piers at a wide river mouth" width="1376" height="768" loading="lazy" decoding="async" />
-  <figcaption>Hampton Roads at night: carriers, submarines, the world's largest naval port and the only yard that builds American carriers, all inside a few miles of coastline. <span>AI-generated illustration</span></figcaption>
+  <img src="/images/navy-uap-swarm-virginia-coast-5.png" alt="Aerial dusk view of a vast naval base with aircraft carriers and destroyers moored along floodlit piers at a wide river mouth" width="1376" height="768" loading="lazy" decoding="async" />
+  <figcaption>Hampton Roads at dusk: carriers, submarines, the world's largest naval port and the only yard that builds American carriers, all inside a few miles of coastline. <span>AI-generated illustration</span></figcaption>
 </figure>
 
 If you wanted to design a stretch of water where a hundred small airborne objects and two autonomous boats would be maximally interesting to a foreign intelligence service, you would design this one. That is not an argument that the objects *were* hostile. It is an argument that the location removes any luxury of indifference. An unexplained hundred-object event over the Bering Sea is a curiosity. The same event here is a counter-intelligence question that somebody is obliged to answer.
