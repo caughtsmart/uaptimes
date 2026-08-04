@@ -60,4 +60,4 @@ Our reading is that Aguadilla is honestly unresolved, and that the honesty matte
 
 ---
 
-*Further reading: for the military sensor case that set the modern standard, see [The Tic Tac at 25](/articles/tic-tac-encounter-explained/). The Aguadilla object was most like a [sphere / orb](/field-guide#type-orb); it's on the [sightings map](/map#case-aguadilla-2013).*
+*Further reading: for the military sensor case that set the modern standard, see [The Tic Tac at 25](/articles/tic-tac-encounter-explained/). For what happens when a maritime case arrives with no sensor detail at all, see [the hundred-object Navy event off Virginia](/articles/navy-uap-swarm-virginia-coast/). The Aguadilla object was most like a [sphere / orb](/field-guide#type-orb); it's on the [sightings map](/map#case-aguadilla-2013).*
