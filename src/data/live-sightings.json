@@ -1,9 +1,59 @@
 {
-  "updated": "2026-08-03T22:19:10.048Z",
+  "updated": "2026-08-04T03:40:37.971Z",
   "count": 90,
-  "notable": 20,
+  "notable": 19,
   "enriched": false,
   "items": [
+    {
+      "id": "8eea8e9a8cec",
+      "title": "Counter Intelligence agent Lue Elizondo's lawyer goes after Eric Burlison after UAP Gerb accuses Lue of working in the legacy program under James Clapper.",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/UFOs/comments/1veyz4v/counter_intelligence_agent_lue_elizondos_lawyer/\"> <img src=\"https://preview.redd.it/s8ucvron2ahh1.jpg?width=140&amp;height=140&amp;crop=1:1,smart&amp;auto=webp&amp;s=250cb94f60d982e818d84992c5af3cb4e979b915\" alt=\"Counter…",
+      "url": "https://www.reddit.com/r/UFOs/comments/1veyz4v/counter_intelligence_agent_lue_elizondos_lawyer/",
+      "date": "2026-08-04T03:31:00.000Z",
+      "source": "Reddit · r/UFOs",
+      "sourceType": "social",
+      "notable": false,
+      "precedence": "ROUTINE",
+      "signals": []
+    },
+    {
+      "id": "80b61bfccd7b",
+      "title": "Stolen By The Stars by Doc Side Media will be available on Amazon Prime Video and Apple TV August 11th. 2026. Trailer and documentary description below.",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/UFOs/comments/1veyfuj/stolen_by_the_stars_by_doc_side_media_will_be/\"> <img…",
+      "url": "https://www.reddit.com/r/UFOs/comments/1veyfuj/stolen_by_the_stars_by_doc_side_media_will_be/",
+      "date": "2026-08-04T03:05:15.000Z",
+      "source": "Reddit · r/UFOs",
+      "sourceType": "social",
+      "notable": false,
+      "precedence": "ROUTINE",
+      "signals": [
+        "has media"
+      ]
+    },
+    {
+      "id": "c3fcdc627ac1",
+      "title": "The Roosevelt Incidents: An Infographic Map",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/UFOs/comments/1vexpuk/the_roosevelt_incidents_an_infographic_map/\"> <img src=\"https://preview.redd.it/h0000q71s9hh1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=2ada690c7452855471251cccaa9ab7e462552d50\" alt=\"The Roosevelt Incidents: An…",
+      "url": "https://www.reddit.com/r/UFOs/comments/1vexpuk/the_roosevelt_incidents_an_infographic_map/",
+      "date": "2026-08-04T02:31:26.000Z",
+      "source": "Reddit · r/UFOs",
+      "sourceType": "social",
+      "notable": false,
+      "precedence": "ROUTINE",
+      "signals": []
+    },
+    {
+      "id": "1e97dfab7c19",
+      "title": "More merch designs coming to the tricks and treats sale # falcnanewfrontier # villains # halloween # slenderman #…",
+      "summary": "More merch designs coming to the tricks and treats sale # falcnanewfrontier # villains # halloween # slenderman # weegee # boocifer # frankenstein # frankensteinmonster # redbubble # sketch # wip # aliens # ufo # martianitos # marsattacks",
+      "url": "https://mastodon.social/@dhprints/117034409954260508",
+      "date": "2026-08-04T00:29:34.552Z",
+      "source": "Mastodon · @dhprints",
+      "sourceType": "social",
+      "notable": false,
+      "precedence": "ROUTINE",
+      "signals": []
+    },
     {
       "id": "3a1bcc397bd8",
       "title": "\"Liberation Times understands that the [presidential NHI disclosure] speech is now under consideration. It could be delivered before this November’s midterm elections. If it is not delivered by then, any plans could be abandoned\"",
@@ -17,20 +67,6 @@
       "signals": [
         "government",
         "close encounter"
-      ]
-    },
-    {
-      "id": "870e67a4ffe2",
-      "title": "Pentagon releases declassified UFO files from various federal agencies",
-      "summary": "<a…",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQbHVBS3VqSGpNSmgxTWtIa2c3aDI2WE5vS2pfVXRFNjNZd3BlWUdILWh6b245RDMtOXk3Yk91UXktV3k4ckR1dTh1R1lVbFR4MFpLRnhXVmFMMGNsaWs3SXpaTHdzekxQNmRUQkktTHMwTjU3d3V2Z2R4akdIeEM4VGlnNFFzTVVzTXprS1AyT2l3MWdGaDJxUEFiWjBMc3BwMVHSAacBQVVfeXFMUGJvM2xwYk1mVU9OYW1haDlYZlhfaF83ekszcWZrbXRWTzMtZXNOOXNYR1loRThfWElkd3NiVllpX1ZuOGV1eDQ2NHQ5aDR2M1FKZDJmb0Y5TDYzTE53T0lNQ0FvUXQ3QmtYb09QVlRRRGV2eWFjOVJFcUVCVkF1YUlkSkRGclM0eUJVV0VLSl9UZmtBb1ZKUVRtTFhoUUFXWnFiQ1hqSzQ?oc=5",
-      "date": "2026-08-03T18:44:59.000Z",
-      "source": "ABC News - Breaking News, Latest News and Videos",
-      "sourceType": "news",
-      "notable": true,
-      "precedence": "PRIORITY",
-      "signals": [
-        "military/agency"
       ]
     },
     {
@@ -170,6 +206,20 @@
       "notable": false,
       "precedence": "ROUTINE",
       "signals": []
+    },
+    {
+      "id": "56e765b2e23e",
+      "title": "Mysterious UAP at Gimhae Airport: 'Unanswered Questions' Investigates Unidentified Aerial Phenomena",
+      "summary": "<a…",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxObHVGS1dmcmpOWkluODViNEpZanVIQ3NuYlE5Nk1CWDNoZXFyeTh4LXZBOXc5eWdrWmY2S3NGaU9lcnh5czR4VnhJYlA2Vkd6UXg3THFtQmZuOWdydmZBSnc2aEgyaXJwT3FBWjNSTXhSTmNtcEd5YjQzSFdsQk9abDJuRmZYMS1HMEtpZW1lYnpHOU9senppbkJfbThSdU9MeEFQTjhpbVZ3eFY1U2s2QzFCR2t6RXlmTnRqR1N3eUNJck5BQklxelA3UFJQYTc2OFE?oc=5",
+      "date": "2026-08-03T11:27:00.000Z",
+      "source": "SBS Star",
+      "sourceType": "news",
+      "notable": true,
+      "precedence": "PRIORITY",
+      "signals": [
+        "aviation"
+      ]
     },
     {
       "id": "f56afad5e8b4",
@@ -409,18 +459,6 @@
       ]
     },
     {
-      "id": "8d69e272fa4b",
-      "title": "Three anonymous UFO document caches, three countries, forty years apart. They all have the same structure and I don’t think it’s coincidence",
-      "summary": "<!-- SC_OFF --><div class=\"md\"><p>Sub fam - I’ve been doing some research on the weekends about counter arguments and found a compelling case connecting any dots we haven’t tried yet. Using my secondary account for more privacy:</p> <p>In October 2024 a whistleblower gave Michael Shellenberger a…",
-      "url": "https://www.reddit.com/r/UFOs/comments/1vdyvmk/three_anonymous_ufo_document_caches_three/",
-      "date": "2026-08-03T00:54:55.000Z",
-      "source": "Reddit · r/UFOs",
-      "sourceType": "social",
-      "notable": false,
-      "precedence": "ROUTINE",
-      "signals": []
-    },
-    {
       "id": "0197420748ad",
       "title": "🛸 Big news this week, as President Trump waives all # UAP NDAs for government employees to speak about # UFOs with…",
       "summary": "🛸 Big news this week, as President Trump waives all # UAP NDAs for government employees to speak about # UFOs with AARO and PURSUE. Could this be the start of real disclosure? https:// veryexcitingtime.com/episodes/ 2026/92-trump-uap-ndas/",
@@ -567,7 +605,7 @@
       "summary": "<a…",
       "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNV3B2MUItS3p5ZEZGak5ianROendiNXQ2NUJIRHJwbjB4d0o0OXd5alQ2dzRlcHM0MXpDekVPWEVYUUdmeGNsVkdkOUkwRGtKaldJeVd4aWVyd2F4Sm94ZkpnaUNqRVE0WEx1SnJ6RF8yTXdHR0t6X2t2UWloSWxjTUVNQ2fSAYoBQVVfeXFMUC1kMGRjNEE0dlJ1ZzZteUlhaWg0NXdXX2N2QVZfOG9fTkVMLTNHTHAwTXo5dmdkbHZmRG9LS2Uxak1ldGdWd29PUGZDYUY3QzY4aVVNYmFpUGgyTjdWNEV1MEJwM2hGTUZxcFJwQTIzeHZCbFhIX0hZVzhSeDZqMGdfUWZZN0RnZWVR?oc=5",
       "date": "2026-08-02T10:08:00.000Z",
-      "source": "The Mirror",
+      "source": "Daily Mirror",
       "sourceType": "news",
       "notable": true,
       "precedence": "PRIORITY",
@@ -679,10 +717,10 @@
       ]
     },
     {
-      "id": "bb8fc230109e",
+      "id": "5224d0ab4b27",
       "title": "'Unanswered Questions' Explores Mystery of UAP Spotted at Gimhae Airport",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTFB3b1NBVlhEakxHbkh3YjVjZlpYeEtuWnVxeFd0SEZSSHhKMko0c2gyZEhVa25XdzFtU2xocV8ybHpVb0xIM3VBR3FsbHMyNWRCZl9NUGlrbXVZcS0wWlg5UWI1YUJKdw?oc=5\" target=\"_blank\">'Unanswered Questions' Explores Mystery of UAP Spotted at Gimhae…",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFB3b1NBVlhEakxHbkh3YjVjZlpYeEtuWnVxeFd0SEZSSHhKMko0c2gyZEhVa25XdzFtU2xocV8ybHpVb0xIM3VBR3FsbHMyNWRCZl9NUGlrbXVZcS0wWlg5UWI1YUJKdw?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTE9qV19Xcy0tV2FVbE9uSGZRTlVTTHFuTWh3WktSM0V1MnlVb19GNE9xM01iVjZrcEZVakxLZlg3a2xyQjV1NFJJTkdRSGhUSjRieldCY0xKV0xBVTF6V1FwUmRET1hHRWR6RGc?oc=5\" target=\"_blank\">'Unanswered Questions' Explores Mystery of UAP Spotted at Gimhae…",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9qV19Xcy0tV2FVbE9uSGZRTlVTTHFuTWh3WktSM0V1MnlVb19GNE9xM01iVjZrcEZVakxLZlg3a2xyQjV1NFJJTkdRSGhUSjRieldCY0xKV0xBVTF6V1FwUmRET1hHRWR6RGc?oc=5",
       "date": "2026-08-01T22:10:00.000Z",
       "source": "news.sbs.co.kr",
       "sourceType": "news",
@@ -834,30 +872,6 @@
       "date": "2026-08-01T10:50:18.000Z",
       "source": "Reddit · r/UFOs",
       "sourceType": "social",
-      "notable": false,
-      "precedence": "ROUTINE",
-      "signals": []
-    },
-    {
-      "id": "5c8f1be9f5f3",
-      "title": "FOIA Release: Australian Department of Defence stonewalled mainstream news media questions about UAPs",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/UFOs/comments/1vcgp7b/foia_release_australian_department_of_defence/\"> <img src=\"https://preview.redd.it/7zmht3alupgh1.jpg?width=140&amp;height=140&amp;crop=1:1,smart&amp;auto=webp&amp;s=cb60982ce16bc9c28341222dd56eb937f9a399c0\" alt=\"FOIA Release:…",
-      "url": "https://www.reddit.com/r/UFOs/comments/1vcgp7b/foia_release_australian_department_of_defence/",
-      "date": "2026-08-01T07:30:10.000Z",
-      "source": "Reddit · r/UFOs",
-      "sourceType": "social",
-      "notable": false,
-      "precedence": "ROUTINE",
-      "signals": []
-    },
-    {
-      "id": "3f0b6862e0f5",
-      "title": "UFOs: What are they and what are the most famous sightings?",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTE93U1JQeHpqVVg4ZDFlQ2Y4MUlVdi1EaE9LT29ySXBNcm95d0lBUnhibW9oNzNLZEpBaVBMVFJRaXVNbGVsXzRueF9lcnVpSGFYME5NelI3b0ZLMEE?oc=5\" target=\"_blank\">UFOs: What are they and what are the most famous sightings?</a>&nbsp;&nbsp;<font…",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE93U1JQeHpqVVg4ZDFlQ2Y4MUlVdi1EaE9LT29ySXBNcm95d0lBUnhibW9oNzNLZEpBaVBMVFJRaXVNbGVsXzRueF9lcnVpSGFYME5NelI3b0ZLMEE?oc=5",
-      "date": "2026-08-01T01:54:48.000Z",
-      "source": "BBC",
-      "sourceType": "news",
       "notable": false,
       "precedence": "ROUTINE",
       "signals": []
@@ -1129,21 +1143,6 @@
       "precedence": "PRIORITY",
       "signals": [
         "aviation",
-        "craft shape"
-      ]
-    },
-    {
-      "id": "928b4ca18dfe",
-      "title": "UFO: Illinois Triangle Sightings, Illinois, USA, 2000 Massive triangle UFO flew over Illinois in January 2000,…",
-      "summary": "UFO: Illinois Triangle Sightings, Illinois, USA, 2000 Massive triangle UFO flew over Illinois in January 2000, witnessed by police officers and dozens of citizens. One of the most credible UFO cases in American history. # UFO # Illinois # UnexplainedMysteries # UFOSighting # TrueStory # Shorts…",
-      "url": "https://mas.to/@AroundTheWorldIOD/116791670679116783",
-      "date": "2026-06-22T03:37:47.000Z",
-      "source": "Mastodon · @AroundTheWorldIOD",
-      "sourceType": "social",
-      "notable": true,
-      "precedence": "PRIORITY",
-      "signals": [
-        "mass sighting",
         "craft shape"
       ]
     }
