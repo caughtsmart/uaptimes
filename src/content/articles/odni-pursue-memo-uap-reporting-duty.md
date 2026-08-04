@@ -95,3 +95,5 @@ What the memo is *not* is evidence about anything in the sky. It tells you the U
 Still — this is the first time in the modern era that an American intelligence officer has been told, in writing, that staying silent about this subject is not the safe option. For sixty years the incentive ran precisely the other way, and the whole architecture of the mystery rests on that fact. Reversing it matters, even if the pipe leads somewhere you cannot see.
 
 Watch the last week of August. Either the designees are named and the guidance is posted, or this was a memo about writing memos.
+
+*Update, 4 August: the pipe has met its first named test. [Matthew Brown, who wrote the Immaculate Constellation report, is publicly telling other witnesses not to use it](/articles/uap-whistleblower-nda-waiver-warning/) — and part of his objection is procedurally correct.*

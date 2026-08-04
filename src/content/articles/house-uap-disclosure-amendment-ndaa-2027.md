@@ -96,4 +96,4 @@ Both things are true at once. Watch the conference report, not the press release
 
 ---
 
-*Further reading: for the same records-duty argument being applied to a federally funded lab rather than an agency — with a named 1952 reel of tape at the end of it — see [the MIT Lincoln Laboratory "flying saucer talk"](/articles/lincoln-lab-1952-flying-saucer-tape/).*
+*Further reading: for the same records-duty argument being applied to a federally funded lab rather than an agency — with a named 1952 reel of tape at the end of it — see [the MIT Lincoln Laboratory "flying saucer talk"](/articles/lincoln-lab-1952-flying-saucer-tape/). For the executive-branch route this bill is designed to replace, and why its first named witness is refusing to use it, see [the whistleblower turning down the NDA waiver](/articles/uap-whistleblower-nda-waiver-warning/).*

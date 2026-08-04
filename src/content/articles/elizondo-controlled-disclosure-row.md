@@ -105,3 +105,5 @@ We would add something less comfortable for the sceptics. The proposition undern
 Which is why this particular fight is such a poor use of the moment. There is a version of the controlled-disclosure argument that is documented, dull and winnable, and it involves reading the conference report on the NDAA in the autumn. There is another version that involves deciding, without documents, which of your own is secretly working for the other side.
 
 The field keeps choosing the second one. It has never once worked.
+
+*Further reading: the same suspicion of managed disclosure, argued from procedure rather than personality — [why the whistleblower behind Immaculate Constellation is refusing the government's new intake channel](/articles/uap-whistleblower-nda-waiver-warning/).*
