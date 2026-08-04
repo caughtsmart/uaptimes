@@ -58,4 +58,4 @@ Our reading is that something real came down into the water off Shag Harbour tha
 
 ---
 
-*Further reading: for another case built on multiple credible witnesses and an official response, see [The Tehran Dogfight](/articles/tehran-dogfight-1976/). The Shag Harbour object read as a string of lights on a single [craft](/field-guide); it's on the [sightings map](/map#case-shag-harbour-1967).*
+*Further reading: for another case built on multiple credible witnesses and an official response, see [The Tehran Dogfight](/articles/tehran-dogfight-1976/). For how thin the maritime file still is nearly sixty years on, see [the single sea-domain case in the Pentagon's latest annual report](/articles/navy-uap-swarm-virginia-coast/). The Shag Harbour object read as a string of lights on a single [craft](/field-guide); it's on the [sightings map](/map#case-shag-harbour-1967).*
