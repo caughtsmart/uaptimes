@@ -1,20 +1,116 @@
 {
-  "updated": "2026-08-04T03:40:37.971Z",
+  "updated": "2026-08-04T09:10:48.464Z",
   "count": 90,
-  "notable": 19,
+  "notable": 18,
   "enriched": false,
   "items": [
     {
-      "id": "8eea8e9a8cec",
-      "title": "Counter Intelligence agent Lue Elizondo's lawyer goes after Eric Burlison after UAP Gerb accuses Lue of working in the legacy program under James Clapper.",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/UFOs/comments/1veyz4v/counter_intelligence_agent_lue_elizondos_lawyer/\"> <img src=\"https://preview.redd.it/s8ucvron2ahh1.jpg?width=140&amp;height=140&amp;crop=1:1,smart&amp;auto=webp&amp;s=250cb94f60d982e818d84992c5af3cb4e979b915\" alt=\"Counter…",
-      "url": "https://www.reddit.com/r/UFOs/comments/1veyz4v/counter_intelligence_agent_lue_elizondos_lawyer/",
-      "date": "2026-08-04T03:31:00.000Z",
-      "source": "Reddit · r/UFOs",
+      "id": "e1f3d6336811",
+      "title": "Just saw another strange light in the sky. It was moving west, stopped, moved to the North a bit, then continued west…",
+      "summary": "Just saw another strange light in the sky. It was moving west, stopped, moved to the North a bit, then continued west and disappeared behind the trees. Unfortunately, I couldn't get a video on time 😭. Maybe I should just have my phone ready to record every time I go outside lol # ufo # uap",
+      "url": "https://kolektiva.social/@TheBison/117036451617707080",
+      "date": "2026-08-04T09:08:47.000Z",
+      "source": "Mastodon · @TheBison",
+      "sourceType": "social",
+      "notable": false,
+      "precedence": "ROUTINE",
+      "signals": [
+        "has media"
+      ]
+    },
+    {
+      "id": "e187d89d4e7c",
+      "title": "大統領でも知り得ないUFO情報が間違いなく存在する！ 米政府機関の根深い隠蔽体質を有名司会者が告発 https:// web-mu.jp/paranormal/79916/ # webmu # 不思議_超常現象 # アメリカ # UFO",
+      "summary": "大統領でも知り得ないUFO情報が間違いなく存在する！ 米政府機関の根深い隠蔽体質を有名司会者が告発 https:// web-mu.jp/paranormal/79916/ # webmu # 不思議_超常現象 # アメリカ # UFO",
+      "url": "https://rss-mstdn.studiofreesia.com/@webmu/117036430945870419",
+      "date": "2026-08-04T09:03:32.000Z",
+      "source": "Mastodon · @webmu",
       "sourceType": "social",
       "notable": false,
       "precedence": "ROUTINE",
       "signals": []
+    },
+    {
+      "id": "387f720c19f3",
+      "title": "📹 VIDEO SITREP 2026-08-04 08:00 UTC [A1] UAP report (Early) https://www. youtube.com/watch?v=IyTeV6kko5A https://…",
+      "summary": "📹 VIDEO SITREP 2026-08-04 08:00 UTC [A1] UAP report (Early) https://www. youtube.com/watch?v=IyTeV6kko5A https:// n4hy.github.io/sciencebobnews- site # UAP # UFO # USO Powered by Science Bob News",
+      "url": "https://mastodon.social/@ScienceBob/117036181762256054",
+      "date": "2026-08-04T08:00:10.199Z",
+      "source": "Mastodon · @ScienceBob",
+      "sourceType": "social",
+      "notable": false,
+      "precedence": "ROUTINE",
+      "signals": [
+        "has media"
+      ]
+    },
+    {
+      "id": "c2a874cc7e6a",
+      "title": "📹 VIDEO SITREP 2026-08-04 07:00 UTC [A1] UAP report (Early) https://www. youtube.com/watch?v=IyTeV6kko5A https://…",
+      "summary": "📹 VIDEO SITREP 2026-08-04 07:00 UTC [A1] UAP report (Early) https://www. youtube.com/watch?v=IyTeV6kko5A https:// n4hy.github.io/sciencebobnews- site # UAP # UFO # USO Powered by Science Bob News",
+      "url": "https://mastodon.social/@ScienceBob/117035945854812460",
+      "date": "2026-08-04T07:00:10.532Z",
+      "source": "Mastodon · @ScienceBob",
+      "sourceType": "social",
+      "notable": false,
+      "precedence": "ROUTINE",
+      "signals": [
+        "has media"
+      ]
+    },
+    {
+      "id": "cbc1ea1baec2",
+      "title": "#light #street #night #ufo #nokton",
+      "summary": "#light #street #night #ufo #nokton",
+      "url": "https://pixelfed.social/p/reality.lol/990148576499780501",
+      "date": "2026-08-04T06:56:56.000Z",
+      "source": "Mastodon · @reality.lol",
+      "sourceType": "social",
+      "notable": false,
+      "precedence": "ROUTINE",
+      "signals": []
+    },
+    {
+      "id": "e37f65600205",
+      "title": "📹 VIDEO SITREP 2026-08-04 06:00 UTC [A1] UAP report (McMinnville) https://www. youtube.com/watch?v=7OT6uJ0yzVY…",
+      "summary": "📹 VIDEO SITREP 2026-08-04 06:00 UTC [A1] UAP report (McMinnville) https://www. youtube.com/watch?v=7OT6uJ0yzVY https:// n4hy.github.io/sciencebobnews- site # UAP # UFO # USO Powered by Science Bob News",
+      "url": "https://mastodon.social/@ScienceBob/117035709957259147",
+      "date": "2026-08-04T06:00:11.042Z",
+      "source": "Mastodon · @ScienceBob",
+      "sourceType": "social",
+      "notable": false,
+      "precedence": "ROUTINE",
+      "signals": [
+        "has media"
+      ]
+    },
+    {
+      "id": "efacb8877bac",
+      "title": "📹 VIDEO SITREP 2026-08-04 05:00 UTC [A1] UAP report (Early) https://www. youtube.com/watch?v=IyTeV6kko5A https://…",
+      "summary": "📹 VIDEO SITREP 2026-08-04 05:00 UTC [A1] UAP report (Early) https://www. youtube.com/watch?v=IyTeV6kko5A https:// n4hy.github.io/sciencebobnews- site # UAP # UFO # USO Powered by Science Bob News",
+      "url": "https://mastodon.social/@ScienceBob/117035473964139350",
+      "date": "2026-08-04T05:00:10.053Z",
+      "source": "Mastodon · @ScienceBob",
+      "sourceType": "social",
+      "notable": false,
+      "precedence": "ROUTINE",
+      "signals": [
+        "has media"
+      ]
+    },
+    {
+      "id": "f5c485066d63",
+      "title": "Psychological Warfare Against a UFO Reporter Originally published over three decades ago, this disturbing narrative describes an investigative reporter’s odyssey into the bizarre world of orchestrated deception by psychological warfare agents.",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><h1><a href=\"/r/UFOs/?f=flair_name%3A%22Rule%205%3A%20Adhere%20to%20posting%20guidelines%22\"></a></h1> <p>Submission Statement. This linked post is pertinent to this platform because as mentioned below according to former insider David Grusch the American people have…",
+      "url": "https://www.reddit.com/r/UFOs/comments/1vezchl/psychological_warfare_against_a_ufo_reporter/",
+      "date": "2026-08-04T03:49:32.000Z",
+      "source": "Reddit · r/UFOs",
+      "sourceType": "social",
+      "notable": true,
+      "precedence": "PRIORITY",
+      "signals": [
+        "government"
+      ]
     },
     {
       "id": "80b61bfccd7b",
@@ -108,12 +204,12 @@
       "signals": []
     },
     {
-      "id": "4e29765b7400",
+      "id": "ded0372a0983",
       "title": "UFO spotted off Norfolk coast by RAF pilots during operation at 16,000ft",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxQYUdRd1ZLWHZMX0k4QTVhNEpRTzhjWDlSTTlRR2FTa0tNdW9XbW4tdmdySkN5WTdRZWxROUZyVG1YZmtCN0FKSzZodTgxalVueG1MWXJqdFFOTEtza085U1FGYzU5clRoV25ORlBrQTBrQWFTNm44TUJFbTFWYzNNLXhuSXhBMER0VWFBeUZTakJ1TzY3bEVCckl0RVc2VW8?oc=5\" target=\"_blank\">UFO…",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQYUdRd1ZLWHZMX0k4QTVhNEpRTzhjWDlSTTlRR2FTa0tNdW9XbW4tdmdySkN5WTdRZWxROUZyVG1YZmtCN0FKSzZodTgxalVueG1MWXJqdFFOTEtza085U1FGYzU5clRoV25ORlBrQTBrQWFTNm44TUJFbTFWYzNNLXhuSXhBMER0VWFBeUZTakJ1TzY3bEVCckl0RVc2VW8?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxNNVcyWXBMNVlTNXpIRXdXWXhQeWhiZXh6U2xrbTIxSjJxN3FOUEQxRkY3R2JvNzlHVDJ2SXNrblhnTUt0aTVKSUFRMVRTRHlQUERvamE5SWZzSTE4R0ZCd3lyNWJIQ2pkSTZMM1lZSHNCLVlmQlZkYzRiaGs1bDQ2TkY0Tzg3OS1rMndweGNxUmU?oc=5\" target=\"_blank\">UFO spotted off Norfolk coast…",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNNVcyWXBMNVlTNXpIRXdXWXhQeWhiZXh6U2xrbTIxSjJxN3FOUEQxRkY3R2JvNzlHVDJ2SXNrblhnTUt0aTVKSUFRMVRTRHlQUERvamE5SWZzSTE4R0ZCd3lyNWJIQ2pkSTZMM1lZSHNCLVlmQlZkYzRiaGs1bDQ2TkY0Tzg3OS1rMndweGNxUmU?oc=5",
       "date": "2026-08-03T14:47:00.000Z",
-      "source": "North Norfolk News",
+      "source": "Edp24",
       "sourceType": "news",
       "notable": false,
       "precedence": "ROUTINE",
@@ -270,18 +366,6 @@
       "signals": []
     },
     {
-      "id": "209a79206cf2",
-      "title": "英國格域機場出現UFO？報告紀錄機師4月目擊碟狀物體 https://www. am730.com.hk/國際/1045278/英國格域機場 出現ufo-報告紀錄機師4月目擊碟狀物體",
-      "summary": "英國格域機場出現UFO？報告紀錄機師4月目擊碟狀物體 https://www. am730.com.hk/國際/1045278/英國格域機場 出現ufo-報告紀錄機師4月目擊碟狀物體",
-      "url": "https://mastodon.hongkongers.net/@am730hk_mirror/117030770787062563",
-      "date": "2026-08-03T09:04:05.000Z",
-      "source": "Mastodon · @am730hk_mirror",
-      "sourceType": "social",
-      "notable": false,
-      "precedence": "ROUTINE",
-      "signals": []
-    },
-    {
       "id": "7127ab083fee",
       "title": "🛸 SITREP 2026-08-03 08:20 UTC 2 corroborated UAP events. Top: [A1] UAP report (Canada) https://…",
       "summary": "🛸 SITREP 2026-08-03 08:20 UTC 2 corroborated UAP events. Top: [A1] UAP report (Canada) https:// n4hy.github.io/sciencebobnews- site # UAP # UFO # USO Powered by Science Bob News",
@@ -421,18 +505,6 @@
       "signals": []
     },
     {
-      "id": "4a05fac36cac",
-      "title": "🛸 SITREP 2026-08-03 01:50 UTC 2 corroborated UAP events. Top: [A1] UAP report (Canada) https://…",
-      "summary": "🛸 SITREP 2026-08-03 01:50 UTC 2 corroborated UAP events. Top: [A1] UAP report (Canada) https:// n4hy.github.io/sciencebobnews- site # UAP # UFO # USO Powered by Science Bob News",
-      "url": "https://mastodon.social/@ScienceBob/117029064542715031",
-      "date": "2026-08-03T01:50:10.045Z",
-      "source": "Mastodon · @ScienceBob",
-      "sourceType": "social",
-      "notable": false,
-      "precedence": "ROUTINE",
-      "signals": []
-    },
-    {
       "id": "a757a22481c4",
       "title": "The man who phoned in Canada's most famous UFO sighting became the face of the mystery | CBC News https://www.…",
       "summary": "The man who phoned in Canada's most famous UFO sighting became the face of the mystery | CBC News https://www. cbc.ca/news/canada/nova-scotia /shag-harbour-ufo-incident-oct-4-1967-laurie-wickens-nova-scotia-9.7292815 # uap # ufo # Ufology",
@@ -443,20 +515,6 @@
       "notable": false,
       "precedence": "ROUTINE",
       "signals": []
-    },
-    {
-      "id": "4b6cf8afca78",
-      "title": "📹 VIDEO SITREP 2026-08-03 01:00 UTC [A1] UAP report (Early) https://www. youtube.com/watch?v=IyTeV6kko5A https://…",
-      "summary": "📹 VIDEO SITREP 2026-08-03 01:00 UTC [A1] UAP report (Early) https://www. youtube.com/watch?v=IyTeV6kko5A https:// n4hy.github.io/sciencebobnews- site # UAP # UFO # USO Powered by Science Bob News",
-      "url": "https://mastodon.social/@ScienceBob/117028867945064736",
-      "date": "2026-08-03T01:00:10.232Z",
-      "source": "Mastodon · @ScienceBob",
-      "sourceType": "social",
-      "notable": false,
-      "precedence": "ROUTINE",
-      "signals": [
-        "has media"
-      ]
     },
     {
       "id": "0197420748ad",
@@ -1091,60 +1149,6 @@
       "notable": false,
       "precedence": "ROUTINE",
       "signals": []
-    },
-    {
-      "id": "d814839280de",
-      "title": "1/2 Notes on # UAP Discussions : You hate to be that guy. On the one hand far enough below radar that reveals don’t…",
-      "summary": "1/2 Notes on # UAP Discussions : You hate to be that guy. On the one hand far enough below radar that reveals don’t make it through the noise. Far enough above so that the actual bit will get you disinvited from everything else… # Disclosure cannot and will not save us from the problems now…",
-      "url": "https://mastodon.online/@KilleansRow/116961753740614244",
-      "date": "2026-07-22T04:32:08.000Z",
-      "source": "Mastodon · @KilleansRow",
-      "sourceType": "social",
-      "notable": true,
-      "precedence": "FLASH",
-      "signals": [
-        "instrumented",
-        "government"
-      ]
-    },
-    {
-      "id": "fd0a40678f6a",
-      "title": "Free Coloring Book Page from \"all about UFOs Coloring Book\" #adultcoloring #adultcoloringbook #coloring #coloringbook…",
-      "summary": "Free Coloring Book Page from \"all about UFOs Coloring Book\" #adultcoloring #adultcoloringbook #coloring #coloringbook #coloredpencil #colorist #booksforkids #childrensbooks #kidsbooks #kidlit #UFOs #UAPs #aliens www.amazon.com/dp/1948872641",
-      "url": "https://fed.brid.gy/r/https://bsky.app/profile/did:plc:qboml6pqgrceeoykk57n52jp/post/3mqzyhu335n2w",
-      "date": "2026-07-20T00:01:27.891Z",
-      "source": "Mastodon · @inventingreality.bsky.social",
-      "sourceType": "social",
-      "notable": false,
-      "precedence": "ROUTINE",
-      "signals": []
-    },
-    {
-      "id": "772ea89cd526",
-      "title": "UFO: Alderney UFO Incident, Channel Islands, United Kingdom, 2007 On April 23, 2007, experienced pilots witnessed…",
-      "summary": "UFO: Alderney UFO Incident, Channel Islands, United Kingdom, 2007 On April 23, 2007, experienced pilots witnessed massive UFOs over the Channel Islands. What they saw defied all explanation and remains one of aviation's greatest mysteries. # UFO # AlderneySighting # ChannelIslands #…",
-      "url": "https://mas.to/@AroundTheWorldIOD/116792141142863976",
-      "date": "2026-06-22T05:37:25.000Z",
-      "source": "Mastodon · @AroundTheWorldIOD",
-      "sourceType": "social",
-      "notable": false,
-      "precedence": "ROUTINE",
-      "signals": []
-    },
-    {
-      "id": "40e7326a1f89",
-      "title": "UFO: Chicago O’Hare Airport Incident, Illinois, USA, 2006 On November 7, 2006, United Airlines employees witnessed a…",
-      "summary": "UFO: Chicago O’Hare Airport Incident, Illinois, USA, 2006 On November 7, 2006, United Airlines employees witnessed a metallic disc hovering over Gate C17 at O'Hare Airport. The object shot upward, punching a hole through the clouds before vanishing. What did they really see that afternoon? # UFO #…",
-      "url": "https://mas.to/@AroundTheWorldIOD/116791906232812821",
-      "date": "2026-06-22T04:37:41.000Z",
-      "source": "Mastodon · @AroundTheWorldIOD",
-      "sourceType": "social",
-      "notable": true,
-      "precedence": "PRIORITY",
-      "signals": [
-        "aviation",
-        "craft shape"
-      ]
     }
   ]
 }
