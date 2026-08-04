@@ -6,7 +6,7 @@ pubDate: 2026-08-04
 author: "UAP Times Desk"
 topic: "Government & Disclosure"
 tags: ["PURSUE", "Matthew Brown", "Immaculate Constellation", "whistleblowers", "ODNI", "AARO"]
-heroImage: "/images/placeholder-sky.svg"
+heroImage: "/images/uap-whistleblower-nda-waiver-warning-hero.png"
 heroCredit: "AI-generated illustration"
 heroImageRemote: "https://d8j0ntlcm91z4.cloudfront.net/user_3H0FDLhevoDIIm5NZhOBNfDEWRH/hf_20260804_092757_c02e3e10-f35f-4a8f-ae73-27736fef3016.png"
 credibility: 3
