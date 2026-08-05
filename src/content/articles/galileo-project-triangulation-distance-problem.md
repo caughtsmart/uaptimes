@@ -101,3 +101,7 @@ What strikes us is how thoroughly this inverts the usual shape of a UAP story. T
 For eighty years this subject has been starved of the one number that would make any of its other numbers mean something. Somebody has now built the instrument that supplies it, pointed it at the sky above Las Vegas, and reported — carefully and in public — that it had found nothing much.
 
 That is what it looks like when the question finally gets asked properly. The answer may well stay boring for years. Boring, measured and repeatable would still be the biggest upgrade this field has ever had.
+
+---
+
+*Further reading: the same problem at amateur scale — [the kit that lets you rule things out yourself](/field-kit), and [the craft shapes](/field-guide) those smudges keep getting sorted into.*

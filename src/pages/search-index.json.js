@@ -55,6 +55,7 @@ export async function GET() {
   items.push(
     { type: 'Page', title: 'Sightings Map', desc: 'An interactive map of notable UAP sightings.', url: '/map', tags: ['map', 'sightings'] },
     { type: 'Page', title: 'Field Guide', desc: 'The common UAP craft shapes, drawn as schematics.', url: '/field-guide', tags: ['shapes', 'craft', 'types'] },
+    { type: 'Page', title: "The Sky-Watcher's Field Kit", desc: 'The sky-watching gear worth owning — binoculars, superzoom cameras, night vision and the unglamorous kit that matters at 2am.', url: '/field-kit', tags: ['gear', 'binoculars', 'camera', 'night vision', 'telescope', 'kit'] },
     { type: 'Page', title: 'About UAP Times', desc: 'What UAP Times is, and the editorial standard we hold ourselves to.', url: '/about', tags: ['about', 'editorial'] },
   );
 
