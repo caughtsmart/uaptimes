@@ -32,6 +32,29 @@ const isAllowedHost = (u) => {
 const fileExists = (p) =>
   access(p, constants.F_OK).then(() => true).catch(() => false);
 
+// Write downloaded bytes to disk, optionally resizing/re-encoding first.
+//
+// Article heroes are written byte-for-byte, exactly as before — one hero per
+// page at ~2MB is fine. Site-media assets can opt in to optimisation with
+// `maxWidth` / `format`, which matters for pages carrying several images at
+// once (the field kit page has eight; unoptimised that's ~30MB of PNG).
+//
+// Opt-in assets REQUIRE sharp. If it's missing we skip the asset and report a
+// failure rather than writing PNG bytes to a .webp path — a loudly missing
+// image is easier to spot and fix than a silently mislabelled one.
+async function writeAsset(dest, bytes, { maxWidth, format } = {}) {
+  if (!maxWidth && !format) {
+    await writeFile(dest, bytes);
+    return;
+  }
+  const { default: sharp } = await import('sharp');
+  let img = sharp(bytes);
+  if (maxWidth) img = img.resize({ width: maxWidth, withoutEnlargement: true });
+  if (format === 'webp') img = img.webp({ quality: 80 });
+  else if (format === 'jpeg') img = img.jpeg({ quality: 82, mozjpeg: true });
+  await writeFile(dest, await img.toBuffer());
+}
+
 // Read a simple `key: "..."` / `key: ...` frontmatter line.
 const readField = (fm, key) => {
   const m = fm.match(new RegExp(`^${key}:\\s*(.+)$`, 'm'));
@@ -72,7 +95,7 @@ if (await fileExists(SITE_MEDIA_FILE)) {
       try {
         const res = await fetch(remote);
         if (!res.ok) throw new Error(`HTTP ${res.status}`);
-        await writeFile(dest, Buffer.from(await res.arrayBuffer()));
+        await writeAsset(dest, Buffer.from(await res.arrayBuffer()), asset);
         console.log(`localised site media -> ${dest}`);
         changed++;
       } catch (err) {

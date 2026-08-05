@@ -26,6 +26,12 @@ jobs:
       - uses: actions/setup-node@v4
         with:
           node-version: 22
+          cache: npm
+
+      # sharp — used to resize/re-encode the site-media assets that opt in
+      # (see writeAsset in the script). Article heroes need no dependencies.
+      - name: Install dependencies
+        run: npm ci
 
       - name: Fetch remote hero images
         run: node scripts/localise-hero-images.mjs
