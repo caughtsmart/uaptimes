@@ -47,14 +47,19 @@ async function writeAsset(dest, bytes, { maxWidth, maxHeight, format } = {}) {
     await writeFile(dest, bytes);
     return;
   }
+  // Reject a format we don't encode rather than falling through and writing
+  // the source encoding's bytes to, say, a .webp path.
+  if (format && format !== 'webp' && format !== 'jpeg') {
+    throw new Error(`unsupported format "${format}" (use "webp" or "jpeg")`);
+  }
   const { default: sharp } = await import('sharp');
   let img = sharp(bytes);
   // Both dimensions given: crop to exactly that box, so the file matches the
-  // width/height the page declares. Width alone: scale and keep the ratio.
+  // width/height the page declares. One alone: scale and keep the ratio.
   if (maxWidth && maxHeight) {
     img = img.resize({ width: maxWidth, height: maxHeight, fit: 'cover', withoutEnlargement: true });
-  } else if (maxWidth) {
-    img = img.resize({ width: maxWidth, withoutEnlargement: true });
+  } else if (maxWidth || maxHeight) {
+    img = img.resize({ width: maxWidth, height: maxHeight, withoutEnlargement: true });
   }
   if (format === 'webp') img = img.webp({ quality: 80 });
   else if (format === 'jpeg') img = img.jpeg({ quality: 82, mozjpeg: true });
@@ -74,6 +79,29 @@ const setField = (fm, key, value) => {
   return re.test(fm) ? fm.replace(re, line) : `${fm}\n${line}`;
 };
 
+// Warn when a committed site-media file doesn't match the maxWidth/maxHeight/
+// format now recorded for it. The download loop is deliberately idempotent, so
+// changing those fields for an existing asset has no effect until the file is
+// deleted — this turns that silent no-op into a line in the CI log.
+async function warnIfStale(dest, { maxWidth, maxHeight, format }) {
+  if (!maxWidth && !maxHeight && !format) return;
+  try {
+    const { default: sharp } = await import('sharp');
+    const m = await sharp(dest).metadata();
+    const wrong = [];
+    if (format && m.format !== format) wrong.push(`format ${m.format} != ${format}`);
+    if (maxWidth && m.width > maxWidth) wrong.push(`width ${m.width} > ${maxWidth}`);
+    if (maxWidth && maxHeight && (m.width !== maxWidth || m.height !== maxHeight)) {
+      wrong.push(`size ${m.width}x${m.height} != ${maxWidth}x${maxHeight}`);
+    }
+    if (wrong.length) {
+      console.warn(`stale: ${dest} (${wrong.join(', ')}) — delete the file to re-derive it`);
+    }
+  } catch {
+    // Metadata is a nicety; never let it fail the run.
+  }
+}
+
 const extFromUrl = (u) => {
   const ext = path.extname(new URL(u).pathname).toLowerCase();
   return /^\.(png|jpe?g|webp|gif|avif)$/.test(ext) ? ext : '.png';
@@ -92,7 +120,13 @@ if (await fileExists(SITE_MEDIA_FILE)) {
     for (const asset of manifest.assets || []) {
       const { remote, path: dest } = asset;
       if (!remote || !dest) continue;
-      if (await fileExists(dest)) continue; // idempotent
+      if (await fileExists(dest)) {
+        // Idempotent — but say so loudly when the committed file no longer
+        // matches the spec beside it. Editing maxWidth/maxHeight/format for an
+        // asset that already exists otherwise looks like it did nothing.
+        await warnIfStale(dest, asset);
+        continue;
+      }
       if (!isAllowedHost(remote)) {
         console.warn(`skip site media: host not on allow-list -> ${remote}`);
         failed++;
@@ -168,5 +202,13 @@ for (const file of files) {
 }
 
 console.log(`done: ${changed} updated, ${failed} failed`);
-// A missing hero shouldn't block a deploy — failures are surfaced in the log.
+// A missing hero shouldn't block a deploy, so this still exits 0 — but a
+// failure buried in a green log is easy to miss, so raise it as a GitHub
+// Actions error annotation too. That surfaces it on the run page (and in the
+// commit's checks) without failing the job.
+if (failed > 0) {
+  console.log(
+    `::error title=Image localisation::${failed} image(s) failed to localise — see the log above`
+  );
+}
 process.exit(0);

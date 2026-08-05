@@ -310,6 +310,11 @@ const REL = 'sponsored nofollow noopener';
   }
   .picks a:hover { color: var(--link-hover); text-decoration: underline; }
 
+  /* The shared .hero-figure style sets no ratio, so pin the hero to the 16:9
+     the img attributes declare — otherwise a future reshoot at a different
+     ratio silently reintroduces layout shift here. */
+  .hero-figure img { aspect-ratio: 16 / 9; object-fit: cover; }
+
   /* Section images. Narrower than the page hero so they read as illustrations
      of the section rather than as another masthead, and locked to 16:9 so the
      layout doesn't jump while they load. */
