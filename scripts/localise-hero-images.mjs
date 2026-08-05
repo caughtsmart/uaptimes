@@ -42,14 +42,20 @@ const fileExists = (p) =>
 // Opt-in assets REQUIRE sharp. If it's missing we skip the asset and report a
 // failure rather than writing PNG bytes to a .webp path — a loudly missing
 // image is easier to spot and fix than a silently mislabelled one.
-async function writeAsset(dest, bytes, { maxWidth, format } = {}) {
-  if (!maxWidth && !format) {
+async function writeAsset(dest, bytes, { maxWidth, maxHeight, format } = {}) {
+  if (!maxWidth && !maxHeight && !format) {
     await writeFile(dest, bytes);
     return;
   }
   const { default: sharp } = await import('sharp');
   let img = sharp(bytes);
-  if (maxWidth) img = img.resize({ width: maxWidth, withoutEnlargement: true });
+  // Both dimensions given: crop to exactly that box, so the file matches the
+  // width/height the page declares. Width alone: scale and keep the ratio.
+  if (maxWidth && maxHeight) {
+    img = img.resize({ width: maxWidth, height: maxHeight, fit: 'cover', withoutEnlargement: true });
+  } else if (maxWidth) {
+    img = img.resize({ width: maxWidth, withoutEnlargement: true });
+  }
   if (format === 'webp') img = img.webp({ quality: 80 });
   else if (format === 'jpeg') img = img.jpeg({ quality: 82, mozjpeg: true });
   await writeFile(dest, await img.toBuffer());
