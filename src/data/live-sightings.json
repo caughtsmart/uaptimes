@@ -1,16 +1,92 @@
 {
-  "updated": "2026-08-05T19:57:22.003Z",
+  "updated": "2026-08-05T22:29:01.817Z",
   "count": 90,
-  "notable": 21,
+  "notable": 22,
   "enriched": false,
   "items": [
+    {
+      "id": "8c8f5b8ed91e",
+      "title": "UAP Records Continue to Be Withheld From The Public at the National Archives",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/UFOs/comments/1vgm5lr/uap_records_continue_to_be_withheld_from_the/\"> <img…",
+      "url": "https://www.reddit.com/r/UFOs/comments/1vgm5lr/uap_records_continue_to_be_withheld_from_the/",
+      "date": "2026-08-05T22:28:49.000Z",
+      "source": "Reddit · r/UFOs",
+      "sourceType": "social",
+      "notable": false,
+      "precedence": "ROUTINE",
+      "signals": []
+    },
+    {
+      "id": "510b5ddceb09",
+      "title": "Daytime UAP Flagstaff,AZ",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/UFOs/comments/1vgm48b/daytime_uap_flagstaffaz/\"> <img src=\"https://external-preview.redd.it/NzdnOHQ4ODl1bWhoMbcmMapgjDpacAUzj2nEPG66iVIWdklPBTJlIhzSPZGK.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=f264238d93e2d365bc45f7d83817d5442b3a1c1b\"…",
+      "url": "https://www.reddit.com/r/UFOs/comments/1vgm48b/daytime_uap_flagstaffaz/",
+      "date": "2026-08-05T22:27:19.000Z",
+      "source": "Reddit · r/UFOs",
+      "sourceType": "social",
+      "notable": false,
+      "precedence": "ROUTINE",
+      "signals": []
+    },
+    {
+      "id": "1815f418050c",
+      "title": "The Letter That Reveals the Radar Weapon Behind Roswell",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/UFOs/comments/1vglpbf/the_letter_that_reveals_the_radar_weapon_behind/\"> <img…",
+      "url": "https://www.reddit.com/r/UFOs/comments/1vglpbf/the_letter_that_reveals_the_radar_weapon_behind/",
+      "date": "2026-08-05T22:11:07.000Z",
+      "source": "Reddit · r/UFOs",
+      "sourceType": "social",
+      "notable": true,
+      "precedence": "PRIORITY",
+      "signals": [
+        "instrumented"
+      ]
+    },
+    {
+      "id": "676a5494f74a",
+      "title": "# reflexion La distracción cósmica: El cálculo político detrás de la desclasificación de archivos UAP El debate en…",
+      "summary": "# reflexion La distracción cósmica: El cálculo político detrás de la desclasificación de archivos UAP El debate en torno a los fenómenos aéreos no identificados dio un giro drástico en el año 2026 bajo la administración de Donald Trump, quien formalizó la directiva de apertura mediante el programa…",
+      "url": "https://mast.lat/@MDT/117045127943752681",
+      "date": "2026-08-05T21:55:18.000Z",
+      "source": "Mastodon · @MDT",
+      "sourceType": "social",
+      "notable": false,
+      "precedence": "ROUTINE",
+      "signals": []
+    },
     {
       "id": "6fb5fce5c7be",
       "title": "Scientists warn of secret moon base after spotting over 20 giant UFOs",
       "summary": "<a…",
       "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPbFFuNGR3dG1JNWhUdVg2OXJNSDVwd09sUkM4eUN3X2U0Mi1ucWZOZ1JrMkJhNm1IUkhKRjBFMThsOWwxd2U4UzlZczFzVFdFY1dZSjRXT1M3eU1FRUdLVzdQc3B4SXZvVzVzR1JJbHh6YVpNcUlZUDZkQnM4NlB1MG1JY05reFhZeTE1cDdzOHUxdUZzaFZhYkV6Vl9Dd3Fmb0ZMa3VjR1k4S3NROGd5UndrVUYzQ1U?oc=5",
-      "date": "2026-08-05T19:06:43.000Z",
+      "date": "2026-08-05T21:09:50.000Z",
       "source": "Dexerto",
+      "sourceType": "news",
+      "notable": false,
+      "precedence": "ROUTINE",
+      "signals": []
+    },
+    {
+      "id": "35318ac81b18",
+      "title": "“The Deepest UFO Secret Isn’t The Craft!” -Dylan Borland, Jesse Michels Interview",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/UFOs/comments/1vgifmx/the_deepest_ufo_secret_isnt_the_craft_dylan/\"> <img src=\"https://external-preview.redd.it/14OJ1D2JZlUl2ik7LN4pVhylDuH_VZG6j8Ae-7FmZKU.jpeg?width=320&amp;crop=smart&amp;auto=webp&amp;s=a5616c6e2df1af975fed749f461ed687aed86c8c\"…",
+      "url": "https://www.reddit.com/r/UFOs/comments/1vgifmx/the_deepest_ufo_secret_isnt_the_craft_dylan/",
+      "date": "2026-08-05T20:07:06.000Z",
+      "source": "Reddit · r/UFOs",
+      "sourceType": "social",
+      "notable": false,
+      "precedence": "ROUTINE",
+      "signals": [
+        "craft shape"
+      ]
+    },
+    {
+      "id": "e85703e60675",
+      "title": "Ukrainian Scientists Suggest Moon is UFO Base",
+      "summary": "<a…",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPa3FsT1BjSVl0bUcxekpnU2Fpc1haLWtYc3RyQ1pwTDF3UTJiaW01ZkRDZXpJR3p2U21ZUHdiUy1MSEYyMmJVM2FWRG50QU16VURXY2JTVkh2X0QxYUotRjlkdWtQZW5YM1ZhdHYzN21ocjFnWmg0cS1hVkNXbTdPb3kzdUVEMXhXSnBWUm8wY0RkRFJJck9vWTJKNGI3N2g0OGl0X0k2ckNVTVNfRDV1M2xNMmhzT28?oc=5",
+      "date": "2026-08-05T18:49:00.000Z",
+      "source": "Talk Radio 98.3 WLAC",
       "sourceType": "news",
       "notable": false,
       "precedence": "ROUTINE",
@@ -158,7 +234,7 @@
       "summary": "<a…",
       "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPMHUyM0FhQUh2ZF9ERElxc2I4NXBRVUhMU0p1aHlvQXl2c1Fud0h5ZVNvUGdfTEV0V29ja3ZCeVZVRGNjbG9OdlhpQ042SHM0RGQwUzU5MVBSTm5uR1RXT0w1eDRZR0VYU2hQd3VXWjdJcDFDUnZnNjl6dnh2RHlkSmlpRkMwMk1PTW9Uc05reEZPLTZ0blRBcFFPMzBqdnRQUjB3bkt2bHpSMmpsNmhRN1l1V3JqYUZRMlRyY2IyblNwYnc?oc=5",
       "date": "2026-08-05T12:05:04.000Z",
-      "source": "inkl.com",
+      "source": "inkl",
       "sourceType": "news",
       "notable": true,
       "precedence": "PRIORITY",
@@ -332,7 +408,7 @@
       "summary": "<a…",
       "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQcnVXdHVHS0pfSVFUTE9SYk9wc3UwSXlDNm1XOVRsR1hJWGxTTWN3SzB0Y1BheFdCYTVmS0U0aWdxT1NPVU5rU1p1WVBiTy1tbzFRaWZ5SldTTVRzWWVOUnlHRFE5QUpSWnAwRWVjbnAzcXoxVjZQM3F6ckxrcFBnX1NkVHc3M0NoLTVrZVVIQlM2M01IcHd2VjBNZUlIMW9ZLTNwWWI4RmJtYUlHMndUYlRvV053eXBfbTU0Mmo5UQ?oc=5",
       "date": "2026-08-04T23:48:12.000Z",
-      "source": "inkl.com",
+      "source": "inkl",
       "sourceType": "news",
       "notable": true,
       "precedence": "PRIORITY",
@@ -517,20 +593,6 @@
       ]
     },
     {
-      "id": "c065003dceff",
-      "title": "📹 VIDEO SITREP 2026-08-04 16:00 UTC [A1] UAP report (Early) https://www. youtube.com/watch?v=IyTeV6kko5A https://…",
-      "summary": "📹 VIDEO SITREP 2026-08-04 16:00 UTC [A1] UAP report (Early) https://www. youtube.com/watch?v=IyTeV6kko5A https:// n4hy.github.io/sciencebobnews- site # UAP # UFO # USO Powered by Science Bob News",
-      "url": "https://mastodon.social/@ScienceBob/117038069238407115",
-      "date": "2026-08-04T16:00:10.796Z",
-      "source": "Mastodon · @ScienceBob",
-      "sourceType": "social",
-      "notable": false,
-      "precedence": "ROUTINE",
-      "signals": [
-        "has media"
-      ]
-    },
-    {
       "id": "ac1667373f03",
       "title": "UFOs, The Collins Elite, & The World Commerce Corporation | Jason Samosa",
       "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/UFOs/comments/1vfec97/ufos_the_collins_elite_the_world_commerce/\"> <img src=\"https://external-preview.redd.it/mn6dzstAHYmYYyfbg2pUP7iGZcFh502yV0QX8loMRwU.jpeg?width=320&amp;crop=smart&amp;auto=webp&amp;s=f5b01a2b37a743d8b69bb513bc9c896bda837e9b\"…",
@@ -637,26 +699,12 @@
       ]
     },
     {
-      "id": "88eca4250fb6",
-      "title": "UAP Crash Retrievals: Why only from 1933 or 1947 onward?",
-      "summary": "<!-- SC_OFF --><div class=\"md\"><p>The whole topic of recovering crashed UAP debris leaves me quite puzzled.</p> <p>It seems that military organizations only started collecting these materials in the early 20th century, as if no crashes had ever occurred before then.</p> <p>That seems unlikely.</p>…",
-      "url": "https://www.reddit.com/r/UFOs/comments/1veioy9/uap_crash_retrievals_why_only_from_1933_or_1947/",
-      "date": "2026-08-03T16:41:38.000Z",
-      "source": "Reddit · r/UFOs",
-      "sourceType": "social",
-      "notable": true,
-      "precedence": "PRIORITY",
-      "signals": [
-        "military/agency"
-      ]
-    },
-    {
-      "id": "ded0372a0983",
+      "id": "4e29765b7400",
       "title": "UFO spotted off Norfolk coast by RAF pilots during operation at 16,000ft",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxNNVcyWXBMNVlTNXpIRXdXWXhQeWhiZXh6U2xrbTIxSjJxN3FOUEQxRkY3R2JvNzlHVDJ2SXNrblhnTUt0aTVKSUFRMVRTRHlQUERvamE5SWZzSTE4R0ZCd3lyNWJIQ2pkSTZMM1lZSHNCLVlmQlZkYzRiaGs1bDQ2TkY0Tzg3OS1rMndweGNxUmU?oc=5\" target=\"_blank\">UFO spotted off Norfolk coast…",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNNVcyWXBMNVlTNXpIRXdXWXhQeWhiZXh6U2xrbTIxSjJxN3FOUEQxRkY3R2JvNzlHVDJ2SXNrblhnTUt0aTVKSUFRMVRTRHlQUERvamE5SWZzSTE4R0ZCd3lyNWJIQ2pkSTZMM1lZSHNCLVlmQlZkYzRiaGs1bDQ2TkY0Tzg3OS1rMndweGNxUmU?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxQYUdRd1ZLWHZMX0k4QTVhNEpRTzhjWDlSTTlRR2FTa0tNdW9XbW4tdmdySkN5WTdRZWxROUZyVG1YZmtCN0FKSzZodTgxalVueG1MWXJqdFFOTEtza085U1FGYzU5clRoV25ORlBrQTBrQWFTNm44TUJFbTFWYzNNLXhuSXhBMER0VWFBeUZTakJ1TzY3bEVCckl0RVc2VW8?oc=5\" target=\"_blank\">UFO…",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQYUdRd1ZLWHZMX0k4QTVhNEpRTzhjWDlSTTlRR2FTa0tNdW9XbW4tdmdySkN5WTdRZWxROUZyVG1YZmtCN0FKSzZodTgxalVueG1MWXJqdFFOTEtza085U1FGYzU5clRoV25ORlBrQTBrQWFTNm44TUJFbTFWYzNNLXhuSXhBMER0VWFBeUZTakJ1TzY3bEVCckl0RVc2VW8?oc=5",
       "date": "2026-08-03T14:47:00.000Z",
-      "source": "Edp24",
+      "source": "North Norfolk News",
       "sourceType": "news",
       "notable": false,
       "precedence": "ROUTINE",
@@ -675,26 +723,12 @@
       "signals": []
     },
     {
-      "id": "77ac9e9a60a4",
-      "title": "Pilot spots 'flying saucer' from cockpit of plane near London Gatwick Airport",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/UFOs/comments/1vebwfv/pilot_spots_flying_saucer_from_cockpit_of_plane/\"> <img…",
-      "url": "https://www.reddit.com/r/UFOs/comments/1vebwfv/pilot_spots_flying_saucer_from_cockpit_of_plane/",
-      "date": "2026-08-03T12:22:09.000Z",
-      "source": "Reddit · r/UFOs",
-      "sourceType": "social",
-      "notable": true,
-      "precedence": "PRIORITY",
-      "signals": [
-        "aviation"
-      ]
-    },
-    {
       "id": "56e765b2e23e",
       "title": "Mysterious UAP at Gimhae Airport: 'Unanswered Questions' Investigates Unidentified Aerial Phenomena",
       "summary": "<a…",
       "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxObHVGS1dmcmpOWkluODViNEpZanVIQ3NuYlE5Nk1CWDNoZXFyeTh4LXZBOXc5eWdrWmY2S3NGaU9lcnh5czR4VnhJYlA2Vkd6UXg3THFtQmZuOWdydmZBSnc2aEgyaXJwT3FBWjNSTXhSTmNtcEd5YjQzSFdsQk9abDJuRmZYMS1HMEtpZW1lYnpHOU9senppbkJfbThSdU9MeEFQTjhpbVZ3eFY1U2s2QzFCR2t6RXlmTnRqR1N3eUNJck5BQklxelA3UFJQYTc2OFE?oc=5",
       "date": "2026-08-03T11:27:00.000Z",
-      "source": "SBS Star",
+      "source": "sbsstar.net",
       "sourceType": "news",
       "notable": true,
       "precedence": "PRIORITY",
@@ -739,18 +773,6 @@
       "date": "2026-08-03T06:55:52.000Z",
       "source": "International Business Times UK",
       "sourceType": "news",
-      "notable": false,
-      "precedence": "ROUTINE",
-      "signals": []
-    },
-    {
-      "id": "5da4e2fea921",
-      "title": "Ukrainian UFO Group preprint document confirms moon ufos?",
-      "summary": "<!-- SC_OFF --><div class=\"md\"><p>I've been going back and reading these reports from Boris Zhilyaev, Vladimir Petukhov, and Sergey Pokhvala. They've published several papers outlining their detection and documentation of black-body (does not reflect light/absorbs all light) objects in the sky…",
-      "url": "https://www.reddit.com/r/UFOs/comments/1ve5mbo/ukrainian_ufo_group_preprint_document_confirms/",
-      "date": "2026-08-03T06:38:41.000Z",
-      "source": "Reddit · r/UFOs",
-      "sourceType": "social",
       "notable": false,
       "precedence": "ROUTINE",
       "signals": []
@@ -855,30 +877,6 @@
         "military/agency",
         "has media"
       ]
-    },
-    {
-      "id": "23126ad6defe",
-      "title": "Werner Books and Coffee UFO Days celebrates local urban legend",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxNTXl3YjhkRFBXNXlPZ0J2Z2Z2enIzM1pIbGxtVm9sQ1N3Zi1CTllDRnFUYTZkczJHbnZVdG1iWkljVkQ4M1J3LXBObjdpR1I5VHBFclFwN1Y1SXNSdXo4Y2ZnMU9faXpjUC1Hb2Jwb3lEZGZyd3ExcEk3WkpHNTdidnBrendSeTNyd0J3cw?oc=5\" target=\"_blank\">Werner Books and Coffee UFO Days…",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNTXl3YjhkRFBXNXlPZ0J2Z2Z2enIzM1pIbGxtVm9sQ1N3Zi1CTllDRnFUYTZkczJHbnZVdG1iWkljVkQ4M1J3LXBObjdpR1I5VHBFclFwN1Y1SXNSdXo4Y2ZnMU9faXpjUC1Hb2Jwb3lEZGZyd3ExcEk3WkpHNTdidnBrendSeTNyd0J3cw?oc=5",
-      "date": "2026-08-02T21:12:29.000Z",
-      "source": "Yahoo",
-      "sourceType": "news",
-      "notable": false,
-      "precedence": "ROUTINE",
-      "signals": []
-    },
-    {
-      "id": "e9e8195fefdf",
-      "title": "They Told UAP Whistleblowers To Come Forward. Matthew Brown Says It's A Trap.",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/UFOs/comments/1vdtpin/they_told_uap_whistleblowers_to_come_forward/\"> <img…",
-      "url": "https://www.reddit.com/r/UFOs/comments/1vdtpin/they_told_uap_whistleblowers_to_come_forward/",
-      "date": "2026-08-02T21:11:04.000Z",
-      "source": "Reddit · r/UFOs",
-      "sourceType": "social",
-      "notable": false,
-      "precedence": "ROUTINE",
-      "signals": []
     },
     {
       "id": "bb7e6f5e5a7b",
@@ -1058,30 +1056,6 @@
       "signals": []
     },
     {
-      "id": "05891a64a56a",
-      "title": "1/2 Notes on # UAP Discussions: It’s not for nothing that sometimes it’s easier to just stop talking about work in…",
-      "summary": "1/2 Notes on # UAP Discussions: It’s not for nothing that sometimes it’s easier to just stop talking about work in progress.Things move, if they move at all, in fits and starts. Folks have high hopes and get emotionally vested in the one thing.The big picture may remain positive but if a…",
-      "url": "https://mastodon.online/@KilleansRow/116996899353044201",
-      "date": "2026-07-28T09:30:08.000Z",
-      "source": "Mastodon · @KilleansRow",
-      "sourceType": "social",
-      "notable": false,
-      "precedence": "ROUTINE",
-      "signals": []
-    },
-    {
-      "id": "1f85a0a2282d",
-      "title": "Notes on # UAP # Discussions : An interesting aside on the # OntologicalShock discussion is of course the personal…",
-      "summary": "Notes on # UAP # Discussions : An interesting aside on the # OntologicalShock discussion is of course the personal evolution of panel members Burlison, Luna et al. No doubt the journey has changed and is changing them as human beings ;confrontation with the reality of # NHI comes with the job. #…",
-      "url": "https://mastodon.online/@KilleansRow/116992126816698625",
-      "date": "2026-07-27T13:16:25.000Z",
-      "source": "Mastodon · @KilleansRow",
-      "sourceType": "social",
-      "notable": false,
-      "precedence": "ROUTINE",
-      "signals": []
-    },
-    {
       "id": "93ed72cf95ee",
       "title": "Neoinklings: aliens, alienation and otherness -- a literary conversation from 8 years ago https://…",
       "summary": "Neoinklings: aliens, alienation and otherness -- a literary conversation from 8 years ago https:// khanya.wordpress.com/2018/06/0 9/neoinklings-alienation-and-otherness/ # monasteries # UFOs # TheSixties # ReadingCommunity",
@@ -1155,6 +1129,36 @@
       "notable": false,
       "precedence": "ROUTINE",
       "signals": []
+    },
+    {
+      "id": "40e7326a1f89",
+      "title": "UFO: Chicago O’Hare Airport Incident, Illinois, USA, 2006 On November 7, 2006, United Airlines employees witnessed a…",
+      "summary": "UFO: Chicago O’Hare Airport Incident, Illinois, USA, 2006 On November 7, 2006, United Airlines employees witnessed a metallic disc hovering over Gate C17 at O'Hare Airport. The object shot upward, punching a hole through the clouds before vanishing. What did they really see that afternoon? # UFO #…",
+      "url": "https://mas.to/@AroundTheWorldIOD/116791906232812821",
+      "date": "2026-06-22T04:37:41.000Z",
+      "source": "Mastodon · @AroundTheWorldIOD",
+      "sourceType": "social",
+      "notable": true,
+      "precedence": "PRIORITY",
+      "signals": [
+        "aviation",
+        "craft shape"
+      ]
+    },
+    {
+      "id": "928b4ca18dfe",
+      "title": "UFO: Illinois Triangle Sightings, Illinois, USA, 2000 Massive triangle UFO flew over Illinois in January 2000,…",
+      "summary": "UFO: Illinois Triangle Sightings, Illinois, USA, 2000 Massive triangle UFO flew over Illinois in January 2000, witnessed by police officers and dozens of citizens. One of the most credible UFO cases in American history. # UFO # Illinois # UnexplainedMysteries # UFOSighting # TrueStory # Shorts…",
+      "url": "https://mas.to/@AroundTheWorldIOD/116791670679116783",
+      "date": "2026-06-22T03:37:47.000Z",
+      "source": "Mastodon · @AroundTheWorldIOD",
+      "sourceType": "social",
+      "notable": true,
+      "precedence": "PRIORITY",
+      "signals": [
+        "mass sighting",
+        "craft shape"
+      ]
     }
   ]
 }
