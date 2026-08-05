@@ -9,6 +9,8 @@ interface Props {
   description?: string;
   image?: string;          // absolute path e.g. /images/foo.jpg for social cards
   imageAlt?: string;       // alt text for the social card image
+  imageWidth?: number;     // social card pixel size — defaults to the 1376x768
+  imageHeight?: number;    // article hero size when the image is a PNG
   article?: boolean;       // sets og:type article
   publishedTime?: Date;
   modifiedTime?: Date;     // last updated — feeds article:modified_time + dateModified
@@ -26,6 +28,8 @@ const {
   description = SITE_DESCRIPTION,
   image = '/images/masthead-ufo.png',
   imageAlt,
+  imageWidth,
+  imageHeight,
   article = false,
   publishedTime,
   modifiedTime,
@@ -57,7 +61,19 @@ const socialAlt = imageAlt || fullTitle;
 const canonical = new URL(Astro.url.pathname, Astro.site);
 const socialImage = new URL(image, Astro.site);
 const logo = new URL('/images/logo.svg', Astro.site);
+// Social card type + dimensions. Every hero PNG the pipeline produces is
+// 1376x768, so that stays the default; anything else (a JPEG or WebP card)
+// has to declare its own size, and gets the right MIME type either way.
 const isImagePng = /\.png$/i.test(image);
+const socialType = isImagePng
+  ? 'image/png'
+  : /\.jpe?g$/i.test(image)
+    ? 'image/jpeg'
+    : /\.webp$/i.test(image)
+      ? 'image/webp'
+      : null;
+const socialWidth = imageWidth ?? (isImagePng ? 1376 : null);
+const socialHeight = imageHeight ?? (isImagePng ? 768 : null);
 
 const jsonLd = article
   ? {
@@ -137,9 +153,9 @@ const preloadHero = article && /\.(png|jpe?g|webp)$/i.test(image) ? image : null
     <meta property="og:locale" content="en_GB" />
     <meta property="og:image" content={socialImage} />
     <meta property="og:image:alt" content={socialAlt} />
-    {isImagePng && <meta property="og:image:type" content="image/png" />}
-    {isImagePng && <meta property="og:image:width" content="1376" />}
-    {isImagePng && <meta property="og:image:height" content="768" />}
+    {socialType && <meta property="og:image:type" content={socialType} />}
+    {socialWidth && <meta property="og:image:width" content={String(socialWidth)} />}
+    {socialHeight && <meta property="og:image:height" content={String(socialHeight)} />}
     {article && publishedTime && <meta property="article:published_time" content={publishedTime.toISOString()} />}
     {article && (modifiedTime ?? publishedTime) && <meta property="article:modified_time" content={(modifiedTime ?? publishedTime)!.toISOString()} />}
     {article && <meta property="article:author" content={author} />}
