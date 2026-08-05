@@ -55,11 +55,8 @@ that commit lands means any build in between renders a broken image.
 The sandbox usually can't reach the image CDN; CI runners can. So recording the
 URL and pushing is the reliable path, not a fallback.
 
-## Other automation
-
-`.github/workflows/fetch-sightings.yml` updates the sightings wire on a schedule
-and commits to `main` several times a day. `main` will often have moved since you
-last fetched — pull before you push.
+Because that workflow commits to `main` itself, `main` will often have moved
+since you last fetched — pull before you push.
 
 ## Checks
 
