@@ -1,22 +1,20 @@
 {
-  "updated": "2026-08-05T16:54:42.893Z",
+  "updated": "2026-08-05T19:57:22.003Z",
   "count": 90,
-  "notable": 22,
+  "notable": 21,
   "enriched": false,
   "items": [
     {
-      "id": "ba947ddc95c9",
-      "title": "Researcher Richard Dolan says Trump's \"PURSUE\" NDA waiver for UAP whistleblowers only authorizes disclosure through narrow channels (AARO), doesn't protect witnesses from losing clearances, from suffering reprisal or career damage, and gives full control to the Executive branch instead of Congress.",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/UFOs/comments/1vgbpkn/researcher_richard_dolan_says_trumps_pursue_nda/\"> <img…",
-      "url": "https://www.reddit.com/r/UFOs/comments/1vgbpkn/researcher_richard_dolan_says_trumps_pursue_nda/",
-      "date": "2026-08-05T16:09:03.000Z",
-      "source": "Reddit · r/UFOs",
-      "sourceType": "social",
-      "notable": true,
-      "precedence": "PRIORITY",
-      "signals": [
-        "government"
-      ]
+      "id": "6fb5fce5c7be",
+      "title": "Scientists warn of secret moon base after spotting over 20 giant UFOs",
+      "summary": "<a…",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPbFFuNGR3dG1JNWhUdVg2OXJNSDVwd09sUkM4eUN3X2U0Mi1ucWZOZ1JrMkJhNm1IUkhKRjBFMThsOWwxd2U4UzlZczFzVFdFY1dZSjRXT1M3eU1FRUdLVzdQc3B4SXZvVzVzR1JJbHh6YVpNcUlZUDZkQnM4NlB1MG1JY05reFhZeTE1cDdzOHUxdUZzaFZhYkV6Vl9Dd3Fmb0ZMa3VjR1k4S3NROGd5UndrVUYzQ1U?oc=5",
+      "date": "2026-08-05T19:06:43.000Z",
+      "source": "Dexerto",
+      "sourceType": "news",
+      "notable": false,
+      "precedence": "ROUTINE",
+      "signals": []
     },
     {
       "id": "db576ec00d7f",
@@ -43,6 +41,18 @@
       "signals": []
     },
     {
+      "id": "158ec98e9b4c",
+      "title": "Ukrainian Scientists Claim 20+ Giant UFOs Near the Moon – Experts Push Back",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxQWGFPZjR5eEsyN2t5QjVGVGxFOWV0TG1EdFBJakVQNlBkSkxxVjVkakQ4Tzk4elBRb19pbjVrNVlQOW9SYk5NZUc5QU9NVDdxWW11c3JDU3FrWnVFZFhQQjJYV1NyMGV4NXEwWThMSVVaVndJUHZUMDlINTBKSndsQnJCVmNocG1rblpDalNkQWdvbTBhTEhxN1FR?oc=5\" target=\"_blank\">Ukrainian…",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQWGFPZjR5eEsyN2t5QjVGVGxFOWV0TG1EdFBJakVQNlBkSkxxVjVkakQ4Tzk4elBRb19pbjVrNVlQOW9SYk5NZUc5QU9NVDdxWW11c3JDU3FrWnVFZFhQQjJYV1NyMGV4NXEwWThMSVVaVndJUHZUMDlINTBKSndsQnJCVmNocG1rblpDalNkQWdvbTBhTEhxN1FR?oc=5",
+      "date": "2026-08-05T15:38:16.000Z",
+      "source": "Yahoo",
+      "sourceType": "news",
+      "notable": false,
+      "precedence": "ROUTINE",
+      "signals": []
+    },
+    {
       "id": "3c38b0cc48e5",
       "title": "Scientists claim massive fleet of UFOs has just been spotted near the Moon",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxPMzhldVRZU3oxOVk4dEJPbVNJTjg3ekh4cmk1YzNtbmgxNnFBY3h1dllDVzd5R2lEdFVHZ2J1MUZrUDBYN1YtT0VIcGRwTXVpcUtXZVU3cmR3bjdyVEU1dm5MN0I4Z1lISk1xRjVSQWd4SGE4TThDTjd5TlM2bWg2THowd0k1bTZ4YUN6aFlGRFNiNWl0aU9xRnB4b0VrUURQN0N4ZTlXVDY?oc=5\"…",
@@ -55,18 +65,6 @@
       "signals": [
         "craft shape"
       ]
-    },
-    {
-      "id": "6fb5fce5c7be",
-      "title": "Scientists warn of secret moon base after spotting over 20 giant UFOs",
-      "summary": "<a…",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPbFFuNGR3dG1JNWhUdVg2OXJNSDVwd09sUkM4eUN3X2U0Mi1ucWZOZ1JrMkJhNm1IUkhKRjBFMThsOWwxd2U4UzlZczFzVFdFY1dZSjRXT1M3eU1FRUdLVzdQc3B4SXZvVzVzR1JJbHh6YVpNcUlZUDZkQnM4NlB1MG1JY05reFhZeTE1cDdzOHUxdUZzaFZhYkV6Vl9Dd3Fmb0ZMa3VjR1k4S3NROGd5UndrVUYzQ1U?oc=5",
-      "date": "2026-08-05T15:09:50.000Z",
-      "source": "Dexerto",
-      "sourceType": "news",
-      "notable": false,
-      "precedence": "ROUTINE",
-      "signals": []
     },
     {
       "id": "64b39881681d",
@@ -155,12 +153,12 @@
       "signals": []
     },
     {
-      "id": "b1c46de46a06",
+      "id": "84970227b0ab",
       "title": "Heathrow Pilot Reports 'Definite Risk of Collision' as UFO Drone Buzzes Jet Close Enough To See Props",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxNRGM3NGhIWHA5N05IOHZfMmFSMHVWUkJQLThEUkQ5U1JEZWVPNzlaVHp5UDhVSmlabm92cWgzeG90SVY5WE1QdGZ0cHBobVhZTHV1YzNJSzNOTTdMTzdFWEo5QXdsdHdfN29VZmJsTVE2TGVoY2QtbDNZWHdvMTJNSE1Fc1JkRHROdEdpeA?oc=5\" target=\"_blank\">Heathrow Pilot Reports 'Definite…",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNRGM3NGhIWHA5N05IOHZfMmFSMHVWUkJQLThEUkQ5U1JEZWVPNzlaVHp5UDhVSmlabm92cWgzeG90SVY5WE1QdGZ0cHBobVhZTHV1YzNJSzNOTTdMTzdFWEo5QXdsdHdfN29VZmJsTVE2TGVoY2QtbDNZWHdvMTJNSE1Fc1JkRHROdEdpeA?oc=5",
+      "summary": "<a…",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPMHUyM0FhQUh2ZF9ERElxc2I4NXBRVUhMU0p1aHlvQXl2c1Fud0h5ZVNvUGdfTEV0V29ja3ZCeVZVRGNjbG9OdlhpQ042SHM0RGQwUzU5MVBSTm5uR1RXT0w1eDRZR0VYU2hQd3VXWjdJcDFDUnZnNjl6dnh2RHlkSmlpRkMwMk1PTW9Uc05reEZPLTZ0blRBcFFPMzBqdnRQUjB3bkt2bHpSMmpsNmhRN1l1V3JqYUZRMlRyY2IyblNwYnc?oc=5",
       "date": "2026-08-05T12:05:04.000Z",
-      "source": "International Business Times UK",
+      "source": "inkl.com",
       "sourceType": "news",
       "notable": true,
       "precedence": "PRIORITY",
@@ -169,10 +167,10 @@
       ]
     },
     {
-      "id": "d2974fa85ca6",
+      "id": "6eaf562b382e",
       "title": "Scientists warn of secret alien base after fleet of more than 20 UFOs spotted flying across the Moon",
       "summary": "<a…",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNbGVnbHkwejhyV1VESjZPVE5MNGxwRmd0d2QtTGhaSm11Z3drY28tcDBaWlRyRUw1QXRRX1JrdnFOUFVEWXh6UWlkQ2JCYW9pODB1Z2doMjlLaHpIcnpXVGM5M2RnQUVHVmxnTkV2bVRUVVBad3V0THNIaG9weFdudVNOcHMwcXJJOHhRV05ZM0tTd9IBkgFBVV95cUxNbGVnbHkwejhyV1VESjZPVE5MNGxwRmd0d2QtTGhaSm11Z3drY28tcDBaWlRyRUw1QXRRX1JrdnFOUFVEWXh6UWlkQ2JCYW9pODB1Z2doMjlLaHpIcnpXVGM5M2RnQUVHVmxnTkV2bVRUVVBad3V0THNIaG9weFdudVNOcHMwcXJJOHhRV05ZM0tTdw?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOWF9iY3Y1dzl5R1llTTNEY09DOUhUZkdPZjdXeFU0QUtUeWtMS2pwMnBFdmJKMUp6QU9DRmw3WW1FMExNZGw5TDgxYi1UOUw1QVQ5WWNxZUdvVFNYdmRVX3FaNU15MDNEZFU4cG5ZdjhRazQzbGZxTGo0YlZ6YlBvNmh1X0JmX0V3QnhXVtIBkgFBVV95cUxNbGVnbHkwejhyV1VESjZPVE5MNGxwRmd0d2QtTGhaSm11Z3drY28tcDBaWlRyRUw1QXRRX1JrdnFOUFVEWXh6UWlkQ2JCYW9pODB1Z2doMjlLaHpIcnpXVGM5M2RnQUVHVmxnTkV2bVRUVVBad3V0THNIaG9weFdudVNOcHMwcXJJOHhRV05ZM0tTdw?oc=5",
       "date": "2026-08-05T11:39:00.000Z",
       "source": "Irish Star",
       "sourceType": "news",
@@ -334,7 +332,7 @@
       "summary": "<a…",
       "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQcnVXdHVHS0pfSVFUTE9SYk9wc3UwSXlDNm1XOVRsR1hJWGxTTWN3SzB0Y1BheFdCYTVmS0U0aWdxT1NPVU5rU1p1WVBiTy1tbzFRaWZ5SldTTVRzWWVOUnlHRFE5QUpSWnAwRWVjbnAzcXoxVjZQM3F6ckxrcFBnX1NkVHc3M0NoLTVrZVVIQlM2M01IcHd2VjBNZUlIMW9ZLTNwWWI4RmJtYUlHMndUYlRvV053eXBfbTU0Mmo5UQ?oc=5",
       "date": "2026-08-04T23:48:12.000Z",
-      "source": "inkl",
+      "source": "inkl.com",
       "sourceType": "news",
       "notable": true,
       "precedence": "PRIORITY",
@@ -550,7 +548,7 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxNSTVaVVZtTzdmSUJYSDJjSm1RMUNQMU9iY2tibnFRTjBQb2JKcEVaSWNGUm41MHBoQlk4RXlMclJsNTRjbUFscURzNVVidHo2U1lKSndRNGhkSUhSMFY0TlRoRHJkU1lOdEdVdzVBZGtxNC1aN1pGaVRRNU1FelR2ZEhlbmNTYXBV?oc=5\" target=\"_blank\">Commercial Pilot Reports Seeing 'Flying…",
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNSTVaVVZtTzdmSUJYSDJjSm1RMUNQMU9iY2tibnFRTjBQb2JKcEVaSWNGUm41MHBoQlk4RXlMclJsNTRjbUFscURzNVVidHo2U1lKSndRNGhkSUhSMFY0TlRoRHJkU1lOdEdVdzVBZGtxNC1aN1pGaVRRNU1FelR2ZEhlbmNTYXBV?oc=5",
       "date": "2026-08-04T14:10:20.000Z",
-      "source": "brobible.com",
+      "source": "BroBible",
       "sourceType": "news",
       "notable": true,
       "precedence": "PRIORITY",
@@ -859,30 +857,28 @@
       ]
     },
     {
-      "id": "5db012fccfe2",
+      "id": "23126ad6defe",
       "title": "Werner Books and Coffee UFO Days celebrates local urban legend",
-      "summary": "<a…",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOeUdvZzB1RGltaGpuZzRvYzVkUE1UUEZldFZUVzA1RVk2VDBzNEJ2WkVWbUpZMEk5bVNKUDVqWWEzZ0I5VlNVSlJHSXUyVlF2MXZCcldlLTAyTVNmVXlJWnQtVFZhbHotOC1VVi1VTXhudS1iaWhwUUNBU2h1ZFRtYWNxNTZLc0dIZTBabUh3UmpLTHVTaDRKN1lwY2hlVHB4dWg4WWNVNNIBrAFBVV95cUxPVGNDU2doTDNjbG1YWGVjcXhXZFIwdzBBS0ZxU3hxNkY0N1JWc1F0NHBxbVdvSXZVend2bUI4Y0VLblNicU9GZHcwNkIxZWdVOFlaM2JqcjZlOEo1c1owOVJHTnBkdUI1NkZab0pBMWlVMGRicjVCVXJ1R3VoVUFtZFZFNERINl9mX0RvS3V6UFZWeUZGSkJiYlRkT0RSUmJfVDFZNlVxcTFPWE9y?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxNTXl3YjhkRFBXNXlPZ0J2Z2Z2enIzM1pIbGxtVm9sQ1N3Zi1CTllDRnFUYTZkczJHbnZVdG1iWkljVkQ4M1J3LXBObjdpR1I5VHBFclFwN1Y1SXNSdXo4Y2ZnMU9faXpjUC1Hb2Jwb3lEZGZyd3ExcEk3WkpHNTdidnBrendSeTNyd0J3cw?oc=5\" target=\"_blank\">Werner Books and Coffee UFO Days…",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNTXl3YjhkRFBXNXlPZ0J2Z2Z2enIzM1pIbGxtVm9sQ1N3Zi1CTllDRnFUYTZkczJHbnZVdG1iWkljVkQ4M1J3LXBObjdpR1I5VHBFclFwN1Y1SXNSdXo4Y2ZnMU9faXpjUC1Hb2Jwb3lEZGZyd3ExcEk3WkpHNTdidnBrendSeTNyd0J3cw?oc=5",
       "date": "2026-08-02T21:12:29.000Z",
-      "source": "yourerie.com",
+      "source": "Yahoo",
       "sourceType": "news",
       "notable": false,
       "precedence": "ROUTINE",
       "signals": []
     },
     {
-      "id": "b6de3a0783af",
-      "title": "Erie Businesses Celebrate 60th Anniversary of UFO Landing",
-      "summary": "<a…",
-      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNNGpYenJnMlZFeXBPc3VIa2FxMVN5NE9Sa0M5R21BUjUzUHl4QzlGOGZ0MDk4WVB3blNScWlxZ1VSSXJqdTBITnFyRF82NUltUWlQSkd3dllpMlNvYzNfSFU0ZFByUERmenktR1NURVVBa3lNNU1oWDkwODFGQTBwdGpfcUxFaHpiRjhoVHBsbDVZdk5rN1RBLXplSTZvZkFFQURFWjFRaE1EajJZM3dzOUFwOEV6VVdQWmpLcVJsTl82QzREcDRDNHB0S1FTWGgzdXZkMmxqcmFSdWpXaW5v?oc=5",
-      "date": "2026-08-02T17:38:00.000Z",
-      "source": "Erie News Now",
-      "sourceType": "news",
+      "id": "e9e8195fefdf",
+      "title": "They Told UAP Whistleblowers To Come Forward. Matthew Brown Says It's A Trap.",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/UFOs/comments/1vdtpin/they_told_uap_whistleblowers_to_come_forward/\"> <img…",
+      "url": "https://www.reddit.com/r/UFOs/comments/1vdtpin/they_told_uap_whistleblowers_to_come_forward/",
+      "date": "2026-08-02T21:11:04.000Z",
+      "source": "Reddit · r/UFOs",
+      "sourceType": "social",
       "notable": false,
       "precedence": "ROUTINE",
-      "signals": [
-        "close encounter"
-      ]
+      "signals": []
     },
     {
       "id": "bb7e6f5e5a7b",
