@@ -6,7 +6,7 @@ pubDate: 2026-08-06
 author: "UAP Times Desk"
 topic: "Analysis"
 tags: ["FAA", "radar", "Jason Judy", "Ryan Graves", "air traffic control", "AARO", "NORAD"]
-heroImage: "/images/placeholder-sky.svg"
+heroImage: "/images/faa-radar-uap-data-45-day-deletion-hero.png"
 heroCredit: "AI-generated illustration"
 heroImageRemote: "https://d8j0ntlcm91z4.cloudfront.net/user_3H0FDLhevoDIIm5NZhOBNfDEWRH/hf_20260806_072048_de324027-7f89-4415-bf44-e817961c4ca0.png"
 credibility: 2
