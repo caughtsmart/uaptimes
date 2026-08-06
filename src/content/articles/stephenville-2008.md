@@ -57,4 +57,4 @@ Our reading is that Stephenville is one of the better modern cases precisely bec
 
 ---
 
-*Further reading: for the gold standard of the sensor-backed case, see [The Tic Tac at 25](/articles/tic-tac-encounter-explained/). The Stephenville object was often described as a huge [triangle](/field-guide#type-triangle); it's on the [sightings map](/map#case-stephenville-2008).*
+*Further reading: for the gold standard of the sensor-backed case, see [The Tic Tac at 25](/articles/tic-tac-encounter-explained/). Stephenville only has a sensor record because investigators went after the FAA radar fast — [today that data is deleted after 45 days](/articles/faa-radar-uap-data-45-day-deletion/). The object was often described as a huge [triangle](/field-guide#type-triangle); it's on the [sightings map](/map#case-stephenville-2008).*

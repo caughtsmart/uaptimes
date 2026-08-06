@@ -97,3 +97,5 @@ Still — this is the first time in the modern era that an American intelligence
 Watch the last week of August. Either the designees are named and the guidance is posted, or this was a memo about writing memos.
 
 *Update, 4 August: the pipe has met its first named test. [Matthew Brown, who wrote the Immaculate Constellation report, is publicly telling other witnesses not to use it](/articles/uap-whistleblower-nda-waiver-warning/) — and part of his objection is procedurally correct.*
+
+*Update, 6 August: there is a matching gap on the evidence side. Testimony now has a reporting duty attached; [the civil radar that could corroborate it is deleted after 45 days](/articles/faa-radar-uap-data-45-day-deletion/).*
