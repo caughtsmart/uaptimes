@@ -32,6 +32,12 @@ const isAllowedHost = (u) => {
 const fileExists = (p) =>
   access(p, constants.F_OK).then(() => true).catch(() => false);
 
+// What encoding a destination path is promising to hold.
+const formatForExt = (dest) =>
+  ({ '.webp': 'webp', '.jpg': 'jpeg', '.jpeg': 'jpeg', '.png': 'png' })[
+    path.extname(dest).toLowerCase()
+  ] || null;
+
 // Write downloaded bytes to disk, optionally resizing/re-encoding first.
 //
 // Article heroes are written byte-for-byte, exactly as before — one hero per
@@ -47,10 +53,17 @@ async function writeAsset(dest, bytes, { maxWidth, maxHeight, format } = {}) {
     await writeFile(dest, bytes);
     return;
   }
-  // Reject a format we don't encode rather than falling through and writing
-  // the source encoding's bytes to, say, a .webp path.
-  if (format && format !== 'webp' && format !== 'jpeg') {
-    throw new Error(`unsupported format "${format}" (use "webp" or "jpeg")`);
+  // The encoding is whatever the destination extension says it is. Every
+  // remote here is a PNG, so a .webp or .jpg path that didn't re-encode would
+  // land PNG bytes under a lying extension — 2.5MB where 75KB was intended.
+  // Taking the extension as the source of truth makes that unrepresentable,
+  // and an explicit `format` that contradicts it is a mistake, not an override.
+  const wanted = formatForExt(dest);
+  if (!wanted) {
+    throw new Error(`can't optimise ${dest}: expected a .webp, .jpg or .png destination`);
+  }
+  if (format && format !== wanted) {
+    throw new Error(`format "${format}" contradicts the destination ${dest} (expected "${wanted}")`);
   }
   const { default: sharp } = await import('sharp');
   let img = sharp(bytes);
@@ -61,8 +74,9 @@ async function writeAsset(dest, bytes, { maxWidth, maxHeight, format } = {}) {
   } else if (maxWidth || maxHeight) {
     img = img.resize({ width: maxWidth, height: maxHeight, withoutEnlargement: true });
   }
-  if (format === 'webp') img = img.webp({ quality: 80 });
-  else if (format === 'jpeg') img = img.jpeg({ quality: 82, mozjpeg: true });
+  if (wanted === 'webp') img = img.webp({ quality: 80 });
+  else if (wanted === 'jpeg') img = img.jpeg({ quality: 82, mozjpeg: true });
+  else img = img.png();
   await writeFile(dest, await img.toBuffer());
 }
 
@@ -89,7 +103,12 @@ async function warnIfStale(dest, { maxWidth, maxHeight, format }) {
     const { default: sharp } = await import('sharp');
     const m = await sharp(dest).metadata();
     const wrong = [];
-    if (format && m.format !== format) wrong.push(`format ${m.format} != ${format}`);
+    // Compare against the extension, not the declared format — a file whose
+    // bytes disagree with its own name is exactly what we want to hear about.
+    const wantedFormat = format || formatForExt(dest);
+    if (wantedFormat && m.format !== wantedFormat) {
+      wrong.push(`format ${m.format} != ${wantedFormat}`);
+    }
     if (maxWidth && m.width > maxWidth) wrong.push(`width ${m.width} > ${maxWidth}`);
     if (maxWidth && maxHeight && (m.width !== maxWidth || m.height !== maxHeight)) {
       wrong.push(`size ${m.width}x${m.height} != ${maxWidth}x${maxHeight}`);

@@ -61,9 +61,13 @@ const socialAlt = imageAlt || fullTitle;
 const canonical = new URL(Astro.url.pathname, Astro.site);
 const socialImage = new URL(image, Astro.site);
 const logo = new URL('/images/logo.svg', Astro.site);
-// Social card type + dimensions. Every hero PNG the pipeline produces is
-// 1376x768, so that stays the default; anything else (a JPEG or WebP card)
-// has to declare its own size, and gets the right MIME type either way.
+// Social card type + dimensions. The MIME type comes from the extension.
+// Dimensions default to 1376x768 for PNGs, which is what most hero images
+// are — but not all of them (10 of 40 are 2752x1536 or 2048x1152, and those
+// pages currently advertise the wrong size to scrapers). Pass imageWidth /
+// imageHeight to state the real size; the default is a legacy guess, not a
+// guarantee. og:image dimensions are only a pre-fetch hint, so a wrong pair
+// costs layout jitter in a scraper's preview, not a broken card.
 const isImagePng = /\.png$/i.test(image);
 const socialType = isImagePng
   ? 'image/png'
