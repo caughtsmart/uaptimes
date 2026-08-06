@@ -5,6 +5,11 @@ import fs from 'node:fs';
 import path from 'node:path';
 
 import cloudflare from "@astrojs/cloudflare";
+import rehypeAffiliateLinks from './plugins/rehype-affiliate-links.mjs';
+
+// Amazon Associates tag. Every affiliate link on the site carries it; a link
+// without it earns nothing, so the build warns when one slips through.
+const AMAZON_TAG = 'caughtsmart-21';
 
 // Your live domain — used for the sitemap, RSS feed and social share cards.
 const SITE_URL = 'https://uaptimes.com';
@@ -51,6 +56,9 @@ export default defineConfig({
     shikiConfig: {
       theme: 'css-variables',
     },
+    // Markdown can't express rel, so affiliate links in articles get marked
+    // here rather than relying on every author remembering.
+    rehypePlugins: [[rehypeAffiliateLinks, { tag: AMAZON_TAG }]],
   },
 
   adapter: cloudflare()
