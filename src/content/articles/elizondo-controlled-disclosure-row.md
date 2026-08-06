@@ -23,7 +23,7 @@ The target is Luis Elizondo: former Pentagon counterintelligence official, the m
 
 The accusation is that he was never the leak. He was the plumbing.
 
-This piece is a longer look than we ran a week ago, because the row has now been going for five weeks and almost every account of it — including, in one respect, our own first one — has compressed it into a single week and a single accuser. It wasn't one week, and there are three people making three different claims. Sorting out which is which turns out to matter more than adjudicating any of them.
+This piece is a longer look than we ran a week ago, because the row has now been going for five weeks and almost every account of it — including, in one respect, our own first one — has compressed it into a single week and a single accuser. It wasn't one week, and there are three people saying three materially different things. Sorting out which is which turns out to matter more than adjudicating any of them.
 
 ##### The row is five weeks old, and started with a journalist, not a researcher
 
@@ -171,7 +171,7 @@ Elizondo's second book, *Reckoning: The Unspoken Truth about UFOs and the Urgenc
 
 That is a commercial promise made by a publisher, and it should be read with the scepticism any such promise earns. But it converts a vague argument into a checkable one, in two directions at once.
 
-If the book addresses his own past role — plainly, with dates, and an account of what he is and is not cleared to say — then the biography question is answered on the record and the loudest version of Gerb's allegation loses its footing. If it does not, and instead recycles the material of *Imminent* with a new cover, then the fair reading is that the most direct question about the movement's most prominent figure has now gone unanswered across two books, a Senate-adjacent decade and a five-week public row.
+If the book addresses his own past role — plainly, with dates, and an account of what he is and is not cleared to say — then the biography question is answered on the record and the loudest version of Gerb's allegation loses its footing. If it does not, and instead recycles the material of *Imminent* with a new cover, then the fair reading is that the most direct question about the movement's most prominent figure has now gone unanswered across two books, nine years in public life and a five-week row conducted largely about him.
 
 The cynical read is available too, and we should say it out loud: a bitter, high-profile authenticity fight three weeks before publication is not the worst thing that can happen to a book. That cuts at everybody here. Coulthart has a show to fill, Gerb has a channel that grows on exactly this material, and Elizondo has a launch. None of that makes any of them wrong. All of it is worth knowing while you watch.
 
