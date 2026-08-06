@@ -1,0 +1,271 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1120 1480" width="1120" height="1480" font-family="Georgia, 'Times New Roman', serif" role="img" aria-labelledby="ttl dsc">
+<title id="ttl">The controlled-disclosure row: five weeks of argument, and a claim built so it cannot lose</title>
+<desc id="dsc">A two-panel diagram. The upper panel is a chronology of the row between Luis Elizondo and the anonymous researcher UAP Gerb, running from 28 June 2026, when the journalist Ross Coulthart said on a NewsNation question-and-answer that Elizondo had held a counterintelligence role inside the legacy crash-retrieval programme, through Elizondo's denial the next day, Coulthart's early-July clarification that he had been misreported, the late-July Reality Check interview with UAP Gerb in which an appointment to the National Security Council was alleged, Elizondo's video reply of 29 July recorded at a highway rest stop, the position as it stands on 6 August, and the publication of Elizondo's book Reckoning on 27 August. Each entry is marked as either an unverified assertion, a matter of record, unresolved, or a test still to come. A running count below records six broadcasts, videos and replies, and no named sources, dated records or documents produced by either side. The lower panel shows five mutually exclusive things that could happen next — Elizondo denies the allegation, takes a White House job, takes no job, real disclosure follows, or no disclosure follows — with an arrow curving from every one of them into a single stamped verdict reading THEORY CONFIRMED, NO EXIT.</desc>
+<style>
+  /* One 30-second clock drives both panels, so the chronology playhead and the
+     branch that is lit can never drift out of step with each other. */
+  .anim { animation-duration: 30s; animation-timing-function: linear; animation-iteration-count: infinite; animation-fill-mode: both; }
+
+  .head  { animation-name: head; }
+  .ev    { animation-name: reveal; }
+  .cueA  { animation-name: cueA; }
+  .cueB  { animation-name: cueB; }
+  .br    { animation-name: branch; }
+  .dot   { animation-name: dotfade; }
+  .stamp { animation-name: stamp; transform-box: view-box; transform-origin: 858px 1090px; }
+  .zero  { animation-name: zero; }
+
+  @keyframes head {
+    0%       { transform: translateX(104px); }
+    46% { transform: translateX(1016px); }
+    100%     { transform: translateX(1016px); }
+  }
+  /* Entries light as the playhead reaches them and stay lit, so the panel
+     builds up rather than flickering past. */
+  @keyframes reveal {
+    0%             { opacity: .13; }
+    1.2%           { opacity: 1; }
+    46%, 100% { opacity: 1; }
+  }
+  @keyframes cueA { 0%, 46% { opacity: 1; } 50%, 100% { opacity: .3; } }
+  @keyframes cueB { 0%, 46% { opacity: .3; } 50%, 100% { opacity: 1; } }
+
+  /* Each branch holds its highlight once it has fired, so by the end of a cycle
+     all five are drawn into the same verdict at once. */
+  @keyframes branch {
+    0%                    { opacity: 0; }
+    4.8% { opacity: 1; }
+    100%                  { opacity: 1; }
+  }
+  @keyframes dotfade {
+    0%                     { opacity: 0; }
+    0.6%                   { opacity: 1; }
+    7.68%  { opacity: 1; }
+    9.12%, 100% { opacity: 0; }
+  }
+  @keyframes stamp {
+    0%, 50% { transform: scale(1); }
+    53.36% { transform: scale(1.05); }
+    56.91% { transform: scale(1); }
+    62.96% { transform: scale(1.05); }
+    66.51% { transform: scale(1); }
+    72.56% { transform: scale(1.05); }
+    76.11% { transform: scale(1); }
+    82.16% { transform: scale(1.05); }
+    85.71% { transform: scale(1); }
+    91.76% { transform: scale(1.05); }
+    95.31% { transform: scale(1); }
+    100% { transform: scale(1); }
+  }
+  @keyframes zero { 0%, 100% { opacity: 1; } 50% { opacity: .4; } }
+
+  /* Anyone who has asked their system for less motion gets the same diagram,
+     fully drawn and held still. */
+  @media (prefers-reduced-motion: reduce) {
+    .anim { animation: none !important; }
+    .ev, .br, .cueA, .cueB, .zero { opacity: 1; }
+    .dot  { opacity: 0; }
+    .head { transform: translateX(1016px); }
+  }
+</style>
+
+<rect width="1120" height="1480" fill="#f7f5ee"/>
+<rect x="6" y="6" width="1108" height="1468" fill="none" stroke="#b7ad96" stroke-width="1.5"/>
+<rect x="12" y="12" width="1096" height="1456" fill="none" stroke="#d8d2c2" stroke-width="1"/>
+
+<text x="48" y="58" font-family="'Courier New',Courier,monospace" font-size="17" letter-spacing="4" fill="#b12a1d" font-weight="bold">CASE FILE // THE CONTROLLED-DISCLOSURE ROW — SUMMER 2026</text>
+<text x="44" y="104" font-size="42" font-weight="bold" fill="#201e18">Five weeks, no documents</text>
+<text x="48" y="138" font-family="'Courier New',Courier,monospace" font-size="17" fill="#6a6250">Who said what, and when — and why none of it can currently be tested.</text>
+<line x1="44" y1="162" x2="1076" y2="162" stroke="#b7ad96" stroke-width="1.5"/>
+
+<!-- ============================ panel A: the chronology ============================ -->
+<g class="anim cueA">
+  <text x="48" y="196" font-family="'Courier New',Courier,monospace" font-size="16" letter-spacing="2.5" fill="#b12a1d" font-weight="bold">01 — THE ROW, IN ORDER</text>
+
+  <line x1="104" y1="252" x2="1016" y2="252" stroke="#b7ad96" stroke-width="1.5"/>
+  <line x1="104" y1="266" x2="104" y2="275" stroke="#b7ad96" stroke-width="1.4"/><text x="104" y="296" text-anchor="middle" font-family="'Courier New',Courier,monospace" font-size="15" fill="#6a6250">28 JUN</text><line x1="256" y1="266" x2="256" y2="275" stroke="#b7ad96" stroke-width="1.4"/><text x="256" y="296" text-anchor="middle" font-family="'Courier New',Courier,monospace" font-size="15" fill="#6a6250">8 JUL</text><line x1="408" y1="266" x2="408" y2="275" stroke="#b7ad96" stroke-width="1.4"/><text x="408" y="296" text-anchor="middle" font-family="'Courier New',Courier,monospace" font-size="15" fill="#6a6250">18 JUL</text><line x1="560" y1="266" x2="560" y2="275" stroke="#b7ad96" stroke-width="1.4"/><text x="560" y="296" text-anchor="middle" font-family="'Courier New',Courier,monospace" font-size="15" fill="#6a6250">28 JUL</text><line x1="712" y1="266" x2="712" y2="275" stroke="#b7ad96" stroke-width="1.4"/><text x="712" y="296" text-anchor="middle" font-family="'Courier New',Courier,monospace" font-size="15" fill="#6a6250">7 AUG</text><line x1="864" y1="266" x2="864" y2="275" stroke="#b7ad96" stroke-width="1.4"/><text x="864" y="296" text-anchor="middle" font-family="'Courier New',Courier,monospace" font-size="15" fill="#6a6250">17 AUG</text><line x1="1016" y1="266" x2="1016" y2="275" stroke="#b7ad96" stroke-width="1.4"/><text x="1016" y="296" text-anchor="middle" font-family="'Courier New',Courier,monospace" font-size="15" fill="#6a6250">27 AUG</text>
+  <g class="anim ev" style="animation-delay:0.6s">
+    <circle cx="104" cy="252" r="12" fill="none" stroke="#b12a1d" stroke-width="1.2" opacity=".4"/>
+    <circle cx="104" cy="252" r="6.5" fill="#b12a1d"/>
+  </g>
+  <g class="anim ev" style="animation-delay:2.49s">
+    <circle cx="119.2" cy="252" r="12" fill="none" stroke="#2e6cab" stroke-width="1.2" opacity=".4"/>
+    <circle cx="119.2" cy="252" r="6.5" fill="#2e6cab"/>
+  </g>
+  <g class="anim ev" style="animation-delay:4.37s">
+    <circle cx="210.4" cy="252" r="12" fill="none" stroke="#2e6cab" stroke-width="1.2" opacity=".4"/>
+    <circle cx="210.4" cy="252" r="6.5" fill="#2e6cab"/>
+  </g>
+  <g class="anim ev" style="animation-delay:6.26s">
+    <circle cx="499.2" cy="252" r="12" fill="none" stroke="#b12a1d" stroke-width="1.2" opacity=".4"/>
+    <circle cx="499.2" cy="252" r="6.5" fill="#b12a1d"/>
+  </g>
+  <g class="anim ev" style="animation-delay:8.14s">
+    <circle cx="575.2" cy="252" r="12" fill="none" stroke="#2e6cab" stroke-width="1.2" opacity=".4"/>
+    <circle cx="575.2" cy="252" r="6.5" fill="#2e6cab"/>
+  </g>
+  <g class="anim ev" style="animation-delay:10.03s">
+    <circle cx="696.8" cy="252" r="12" fill="none" stroke="#6a6250" stroke-width="1.2" opacity=".4"/>
+    <circle cx="696.8" cy="252" r="6.5" fill="#6a6250"/>
+  </g>
+  <g class="anim ev" style="animation-delay:11.91s">
+    <circle cx="1016" cy="252" r="12" fill="none" stroke="#b07d16" stroke-width="1.2" opacity=".4"/>
+    <circle cx="1016" cy="252" r="6.5" fill="#b07d16"/>
+  </g>
+  <g class="head anim">
+    <line x1="0" y1="226" x2="0" y2="264" stroke="#201e18" stroke-width="1.4" opacity=".6"/>
+    <polygon points="0,226 -6,216 6,216" fill="#201e18"/>
+  </g>
+
+  <g class="anim ev" style="animation-delay:0.6s">
+    <rect x="48" y="322" width="1024" height="46" fill="none"/>
+    <rect x="48" y="322" width="4" height="46" fill="#b12a1d"/>
+    <text x="66" y="343" font-family="'Courier New',Courier,monospace" font-size="15" letter-spacing="1.6" fill="#b12a1d" font-weight="bold">28 JUN</text>
+    <text x="66" y="362" font-family="'Courier New',Courier,monospace" font-size="12.5" letter-spacing="1.2" fill="#6a6250">ASSERTED · UNVERIFIED</text>
+    <text x="266" y="344" font-size="19.5" font-weight="bold" fill="#201e18">Coulthart, on a NewsNation Q&amp;A</text>
+    <text x="266" y="364" font-size="16.5" fill="#6a6250">Says Elizondo held a counterintelligence role inside the legacy retrieval effort.</text>
+  </g>
+  <g class="anim ev" style="animation-delay:2.49s">
+    <rect x="48" y="376" width="1024" height="46" fill="#f1eee4"/>
+    <rect x="48" y="376" width="4" height="46" fill="#2e6cab"/>
+    <text x="66" y="397" font-family="'Courier New',Courier,monospace" font-size="15" letter-spacing="1.6" fill="#2e6cab" font-weight="bold">29 JUN</text>
+    <text x="66" y="416" font-family="'Courier New',Courier,monospace" font-size="12.5" letter-spacing="1.2" fill="#6a6250">ON THE RECORD</text>
+    <text x="266" y="398" font-size="19.5" font-weight="bold" fill="#201e18">Elizondo answers, the next day</text>
+    <text x="266" y="418" font-size="16.5" fill="#6a6250">Denies being part of a legacy programme; says "neither confirm nor deny" is routine.</text>
+  </g>
+  <g class="anim ev" style="animation-delay:4.37s">
+    <rect x="48" y="430" width="1024" height="46" fill="none"/>
+    <rect x="48" y="430" width="4" height="46" fill="#2e6cab"/>
+    <text x="66" y="451" font-family="'Courier New',Courier,monospace" font-size="15" letter-spacing="1.6" fill="#2e6cab" font-weight="bold">EARLY JUL</text>
+    <text x="66" y="470" font-family="'Courier New',Courier,monospace" font-size="12.5" letter-spacing="1.2" fill="#6a6250">ON THE RECORD</text>
+    <text x="266" y="452" font-size="19.5" font-weight="bold" fill="#201e18">"I was surprised"</text>
+    <text x="266" y="472" font-size="16.5" fill="#6a6250">Coulthart says he was misreported — and that Elizondo never directly denied it.</text>
+  </g>
+  <g class="anim ev" style="animation-delay:6.26s">
+    <rect x="48" y="484" width="1024" height="46" fill="#f1eee4"/>
+    <rect x="48" y="484" width="4" height="46" fill="#b12a1d"/>
+    <text x="66" y="505" font-family="'Courier New',Courier,monospace" font-size="15" letter-spacing="1.6" fill="#b12a1d" font-weight="bold">LATE JUL</text>
+    <text x="66" y="524" font-family="'Courier New',Courier,monospace" font-size="12.5" letter-spacing="1.2" fill="#6a6250">ASSERTED · UNVERIFIED</text>
+    <text x="266" y="506" font-size="19.5" font-weight="bold" fill="#201e18">Reality Check, with UAP Gerb</text>
+    <text x="266" y="526" font-size="16.5" fill="#6a6250">AATIP recast as cover; an NSC role alleged. Roswell to the Podesta emails, no papers.</text>
+  </g>
+  <g class="anim ev" style="animation-delay:8.14s">
+    <rect x="48" y="538" width="1024" height="46" fill="none"/>
+    <rect x="48" y="538" width="4" height="46" fill="#2e6cab"/>
+    <text x="66" y="559" font-family="'Courier New',Courier,monospace" font-size="15" letter-spacing="1.6" fill="#2e6cab" font-weight="bold">29 JUL</text>
+    <text x="66" y="578" font-family="'Courier New',Courier,monospace" font-size="12.5" letter-spacing="1.2" fill="#6a6250">ON THE RECORD</text>
+    <text x="266" y="560" font-size="19.5" font-weight="bold" fill="#201e18">The rest-stop video</text>
+    <text x="266" y="580" font-size="16.5" fill="#6a6250">"1,000% not accurate." Confirms one fact: he is moving to Washington.</text>
+  </g>
+  <g class="anim ev" style="animation-delay:10.03s">
+    <rect x="48" y="592" width="1024" height="46" fill="#f1eee4"/>
+    <rect x="48" y="592" width="4" height="46" fill="#6a6250"/>
+    <text x="66" y="613" font-family="'Courier New',Courier,monospace" font-size="15" letter-spacing="1.6" fill="#6a6250" font-weight="bold">6 AUG</text>
+    <text x="66" y="632" font-family="'Courier New',Courier,monospace" font-size="12.5" letter-spacing="1.2" fill="#6a6250">UNRESOLVED</text>
+    <text x="266" y="614" font-size="19.5" font-weight="bold" fill="#201e18">Where it actually stands</text>
+    <text x="266" y="634" font-size="16.5" fill="#6a6250">No appointment announced, nothing produced. Five weeks of people answering each other.</text>
+  </g>
+  <g class="anim ev" style="animation-delay:11.91s">
+    <rect x="48" y="646" width="1024" height="46" fill="none"/>
+    <rect x="48" y="646" width="4" height="46" fill="#b07d16"/>
+    <text x="66" y="667" font-family="'Courier New',Courier,monospace" font-size="15" letter-spacing="1.6" fill="#b07d16" font-weight="bold">27 AUG</text>
+    <text x="66" y="686" font-family="'Courier New',Courier,monospace" font-size="12.5" letter-spacing="1.2" fill="#6a6250">TESTABLE, NOT YET DUE</text>
+    <text x="266" y="668" font-size="19.5" font-weight="bold" fill="#201e18">Reckoning is published</text>
+    <text x="266" y="688" font-size="16.5" fill="#6a6250">A fixed date — and the first thing here that can be checked rather than argued.</text>
+  </g>
+
+  <rect x="48" y="712" width="1024" height="72" fill="#f4e4e1" stroke="#b12a1d" stroke-width="1.4"/>
+  <text x="70" y="740" font-family="'Courier New',Courier,monospace" font-size="15.5" letter-spacing="2.5" fill="#b12a1d" font-weight="bold">RUNNING COUNT &#183; 28 JUN TO 6 AUG 2026</text>
+  <text x="70" y="767" font-size="19.5" fill="#201e18">Broadcasts, videos and replies: <tspan font-weight="bold">six</tspan>. Named sources, dated records or documents produced by either side: <tspan class="anim zero" font-weight="bold" fill="#b12a1d">none</tspan>.</text>
+</g>
+
+<!-- ============================ panel B: the tree ============================ -->
+<g class="anim cueB">
+  <text x="48" y="816" font-family="'Courier New',Courier,monospace" font-size="16" letter-spacing="2.5" fill="#b12a1d" font-weight="bold">02 — EVERY OUTCOME IS ALREADY ACCOUNTED FOR</text>
+  <text x="74" y="870" font-family="'Courier New',Courier,monospace" font-size="15" letter-spacing="2" fill="#6a6250">IF THIS HAPPENS NEXT&#8230;</text>
+  <text x="858" y="870" text-anchor="middle" font-family="'Courier New',Courier,monospace" font-size="15" letter-spacing="2" fill="#6a6250">&#8230;THE READING DOES NOT CHANGE</text>
+
+  <g class="anim br" style="animation-delay:15s">
+    <rect x="74" y="896" width="452" height="68" fill="#e6edf6"/>
+    <path d="M526 930 C610 930, 610 1090, 694 1090" fill="none" stroke="#b12a1d" stroke-width="2" opacity=".8"/>
+  </g>
+  <g>
+    <rect x="74" y="896" width="452" height="68" fill="none" stroke="#b7ad96" stroke-width="1.3"/>
+    <rect x="74" y="896" width="4" height="68" fill="#2e6cab"/>
+    <text x="94" y="925" font-size="20" font-weight="bold" fill="#201e18">He denies it, flatly, on camera</text>
+    <text x="94" y="948" font-size="16.5" fill="#6a6250">Which is exactly what a managed asset would do.</text>
+  </g>
+  <g class="anim br" style="animation-delay:17.88s">
+    <rect x="74" y="976" width="452" height="68" fill="#e6edf6"/>
+    <path d="M526 1010 C610 1010, 610 1090, 694 1090" fill="none" stroke="#b12a1d" stroke-width="2" opacity=".8"/>
+  </g>
+  <g>
+    <rect x="74" y="976" width="452" height="68" fill="none" stroke="#b7ad96" stroke-width="1.3"/>
+    <rect x="74" y="976" width="4" height="68" fill="#2e6cab"/>
+    <text x="94" y="1005" font-size="20" font-weight="bold" fill="#201e18">He takes the White House job</text>
+    <text x="94" y="1028" font-size="16.5" fill="#6a6250">The placement worked, precisely as described.</text>
+  </g>
+  <g class="anim br" style="animation-delay:20.76s">
+    <rect x="74" y="1056" width="452" height="68" fill="#e6edf6"/>
+    <path d="M526 1090 C610 1090, 610 1090, 694 1090" fill="none" stroke="#b12a1d" stroke-width="2" opacity=".8"/>
+  </g>
+  <g>
+    <rect x="74" y="1056" width="452" height="68" fill="none" stroke="#b7ad96" stroke-width="1.3"/>
+    <rect x="74" y="1056" width="4" height="68" fill="#2e6cab"/>
+    <text x="94" y="1085" font-size="20" font-weight="bold" fill="#201e18">He takes no job at all</text>
+    <text x="94" y="1108" font-size="16.5" fill="#6a6250">The plan was adjusted once it had been exposed.</text>
+  </g>
+  <g class="anim br" style="animation-delay:23.64s">
+    <rect x="74" y="1136" width="452" height="68" fill="#e6edf6"/>
+    <path d="M526 1170 C610 1170, 610 1090, 694 1090" fill="none" stroke="#b12a1d" stroke-width="2" opacity=".8"/>
+  </g>
+  <g>
+    <rect x="74" y="1136" width="452" height="68" fill="none" stroke="#b7ad96" stroke-width="1.3"/>
+    <rect x="74" y="1136" width="4" height="68" fill="#2e6cab"/>
+    <text x="94" y="1165" font-size="20" font-weight="bold" fill="#201e18">Real disclosure follows</text>
+    <text x="94" y="1188" font-size="16.5" fill="#6a6250">The minimum they were ever going to concede.</text>
+  </g>
+  <g class="anim br" style="animation-delay:26.52s">
+    <rect x="74" y="1216" width="452" height="68" fill="#e6edf6"/>
+    <path d="M526 1250 C610 1250, 610 1090, 694 1090" fill="none" stroke="#b12a1d" stroke-width="2" opacity=".8"/>
+  </g>
+  <g>
+    <rect x="74" y="1216" width="452" height="68" fill="none" stroke="#b7ad96" stroke-width="1.3"/>
+    <rect x="74" y="1216" width="4" height="68" fill="#2e6cab"/>
+    <text x="94" y="1245" font-size="20" font-weight="bold" fill="#201e18">No disclosure follows</text>
+    <text x="94" y="1268" font-size="16.5" fill="#6a6250">The containment held. It generally does.</text>
+  </g>
+  <polygon points="696,1090 682,1083 682,1097" fill="#b12a1d"/>
+  <circle class="anim dot" style="animation-delay:15s" r="5.5" fill="#b12a1d">
+    <animateMotion dur="30s" repeatCount="indefinite" calcMode="linear" keyPoints="0;0;1;1" keyTimes="0;0.5;0.5768;1" path="M526 930 C610 930, 610 1090, 694 1090"/>
+  </circle>
+  <circle class="anim dot" style="animation-delay:17.88s" r="5.5" fill="#b12a1d">
+    <animateMotion dur="30s" repeatCount="indefinite" calcMode="linear" keyPoints="0;0;1;1" keyTimes="0;0.596;0.6728;1" path="M526 1010 C610 1010, 610 1090, 694 1090"/>
+  </circle>
+  <circle class="anim dot" style="animation-delay:20.76s" r="5.5" fill="#b12a1d">
+    <animateMotion dur="30s" repeatCount="indefinite" calcMode="linear" keyPoints="0;0;1;1" keyTimes="0;0.692;0.7688;1" path="M526 1090 C610 1090, 610 1090, 694 1090"/>
+  </circle>
+  <circle class="anim dot" style="animation-delay:23.64s" r="5.5" fill="#b12a1d">
+    <animateMotion dur="30s" repeatCount="indefinite" calcMode="linear" keyPoints="0;0;1;1" keyTimes="0;0.788;0.8648;1" path="M526 1170 C610 1170, 610 1090, 694 1090"/>
+  </circle>
+  <circle class="anim dot" style="animation-delay:26.52s" r="5.5" fill="#b12a1d">
+    <animateMotion dur="30s" repeatCount="indefinite" calcMode="linear" keyPoints="0;0;1;1" keyTimes="0;0.884;0.9608;1" path="M526 1250 C610 1250, 610 1090, 694 1090"/>
+  </circle>
+
+  <g class="stamp anim">
+    <g transform="rotate(-4 858 1090)">
+      <rect x="708" y="1026" width="300" height="128" fill="none" stroke="#b12a1d" stroke-width="4" opacity=".9"/>
+      <rect x="717" y="1035" width="282" height="110" fill="none" stroke="#b12a1d" stroke-width="1.4" opacity=".55"/>
+      <text x="858" y="1076" text-anchor="middle" font-family="'Courier New',Courier,monospace" font-size="29" letter-spacing="3" font-weight="bold" fill="#b12a1d">THEORY</text>
+      <text x="858" y="1112" text-anchor="middle" font-family="'Courier New',Courier,monospace" font-size="29" letter-spacing="3" font-weight="bold" fill="#b12a1d">CONFIRMED</text>
+      <text x="858" y="1138" text-anchor="middle" font-family="'Courier New',Courier,monospace" font-size="14" letter-spacing="3" fill="#b12a1d" opacity=".7">NO EXIT</text>
+    </g>
+  </g>
+</g>
+
+<line x1="44" y1="1318" x2="1076" y2="1318" stroke="#b7ad96" stroke-width="1.5"/>
+<text x="48" y="1356" font-size="21" font-weight="bold" fill="#201e18">A claim that survives every possible observation isn&#8217;t strong. It is untestable.</text>
+<text x="48" y="1386" font-size="19.5" fill="#6a6250">That is a statement about how the argument has been built, not about whether the underlying story is true.</text>
+<text x="48" y="1412" font-size="19.5" fill="#6a6250">It may well be true. But it cannot currently be checked, and an argument that cannot be checked is not yet knowledge.</text>
+<text x="1072" y="1456" text-anchor="end" font-family="'Courier New',Courier,monospace" font-size="15" letter-spacing="2" fill="#b7ad96">UAP TIMES — DIAGRAM OF AN ARGUMENT, NOT OF AN EVENT</text>
+</svg>
