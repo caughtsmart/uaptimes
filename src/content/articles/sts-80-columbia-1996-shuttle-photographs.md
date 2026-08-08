@@ -94,4 +94,6 @@ Disclosure that hands you an image and keeps the metadata is not disclosure. It 
 
 ---
 
+*Update, 8 August: the pattern held. [The fifth PURSUE tranche published six videos of an unresolved gunship encounter](/articles/pentagon-ufo-files-fifth-release-gulf-of-oman/) — filmed off a monitor, with the telemetry left out.*
+
 *Further reading: for why a single-camera image can never establish what it shows, see [the Galileo Project's distance problem](/articles/galileo-project-triangulation-distance-problem/). For the strongest historical document in the same PURSUE tranche, [the 1949 Los Alamos transcript](/articles/green-fireballs-los-alamos-1949-declassified/); for the most operationally alarming, [the Pantex incursion file](/articles/pantex-2015-nuclear-plant-incursion/).*

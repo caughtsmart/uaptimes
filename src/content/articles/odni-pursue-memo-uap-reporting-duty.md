@@ -98,4 +98,6 @@ Watch the last week of August. Either the designees are named and the guidance i
 
 *Update, 4 August: the pipe has met its first named test. [Matthew Brown, who wrote the Immaculate Constellation report, is publicly telling other witnesses not to use it](/articles/uap-whistleblower-nda-waiver-warning/) — and part of his objection is procedurally correct.*
 
+*Update, 8 August: the publishing half of PURSUE, meanwhile, kept moving — [a fifth tranche of 41 files landed on 7 August](/articles/pentagon-ufo-files-fifth-release-gulf-of-oman/), led by an unresolved gunship encounter over the Gulf of Oman.*
+
 *Update, 6 August: there is a matching gap on the evidence side. Testimony now has a reporting duty attached; [the civil radar that could corroborate it is deleted after 45 days](/articles/faa-radar-uap-data-45-day-deletion/).*

@@ -202,4 +202,6 @@ We'd like a date. We'd like to know which sensors saw what. And we'd like to kno
 
 *Update: the government's [newly formed UAP Science Advisory Council](/articles/uap-science-advisory-council-loeb/) would be an obvious body to examine this case. On present arrangements it cannot see the underlying data either.*
 
+*Update, 8 August: for a maritime multi-object case that did get a file — a formal unresolved intelligence report, and video — see [the Gulf of Oman gunship encounter released in the fifth PURSUE tranche](/articles/pentagon-ufo-files-fifth-release-gulf-of-oman/).*
+
 *Further reading: [What the 2026 Pentagon UAP report actually found](/articles/pentagon-uap-report-2026/) and [the authority gap behind unattributed base incursions](/articles/uap-military-base-incursions-authority-gap/).*
