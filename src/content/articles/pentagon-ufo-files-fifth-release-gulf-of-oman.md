@@ -6,7 +6,7 @@ pubDate: 2026-08-08
 author: "UAP Times Desk"
 topic: "Government & Disclosure"
 tags: ["PURSUE", "AARO", "Gulf of Oman", "AC-130J", "Bagram", "Sean Parnell", "declassification"]
-heroImage: "/images/placeholder-sky.svg"
+heroImage: "/images/pentagon-ufo-files-fifth-release-gulf-of-oman-hero.png"
 heroCredit: "AI-generated illustration"
 heroImageRemote: "https://d8j0ntlcm91z4.cloudfront.net/user_3H0FDLhevoDIIm5NZhOBNfDEWRH/hf_20260808_123736_29a30f4f-5e6b-48a0-a1a2-12c7921deedd.png"
 credibility: 2
